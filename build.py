@@ -153,28 +153,23 @@ def fetch_fj_articles() -> dict:
 # ── Gemini summarisation ──────────────────────────────────────────
 SUMMARY_PROMPT = """Tu es l'assistant d'un trader NQ futures basé en Suisse francophone. Voici 3 articles de Financial Juice (rédigés en anglais). Tu produis :
 
-1. **big_news** : 3 puces qui synthétisent les nouvelles MAJEURES qui dominent l'actualité du jour, en croisant les 3 articles. Ce qui bouge vraiment les marchés ce matin.
-2. **summary** par article : 5-6 puces résumant l'article, chaque puce 15-25 mots
-3. **dockets** (Morning Juice uniquement) : events économiques listés dans la section "Docket"
+1. **summary** par article : un résumé en français préservant TOUT le niveau de détail de l'article original
+2. **dockets** (Morning Juice uniquement) : events économiques listés dans la section "Docket"
 
-RÈGLE ABSOLUE — LANGUE :
-TOUS les textes que tu produis (big_news, summary, dockets titles) doivent être EN FRANÇAIS. Les articles sont en anglais, tu les traduis. Garde les noms propres et acronymes (Trump, Fed, OPEC, Brent, S&P 500, NDX, DXY, IFO, UMich, etc.) tels quels mais le reste de la phrase est en français.
-
-RÈGLES POUR LES PUCES :
-- Chaque puce commence par "• " (point médiant + espace)
-- Garde tous les chiffres clés cités (niveaux indices, yields, prix matières, pourcentages)
-- Reste strictement factuel — n'invente AUCUN chiffre
+RÈGLES POUR LE SUMMARY :
+- Tu TRADUIS l'article en français — tu ne le résumes PAS ni ne le condenses
+- Couvre TOUS les sujets abordés dans l'article : ne supprime rien, ne synthétise rien
+- Si l'article a 8 paragraphes ou 10 thèmes, ton summary couvre les 8 paragraphes ou 10 thèmes
+- Format en puces : chaque puce commence par "• " (point médiant + espace), une puce par sujet/paragraphe
+- Garde TOUS les chiffres : niveaux d'indices, yields, prix matières, pourcentages, dates
+- Garde les noms propres et acronymes en VO : Trump, Fed, OPEC, Brent, WTI, S&P 500, NDX, DXY, IFO, UMich, BoE, BoJ, ECB, etc.
+- Reste strictement factuel — n'invente AUCUN chiffre, n'ajoute AUCUNE interprétation
 - Pas d'intro, pas de conclusion, directement les puces
-
-RÈGLES POUR LES BIG NEWS :
-- Croise les 3 articles, identifie les 3 thèmes qui dominent l'actualité (ex. décision Fed, conflit géopolitique, mouvement sectoriel majeur)
-- Format identique aux puces : "• " + 15-25 mots en français
-- Évite la redondance avec les summaries — les big_news sont la vue d'ensemble, les summaries sont les détails par source
 
 RÈGLES POUR LES DOCKETS :
 - "time_et" = heure ET d'origine au format "HH:MM" sur 5 caractères, je convertirai côté serveur
 - "cur" = code currency 3 lettres (GBP, EUR, USD, CAD, JPY, AUD, NZD, CHF...)
-- "title" = titre de l'event traduit en français
+- "title" = titre de l'event en ANGLAIS, EXACTEMENT tel qu'écrit dans l'article (ne traduis pas, ne reformule pas — copie le titre original mot pour mot pour permettre le dédoublonnage entre articles EU et US)
 - Si "forecast" ou "previous" sont vides, mets ""
 - Si un article est marqué "ARTICLE PAS ENCORE PUBLIÉ", mets une chaîne vide pour son summary et un tableau vide pour ses dockets
 """
@@ -228,12 +223,11 @@ def summarize_all(articles: dict) -> dict:
     response_schema = {
         "type": "object",
         "properties": {
-            "big_news": {"type": "string"},
-            "mj_eu":    article_schema,
-            "wrap":     article_schema,
-            "mj_us":    article_schema,
+            "mj_eu": article_schema,
+            "wrap":  article_schema,
+            "mj_us": article_schema,
         },
-        "required": ["big_news", "mj_eu", "wrap", "mj_us"],
+        "required": ["mj_eu", "wrap", "mj_us"],
     }
 
     config = types.GenerateContentConfig(
@@ -324,26 +318,31 @@ def enrich_dockets(dockets: list[dict], ref_date: str) -> list[dict]:
 
 
 # ── Persistence ───────────────────────────────────────────────────
+def _norm_title(t: str) -> str:
+    """Normalize titles for dedup: lowercase, collapse whitespace, strip punctuation noise."""
+    import unicodedata
+    t = unicodedata.normalize("NFKD", t)
+    t = "".join(c for c in t if not unicodedata.combining(c))
+    t = re.sub(r"[^\w\s]", " ", t.lower())
+    t = re.sub(r"\s+", " ", t).strip()
+    return t
+
+
 def merge_with_existing(today_iso: str, new_data: dict) -> dict:
     """Merge new data into existing archive file. New non-empty fields override."""
     target = ARCHIVE / f"{today_iso}.json"
     if target.exists():
         existing = json.loads(target.read_text(encoding="utf-8"))
-        # Compat anciens fichiers sans big_news
-        existing.setdefault("big_news", "")
     else:
         existing = {
             "date":    today_iso,
             "date_fr": "",
-            "big_news": "",
             "articles": {"mj_eu": None, "wrap": None, "mj_us": None},
             "dockets": [],
             "generated_at": "",
         }
-
-    # big_news : nouvelle valeur écrase si non-vide
-    if new_data.get("big_news"):
-        existing["big_news"] = new_data["big_news"]
+    # Nettoyage compat : retire big_news des vieux fichiers s'il existait
+    existing.pop("big_news", None)
 
     # Per-article merge: new wins if non-null
     for key in ("mj_eu", "wrap", "mj_us"):
@@ -351,10 +350,12 @@ def merge_with_existing(today_iso: str, new_data: dict) -> dict:
         if new_art and new_art.get("summary"):
             existing["articles"][key] = new_art
 
-    # Dockets : merge unique by (time_cet, title), prefer fresh ones
+    # Dockets : merge unique par (time_cet, normalized title), prefer fresh ones
     seen = {}
     for d in (new_data["dockets"] or []) + (existing["dockets"] or []):
-        seen[(d["time_cet"], d["title"])] = d
+        key = (d["time_cet"], _norm_title(d["title"]))
+        if key not in seen:
+            seen[key] = d
     existing["dockets"] = sorted(seen.values(), key=lambda x: x["time_cet"])
 
     existing["date"]    = today_iso
@@ -425,13 +426,14 @@ def main():
     # Dedupe across mj_eu/mj_us (some events may appear in both)
     seen = {}
     for d in raw_dockets:
-        seen[(d["time_cet"], d["title"])] = d
+        key = (d["time_cet"], _norm_title(d["title"]))
+        if key not in seen:
+            seen[key] = d
     final_dockets = sorted(seen.values(), key=lambda x: x["time_cet"])
 
     new_data = {
         "date":     today_iso,
         "date_fr":  date_fr(today),
-        "big_news": summaries.get("big_news", "") or "",
         "articles": out_articles,
         "dockets":  final_dockets,
     }

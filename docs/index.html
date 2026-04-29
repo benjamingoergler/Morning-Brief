@@ -87,15 +87,7 @@
     background: var(--highlight); color: var(--accent-neu); border: 1px solid var(--accent-neu);
     letter-spacing: 0.08em;
   }
-  .card-title .tag.tag-hot {
-    color: var(--accent-warn); border-color: var(--accent-warn);
-  }
   .card-meta { font-size: 0.62rem; color: var(--muted); flex-shrink: 0; white-space: nowrap; }
-
-  .card.big-news {
-    border-left: 3px solid var(--accent-warn);
-    background: linear-gradient(to right, rgba(255, 184, 77, 0.04), var(--surface) 30%);
-  }
 
   .summary { font-size: 0.82rem; line-height: 1.85; white-space: pre-wrap; color: var(--text); }
 
@@ -242,21 +234,6 @@ function renderBrief(data) {
   $('brief-date').textContent = data.date_fr || data.date;
   $('brief-meta').innerHTML = `Mis à jour : ${(data.generated_at || '').slice(11,16)}<br>Source : Financial Juice`;
 
-  // Big news card en tout premier — synthèse cross-article des thèmes du jour
-  const bigNews = data.big_news || '';
-  const bigNewsHtml = bigNews ? `
-    <div class="card big-news">
-      <div class="card-header">
-        <span class="card-title"><span class="tag tag-hot">★ Big News</span>Les thèmes qui dominent le jour</span>
-        <span class="card-meta">synthèse des 3 sources</span>
-      </div>
-      <div class="tts-bar">
-        <button class="tts-btn tts-play" data-target="sum-bignews">▶ Lecture</button>
-        <button class="tts-btn tts-stop">■ Stop</button>
-      </div>
-      <div class="summary" id="sum-bignews">${escapeHtml(bigNews)}</div>
-    </div>` : '';
-
   const cardsHtml = ORDER.map(key => {
     const a = data.articles[key];
     if (!a) {
@@ -281,7 +258,7 @@ function renderBrief(data) {
       <div class="summary" id="${sumId}">${escapeHtml(a.summary)}</div>
     </div>`;
   }).join('');
-  $('brief-cards').innerHTML = bigNewsHtml + cardsHtml;
+  $('brief-cards').innerHTML = cardsHtml;
 
   // Dockets table
   const dk = data.dockets || [];
