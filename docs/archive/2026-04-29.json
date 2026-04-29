@@ -6,22 +6,30 @@
       "url": "https://features.financialjuice.com/2026/04/29/morning-juice-europe-session-prep-547/",
       "date": "2026-04-29",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le président Donald Trump a ordonné la préparation d'un blocus naval prolongé du détroit d'Ormuz pour intensifier la pression économique sur l'Iran."
+      "summary": "• Le Président Donald Trump a demandé à ses collaborateurs de se préparer à un blocus naval américain prolongé du détroit d'Ormuz, a rapporté le Wall Street Journal, alors que les États-Unis cherchent à intensifier la pression économique sur l'Iran à l'entrée du troisième mois de la guerre. • L'inflation en Australie est restée au-dessus de la fourchette cible de 2-3% de la Reserve Bank, les coûts de carburant plus élevés dus aux perturbations de l'approvisionnement au Moyen-Orient ayant aggravé les pressions sur les prix déjà élevées, maintenant les décideurs politiques sur une voie de resserrement. • La décision choc des Émirats arabes unis de quitter l'OPEP a pris par surprise ses partenaires de six décennies. Le cartel devra désormais lutter pour rester pertinent sur un marché pétrolier mondial en rapide évolution. • Keir Starmer a terminé une journée d'examen parlementaire de l'affaire Peter Mandelson en meilleure position qu'il ne l'avait commencée, bien que le poste de Premier ministre ne soit peut-être en sécurité que jusqu'à une série d'élections locales à enjeux élevés la semaine prochaine. • Le Royaume-Uni pourrait glisser dans la récession plus tard cette année et être contraint d'augmenter agressivement les taux d'intérêt pour contenir l'inflation si la crise au Moyen-Orient s'aggrave, a averti le National Institute of Economic and Social Research."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/04/28/tech-selloff-hits-stocks-as-ai-doubts-resurface-us-market-wrap/",
       "date": "2026-04-28",
       "title": "Tech Selloff Hits Stocks as AI Doubts Resurface – US Market Wrap",
-      "summary": "• Les actions ont chuté, les rendements ont augmenté, le pétrole a grimpé au-dessus de 111 $ et le dollar est resté stable, la pression sur la technologie pesant sur le sentiment."
+      "summary": "• Les actions ont chuté, les rendements ont augmenté, le pétrole a grimpé au-dessus de 111 $, et le dollar est resté stable alors que la pression sur la technologie pesait sur le sentiment. • Une liquidation des géants de la technologie a entraîné les actions à la baisse, alors que les inquiétudes grandissaient quant à savoir si les investissements massifs dans l'IA généreraient des rendements, suite à des rapports selon lesquels OpenAI aurait manqué ses objectifs d'utilisateurs et de ventes, soulevant des doutes sur sa capacité à soutenir les dépenses d'infrastructure. Des partenaires, y compris Oracle et CoreWeave, ont chuté, le S&P 500 se retirant d'un record et le Nasdaq 100 baissant de 1%. • Cette faiblesse est survenue avant les résultats clés de grandes capitalisations telles qu'Alphabet, Microsoft, Amazon, Meta et Apple. OpenAI a réfuté ces préoccupations, affirmant que son activité restait solide malgré la concurrence croissante d'Anthropic. • Le Brent a dépassé 111 $ en raison des craintes qu'un processus de paix prolongé ne maintienne le détroit d'Ormuz fermé. Trump a déclaré que l'Iran avait demandé aux États-Unis de lever le blocus naval pendant les négociations, et des rapports indiquent que Téhéran pourrait soumettre une proposition révisée prochainement. • Les inquiétudes concernant l'inflation, associées à un marché du travail résilient, devraient maintenir la Fed en suspens pour une troisième réunion consécutive, les bons du Trésor à court terme ayant chuté. Séparément, le PDG de JPMorgan, Dimon, a averti qu'un ralentissement potentiel du crédit pourrait être pire que prévu malgré de solides bénéfices bancaires."
     },
     "mj_us": {
       "url": "https://features.financialjuice.com/2026/04/29/morning-juice-us-session-prep-29th-april-2/",
       "date": "2026-04-29",
       "title": "Morning Juice – US Session Prep (29th April)",
-      "summary": "• Les Treasuries ont fluctué, les prix du pétrole ont augmenté et le dollar s'est raffermi avant la décision de taux de la Fed."
+      "summary": "• Les bons du Trésor ont fluctué parallèlement aux prix du pétrole et le dollar a légèrement progressé en début de séance avant la décision sur les taux de la Fed en avril, le Brent grimpant au-dessus de 115 $ le baril, un plus haut de quatre semaines."
     }
   },
   "dockets": [
+    {
+      "time_et": "08:30",
+      "time_cet": "14:30",
+      "cur": "USD",
+      "title": "US Durable Goods for March Prelim",
+      "forecast": "0.5%",
+      "previous": "-1.3%"
+    },
     {
       "time_et": "08:30",
       "time_cet": "14:30",
@@ -31,12 +39,20 @@
       "previous": "-1.3%"
     },
     {
-      "time_et": "08:30",
-      "time_cet": "14:30",
-      "cur": "USD",
-      "title": "US Durable Goods for March Prelim",
-      "forecast": "0.5%",
-      "previous": "-1.3%"
+      "time_et": "09:45",
+      "time_cet": "15:45",
+      "cur": "CAD",
+      "title": "BoC Rate Decision and Statement",
+      "forecast": "2.25%",
+      "previous": "2.25%"
+    },
+    {
+      "time_et": "09:45",
+      "time_cet": "15:45",
+      "cur": "CAD",
+      "title": "BoC’s Press Conference with Governor Macklem",
+      "forecast": "",
+      "previous": ""
     },
     {
       "time_et": "09:45",
@@ -47,12 +63,20 @@
       "previous": "2.25%"
     },
     {
-      "time_et": "09:45",
-      "time_cet": "15:45",
-      "cur": "CAD",
-      "title": "BoC Rate Decision and Statement",
-      "forecast": "2.25%",
-      "previous": "2.25%"
+      "time_et": "10:30",
+      "time_cet": "16:30",
+      "cur": "USD",
+      "title": "Weekly EIA Crude Oil Inventories",
+      "forecast": "-0.190M",
+      "previous": "1.925M"
+    },
+    {
+      "time_et": "10:30",
+      "time_cet": "16:30",
+      "cur": "EUR",
+      "title": "ECB’s Buch Speaks",
+      "forecast": "",
+      "previous": ""
     },
     {
       "time_et": "10:30",
@@ -71,12 +95,20 @@
       "previous": ""
     },
     {
-      "time_et": "10:30",
-      "time_cet": "16:30",
+      "time_et": "14:00",
+      "time_cet": "20:00",
       "cur": "USD",
-      "title": "Weekly EIA Crude Oil Inventories",
-      "forecast": "-0.190M",
-      "previous": "1.925M"
+      "title": "FOMC Rate Decision and Statement",
+      "forecast": "3.75%",
+      "previous": "3.75%"
+    },
+    {
+      "time_et": "14:00",
+      "time_cet": "20:00",
+      "cur": "USD",
+      "title": "Trump Greets Astronauts",
+      "forecast": "",
+      "previous": ""
     },
     {
       "time_et": "14:00",
@@ -87,12 +119,12 @@
       "previous": "3.75%"
     },
     {
-      "time_et": "14:00",
-      "time_cet": "20:00",
+      "time_et": "14:30",
+      "time_cet": "20:30",
       "cur": "USD",
-      "title": "FOMC Rate Decision and Statement",
-      "forecast": "3.75%",
-      "previous": "3.75%"
+      "title": "FOMC Press Conference with Fed Chair Powell",
+      "forecast": "",
+      "previous": ""
     },
     {
       "time_et": "14:30",
@@ -101,8 +133,71 @@
       "title": "Conférence de presse du FOMC avec le président de la Fed, Powell",
       "forecast": "",
       "previous": ""
+    },
+    {
+      "time_et": "16:00",
+      "time_cet": "22:00",
+      "cur": "USD",
+      "title": "Amazon Q1 2026 Earnings $AMZN",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "16:00",
+      "time_cet": "22:00",
+      "cur": "USD",
+      "title": "Google Q1 2026 Earnings $GOOGL",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "16:00",
+      "time_cet": "22:00",
+      "cur": "USD",
+      "title": "META Q1 2026 Earnings $META",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "16:00",
+      "time_cet": "22:00",
+      "cur": "USD",
+      "title": "Qualcomm Q2 2026 Earnings $QCOM",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "16:05",
+      "time_cet": "22:05",
+      "cur": "USD",
+      "title": "Microsoft Q3 2026 Earnings $MSFT",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "16:05",
+      "time_cet": "22:05",
+      "cur": "USD",
+      "title": "Ebay Q1 2026 Earnings $EBAY",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "16:05",
+      "time_cet": "22:05",
+      "cur": "USD",
+      "title": "Ford Q1 2026 Earnings $F",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "16:30",
+      "time_cet": "22:30",
+      "cur": "USD",
+      "title": "Google Earnings Call $GOOGL",
+      "forecast": "",
+      "previous": ""
     }
   ],
-  "generated_at": "2026-04-29T15:18:59+02:00",
-  "big_news": "• Les tensions au Moyen-Orient s'intensifient avec la menace d'un blocus naval américain du détroit d'Ormuz, poussant le Brent au-dessus de 111 $ et faisant craindre une récession au Royaume-Uni."
+  "generated_at": "2026-04-29T15:33:03+02:00"
 }
