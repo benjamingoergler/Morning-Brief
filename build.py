@@ -151,37 +151,32 @@ def fetch_fj_articles() -> dict:
 
 
 # ── Gemini summarisation ──────────────────────────────────────────
-SUMMARY_PROMPT = """Tu es l'assistant d'un trader NQ futures basé en Suisse. Voici 3 articles de Financial Juice. Pour chacun :
+SUMMARY_PROMPT = """Tu es l'assistant d'un trader NQ futures basé en Suisse francophone. Voici 3 articles de Financial Juice (rédigés en anglais). Tu produis :
 
-1. Génère un résumé en 5-6 puces, chacune commençant par "• " et faisant 15-25 mots
-2. Pour les Morning Juice uniquement, extrais aussi les dockets (events économiques listés dans la section "Docket")
+1. **big_news** : 3 puces qui synthétisent les nouvelles MAJEURES qui dominent l'actualité du jour, en croisant les 3 articles. Ce qui bouge vraiment les marchés ce matin.
+2. **summary** par article : 5-6 puces résumant l'article, chaque puce 15-25 mots
+3. **dockets** (Morning Juice uniquement) : events économiques listés dans la section "Docket"
 
-Format de sortie : JSON pur, AUCUN texte autour, AUCUN backtick, AUCUN markdown.
+RÈGLE ABSOLUE — LANGUE :
+TOUS les textes que tu produis (big_news, summary, dockets titles) doivent être EN FRANÇAIS. Les articles sont en anglais, tu les traduis. Garde les noms propres et acronymes (Trump, Fed, OPEC, Brent, S&P 500, NDX, DXY, IFO, UMich, etc.) tels quels mais le reste de la phrase est en français.
 
-Schéma exact :
-{
-  "mj_eu": {
-    "summary": "• ligne1\\n• ligne2\\n...",
-    "dockets": [
-      {"time_et": "02:00", "cur": "GBP", "title": "UK Retail Sales (YoY)", "forecast": "1.1%", "previous": "2.5%"}
-    ]
-  },
-  "wrap":  { "summary": "• ...\\n..." },
-  "mj_us": { "summary": "...", "dockets": [...] }
-}
-
-Règles strictes pour les puces :
-- Garde tous les chiffres clés cités (niveaux indices, yields, prix matières, %)
+RÈGLES POUR LES PUCES :
+- Chaque puce commence par "• " (point médiant + espace)
+- Garde tous les chiffres clés cités (niveaux indices, yields, prix matières, pourcentages)
 - Reste strictement factuel — n'invente AUCUN chiffre
-- Pas d'intro, pas de conclusion
+- Pas d'intro, pas de conclusion, directement les puces
 
-Règles pour les dockets :
-- Garde l'heure ET d'origine (format "HH:MM" sur 5 chars), je convertirai en CEST côté serveur
+RÈGLES POUR LES BIG NEWS :
+- Croise les 3 articles, identifie les 3 thèmes qui dominent l'actualité (ex. décision Fed, conflit géopolitique, mouvement sectoriel majeur)
+- Format identique aux puces : "• " + 15-25 mots en français
+- Évite la redondance avec les summaries — les big_news sont la vue d'ensemble, les summaries sont les détails par source
+
+RÈGLES POUR LES DOCKETS :
+- "time_et" = heure ET d'origine au format "HH:MM" sur 5 caractères, je convertirai côté serveur
 - "cur" = code currency 3 lettres (GBP, EUR, USD, CAD, JPY, AUD, NZD, CHF...)
-- Si forecast ou previous vide, mets ""
-- Si un article est marqué "ARTICLE PAS ENCORE PUBLIÉ", mets {"summary": "", "dockets": []} pour cette clé
-- Réutilise le titre exact de l'event tel qu'écrit dans l'article
-
+- "title" = titre de l'event traduit en français
+- Si "forecast" ou "previous" sont vides, mets ""
+- Si un article est marqué "ARTICLE PAS ENCORE PUBLIÉ", mets une chaîne vide pour son summary et un tableau vide pour ses dockets
 """
 
 # Note : le texte des articles est concaténé après coup pour éviter
@@ -233,11 +228,12 @@ def summarize_all(articles: dict) -> dict:
     response_schema = {
         "type": "object",
         "properties": {
-            "mj_eu": article_schema,
-            "wrap":  article_schema,
-            "mj_us": article_schema,
+            "big_news": {"type": "string"},
+            "mj_eu":    article_schema,
+            "wrap":     article_schema,
+            "mj_us":    article_schema,
         },
-        "required": ["mj_eu", "wrap", "mj_us"],
+        "required": ["big_news", "mj_eu", "wrap", "mj_us"],
     }
 
     resp = client.models.generate_content(
@@ -297,14 +293,21 @@ def merge_with_existing(today_iso: str, new_data: dict) -> dict:
     target = ARCHIVE / f"{today_iso}.json"
     if target.exists():
         existing = json.loads(target.read_text(encoding="utf-8"))
+        # Compat anciens fichiers sans big_news
+        existing.setdefault("big_news", "")
     else:
         existing = {
             "date":    today_iso,
             "date_fr": "",
+            "big_news": "",
             "articles": {"mj_eu": None, "wrap": None, "mj_us": None},
             "dockets": [],
             "generated_at": "",
         }
+
+    # big_news : nouvelle valeur écrase si non-vide
+    if new_data.get("big_news"):
+        existing["big_news"] = new_data["big_news"]
 
     # Per-article merge: new wins if non-null
     for key in ("mj_eu", "wrap", "mj_us"):
@@ -392,6 +395,7 @@ def main():
     new_data = {
         "date":     today_iso,
         "date_fr":  date_fr(today),
+        "big_news": summaries.get("big_news", "") or "",
         "articles": out_articles,
         "dockets":  final_dockets,
     }
