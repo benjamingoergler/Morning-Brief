@@ -1,0 +1,939 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Volume Value Area — Statistiques</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500;600&family=IBM+Plex+Sans:wght@300;400;500&display=swap');
+
+  :root {
+    --bg: #0a0a0f;
+    --surface: #111118;
+    --border: #1e1e2a;
+    --accent-up: #00e5a0;
+    --accent-dn: #ff4d6a;
+    --accent-neu: #5b8cff;
+    --text: #e8e8f0;
+    --muted: #6b6b88;
+    --highlight: #1a1a28;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Mono', monospace;
+    min-height: 100vh;
+    padding: 2rem;
+  }
+
+  header {
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  header h1 {
+    font-size: 1.1rem;
+    font-weight: 500;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--text);
+  }
+
+  header p {
+    font-size: 0.7rem;
+    color: var(--muted);
+    margin-top: 0.4rem;
+    letter-spacing: 0.05em;
+  }
+
+  .controls {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+    align-items: center;
+  }
+
+  .control-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+
+  .control-group label {
+    font-size: 0.6rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  .btn-group {
+    display: flex;
+    gap: 0.25rem;
+  }
+
+  button {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--muted);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    padding: 0.45rem 0.8rem;
+    cursor: pointer;
+    letter-spacing: 0.05em;
+    transition: all 0.15s;
+  }
+
+  button:hover { border-color: var(--muted); color: var(--text); }
+  button.active { background: var(--highlight); border-color: var(--accent-neu); color: var(--accent-neu); }
+
+  .zone-btn.z3p.active  { border-color: var(--accent-up); color: var(--accent-up); }
+  .zone-btn.z2p.active  { border-color: #66ffcc; color: #66ffcc; }
+  .zone-btn.z1p.active  { border-color: #99ffdd; color: #99ffdd; }
+  .zone-btn.z1m.active  { border-color: #ff9eac; color: #ff9eac; }
+  .zone-btn.z2m.active  { border-color: #ff7088; color: #ff7088; }
+  .zone-btn.z3m.active  { border-color: var(--accent-dn); color: var(--accent-dn); }
+
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    padding: 1.5rem;
+  }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 1.2rem;
+    padding-bottom: 0.8rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .card-title {
+    font-size: 0.75rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .card-meta {
+    font-size: 0.65rem;
+    color: var(--muted);
+  }
+
+  .time-row {
+    display: grid;
+    grid-template-columns: 80px repeat(4, 1fr);
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .time-label {
+    font-size: 0.65rem;
+    color: var(--muted);
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 0.5rem;
+  }
+
+  .time-header {
+    font-size: 0.65rem;
+    color: var(--muted);
+    text-align: center;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .zone-cell {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    min-height: 80px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .zone-bar-wrap {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    width: 100%;
+    padding: 0 0.3rem;
+  }
+
+  .zone-label-sm {
+    font-size: 0.58rem;
+    color: var(--muted);
+    min-width: 22px;
+    text-align: right;
+    flex-shrink: 0;
+  }
+
+  .bar-track {
+    flex: 1;
+    height: 4px;
+    background: var(--border);
+    position: relative;
+  }
+
+  .bar-fill {
+    height: 100%;
+    transition: width 0.4s ease;
+  }
+
+  .bar-pct {
+    font-size: 0.62rem;
+    font-weight: 500;
+    min-width: 30px;
+    text-align: left;
+    flex-shrink: 0;
+  }
+
+  .retention-badge {
+    font-size: 0.58rem;
+    color: var(--muted);
+    text-align: center;
+    margin-bottom: 0.3rem;
+  }
+
+  .no-data {
+    font-size: 0.6rem;
+    color: var(--border);
+    text-align: center;
+  }
+
+  .open-info {
+    font-size: 0.68rem;
+    color: var(--muted);
+    margin-bottom: 1rem;
+  }
+
+  .open-info span {
+    color: var(--text);
+    font-weight: 500;
+  }
+
+  .summary-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .stat-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .stat-label { font-size: 0.6rem; color: var(--muted); letter-spacing: 0.1em; text-transform: uppercase; }
+  .stat-value { font-size: 1.4rem; font-weight: 600; }
+
+  .tag {
+    display: inline-block;
+    font-size: 0.58rem;
+    padding: 0.15rem 0.4rem;
+    border: 1px solid;
+    letter-spacing: 0.05em;
+  }
+
+  .divider {
+    height: 1px;
+    background: var(--border);
+    margin: 1.5rem 0;
+  }
+
+  .legend {
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.62rem;
+    color: var(--muted);
+  }
+
+  .legend-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+  }
+
+  .insights-block {
+    background: #0d0d14;
+    border: 1px solid #252535;
+    border-left: 2px solid var(--accent-neu);
+    padding: 1rem 1.2rem;
+    margin-bottom: 1.4rem;
+  }
+
+  .insights-label {
+    font-size: 0.6rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent-neu);
+    margin-bottom: 0.85rem;
+  }
+
+  .ins-row {
+    display: grid;
+    gap: 0.4rem;
+    margin-bottom: 0.35rem;
+    align-items: center;
+  }
+
+  .ins-row:last-child { margin-bottom: 0; }
+
+  .ins-level {
+    font-size: 0.65rem;
+    color: var(--muted);
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .ins-dir {
+    font-size: 0.6rem;
+    flex-shrink: 0;
+  }
+
+  .ins-pct {
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-align: center;
+  }
+
+  .ins-pct.dim {
+    font-size: 0.62rem;
+    font-weight: 400;
+    color: #3a3a55;
+  }
+
+  .ins-sep {
+    height: 1px;
+    background: #1a1a28;
+    margin: 0.5rem 0;
+  }
+
+  .ins-header {
+    font-size: 0.6rem;
+    color: #3a3a55;
+    text-align: center;
+  }
+
+  @media (max-width: 600px) {
+    body { padding: 1rem; }
+    .time-row { grid-template-columns: 60px repeat(2, 1fr); }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Volume Value Area — Statistiques</h1>
+  <p>Période 01/01/2021 → 31/12/2024 · Distribution du prix selon zone d'ouverture</p>
+</header>
+
+<div class="controls">
+  <div class="control-group">
+    <label>Session Open</label>
+    <div class="btn-group" id="sessionBtns">
+      <button class="active" data-session="08h00">08h00</button>
+      <button data-session="15h30">15h30</button>
+      <button data-session="16h30">16h30</button>
+      <button data-session="19h30">19h30</button>
+    </div>
+  </div>
+  <div class="control-group">
+    <label>Zone d'ouverture</label>
+    <div class="btn-group" id="zoneBtns">
+      <button class="zone-btn z3p" data-zone="3+">3+</button>
+      <button class="zone-btn z2p" data-zone="2+">2+</button>
+      <button class="zone-btn z1p" data-zone="1+">1+</button>
+      <button class="zone-btn z1m" data-zone="1-">1-</button>
+      <button class="zone-btn z2m" data-zone="2-">2-</button>
+      <button class="zone-btn z3m" data-zone="3-">3-</button>
+    </div>
+  </div>
+</div>
+
+<div class="legend">
+  <div class="legend-item"><div class="legend-dot" style="background:#00e5a0"></div>3+</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#66ffcc"></div>2+</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#99ffdd"></div>1+</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#ff9eac"></div>1-</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#ff7088"></div>2-</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#ff4d6a"></div>3-</div>
+</div>
+
+<div id="mainView"></div>
+
+<script>
+const ZONE_COLORS = {
+  '3+': '#00e5a0', '2+': '#66ffcc', '1+': '#99ffdd',
+  '1-': '#ff9eac', '2-': '#ff7088', '3-': '#ff4d6a'
+};
+
+const ZONE_ORDER = ['3+','2+','1+','1-','2-','3-'];
+
+const RAW = `session_open,open_zone,open_zone_pct,target_time,retention_pct,target_zone,probability_pct
+08h00,1+,24,9h,95,2+,8
+08h00,1+,24,9h,95,1+,71
+08h00,1+,24,9h,95,1-,16
+08h00,1+,24,10h,90,2+,18
+08h00,1+,24,10h,90,1+,55
+08h00,1+,24,10h,90,1-,17
+08h00,1+,24,11h,87,2+,19
+08h00,1+,24,11h,87,1+,49
+08h00,1+,24,11h,87,1-,19
+08h00,1+,24,12h,84,2+,20
+08h00,1+,24,12h,84,1+,45
+08h00,1+,24,12h,84,1-,19
+08h00,1-,23,9h,97,1+,11
+08h00,1-,23,9h,97,1-,76
+08h00,1-,23,9h,97,2-,10
+08h00,1-,23,10h,89,1+,19
+08h00,1-,23,10h,89,1-,59
+08h00,1-,23,10h,89,2-,11
+08h00,1-,23,11h,84,1+,19
+08h00,1-,23,11h,84,1-,55
+08h00,1-,23,11h,84,3-,10
+08h00,1-,23,12h,81,1+,18
+08h00,1-,23,12h,81,1-,53
+08h00,1-,23,12h,81,3-,10
+08h00,2+,16,9h,99,3+,8
+08h00,2+,16,9h,99,2+,75
+08h00,2+,16,9h,99,1+,16
+08h00,2+,16,10h,98,3+,16
+08h00,2+,16,10h,98,2+,64
+08h00,2+,16,10h,98,1+,18
+08h00,2+,16,11h,96,3+,20
+08h00,2+,16,11h,96,2+,54
+08h00,2+,16,11h,96,1+,22
+08h00,2+,16,12h,94,3+,22
+08h00,2+,16,12h,94,2+,51
+08h00,2+,16,12h,94,1+,21
+08h00,2-,12,9h,98,1-,14
+08h00,2-,12,9h,98,2-,74
+08h00,2-,12,9h,98,3-,10
+08h00,2-,12,10h,99,1-,25
+08h00,2-,12,10h,99,2-,59
+08h00,2-,12,10h,99,3-,15
+08h00,2-,12,11h,92,1-,23
+08h00,2-,12,11h,92,2-,52
+08h00,2-,12,11h,92,3-,17
+08h00,2-,12,12h,92,1-,25
+08h00,2-,12,12h,92,2-,47
+08h00,2-,12,12h,92,3-,20
+08h00,3+,16,9h,100,3+,85
+08h00,3+,16,9h,100,2+,11
+08h00,3+,16,9h,100,1+,4
+08h00,3+,16,10h,96,3+,76
+08h00,3+,16,10h,96,2+,14
+08h00,3+,16,10h,96,1+,6
+08h00,3+,16,11h,96,3+,76
+08h00,3+,16,11h,96,2+,14
+08h00,3+,16,11h,96,1+,6
+08h00,3+,16,12h,97,3+,76
+08h00,3+,16,12h,97,2+,13
+08h00,3+,16,12h,97,1+,8
+08h00,3-,10,9h,100,3-,100
+08h00,3-,10,10h,98,1-,3
+08h00,3-,10,10h,98,2-,13
+08h00,3-,10,10h,98,3-,84
+08h00,3-,10,11h,97,1-,6
+08h00,3-,10,11h,97,2-,11
+08h00,3-,10,11h,97,3-,81
+08h00,3-,10,12h,95,1-,7
+08h00,3-,10,12h,95,2-,12
+08h00,3-,10,12h,95,3-,76
+15h30,1+,18,16h30,72,3+,17
+15h30,1+,18,16h30,72,2+,17
+15h30,1+,18,16h30,72,1+,38
+15h30,1+,18,17h30,72,3+,18
+15h30,1+,18,17h30,72,2+,20
+15h30,1+,18,17h30,72,1+,34
+15h30,1+,18,18h30,69,3+,22
+15h30,1+,18,18h30,69,2+,15
+15h30,1+,18,18h30,69,1+,32
+15h30,1+,18,19h30,67,3+,24
+15h30,1+,18,19h30,67,2+,21
+15h30,1+,18,19h30,67,1+,22
+15h30,1-,20,16h30,91,1+,18
+15h30,1-,20,16h30,91,1-,40
+15h30,1-,20,16h30,91,2-,14
+15h30,1-,20,17h30,69,1+,19
+15h30,1-,20,17h30,69,1-,30
+15h30,1-,20,17h30,69,3-,17
+15h30,1-,20,18h30,66,1+,19
+15h30,1-,20,18h30,66,1-,28
+15h30,1-,20,18h30,66,3-,17
+15h30,1-,20,19h30,65,1+,18
+15h30,1-,20,19h30,65,1-,28
+15h30,1-,20,19h30,65,3-,16
+15h30,2+,14,16h30,84,3+,25
+15h30,2+,14,16h30,84,2+,36
+15h30,2+,14,16h30,84,1+,23
+15h30,2+,14,17h30,80,3+,29
+15h30,2+,14,17h30,80,2+,35
+15h30,2+,14,17h30,80,1+,16
+15h30,2+,14,18h30,78,3+,36
+15h30,2+,14,18h30,78,2+,27
+15h30,2+,14,18h30,78,1+,15
+15h30,2+,14,19h30,74,3+,36
+15h30,2+,14,19h30,74,2+,23
+15h30,2+,14,19h30,74,1+,15
+15h30,2-,12,16h30,88,1-,20
+15h30,2-,12,16h30,88,2-,35
+15h30,2-,12,16h30,88,3-,33
+15h30,2-,12,17h30,80,1-,17
+15h30,2-,12,17h30,80,2-,30
+15h30,2-,12,17h30,80,3-,33
+15h30,2-,12,18h30,77,1-,23
+15h30,2-,12,18h30,77,2-,19
+15h30,2-,12,18h30,77,3-,35
+15h30,2-,12,19h30,80,1-,25
+15h30,2-,12,19h30,80,2-,21
+15h30,2-,12,19h30,80,3-,34
+15h30,3+,21,16h30,94,3+,70
+15h30,3+,21,16h30,94,2+,12
+15h30,3+,21,16h30,94,1+,12
+15h30,3+,21,17h30,91,3+,67
+15h30,3+,21,17h30,91,2+,14
+15h30,3+,21,17h30,91,1+,10
+15h30,3+,21,18h30,87,3+,68
+15h30,3+,21,18h30,87,2+,11
+15h30,3+,21,18h30,87,1+,8
+15h30,3+,21,19h30,88,3+,70
+15h30,3+,21,19h30,88,2+,7
+15h30,3+,21,19h30,88,1+,11
+15h30,3-,14,16h30,94,1-,6
+15h30,3-,14,16h30,94,2-,11
+15h30,3-,14,16h30,94,3-,77
+15h30,3-,14,17h30,92,1-,8
+15h30,3-,14,17h30,92,2-,11
+15h30,3-,14,17h30,92,3-,73
+15h30,3-,14,18h30,89,1-,10
+15h30,3-,14,18h30,89,2-,6
+15h30,3-,14,18h30,89,3-,73
+15h30,3-,14,19h30,90,1-,7
+15h30,3-,14,19h30,90,2-,13
+15h30,3-,14,19h30,90,3-,70
+16h30,1+,18,17h30,72,2+,25
+16h30,1+,18,17h30,72,1+,48
+16h30,1+,18,17h30,72,1-,12
+16h30,1+,18,18h30,72,2+,21
+16h30,1+,18,18h30,72,1+,42
+16h30,1+,18,18h30,72,1-,15
+16h30,1+,18,19h30,69,2+,21
+16h30,1+,18,19h30,69,1+,31
+16h30,1+,18,19h30,69,1-,21
+16h30,1+,18,20h30,67,3+,22
+16h30,1+,18,20h30,67,1+,31
+16h30,1+,18,20h30,67,1-,19
+16h30,1-,16,17h30,82,1+,24
+16h30,1-,16,17h30,82,1-,45
+16h30,1-,16,17h30,82,2-,13
+16h30,1-,16,18h30,73,1+,21
+16h30,1-,16,18h30,73,1-,40
+16h30,1-,16,18h30,73,2-,12
+16h30,1-,16,19h30,72,1+,20
+16h30,1-,16,19h30,72,1-,40
+16h30,1-,16,19h30,72,2-,12
+16h30,1-,16,20h30,69,1+,19
+16h30,1-,16,20h30,69,1-,37
+16h30,1-,16,20h30,69,2-,13
+16h30,2+,14,17h30,91,3+,18
+16h30,2+,14,17h30,91,2+,50
+16h30,2+,14,17h30,91,1+,23
+16h30,2+,14,18h30,80,3+,26
+16h30,2+,14,18h30,80,2+,35
+16h30,2+,14,18h30,80,1+,19
+16h30,2+,14,19h30,78,3+,21
+16h30,2+,14,19h30,78,2+,36
+16h30,2+,14,19h30,78,1+,21
+16h30,2+,14,20h30,79,3+,26
+16h30,2+,14,20h30,79,2+,35
+16h30,2+,14,20h30,79,1+,18
+16h30,2-,11,17h30,90,1-,15
+16h30,2-,11,17h30,90,2-,47
+16h30,2-,11,17h30,90,3-,28
+16h30,2-,11,18h30,88,1-,15
+16h30,2-,11,18h30,88,2-,41
+16h30,2-,11,18h30,88,3-,32
+16h30,2-,11,19h30,85,1-,15
+16h30,2-,11,19h30,85,2-,39
+16h30,2-,11,19h30,85,3-,31
+16h30,2-,11,20h30,84,1-,14
+16h30,2-,11,20h30,84,2-,32
+16h30,2-,11,20h30,84,3-,38
+16h30,3+,23,17h30,98,3+,84
+16h30,3+,23,17h30,98,2+,11
+16h30,3+,23,17h30,98,1+,3
+16h30,3+,23,18h30,96,3+,84
+16h30,3+,23,18h30,96,2+,6
+16h30,3+,23,18h30,96,1+,6
+16h30,3+,23,19h30,95,3+,84
+16h30,3+,23,19h30,95,2+,7
+16h30,3+,23,19h30,95,1+,4
+16h30,3+,23,20h30,92,3+,81
+16h30,3+,23,20h30,92,2+,7
+16h30,3+,23,20h30,92,1+,4
+16h30,3-,19,17h30,98,1-,6
+16h30,3-,19,17h30,98,2-,10
+16h30,3-,19,17h30,98,3-,82
+16h30,3-,19,18h30,94,1-,8
+16h30,3-,19,18h30,94,2-,6
+16h30,3-,19,18h30,94,3-,80
+16h30,3-,19,19h30,94,1-,7
+16h30,3-,19,19h30,94,2-,10
+16h30,3-,19,19h30,94,3-,77
+16h30,3-,19,20h30,95,1-,8
+16h30,3-,19,20h30,95,2-,12
+16h30,3-,19,20h30,95,3-,75
+19h30,1+,15,20h30,87,2+,16
+19h30,1+,15,20h30,87,1+,55
+19h30,1+,15,20h30,87,1-,16
+19h30,1+,15,21h30,78,2+,17
+19h30,1+,15,21h30,78,1+,47
+19h30,1+,15,21h30,78,1-,14
+19h30,1-,15,20h30,90,1+,16
+19h30,1-,15,20h30,90,1-,62
+19h30,1-,15,20h30,90,2-,12
+19h30,1-,15,21h30,78,1+,15
+19h30,1-,15,21h30,78,1-,50
+19h30,1-,15,21h30,78,2-,13
+19h30,2+,12,20h30,97,3+,26
+19h30,2+,12,20h30,97,2+,57
+19h30,2+,12,20h30,97,1+,14
+19h30,2+,12,21h30,93,3+,34
+19h30,2+,12,21h30,93,2+,49
+19h30,2+,12,21h30,93,1+,10
+19h30,2-,10,20h30,93,1-,14
+19h30,2-,10,20h30,93,2-,54
+19h30,2-,10,20h30,93,3-,25
+19h30,2-,10,21h30,91,1-,19
+19h30,2-,10,21h30,91,2-,45
+19h30,2-,10,21h30,91,3-,27
+19h30,3+,28,20h30,97,3+,89
+19h30,3+,28,20h30,97,2+,6
+19h30,3+,28,20h30,97,1+,2
+19h30,3+,28,21h30,96,3+,89
+19h30,3+,28,21h30,96,2+,4
+19h30,3+,28,21h30,96,1+,3
+19h30,3-,21,20h30,100,1-,3
+19h30,3-,21,20h30,100,2-,10
+19h30,3-,21,20h30,100,3-,87
+19h30,3-,21,21h30,97,1-,2
+19h30,3-,21,21h30,97,2-,8
+19h30,3-,21,21h30,97,3-,87`;
+
+// Parse CSV
+function parseCSV(text) {
+  const lines = text.trim().split('\n');
+  const headers = lines[0].split(',');
+  return lines.slice(1).map(line => {
+    const vals = line.split(',');
+    return Object.fromEntries(headers.map((h, i) => [h.trim(), vals[i]?.trim()]));
+  });
+}
+
+const data = parseCSV(RAW);
+
+let activeSession = '08h00';
+let activeZone = null;
+
+function getUniqueZones(session) {
+  return [...new Set(data.filter(r => r.session_open === session).map(r => r.open_zone))];
+}
+
+function getTimes(session, zone) {
+  return [...new Set(data.filter(r => r.session_open === session && r.open_zone === zone).map(r => r.target_time))];
+}
+
+function getDataForCell(session, zone, time) {
+  return data.filter(r => r.session_open === session && r.open_zone === zone && r.target_time === time);
+}
+
+function getRetention(session, zone, time) {
+  const rows = getDataForCell(session, zone, time);
+  return rows.length > 0 ? rows[0].retention_pct : null;
+}
+
+function getOpenPct(session, zone) {
+  const rows = data.filter(r => r.session_open === session && r.open_zone === zone);
+  return rows.length > 0 ? rows[0].open_zone_pct : null;
+}
+
+// ── Zone structure ──────────────────────────────────────────────
+// 3+ : au-dessus du Range High (RH)
+// 2+ : entre VVAH et Range High
+// 1+ : entre VPOC et VVAH  (moitié haute VA)
+// 1- : entre VVAL et VPOC  (moitié basse VA)
+// 2- : entre Range Low et VVAL
+// 3- : en-dessous du Range Low (RL)
+
+const THRESHOLD = 60;
+
+const ALL_LEVELS = [
+  { key: 'aboveRH',   label: 'au-dessus du Range High', dir: 'up' },
+  { key: 'aboveVVAH', label: 'au-dessus de la VVAH',    dir: 'up' },
+  { key: 'aboveVPOC', label: 'au-dessus de la VPOC',    dir: 'up' },
+  { key: 'aboveVVAL', label: 'au-dessus de la VVAL',    dir: 'up' },
+  { key: 'aboveRL',   label: 'au-dessus du Range Low',  dir: 'up' },
+  { key: 'belowRL',   label: 'en dessous du Range Low', dir: 'dn' },
+  { key: 'belowVVAL', label: 'en dessous de la VVAL',   dir: 'dn' },
+  { key: 'belowVPOC', label: 'en dessous de la VPOC',   dir: 'dn' },
+  { key: 'belowVVAH', label: 'en dessous de la VVAH',   dir: 'dn' },
+  { key: 'belowRH',   label: 'en dessous du Range High',dir: 'dn' },
+];
+
+function computeLevels(session, zone, time) {
+  const rows = getDataForCell(session, zone, time);
+  const p = {};
+  ZONE_ORDER.forEach(z => {
+    const row = rows.find(r => r.target_zone === z);
+    p[z] = row ? parseInt(row.probability_pct) : 0;
+  });
+  return {
+    aboveRH:   p['3+'],
+    aboveVVAH: p['3+'] + p['2+'],
+    aboveVPOC: p['3+'] + p['2+'] + p['1+'],
+    aboveVVAL: p['3+'] + p['2+'] + p['1+'] + p['1-'],
+    aboveRL:   p['3+'] + p['2+'] + p['1+'] + p['1-'] + p['2-'],
+    belowRL:   p['3-'],
+    belowVVAL: p['3-'] + p['2-'],
+    belowVPOC: p['3-'] + p['2-'] + p['1-'],
+    belowVVAH: p['3-'] + p['2-'] + p['1-'] + p['1+'],
+    belowRH:   p['3-'] + p['2-'] + p['1-'] + p['1+'] + p['2+'],
+  };
+}
+
+// Pour chaque niveau, collecte les % par heure — retourne les niveaux
+// dont AU MOINS UNE heure dépasse le seuil
+function generateInsightsByLevel(session, zone) {
+  const times = getTimes(session, zone);
+  const result = [];
+
+  ALL_LEVELS.forEach(def => {
+    const timeData = times.map(t => ({
+      time: t,
+      pct:  computeLevels(session, zone, t)[def.key],
+      ret:  getRetention(session, zone, t),
+    }));
+    if (timeData.some(d => d.pct >= THRESHOLD)) {
+      result.push({ ...def, times: timeData });
+    }
+  });
+
+  return result;
+}
+
+function renderInsights(session, zone) {
+  const levels = generateInsightsByLevel(session, zone);
+  if (levels.length === 0) return '';
+
+  const times = getTimes(session, zone);
+  const nTimes = times.length;
+  const gridCols = `180px repeat(${nTimes}, 1fr)`;
+
+  // Restrictiveness order: most → least restrictive
+  // Up:   aboveRH > aboveVVAH > aboveVPOC > aboveVVAL > aboveRL
+  // Down: belowRL > belowVVAL > belowVPOC > belowVVAH > belowRH
+  // If level X is more restrictive than level Y and X ≥ threshold at time t,
+  // then Y ≥ threshold is implied → mark Y's cell as redundant at that time.
+  const UP_KEYS = ['aboveRH','aboveVVAH','aboveVPOC','aboveVVAL','aboveRL'];
+  const DN_KEYS = ['belowRL','belowVVAL','belowVPOC','belowVVAH','belowRH'];
+
+  // For each time, find the most restrictive qualifying key per direction
+  const mostRestrictive = {}; // time → { up: key|null, dn: key|null }
+  times.forEach(t => {
+    const lvl = computeLevels(session, zone, t);
+    mostRestrictive[t] = {
+      up: UP_KEYS.find(k => lvl[k] >= THRESHOLD) || null,
+      dn: DN_KEYS.find(k => lvl[k] >= THRESHOLD) || null,
+    };
+  });
+
+  // A cell is redundant if a more restrictive level of same dir also qualifies
+  function isRedundant(key, dir, time) {
+    const lvl = computeLevels(session, zone, time);
+    // A level gets "+" when it equals the next more restrictive level
+    // meaning the extra zone between them contributes 0%
+    const PAIRS_UP = [
+      ['aboveRL',   'aboveVVAL'],
+      ['aboveVVAL', 'aboveVPOC'],
+      ['aboveVPOC', 'aboveVVAH'],
+      ['aboveVVAH', 'aboveRH'  ],
+    ];
+    const PAIRS_DN = [
+      ['belowRH',   'belowVVAH'],
+      ['belowVVAH', 'belowVPOC'],
+      ['belowVPOC', 'belowVVAL'],
+      ['belowVVAL', 'belowRL'  ],
+    ];
+    const pairs = dir === 'up' ? PAIRS_UP : PAIRS_DN;
+    const pair = pairs.find(([k]) => k === key);
+    if (!pair) return false;
+    return lvl[pair[0]] === lvl[pair[1]];
+  }
+
+  let html = `<div class="insights-block">
+    <div class="insights-label">◆ Signaux statistiques · seuil ≥ ${THRESHOLD}%</div>
+    <div class="ins-row" style="grid-template-columns:${gridCols}">
+      <div class="ins-header">—</div>`;
+
+  times.forEach(t => {
+    const ret = getRetention(session, zone, t);
+    html += `<div class="ins-header">${t}<br><span style="color:#2e2e48">${ret}%</span></div>`;
+  });
+  html += `</div>`;
+
+  let prevDir = null;
+  levels.forEach(lvl => {
+    const color = lvl.dir === 'up' ? '#00e5a0' : '#ff4d6a';
+    const arrow = lvl.dir === 'up' ? '↑' : '↓';
+
+    if (prevDir !== null && prevDir !== lvl.dir) {
+      html += `<div class="ins-sep"></div>`;
+    }
+    prevDir = lvl.dir;
+
+    html += `<div class="ins-row" style="grid-template-columns:${gridCols}">
+      <div class="ins-level">
+        <span class="ins-dir" style="color:${color}">${arrow}</span>
+        <span>${lvl.label}</span>
+      </div>`;
+
+    lvl.times.forEach(d => {
+      const redundant = d.pct >= THRESHOLD && d.pct < 100 && isRedundant(lvl.key, lvl.dir, d.time);
+      if (d.pct >= THRESHOLD) {
+        const plus = redundant ? `<span style="font-size:0.55rem;opacity:0.5;margin-right:1px">+</span>` : '';
+        html += `<div class="ins-pct" style="color:${color}">${plus}${d.pct}%</div>`;
+      } else if (d.pct > 0) {
+        html += `<div class="ins-pct dim">${d.pct}%</div>`;
+      } else {
+        html += `<div class="ins-pct dim">—</div>`;
+      }
+    });
+
+    html += `</div>`;
+  });
+
+  html += `</div>`;
+  return html;
+}
+
+function renderZoneBlock(session, zone) {
+  const times = getTimes(session, zone);
+  const openPct = getOpenPct(session, zone);
+  const color = ZONE_COLORS[zone];
+
+  let html = `<div class="card">
+    <div class="card-header">
+      <span class="card-title" style="color:${color}">Open Zone <strong>${zone}</strong></span>
+      <span class="card-meta">fréquence ouverture : <strong style="color:${color}">${openPct}%</strong></span>
+    </div>
+    ${renderInsights(session, zone)}
+    <div class="time-row">
+      <div class="time-label">—</div>`;
+
+  times.forEach(t => {
+    const ret = getRetention(session, zone, t);
+    html += `<div class="time-header">${t}<br><span style="color:#4a4a6a">${ret}%</span></div>`;
+  });
+
+  html += `</div>`;
+
+  // For each possible target zone, render a row
+  ZONE_ORDER.forEach(tz => {
+    const hasData = times.some(t => getDataForCell(session, zone, t).some(r => r.target_zone === tz));
+    if (!hasData) return;
+
+    html += `<div class="time-row">
+      <div class="time-label" style="color:${ZONE_COLORS[tz]}">${tz}</div>`;
+
+    times.forEach(t => {
+      const rows = getDataForCell(session, zone, t);
+      const row = rows.find(r => r.target_zone === tz);
+      if (row) {
+        const pct = parseInt(row.probability_pct);
+        const tzColor = ZONE_COLORS[tz];
+        html += `<div class="zone-cell">
+          <div class="zone-bar-wrap">
+            <div class="bar-track"><div class="bar-fill" style="width:${pct}%;background:${tzColor}"></div></div>
+            <span class="bar-pct" style="color:${tzColor}">${pct}%</span>
+          </div>
+        </div>`;
+      } else {
+        html += `<div class="zone-cell"><span class="no-data">—</span></div>`;
+      }
+    });
+
+    html += `</div>`;
+  });
+
+  html += `</div>`;
+  return html;
+}
+
+function render() {
+  const zones = activeZone ? [activeZone] : ZONE_ORDER.filter(z => getUniqueZones(activeSession).includes(z));
+
+  let html = '';
+  zones.forEach(z => {
+    if (getUniqueZones(activeSession).includes(z)) {
+      html += renderZoneBlock(activeSession, z);
+    }
+  });
+
+  document.getElementById('mainView').innerHTML = html || '<p style="color:var(--muted);font-size:0.7rem">Aucune donnée pour cette sélection.</p>';
+}
+
+// Session buttons
+document.getElementById('sessionBtns').querySelectorAll('button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.getElementById('sessionBtns').querySelectorAll('button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeSession = btn.dataset.session;
+    render();
+  });
+});
+
+// Zone buttons
+document.getElementById('zoneBtns').querySelectorAll('button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    if (activeZone === btn.dataset.zone) {
+      activeZone = null;
+      document.getElementById('zoneBtns').querySelectorAll('button').forEach(b => b.classList.remove('active'));
+    } else {
+      activeZone = btn.dataset.zone;
+      document.getElementById('zoneBtns').querySelectorAll('button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+    }
+    render();
+  });
+});
+
+render();
+</script>
+</body>
+</html>

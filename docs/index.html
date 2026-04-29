@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Morning Brief</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500;600&display=swap');
+
+  :root {
+    --bg: #0a0a0f; --surface: #111118; --border: #1e1e2a;
+    --accent-up: #00e5a0; --accent-dn: #ff4d6a; --accent-neu: #5b8cff; --accent-warn: #ffb84d;
+    --text: #e8e8f0; --muted: #6b6b88; --highlight: #1a1a28;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg); color: var(--text);
+    font-family: 'IBM Plex Mono', monospace;
+    min-height: 100vh; padding: 2rem;
+  }
+
+  header {
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 1.25rem; margin-bottom: 1.5rem;
+    display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; flex-wrap: wrap;
+  }
+  header h1 {
+    font-size: 1.1rem; font-weight: 500;
+    letter-spacing: 0.15em; text-transform: uppercase;
+  }
+  header .meta {
+    font-size: 0.65rem; color: var(--muted); letter-spacing: 0.05em; line-height: 1.7;
+    text-align: right;
+  }
+  .archive-banner {
+    display: none;
+    background: var(--highlight);
+    border: 1px solid var(--accent-warn);
+    border-left: 3px solid var(--accent-warn);
+    padding: 0.7rem 1rem;
+    margin-bottom: 1.5rem;
+    font-size: 0.7rem;
+    color: var(--accent-warn);
+    letter-spacing: 0.05em;
+  }
+  .archive-banner.show { display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
+  .archive-banner button {
+    background: transparent; border: 1px solid var(--accent-warn); color: var(--accent-warn);
+    font-family: inherit; font-size: 0.65rem; padding: 0.35rem 0.7rem;
+    cursor: pointer; letter-spacing: 0.08em;
+  }
+
+  .tabs {
+    display: flex; border-bottom: 1px solid var(--border);
+    margin-bottom: 2rem; flex-wrap: wrap;
+  }
+  .tab-btn {
+    background: transparent; border: none; border-bottom: 2px solid transparent;
+    color: var(--muted); font-family: inherit; font-size: 0.72rem;
+    padding: 0.7rem 1.2rem; cursor: pointer;
+    letter-spacing: 0.12em; text-transform: uppercase;
+    margin-bottom: -1px; transition: color 0.15s, border-color 0.15s;
+  }
+  .tab-btn:hover { color: var(--text); }
+  .tab-btn.active { color: var(--accent-neu); border-bottom-color: var(--accent-neu); }
+
+  .tab-panel { display: none; }
+  .tab-panel.active { display: block; }
+
+  .card {
+    background: var(--surface); border: 1px solid var(--border);
+    padding: 1.5rem; margin-bottom: 1.25rem;
+  }
+  .card-header {
+    display: flex; justify-content: space-between; align-items: baseline;
+    gap: 1rem; margin-bottom: 1rem; padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .card-title {
+    font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase;
+    line-height: 1.5; color: var(--text);
+  }
+  .card-title .tag {
+    display: inline-block; font-size: 0.55rem; padding: 2px 6px; margin-right: 8px;
+    background: var(--highlight); color: var(--accent-neu); border: 1px solid var(--accent-neu);
+    letter-spacing: 0.08em;
+  }
+  .card-meta { font-size: 0.62rem; color: var(--muted); flex-shrink: 0; white-space: nowrap; }
+
+  .summary { font-size: 0.82rem; line-height: 1.85; white-space: pre-wrap; color: var(--text); }
+
+  .tts-bar { display: flex; gap: 0.5rem; margin-bottom: 1.1rem; align-items: center; flex-wrap: wrap; }
+  .tts-btn {
+    background: var(--surface); border: 1px solid var(--border); color: var(--muted);
+    font-family: inherit; font-size: 0.68rem; padding: 0.45rem 0.8rem;
+    cursor: pointer; letter-spacing: 0.08em; transition: all 0.15s;
+  }
+  .tts-btn:hover { border-color: var(--accent-neu); color: var(--accent-neu); }
+  .tts-btn.playing { border-color: var(--accent-up); color: var(--accent-up); }
+
+  .wrap-link {
+    font-size: 0.62rem; color: var(--accent-neu);
+    text-decoration: none; letter-spacing: 0.05em;
+  }
+  .wrap-link:hover { text-decoration: underline; }
+
+  table.events { width: 100%; border-collapse: collapse; font-size: 0.75rem; }
+  table.events th {
+    text-align: left; padding: 0.55rem 0.75rem;
+    font-weight: 400; color: var(--muted);
+    letter-spacing: 0.1em; text-transform: uppercase; font-size: 0.58rem;
+    border-bottom: 1px solid var(--border);
+  }
+  table.events td { padding: 0.7rem 0.75rem; border-bottom: 1px solid #151520; vertical-align: middle; }
+  table.events tr:hover { background: var(--highlight); }
+  .ev-time  { color: var(--accent-neu); font-weight: 500; min-width: 55px; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .ev-cur   { font-size: 0.68rem; letter-spacing: 0.05em; font-weight: 500; }
+  .ev-title { color: var(--text); }
+  .ev-num   { color: var(--text); font-variant-numeric: tabular-nums; font-size: 0.72rem; text-align: right; }
+  .ev-num.muted { color: var(--muted); }
+
+  iframe.vva {
+    width: 100%; height: 90vh; border: 1px solid var(--border);
+    background: var(--bg); display: block;
+  }
+
+  .empty {
+    color: var(--muted); font-size: 0.75rem; text-align: center;
+    padding: 3rem 1rem; letter-spacing: 0.05em; line-height: 1.9;
+  }
+  .hist-entry {
+    border-bottom: 1px solid var(--border);
+    padding: 1rem 0;
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+  .hist-entry:last-child { border-bottom: none; }
+  .hist-entry:hover { background: var(--highlight); padding-left: 0.5rem; padding-right: 0.5rem; }
+  .hist-date {
+    color: var(--accent-neu); font-size: 0.72rem; font-weight: 500;
+    letter-spacing: 0.08em; margin-right: 1rem;
+  }
+  .hist-headline { color: var(--text); font-size: 0.78rem; line-height: 1.5; }
+  .hist-arrow { float: right; color: var(--muted); font-size: 0.7rem; }
+
+  @media (max-width: 700px) {
+    body { padding: 1rem; }
+    .tab-btn { padding: 0.6rem 0.7rem; font-size: 0.62rem; letter-spacing: 0.08em; }
+    table.events { font-size: 0.65rem; }
+    header { flex-direction: column; align-items: flex-start; }
+    header .meta { text-align: left; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>Morning Brief</h1>
+    <p style="font-size: 0.7rem; color: var(--muted); margin-top: 0.4rem; letter-spacing: 0.05em;" id="brief-date">Chargement…</p>
+  </div>
+  <div class="meta" id="brief-meta"></div>
+</header>
+
+<div class="archive-banner" id="archive-banner">
+  <span>Vous consultez une archive : <strong id="archive-date"></strong></span>
+  <button id="back-today">← Retour au brief du jour</button>
+</div>
+
+<div class="tabs">
+  <button class="tab-btn active" data-tab="prep">◆ Préparation du jour</button>
+  <button class="tab-btn"        data-tab="vva">▣ VVA Zones</button>
+  <button class="tab-btn"        data-tab="hist">⌛ Historique</button>
+</div>
+
+<!-- Préparation -->
+<div class="tab-panel active" id="panel-prep">
+  <div id="brief-cards"></div>
+  <div id="dockets-card"></div>
+</div>
+
+<!-- VVA -->
+<div class="tab-panel" id="panel-vva">
+  <iframe class="vva" src="vva.html" title="VVA Zones"></iframe>
+</div>
+
+<!-- Historique -->
+<div class="tab-panel" id="panel-hist">
+  <div class="card">
+    <div class="card-header">
+      <span class="card-title">Historique des journées</span>
+      <span class="card-meta" id="hist-count">—</span>
+    </div>
+    <div id="hist-list"><div class="empty">Chargement…</div></div>
+  </div>
+</div>
+
+<script>
+const TAGS = { mj_eu: 'Prep EU', wrap: 'Bilan veille', mj_us: 'Prep US' };
+const ORDER = ['mj_eu', 'wrap', 'mj_us'];
+
+const $ = id => document.getElementById(id);
+const escapeHtml = s => String(s||'').replace(/[&<>"']/g, c =>
+  ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]);
+
+const CUR_COLORS = {
+  USD:'#5b8cff', EUR:'#00e5a0', GBP:'#ffb84d', CAD:'#ff9eac',
+  JPY:'#ff7088', CHF:'#99ffdd', AUD:'#66ffcc', NZD:'#ff9eac',
+};
+
+let MANIFEST = null;
+let CURRENT  = null;  // currently displayed day data
+
+async function loadManifest() {
+  const r = await fetch('manifest.json?_=' + Date.now());
+  if (!r.ok) throw new Error('manifest.json missing');
+  return r.json();
+}
+
+async function loadDay(dateIso) {
+  const r = await fetch(`archive/${dateIso}.json?_=` + Date.now());
+  if (!r.ok) throw new Error(`archive ${dateIso} missing`);
+  return r.json();
+}
+
+/* ── Render brief cards ──────────────────────── */
+function renderBrief(data) {
+  CURRENT = data;
+  $('brief-date').textContent = data.date_fr || data.date;
+  $('brief-meta').innerHTML = `Mis à jour : ${(data.generated_at || '').slice(11,16)}<br>Source : Financial Juice`;
+
+  const cardsHtml = ORDER.map(key => {
+    const a = data.articles[key];
+    if (!a) {
+      return `<div class="card" style="opacity:0.5">
+        <div class="card-header">
+          <span class="card-title"><span class="tag">${TAGS[key]}</span>(article pas encore publié)</span>
+          <span class="card-meta">—</span>
+        </div>
+        <div class="summary" style="color:var(--muted)">Le prochain build du site (cron auto) ira chercher cet article dès qu'il sera publié sur FJ.</div>
+      </div>`;
+    }
+    const sumId = `sum-${key}`;
+    return `<div class="card">
+      <div class="card-header">
+        <span class="card-title"><span class="tag">${TAGS[key]}</span>${escapeHtml(a.title)}</span>
+        <a class="wrap-link" href="${a.url}" target="_blank">source ↗ · ${a.date}</a>
+      </div>
+      <div class="tts-bar">
+        <button class="tts-btn tts-play" data-target="${sumId}">▶ Lecture</button>
+        <button class="tts-btn tts-stop">■ Stop</button>
+      </div>
+      <div class="summary" id="${sumId}">${escapeHtml(a.summary)}</div>
+    </div>`;
+  }).join('');
+  $('brief-cards').innerHTML = cardsHtml;
+
+  // Dockets table
+  const dk = data.dockets || [];
+  if (dk.length) {
+    const rows = dk.map(d => {
+      const col = CUR_COLORS[d.cur] || 'var(--muted)';
+      return `<tr>
+        <td class="ev-time">${escapeHtml(d.time_cet)}</td>
+        <td class="ev-cur" style="color:${col}">${escapeHtml(d.cur)}</td>
+        <td class="ev-title">${escapeHtml(d.title)}</td>
+        <td class="ev-num">${escapeHtml(d.forecast || '—')}</td>
+        <td class="ev-num muted">${escapeHtml(d.previous || '—')}</td>
+      </tr>`;
+    }).join('');
+    $('dockets-card').innerHTML = `<div class="card">
+      <div class="card-header">
+        <span class="card-title">Dockets — heures FR (Paris)</span>
+        <span class="card-meta">${dk.length} release${dk.length>1?'s':''}</span>
+      </div>
+      <table class="events">
+        <thead><tr><th>Heure</th><th>Cur.</th><th>Event</th><th>Prév.</th><th>Préc.</th></tr></thead>
+        <tbody>${rows}</tbody>
+      </table>
+    </div>`;
+  } else {
+    $('dockets-card').innerHTML = `<div class="card">
+      <div class="card-header"><span class="card-title">Dockets</span></div>
+      <div class="empty">Pas de dockets extraits pour cette journée.</div>
+    </div>`;
+  }
+
+  bindTTS();
+}
+
+/* ── Render history list ───────────────────── */
+function renderHistory(manifest) {
+  const days = manifest.days || [];
+  $('hist-count').textContent = `${days.length} jour${days.length>1?'s':''}`;
+
+  if (!days.length) {
+    $('hist-list').innerHTML = '<div class="empty">Aucune archive pour le moment.</div>';
+    return;
+  }
+  $('hist-list').innerHTML = days.map(d => `
+    <div class="hist-entry" data-date="${d.date}">
+      <span class="hist-date">${d.date}</span>
+      <span class="hist-headline">${escapeHtml(d.headline)}</span>
+      <span class="hist-arrow">→</span>
+    </div>`).join('');
+
+  document.querySelectorAll('.hist-entry').forEach(el => {
+    el.addEventListener('click', async () => {
+      const dateIso = el.dataset.date;
+      try {
+        const data = await loadDay(dateIso);
+        renderBrief(data);
+        // Show archive banner if not today
+        const banner = $('archive-banner');
+        if (dateIso !== MANIFEST.today) {
+          $('archive-date').textContent = data.date_fr || dateIso;
+          banner.classList.add('show');
+        } else {
+          banner.classList.remove('show');
+        }
+        // Switch to prep tab
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+        document.querySelector('[data-tab="prep"]').classList.add('active');
+        $('panel-prep').classList.add('active');
+      } catch (e) {
+        alert('Impossible de charger ' + dateIso + ' : ' + e.message);
+      }
+    });
+  });
+}
+
+/* ── TTS ──────────────────────────────────── */
+function frenchVoices() {
+  return speechSynthesis.getVoices().filter(v => v.lang.startsWith('fr'));
+}
+let currentBtn = null;
+
+function bindTTS() {
+  document.querySelectorAll('.tts-play').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const targetId = btn.dataset.target;
+      const raw = $(targetId).textContent;
+      const spoken = raw.replace(/^[•·\-]\s*/gm, '').replace(/\n{2,}/g, '. ').replace(/\n/g, ' ');
+      speechSynthesis.cancel();
+      if (currentBtn) { currentBtn.classList.remove('playing'); currentBtn.textContent = '▶ Lecture'; }
+
+      const u = new SpeechSynthesisUtterance(spoken);
+      const voices = frenchVoices();
+      if (voices.length) {
+        const best = voices.find(v => /neural|premium|enhanced|natural/i.test(v.name)) || voices[0];
+        u.voice = best;
+      }
+      u.rate = 1.0; u.pitch = 1.0;
+      btn.classList.add('playing'); btn.textContent = '▶ En lecture…';
+      currentBtn = btn;
+      u.onend = () => {
+        btn.classList.remove('playing'); btn.textContent = '▶ Lecture';
+        currentBtn = null;
+      };
+      speechSynthesis.speak(u);
+    });
+  });
+  document.querySelectorAll('.tts-stop').forEach(btn => {
+    btn.addEventListener('click', () => {
+      speechSynthesis.cancel();
+      if (currentBtn) { currentBtn.classList.remove('playing'); currentBtn.textContent = '▶ Lecture'; currentBtn = null; }
+    });
+  });
+}
+
+/* ── Tabs ─────────────────────────────────── */
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    $('panel-' + btn.dataset.tab).classList.add('active');
+  });
+});
+
+/* ── Back to today button ────────────────── */
+$('back-today').addEventListener('click', async () => {
+  if (!MANIFEST) return;
+  const data = await loadDay(MANIFEST.today);
+  renderBrief(data);
+  $('archive-banner').classList.remove('show');
+});
+
+/* ── Boot ──────────────────────────────── */
+(async () => {
+  try {
+    MANIFEST = await loadManifest();
+    const todayData = await loadDay(MANIFEST.today);
+    renderBrief(todayData);
+    renderHistory(MANIFEST);
+  } catch (e) {
+    $('brief-cards').innerHTML = `<div class="empty">
+      Erreur : ${escapeHtml(e.message)}<br><br>
+      Le site n'a pas encore généré de brief. Lance le workflow GitHub Actions manuellement (Actions tab → "Build morning brief" → Run workflow).
+    </div>`;
+  }
+})();
+</script>
+</body>
+</html>
