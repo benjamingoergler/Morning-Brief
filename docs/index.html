@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -171,23 +171,23 @@
 <header>
   <div>
     <h1>Morning Brief</h1>
-    <p style="font-size: 0.7rem; color: var(--muted); margin-top: 0.4rem; letter-spacing: 0.05em;" id="brief-date">Loading…</p>
+    <p style="font-size: 0.7rem; color: var(--muted); margin-top: 0.4rem; letter-spacing: 0.05em;" id="brief-date">Chargement…</p>
   </div>
   <div class="meta" id="brief-meta"></div>
 </header>
 
 <div class="archive-banner" id="archive-banner">
-  <span>Viewing archived brief: <strong id="archive-date"></strong></span>
-  <button id="back-today">← Back to today's brief</button>
+  <span>Tu consultes une archive : <strong id="archive-date"></strong></span>
+  <button id="back-today">← Retour au brief du jour</button>
 </div>
 
 <div class="tabs">
-  <button class="tab-btn active" data-tab="prep">◆ Today's Brief</button>
+  <button class="tab-btn active" data-tab="prep">◆ Brief du jour</button>
   <button class="tab-btn"        data-tab="vva">▣ VVA Zones</button>
-  <button class="tab-btn"        data-tab="hist">⌛ History</button>
+  <button class="tab-btn"        data-tab="hist">⌛ Historique</button>
 </div>
 
-<!-- Today's brief -->
+<!-- Préparation du jour -->
 <div class="tab-panel active" id="panel-prep">
   <div id="dockets-card"></div>
   <div id="brief-cards"></div>
@@ -202,18 +202,18 @@
 <div class="tab-panel" id="panel-hist">
   <div class="card">
     <div class="card-header">
-      <span class="card-title">History — past days</span>
+      <span class="card-title">Historique des journées</span>
       <span class="card-meta" id="hist-count">—</span>
     </div>
-    <div id="hist-list"><div class="empty">Loading…</div></div>
+    <div id="hist-list"><div class="empty">Chargement…</div></div>
   </div>
 </div>
 
 <script>
-const TAGS = { mj_eu: 'EU Prep', wrap: 'Yesterday Wrap', mj_us: 'US Prep' };
-// Display order: most recent / most actionable on top.
-// US Prep first (published latest), then EU Prep (earlier today),
-// then yesterday's US Wrap at the bottom.
+const TAGS = { mj_eu: 'Prep EU', wrap: 'Bilan veille', mj_us: 'Prep US' };
+// Display order: le plus pertinent pour la lecture du matin en haut.
+// EU Prep d'abord (lecture matinale), puis US Prep (publié plus tard),
+// puis le US Wrap d'hier en bas.
 const ORDER = ['mj_us', 'mj_eu', 'wrap'];
 
 const $ = id => document.getElementById(id);
@@ -264,17 +264,17 @@ async function loadDay(dateIso) {
 function renderBrief(data) {
   CURRENT = data;
   $('brief-date').textContent = data.date_fr || data.date;
-  $('brief-meta').innerHTML = `Updated: ${(data.generated_at || '').slice(11,16)}<br>Source: Financial Juice`;
+  $('brief-meta').innerHTML = `Mis à jour : ${(data.generated_at || '').slice(11,16)}<br>Source : Financial Juice`;
 
   const cardsHtml = ORDER.map(key => {
     const a = data.articles[key];
     if (!a) {
       return `<div class="card" style="opacity:0.5">
         <div class="card-header">
-          <span class="card-title"><span class="tag">${TAGS[key]}</span>(article not yet published)</span>
+          <span class="card-title"><span class="tag">${TAGS[key]}</span>(article pas encore publié)</span>
           <span class="card-meta">—</span>
         </div>
-        <div class="summary" style="color:var(--muted)">The next scheduled build will fetch this article as soon as it appears on FJ.</div>
+        <div class="summary" style="color:var(--muted)">Le prochain build automatique récupérera cet article dès qu'il sera publié sur FJ.</div>
       </div>`;
     }
     const sumId = `sum-${key}`;
@@ -284,7 +284,7 @@ function renderBrief(data) {
         <a class="wrap-link" href="${a.url}" target="_blank">source ↗ · ${a.date}</a>
       </div>
       <div class="tts-bar">
-        <button class="tts-btn tts-play" data-target="${sumId}">▶ Read aloud</button>
+        <button class="tts-btn tts-play" data-target="${sumId}">▶ Lecture</button>
         <button class="tts-btn tts-stop">■ Stop</button>
       </div>
       <div class="summary" id="${sumId}">${bulletsToHtml(a.summary)}</div>
@@ -307,11 +307,11 @@ function renderBrief(data) {
     }).join('');
     $('dockets-card').innerHTML = `<div class="card">
       <div class="card-header">
-        <span class="card-title">Today's dockets — Paris time</span>
+        <span class="card-title">Dockets du jour — heure de Paris</span>
         <span class="card-meta">${dk.length} release${dk.length>1?'s':''}</span>
       </div>
       <table class="events">
-        <thead><tr><th>Time</th><th>Cur.</th><th>Event</th><th>Forecast</th><th>Previous</th></tr></thead>
+        <thead><tr><th>Heure</th><th>Cur.</th><th>Event</th><th>Prév.</th><th>Préc.</th></tr></thead>
         <tbody>${rows}</tbody>
       </table>
     </div>`;
@@ -328,10 +328,10 @@ function renderBrief(data) {
 /* ── Render history list ───────────────────── */
 function renderHistory(manifest) {
   const days = manifest.days || [];
-  $('hist-count').textContent = `${days.length} day${days.length>1?'s':''}`;
+  $('hist-count').textContent = `${days.length} jour${days.length>1?'s':''}`;
 
   if (!days.length) {
-    $('hist-list').innerHTML = '<div class="empty">No archives yet.</div>';
+    $('hist-list').innerHTML = '<div class="empty">Aucune archive pour le moment.</div>';
     return;
   }
   $('hist-list').innerHTML = days.map(d => `
@@ -368,8 +368,8 @@ function renderHistory(manifest) {
 }
 
 /* ── TTS ──────────────────────────────────── */
-function englishVoices() {
-  return speechSynthesis.getVoices().filter(v => v.lang.startsWith('en'));
+function frenchVoices() {
+  return speechSynthesis.getVoices().filter(v => v.lang.startsWith('fr'));
 }
 let currentBtn = null;
 
@@ -380,10 +380,10 @@ function bindTTS() {
       const raw = $(targetId).textContent;
       const spoken = raw.replace(/^[•·\-]\s*/gm, '').replace(/\n{2,}/g, '. ').replace(/\n/g, ' ');
       speechSynthesis.cancel();
-      if (currentBtn) { currentBtn.classList.remove('playing'); currentBtn.textContent = '▶ Read aloud'; }
+      if (currentBtn) { currentBtn.classList.remove('playing'); currentBtn.textContent = '▶ Lecture'; }
 
       const u = new SpeechSynthesisUtterance(spoken);
-      const voices = englishVoices();
+      const voices = frenchVoices();
       if (voices.length) {
         // Prefer high-quality voices; among those, prefer en-US > en-GB > others.
         const score = v => {
@@ -397,10 +397,10 @@ function bindTTS() {
         u.lang = u.voice.lang;
       }
       u.rate = 1.0; u.pitch = 1.0;
-      btn.classList.add('playing'); btn.textContent = '▶ Reading…';
+      btn.classList.add('playing'); btn.textContent = '▶ Lecture…';
       currentBtn = btn;
       u.onend = () => {
-        btn.classList.remove('playing'); btn.textContent = '▶ Read aloud';
+        btn.classList.remove('playing'); btn.textContent = '▶ Lecture';
         currentBtn = null;
       };
       speechSynthesis.speak(u);
@@ -409,7 +409,7 @@ function bindTTS() {
   document.querySelectorAll('.tts-stop').forEach(btn => {
     btn.addEventListener('click', () => {
       speechSynthesis.cancel();
-      if (currentBtn) { currentBtn.classList.remove('playing'); currentBtn.textContent = '▶ Read aloud'; currentBtn = null; }
+      if (currentBtn) { currentBtn.classList.remove('playing'); currentBtn.textContent = '▶ Lecture'; currentBtn = null; }
     });
   });
 }
@@ -441,8 +441,8 @@ $('back-today').addEventListener('click', async () => {
     renderHistory(MANIFEST);
   } catch (e) {
     $('brief-cards').innerHTML = `<div class="empty">
-      Error: ${escapeHtml(e.message)}<br><br>
-      The site has not generated a brief yet. Trigger the workflow manually (Actions tab → "Build morning brief" → Run workflow).
+      Erreur : ${escapeHtml(e.message)}<br><br>
+      Le site n'a pas encore généré de brief. Lance le workflow manuellement (Actions → "Build morning brief" → Run workflow).
     </div>`;
   }
 })();

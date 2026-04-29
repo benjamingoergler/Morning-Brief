@@ -151,35 +151,29 @@ def fetch_fj_articles() -> dict:
 
 
 # ── Gemini summarisation ──────────────────────────────────────────
-SUMMARY_PROMPT = """You are the morning briefing assistant for an NQ futures (Nasdaq 100) trader. Below are 3 articles from Financial Juice. For each article, produce:
+SUMMARY_PROMPT = """Tu es l'assistant matinal d'un trader NQ futures (Nasdaq 100). Voici 3 articles de Financial Juice rédigés en anglais. Tu produis pour chacun :
 
-1. **summary**: a SYNTHETIC summary in 5-7 bullets — NOT a translation, NOT a paragraph-by-paragraph rendering
-2. **dockets** (Morning Juice articles only): ONLY the high-impact economic releases that actually move US indices
+1. **summary** : un résumé synthétique en français de 5 à 6 puces
+2. **dockets** : UNIQUEMENT pour le Morning Juice EU. Pour wrap et mj_us, retourne un tableau vide [].
 
-RULES FOR THE SUMMARY:
-- Output language: ENGLISH
-- This is a synthesis: capture the ESSENCE in 5-7 dense bullets, not 15+ bullets covering every paragraph
-- Each bullet = one key idea, 15-25 words, packed with concrete numbers
-- Prioritize what matters for an NQ trader: equity indices moves, yields, Fed/central banks, oil if extreme, geopolitics if market-moving, key earnings, key macro releases
-- DROP fluff: routine analyst chatter, generic outlook commentary, marginal sectors, individual small caps unless mentioned as relevant
-- Keep ALL hard numbers in the bullets you produce (index levels, %, yields, prices) — but discard whole topics that aren't market-moving
-- Format: each bullet starts with "• " (U+2022 + space), separated by newlines (\\n)
-- Stay strictly factual — no invention, no editorializing
-- No intro, no conclusion — bullets only
+LANGUE : tu lis l'anglais, tu écris en FRANÇAIS. Garde noms propres et acronymes en VO (Trump, Fed, OPEC, Brent, S&P 500, NDX, DXY, FOMC, CPI, IFO, NFP, etc.).
 
-RULES FOR DOCKETS:
-- ONLY include releases that are HIGH IMPACT for US indices. This means:
-  * **Always include**: FOMC decisions, FOMC minutes, Fed Chair speeches, CPI, PPI, PCE, NFP/Non-Farm Payrolls, Unemployment Rate, Retail Sales (US/UK/Germany), GDP, ISM Manufacturing/Services, S&P Global PMI Manufacturing/Services, Initial Jobless Claims, ECB/BoE/BoJ rate decisions, German IFO, Eurozone CPI flash, JOLTS
-  * **Exclude**: Consumer Confidence indices (UMich is borderline — keep it ONLY if final/preliminary release), housing data unless headline (Building Permits, Pending Home Sales — exclude), inventories, regional Fed surveys (Empire State, Philly Fed — exclude), trade balance, capital flows, secondary sectors
-- Use your judgment: if you're not sure a release moves NQ futures by ≥0.3% historically, exclude it
-- Better fewer high-quality dockets than many low-impact ones
-- "time_et" = original ET time as "HH:MM" (5 chars), I'll convert to local time on the server
-- "cur" = 3-letter currency code (GBP, EUR, USD, CAD, JPY, AUD, NZD, CHF...)
-- "title" = event title EXACTLY as written in the source article — copy verbatim, do not rephrase, do not translate. Critical for deduplication when both EU and US articles mention the same event.
-- "forecast" / "previous" = empty string "" if not provided
-- If an article is marked "ARTICLE NOT YET PUBLISHED", set its summary to "" and dockets to []
+PUCES :
+- Chaque puce commence par "• " et fait 15-25 mots
+- Sépare les puces par un retour à la ligne (\\n)
+- Garde les chiffres clés (niveaux indices, %, yields, prix matières)
+- Reste strictement factuel, n'invente aucun chiffre
+- Pas d'intro, pas de conclusion
 
-NOTE ON DEDUPLICATION: if the same event appears in both Morning Juice EU and Morning Juice US (e.g. UMich Final), include it ONLY ONCE — preferably from the US article since it's more recent. Use identical title spelling so the server can deduplicate.
+DOCKETS (UNIQUEMENT pour mj_eu) :
+- Extrais TOUS les events de la section "Docket" du Morning Juice EU
+- N'extrais RIEN pour wrap et mj_us (tableau vide)
+- "time_et" = heure ET au format "HH:MM" (5 chars)
+- "cur" = code 3 lettres (USD, GBP, EUR, CAD, JPY...)
+- "title" = titre en anglais EXACTEMENT comme écrit dans l'article
+- "forecast" / "previous" = "" si non fourni
+
+Si un article est marqué "ARTICLE NOT YET PUBLISHED", retourne {"summary": "", "dockets": []} pour cette clé.
 """
 
 # Note : article texts are concatenated after the template to avoid
@@ -404,14 +398,11 @@ def merge_with_existing(today_iso: str, new_data: dict) -> dict:
         if new_art and new_art.get("summary"):
             existing["articles"][key] = new_art
 
-    # Dockets: merge with strong dedup (signature-based)
-    all_dockets = (new_data["dockets"] or []) + (existing["dockets"] or [])
-    existing["dockets"] = _dedup_dockets(all_dockets)
-
-    existing["date"]    = today_iso
-    existing["date_fr"] = new_data["date_fr"]
-    existing["generated_at"] = datetime.now(PARIS).isoformat(timespec="seconds")
-    return existing
+    # Dockets : source unique = mj_eu. Si on a de nouveaux dockets, ils REMPLACENT
+    # les précédents (pas de merge). Sinon on garde les précédents.
+    if new_data.get("dockets"):
+        existing["dockets"] = new_data["dockets"]
+    # else: on garde existing["dockets"] tel quel
 
     existing["date"]    = today_iso
     existing["date_fr"] = new_data["date_fr"]
@@ -470,16 +461,27 @@ def main():
             "summary": sumdata["summary"],
         }
 
-    # Aggregate dockets from EU + US morning juice, convert to Paris time
-    raw_dockets = []
-    for key in ("mj_eu", "mj_us"):
+    # Dockets : SOURCE UNIQUE = Morning Juice US (le plus récent et complet).
+    # Pas de fusion EU+US, ce qui élimine les doublons par construction.
+    # Si mj_us pas encore publié, on retombe sur mj_eu en fallback.
+    docket_source = None
+    for key in ("mj_eu", "mj_us"):    # priorité EU (lecture du matin), fallback US
         art = articles.get(key)
         sumdata = summaries.get(key) or {}
-        ref_date = art["date"] if art else today_iso
-        raw_dockets.extend(enrich_dockets(sumdata.get("dockets", []) or [], ref_date))
+        if art and sumdata.get("dockets"):
+            docket_source = (key, art, sumdata)
+            break
 
-    # Dedup across mj_eu/mj_us (signature-based, robust to wording variations)
-    final_dockets = _dedup_dockets(raw_dockets)
+    if docket_source:
+        src_key, src_art, src_sum = docket_source
+        ref_date = src_art["date"]
+        raw_dockets = enrich_dockets(src_sum.get("dockets", []) or [], ref_date)
+        # Dedup quand même au cas où la même release apparaît 2x dans le même article
+        final_dockets = _dedup_dockets(raw_dockets)
+        print(f"  ✓ dockets source: {src_key} ({len(final_dockets)} releases)")
+    else:
+        final_dockets = []
+        print("  — no dockets available (no morning juice published yet)")
 
     new_data = {
         "date":     today_iso,
