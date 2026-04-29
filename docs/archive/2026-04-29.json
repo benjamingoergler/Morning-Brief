@@ -6,22 +6,30 @@
       "url": "https://features.financialjuice.com/2026/04/29/morning-juice-europe-session-prep-547/",
       "date": "2026-04-29",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Trump told aides to prepare for an extended US Naval blockade of the Strait of Hormuz.\n• US looks to intensify economic pressure on Iran as the war enters its third month.\n• Australia’s inflation remained above RBA’s 2-3% target due to higher fuel costs.\n• Elevated price pressures keep Australian policymakers on a tightening path.\n• UAE’s shock decision to quit OPEC blindsided partners, cartel fights for relevance.\n• UK could slip into recession, forced to hike rates if Middle East crisis worsens."
+      "summary": "• Le président Donald Trump a ordonné la préparation d'un blocus naval prolongé du détroit d'Ormuz pour intensifier la pression économique sur l'Iran."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/04/28/tech-selloff-hits-stocks-as-ai-doubts-resurface-us-market-wrap/",
       "date": "2026-04-28",
       "title": "Tech Selloff Hits Stocks as AI Doubts Resurface – US Market Wrap",
-      "summary": "• Stocks fell, yields rose, oil climbed above $111, and the dollar was steady.\n• Technology giants' selloff dragged equities lower amid AI investment return concerns.\n• S&P 500 pulled back from a record, Nasdaq 100 fell 1% ahead of key earnings.\n• Brent rose above $111 due to fears of a prolonged peace process closing Strait of Hormuz.\n• Fed expected to hold rates for a third meeting due to inflation and resilient labor market.\n• JPMorgan CEO Dimon warned of a potential credit downturn despite strong bank earnings."
+      "summary": "• Les actions ont chuté, les rendements ont augmenté, le pétrole a grimpé au-dessus de 111 $ et le dollar est resté stable, la pression sur la technologie pesant sur le sentiment."
     },
     "mj_us": {
       "url": "https://features.financialjuice.com/2026/04/29/morning-juice-us-session-prep-29th-april-2/",
       "date": "2026-04-29",
       "title": "Morning Juice – US Session Prep (29th April)",
-      "summary": "• Treasuries fluctuated, oil prices rose, and the dollar edged higher in early trading.\n• Brent crude climbed above $115 per barrel, reaching a four-week high.\n• Market sentiment is ahead of the Fed’s April rate decision today.\n• Key economic data includes US Durable Goods and Weekly EIA Crude Oil Inventories.\n• BoC Rate Decision and Statement are also scheduled for today.\n• Major tech earnings from Amazon, Google, Meta, Microsoft, Qualcomm are expected."
+      "summary": "• Les Treasuries ont fluctué, les prix du pétrole ont augmenté et le dollar s'est raffermi avant la décision de taux de la Fed."
     }
   },
   "dockets": [
+    {
+      "time_et": "08:30",
+      "time_cet": "14:30",
+      "cur": "US",
+      "title": "Biens durables pour mars (prél.)",
+      "forecast": "0.5%",
+      "previous": "-1.3%"
+    },
     {
       "time_et": "08:30",
       "time_cet": "14:30",
@@ -34,9 +42,33 @@
       "time_et": "09:45",
       "time_cet": "15:45",
       "cur": "CAD",
+      "title": "Décision de taux et déclaration de la BoC",
+      "forecast": "2.25%",
+      "previous": "2.25%"
+    },
+    {
+      "time_et": "09:45",
+      "time_cet": "15:45",
+      "cur": "CAD",
       "title": "BoC Rate Decision and Statement",
       "forecast": "2.25%",
       "previous": "2.25%"
+    },
+    {
+      "time_et": "10:30",
+      "time_cet": "16:30",
+      "cur": "US",
+      "title": "Stocks hebdomadaires de pétrole brut EIA",
+      "forecast": "-0.190M",
+      "previous": "1.925M"
+    },
+    {
+      "time_et": "10:30",
+      "time_cet": "16:30",
+      "cur": "CAD",
+      "title": "Conférence de presse de la BoC avec le gouverneur Macklem",
+      "forecast": "",
+      "previous": ""
     },
     {
       "time_et": "10:30",
@@ -49,11 +81,28 @@
     {
       "time_et": "14:00",
       "time_cet": "20:00",
+      "cur": "US",
+      "title": "Décision de taux et déclaration du FOMC",
+      "forecast": "3.75%",
+      "previous": "3.75%"
+    },
+    {
+      "time_et": "14:00",
+      "time_cet": "20:00",
       "cur": "USD",
       "title": "FOMC Rate Decision and Statement",
       "forecast": "3.75%",
       "previous": "3.75%"
+    },
+    {
+      "time_et": "14:30",
+      "time_cet": "20:30",
+      "cur": "US",
+      "title": "Conférence de presse du FOMC avec le président de la Fed, Powell",
+      "forecast": "",
+      "previous": ""
     }
   ],
-  "generated_at": "2026-04-29T14:56:33+02:00"
+  "generated_at": "2026-04-29T15:18:59+02:00",
+  "big_news": "• Les tensions au Moyen-Orient s'intensifient avec la menace d'un blocus naval américain du détroit d'Ormuz, poussant le Brent au-dessus de 111 $ et faisant craindre une récession au Royaume-Uni."
 }
