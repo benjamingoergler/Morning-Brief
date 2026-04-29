@@ -151,29 +151,35 @@ def fetch_fj_articles() -> dict:
 
 
 # ── Gemini summarisation ──────────────────────────────────────────
-SUMMARY_PROMPT = """You are the morning briefing assistant for an NQ futures trader. Below are 3 articles from Financial Juice. For each article, produce:
+SUMMARY_PROMPT = """You are the morning briefing assistant for an NQ futures (Nasdaq 100) trader. Below are 3 articles from Financial Juice. For each article, produce:
 
-1. **summary**: a faithful rendering of the article content in bullet form, preserving ALL the original detail
-2. **dockets** (Morning Juice articles only): the economic events listed in the "Docket" section
+1. **summary**: a SYNTHETIC summary in 5-7 bullets — NOT a translation, NOT a paragraph-by-paragraph rendering
+2. **dockets** (Morning Juice articles only): ONLY the high-impact economic releases that actually move US indices
 
 RULES FOR THE SUMMARY:
-- Output language: ENGLISH, same as the source articles
-- This is NOT a condensed summary — it's a structured rendering of the full article
-- Cover EVERY topic discussed in the article: do not drop anything, do not synthesize, do not editorialize
-- If the article has 8 paragraphs or 10 themes, your summary covers the 8 paragraphs or 10 themes
-- Format: bullet points, one bullet per topic/paragraph
-- IMPORTANT FORMATTING: each bullet MUST start with "• " (U+2022 bullet character followed by a space)
-- IMPORTANT FORMATTING: separate bullets with a real newline character (\\n)
-- Keep ALL numbers verbatim: index levels, yields, commodity prices, percentages, dates
-- Stay strictly factual — do not invent any number, do not add interpretation
+- Output language: ENGLISH
+- This is a synthesis: capture the ESSENCE in 5-7 dense bullets, not 15+ bullets covering every paragraph
+- Each bullet = one key idea, 15-25 words, packed with concrete numbers
+- Prioritize what matters for an NQ trader: equity indices moves, yields, Fed/central banks, oil if extreme, geopolitics if market-moving, key earnings, key macro releases
+- DROP fluff: routine analyst chatter, generic outlook commentary, marginal sectors, individual small caps unless mentioned as relevant
+- Keep ALL hard numbers in the bullets you produce (index levels, %, yields, prices) — but discard whole topics that aren't market-moving
+- Format: each bullet starts with "• " (U+2022 + space), separated by newlines (\\n)
+- Stay strictly factual — no invention, no editorializing
 - No intro, no conclusion — bullets only
 
 RULES FOR DOCKETS:
+- ONLY include releases that are HIGH IMPACT for US indices. This means:
+  * **Always include**: FOMC decisions, FOMC minutes, Fed Chair speeches, CPI, PPI, PCE, NFP/Non-Farm Payrolls, Unemployment Rate, Retail Sales (US/UK/Germany), GDP, ISM Manufacturing/Services, S&P Global PMI Manufacturing/Services, Initial Jobless Claims, ECB/BoE/BoJ rate decisions, German IFO, Eurozone CPI flash, JOLTS
+  * **Exclude**: Consumer Confidence indices (UMich is borderline — keep it ONLY if final/preliminary release), housing data unless headline (Building Permits, Pending Home Sales — exclude), inventories, regional Fed surveys (Empire State, Philly Fed — exclude), trade balance, capital flows, secondary sectors
+- Use your judgment: if you're not sure a release moves NQ futures by ≥0.3% historically, exclude it
+- Better fewer high-quality dockets than many low-impact ones
 - "time_et" = original ET time as "HH:MM" (5 chars), I'll convert to local time on the server
 - "cur" = 3-letter currency code (GBP, EUR, USD, CAD, JPY, AUD, NZD, CHF...)
-- "title" = event title EXACTLY as written in the source article — copy verbatim, do not rephrase, do not translate. This is critical for deduplication when both EU and US articles mention the same event.
+- "title" = event title EXACTLY as written in the source article — copy verbatim, do not rephrase, do not translate. Critical for deduplication when both EU and US articles mention the same event.
 - "forecast" / "previous" = empty string "" if not provided
 - If an article is marked "ARTICLE NOT YET PUBLISHED", set its summary to "" and dockets to []
+
+NOTE ON DEDUPLICATION: if the same event appears in both Morning Juice EU and Morning Juice US (e.g. UMich Final), include it ONLY ONCE — preferably from the US article since it's more recent. Use identical title spelling so the server can deduplicate.
 """
 
 # Note : article texts are concatenated after the template to avoid
@@ -320,14 +326,60 @@ def enrich_dockets(dockets: list[dict], ref_date: str) -> list[dict]:
 
 
 # ── Persistence ───────────────────────────────────────────────────
-def _norm_title(t: str) -> str:
-    """Normalize titles for dedup: lowercase, collapse whitespace, strip punctuation noise."""
+# Stop-words ignorés pour le dédoublonnage des dockets : ne portent pas
+# l'identité de l'event (articles, prépositions, suffixes Final/Prelim).
+_DEDUP_STOP = {
+    "the", "a", "an", "of", "for", "and", "or", "at", "in", "on", "to",
+    "from", "by", "with", "vs", "v", "yoy", "mom", "qoq", "wow",
+    "pct", "final", "preliminary", "flash", "prelim",
+}
+
+# Synonymes pour fusionner les variantes orthographiques courantes.
+# Mappe word_in_title → canonical_form. Empty string = drop the word.
+_DEDUP_SYNONYMS = {
+    "u": "", "mich": "umich",            # U-Mich / U Mich → UMich
+    "german": "germany",                 # German IFO ↔ IFO Germany
+    "mfg": "manufacturing",              # Mfg PMI ↔ Manufacturing PMI
+    "svc": "services", "svcs": "services",
+    "nfp": "payrolls", "nonfarm": "payrolls",
+    "fomc": "fed", "fed": "fed",
+    "boe": "boe", "boj": "boj", "ecb": "ecb",
+}
+
+
+def _docket_signature(d: dict) -> tuple:
+    """Build a hash key for docket dedup, robust to wording variations.
+
+    Two dockets are considered equal if they share:
+      - same currency,
+      - same 5-min time bucket (handles ±5min imprecision),
+      - same set of significant words in the title (with synonyms applied).
+    """
     import unicodedata
-    t = unicodedata.normalize("NFKD", t)
+    t = unicodedata.normalize("NFKD", d.get("title", ""))
     t = "".join(c for c in t if not unicodedata.combining(c))
     t = re.sub(r"[^\w\s]", " ", t.lower())
-    t = re.sub(r"\s+", " ", t).strip()
-    return t
+    words_raw = [_DEDUP_SYNONYMS.get(w, w) for w in t.split()]
+    words = frozenset(w for w in words_raw if w and w not in _DEDUP_STOP and len(w) >= 2)
+
+    time_str = d.get("time_cet", "00:00")
+    try:
+        h, m = time_str.split(":")
+        bucket = f"{h}:{(int(m) // 5) * 5:02d}"
+    except Exception:
+        bucket = time_str
+
+    return (d.get("cur", ""), bucket, words)
+
+
+def _dedup_dockets(dockets: list[dict]) -> list[dict]:
+    """Dedup a list of dockets, keeping the first occurrence of each signature."""
+    seen = {}
+    for d in dockets:
+        sig = _docket_signature(d)
+        if sig not in seen:
+            seen[sig] = d
+    return sorted(seen.values(), key=lambda x: x.get("time_cet", "99:99"))
 
 
 def merge_with_existing(today_iso: str, new_data: dict) -> dict:
@@ -352,13 +404,14 @@ def merge_with_existing(today_iso: str, new_data: dict) -> dict:
         if new_art and new_art.get("summary"):
             existing["articles"][key] = new_art
 
-    # Dockets : merge unique par (time_cet, normalized title), prefer fresh ones
-    seen = {}
-    for d in (new_data["dockets"] or []) + (existing["dockets"] or []):
-        key = (d["time_cet"], _norm_title(d["title"]))
-        if key not in seen:
-            seen[key] = d
-    existing["dockets"] = sorted(seen.values(), key=lambda x: x["time_cet"])
+    # Dockets: merge with strong dedup (signature-based)
+    all_dockets = (new_data["dockets"] or []) + (existing["dockets"] or [])
+    existing["dockets"] = _dedup_dockets(all_dockets)
+
+    existing["date"]    = today_iso
+    existing["date_fr"] = new_data["date_fr"]
+    existing["generated_at"] = datetime.now(PARIS).isoformat(timespec="seconds")
+    return existing
 
     existing["date"]    = today_iso
     existing["date_fr"] = new_data["date_fr"]
@@ -425,13 +478,8 @@ def main():
         ref_date = art["date"] if art else today_iso
         raw_dockets.extend(enrich_dockets(sumdata.get("dockets", []) or [], ref_date))
 
-    # Dedupe across mj_eu/mj_us (some events may appear in both)
-    seen = {}
-    for d in raw_dockets:
-        key = (d["time_cet"], _norm_title(d["title"]))
-        if key not in seen:
-            seen[key] = d
-    final_dockets = sorted(seen.values(), key=lambda x: x["time_cet"])
+    # Dedup across mj_eu/mj_us (signature-based, robust to wording variations)
+    final_dockets = _dedup_dockets(raw_dockets)
 
     new_data = {
         "date":     today_iso,
