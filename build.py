@@ -236,16 +236,52 @@ def summarize_all(articles: dict) -> dict:
         "required": ["big_news", "mj_eu", "wrap", "mj_us"],
     }
 
-    resp = client.models.generate_content(
-        model=GEMINI_MODEL,
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            response_mime_type="application/json",
-            response_schema=response_schema,
-            max_output_tokens=8000,
-            temperature=0.3,
-        ),
+    config = types.GenerateContentConfig(
+        response_mime_type="application/json",
+        response_schema=response_schema,
+        max_output_tokens=8000,
+        temperature=0.3,
     )
+
+    # Retry avec backoff exponentiel : 5s, 15s, 45s, 90s
+    # Couvre les 503 UNAVAILABLE (saturation Google) et 429 RESOURCE_EXHAUSTED.
+    # Si après 4 tentatives on échoue toujours, on fallback sur Flash-Lite
+    # qui a une charge plus faible — qualité un peu moindre mais résultat utilisable.
+    import time as _time
+    MODELS_TO_TRY = [GEMINI_MODEL, "gemini-2.5-flash-lite"]
+    DELAYS = [5, 15, 45, 90]
+    last_err = None
+
+    resp = None
+    for model in MODELS_TO_TRY:
+        for attempt, delay in enumerate([0] + DELAYS):
+            if delay:
+                print(f"  ⏳ retry in {delay}s (attempt {attempt}/{len(DELAYS)} on {model})…")
+                _time.sleep(delay)
+            try:
+                resp = client.models.generate_content(
+                    model=model,
+                    contents=prompt,
+                    config=config,
+                )
+                if model != GEMINI_MODEL:
+                    print(f"  ✓ succeeded on fallback model {model}")
+                break
+            except Exception as e:
+                last_err = e
+                msg = str(e)
+                # Retry uniquement sur erreurs transitoires
+                if "503" in msg or "UNAVAILABLE" in msg or "429" in msg or "RESOURCE_EXHAUSTED" in msg:
+                    continue
+                # Autre erreur (auth, schéma, etc.) — pas la peine de retry
+                raise
+        if resp is not None:
+            break
+
+    if resp is None:
+        print(f"  ! All retries exhausted, last error: {last_err}")
+        raise last_err
+
     raw = resp.text.strip()
 
     try:
