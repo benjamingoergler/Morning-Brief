@@ -182,17 +182,10 @@ Règles pour les dockets :
 - Si un article est marqué "ARTICLE PAS ENCORE PUBLIÉ", mets {"summary": "", "dockets": []} pour cette clé
 - Réutilise le titre exact de l'event tel qu'écrit dans l'article
 
-ARTICLES :
-
-=== MORNING JUICE EU ===
-{mj_eu_text}
-
-=== US MARKET WRAP ===
-{wrap_text}
-
-=== MORNING JUICE US ===
-{mj_us_text}
 """
+
+# Note : le texte des articles est concaténé après coup pour éviter
+# les conflits entre str.format() et les accolades JSON du schéma.
 
 
 def summarize_all(articles: dict) -> dict:
@@ -205,10 +198,12 @@ def summarize_all(articles: dict) -> dict:
         a = articles.get(key)
         return a["text"][:10000] if a else "ARTICLE PAS ENCORE PUBLIÉ"
 
-    prompt = SUMMARY_PROMPT.format(
-        mj_eu_text=text_of("mj_eu"),
-        wrap_text=text_of("wrap"),
-        mj_us_text=text_of("mj_us"),
+    prompt = (
+        SUMMARY_PROMPT
+        + "\n\nARTICLES :\n\n"
+        + "=== MORNING JUICE EU ===\n" + text_of("mj_eu") + "\n\n"
+        + "=== US MARKET WRAP ===\n"   + text_of("wrap")  + "\n\n"
+        + "=== MORNING JUICE US ===\n" + text_of("mj_us") + "\n"
     )
 
     print(f"→ Calling Gemini ({GEMINI_MODEL})…")
