@@ -208,12 +208,45 @@ def summarize_all(articles: dict) -> dict:
 
     print(f"→ Calling Gemini ({GEMINI_MODEL})…")
     client = genai.Client(api_key=api_key)
+
+    # Schéma JSON strict imposé à Gemini : la sortie est garantie de matcher,
+    # ce qui élimine les ennuis de troncature mid-string et de format libre.
+    docket_schema = {
+        "type": "object",
+        "properties": {
+            "time_et":  {"type": "string"},
+            "cur":      {"type": "string"},
+            "title":    {"type": "string"},
+            "forecast": {"type": "string"},
+            "previous": {"type": "string"},
+        },
+        "required": ["time_et", "cur", "title", "forecast", "previous"],
+    }
+    article_schema = {
+        "type": "object",
+        "properties": {
+            "summary": {"type": "string"},
+            "dockets": {"type": "array", "items": docket_schema},
+        },
+        "required": ["summary", "dockets"],
+    }
+    response_schema = {
+        "type": "object",
+        "properties": {
+            "mj_eu": article_schema,
+            "wrap":  article_schema,
+            "mj_us": article_schema,
+        },
+        "required": ["mj_eu", "wrap", "mj_us"],
+    }
+
     resp = client.models.generate_content(
         model=GEMINI_MODEL,
         contents=prompt,
         config=types.GenerateContentConfig(
             response_mime_type="application/json",
-            max_output_tokens=2500,
+            response_schema=response_schema,
+            max_output_tokens=8000,
             temperature=0.3,
         ),
     )
@@ -223,7 +256,7 @@ def summarize_all(articles: dict) -> dict:
         data = json.loads(raw)
     except json.JSONDecodeError as e:
         print(f"  ! JSON parse error: {e}")
-        print(f"  Response was:\n{raw[:1500]}")
+        print(f"  Response was:\n{raw[:2000]}")
         raise
 
     print("  ✓ done")
