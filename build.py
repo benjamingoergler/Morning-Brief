@@ -151,31 +151,33 @@ def fetch_fj_articles() -> dict:
 
 
 # ── Gemini summarisation ──────────────────────────────────────────
-SUMMARY_PROMPT = """Tu es l'assistant d'un trader NQ futures basé en Suisse francophone. Voici 3 articles de Financial Juice (rédigés en anglais). Tu produis :
+SUMMARY_PROMPT = """You are the morning briefing assistant for an NQ futures trader. Below are 3 articles from Financial Juice. For each article, produce:
 
-1. **summary** par article : un résumé en français préservant TOUT le niveau de détail de l'article original
-2. **dockets** (Morning Juice uniquement) : events économiques listés dans la section "Docket"
+1. **summary**: a faithful rendering of the article content in bullet form, preserving ALL the original detail
+2. **dockets** (Morning Juice articles only): the economic events listed in the "Docket" section
 
-RÈGLES POUR LE SUMMARY :
-- Tu TRADUIS l'article en français — tu ne le résumes PAS ni ne le condenses
-- Couvre TOUS les sujets abordés dans l'article : ne supprime rien, ne synthétise rien
-- Si l'article a 8 paragraphes ou 10 thèmes, ton summary couvre les 8 paragraphes ou 10 thèmes
-- Format en puces : chaque puce commence par "• " (point médiant + espace), une puce par sujet/paragraphe
-- Garde TOUS les chiffres : niveaux d'indices, yields, prix matières, pourcentages, dates
-- Garde les noms propres et acronymes en VO : Trump, Fed, OPEC, Brent, WTI, S&P 500, NDX, DXY, IFO, UMich, BoE, BoJ, ECB, etc.
-- Reste strictement factuel — n'invente AUCUN chiffre, n'ajoute AUCUNE interprétation
-- Pas d'intro, pas de conclusion, directement les puces
+RULES FOR THE SUMMARY:
+- Output language: ENGLISH, same as the source articles
+- This is NOT a condensed summary — it's a structured rendering of the full article
+- Cover EVERY topic discussed in the article: do not drop anything, do not synthesize, do not editorialize
+- If the article has 8 paragraphs or 10 themes, your summary covers the 8 paragraphs or 10 themes
+- Format: bullet points, one bullet per topic/paragraph
+- IMPORTANT FORMATTING: each bullet MUST start with "• " (U+2022 bullet character followed by a space)
+- IMPORTANT FORMATTING: separate bullets with a real newline character (\\n)
+- Keep ALL numbers verbatim: index levels, yields, commodity prices, percentages, dates
+- Stay strictly factual — do not invent any number, do not add interpretation
+- No intro, no conclusion — bullets only
 
-RÈGLES POUR LES DOCKETS :
-- "time_et" = heure ET d'origine au format "HH:MM" sur 5 caractères, je convertirai côté serveur
-- "cur" = code currency 3 lettres (GBP, EUR, USD, CAD, JPY, AUD, NZD, CHF...)
-- "title" = titre de l'event en ANGLAIS, EXACTEMENT tel qu'écrit dans l'article (ne traduis pas, ne reformule pas — copie le titre original mot pour mot pour permettre le dédoublonnage entre articles EU et US)
-- Si "forecast" ou "previous" sont vides, mets ""
-- Si un article est marqué "ARTICLE PAS ENCORE PUBLIÉ", mets une chaîne vide pour son summary et un tableau vide pour ses dockets
+RULES FOR DOCKETS:
+- "time_et" = original ET time as "HH:MM" (5 chars), I'll convert to local time on the server
+- "cur" = 3-letter currency code (GBP, EUR, USD, CAD, JPY, AUD, NZD, CHF...)
+- "title" = event title EXACTLY as written in the source article — copy verbatim, do not rephrase, do not translate. This is critical for deduplication when both EU and US articles mention the same event.
+- "forecast" / "previous" = empty string "" if not provided
+- If an article is marked "ARTICLE NOT YET PUBLISHED", set its summary to "" and dockets to []
 """
 
-# Note : le texte des articles est concaténé après coup pour éviter
-# les conflits entre str.format() et les accolades JSON du schéma.
+# Note : article texts are concatenated after the template to avoid
+# str.format() conflicts with the JSON schema's curly braces.
 
 
 def summarize_all(articles: dict) -> dict:
@@ -186,11 +188,11 @@ def summarize_all(articles: dict) -> dict:
 
     def text_of(key: str) -> str:
         a = articles.get(key)
-        return a["text"][:10000] if a else "ARTICLE PAS ENCORE PUBLIÉ"
+        return a["text"][:10000] if a else "ARTICLE NOT YET PUBLISHED"
 
     prompt = (
         SUMMARY_PROMPT
-        + "\n\nARTICLES :\n\n"
+        + "\n\nARTICLES:\n\n"
         + "=== MORNING JUICE EU ===\n" + text_of("mj_eu") + "\n\n"
         + "=== US MARKET WRAP ===\n"   + text_of("wrap")  + "\n\n"
         + "=== MORNING JUICE US ===\n" + text_of("mj_us") + "\n"
