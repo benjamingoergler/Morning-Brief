@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/04/30/morning-juice-europe-session-prep-548/",
       "date": "2026-04-30",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• L'économie américaine dépendra davantage des dépenses gouvernementales et des entreprises en 2026 en raison de l'inflation post-guerre Iran.\n• Le pétrole Brent atteint son plus haut niveau en quatre ans suite à la pression accrue des États-Unis sur l'Iran et au blocus naval.\n• Donald Trump maintiendra le blocus naval des ports iraniens jusqu'à un accord sur le programme nucléaire, exacerbant la crise énergétique mondiale.\n• Jerome Powell restera gouverneur de la Fed après la fin de son mandat de président, mettant fin aux spéculations.\n• Les données économiques européennes incluent les PIB et l'IPC pour la France, l'Allemagne et la zone Euro, ainsi que les ventes au détail allemandes.\n• La Banque d'Angleterre (BoE) et la Banque Centrale Européenne (BCE) annonceront leurs décisions de taux et tiendront des conférences de presse aujourd'hui."
+      "summary": "• La guerre en Iran pousse l'économie américaine à dépendre davantage des dépenses gouvernementales et des entreprises en 2026.\n• Le pétrole grimpe à son plus haut niveau depuis quatre ans suite à la pression accrue des États-Unis sur l'Iran.\n• Donald Trump maintient le blocus naval de l'Iran jusqu'à un accord sur le programme nucléaire, exacerbant la crise énergétique mondiale.\n• Jerome Powell restera gouverneur de la Fed après la fin de son mandat de président, mettant fin aux spéculations.\n• Les données économiques européennes incluent le PIB et l'IPC pour la France, l'Allemagne et la zone euro, ainsi que les ventes au détail allemandes.\n• La Banque d'Angleterre (BoE) et la Banque Centrale Européenne (BCE) annonceront leurs décisions de taux et tiendront des conférences de presse aujourd'hui."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/04/29/stocks-waver-as-fed-holds-rates-and-iran-war-clouds-outlook-us-market-wrap/",
       "date": "2026-04-29",
       "title": "Stocks Waver as Fed Holds Rates and Iran War Clouds Outlook – US Market Wrap",
-      "summary": "• Wall Street a connu des fluctuations, les actions baissant et les obligations diminuant après que la Fed a maintenu ses taux inchangés.\n• La guerre en Iran ajoute une incertitude économique significative, les traders abandonnant les espoirs de baisse de taux pour cette année.\n• Le Brent a atteint son plus haut niveau depuis 2022, les traders anticipant une possible hausse des taux en 2027.\n• Le rendement des bons du Trésor à 10 ans a atteint un sommet d'un mois, tandis que la plupart des actions du S&P 500 ont reculé.\n• Meta a chuté après avoir relevé ses prévisions de dépenses, tandis qu'Alphabet a progressé suite à des ventes supérieures aux attentes.\n• Jerome Powell restera gouverneur de la Fed après la fin de son mandat de président, suite à l'abandon de l'enquête du ministère de la Justice."
+      "summary": "• Wall Street a connu des fluctuations, les actions baissant après que la Fed a maintenu ses taux inchangés, soulignant l'incertitude économique due à la guerre en Iran.\n• Le Brent a atteint son plus haut niveau depuis 2022, entraînant une réévaluation des attentes de baisse de taux et une possible hausse en 2027.\n• Le rendement des bons du Trésor à 10 ans a atteint un sommet mensuel, tandis que la plupart des actions du S&P 500 ont reculé.\n• La Fed a ajusté sa déclaration pour refléter l'incertitude accrue, tout en maintenant le langage sur les futures modifications de taux.\n• Des divisions sont apparues au sein de la Fed, certains soutenant le statu quo et d'autres plaidant pour une baisse des taux.\n• Jerome Powell restera gouverneur de la Fed après la fin de son mandat de président, suite à l'abandon de l'enquête du ministère de la Justice."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/04/30/morning-juice-us-session-prep-30th-april-2/",
+      "date": "2026-04-30",
+      "title": "Morning Juice – US Session Prep (30th April)",
+      "summary": "• Le dollar et les rendements des bons du Trésor ont baissé suite au recul du Brent, l'attention se portant sur les données américaines (PCE, jobless claims, PIB Q1).\n• La décision de la Fed a mis en évidence des divisions croissantes concernant les perspectives de politique monétaire.\n• Les données attendues incluent l'indice des prix PCE, les dépenses de consommation et le PIB du premier trimestre.\n• Les inscriptions hebdomadaires au chômage sont attendues en légère baisse, tandis que les créations d'emplois NFP sont également surveillées.\n• Jerome Powell restera gouverneur de la Fed, suite à l'abandon de l'enquête du ministère de la Justice.\n• Les résultats d'entreprises de RIVN et AAPL sont attendus après la clôture."
+    }
   },
   "dockets": [
     {
@@ -122,14 +127,6 @@
       "previous": ""
     },
     {
-      "time_et": "08:15",
-      "time_cet": "14:15",
-      "cur": "EUR",
-      "title": "ECB Rate Statement",
-      "forecast": "",
-      "previous": ""
-    },
-    {
       "time_et": "08:45",
       "time_cet": "14:45",
       "cur": "EUR",
@@ -138,5 +135,5 @@
       "previous": ""
     }
   ],
-  "generated_at": "2026-04-30T10:43:42+02:00"
+  "generated_at": "2026-04-30T17:16:13+02:00"
 }
