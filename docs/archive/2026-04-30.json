@@ -1,0 +1,150 @@
+{
+  "date": "2026-04-30",
+  "date_fr": "Jeudi 30 avril 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/04/30/morning-juice-europe-session-prep-548/",
+      "date": "2026-04-30",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• L'économie américaine dépendra davantage des dépenses gouvernementales et des entreprises d'ici 2026, l'inflation liée à la guerre en Iran affectant les consommateurs.\n• Le pétrole a grimpé à son plus haut niveau en près de quatre ans, les États-Unis intensifiant la pression sur l'Iran et maintenant le blocus naval.\n• Le président Trump ne lèvera pas le blocus naval des ports iraniens sans un accord sur le programme nucléaire, prolongeant la crise énergétique mondiale.\n• La confrontation dans le détroit d'Ormuz a provoqué une crise énergétique mondiale, sans signe d'apaisement de la part des États-Unis.\n• Jerome Powell restera gouverneur de la Réserve fédérale après la fin de son mandat de président, mettant fin aux spéculations."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/04/29/stocks-waver-as-fed-holds-rates-and-iran-war-clouds-outlook-us-market-wrap/",
+      "date": "2026-04-29",
+      "title": "Stocks Waver as Fed Holds Rates and Iran War Clouds Outlook – US Market Wrap",
+      "summary": "• Wall Street a connu des fluctuations boursières et une baisse des obligations après que la Fed ait maintenu ses taux inchangés, citant l'incertitude iranienne.\n• La Fed a averti que le conflit au Moyen-Orient ajoute une incertitude significative aux perspectives économiques, sans changement de langage sur les taux.\n• Le Brent a atteint son plus haut niveau depuis 2022, les traders abandonnant les attentes de baisse de taux pour 2024 et anticipant une hausse en 2027.\n• Le rendement du Trésor à 10 ans a grimpé à un plus haut d'un mois, tandis que la plupart des actions du S&P 500 ont reculé.\n• Meta a glissé après avoir relevé ses prévisions de dépenses, tandis qu'Alphabet a gagné après des ventes supérieures aux attentes.\n• Jerome Powell a confirmé qu'il restera gouverneur de la Fed après la fin de son mandat de président, suite à l'abandon d'une enquête."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "01:30",
+      "time_cet": "07:30",
+      "cur": "EUR",
+      "title": "French GDP QoQ",
+      "forecast": "0.2%",
+      "previous": "0.2%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Real Retail Sales YoY",
+      "forecast": "0.5%",
+      "previous": "0.6%"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French CPI YoY",
+      "forecast": "2%",
+      "previous": "1.7%"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French HICP YoY",
+      "forecast": "2.3%",
+      "previous": "2%"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German Unemployment Rate",
+      "forecast": "6.3%",
+      "previous": "6.3"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German Unemployment Change",
+      "forecast": "4.3K",
+      "previous": "0K"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "German GDP QoQ",
+      "forecast": "0.1%",
+      "previous": "0.3%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone GDP QoQ",
+      "forecast": "0.2%",
+      "previous": "0.2%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone CPI YoY",
+      "forecast": "3%",
+      "previous": "2.6%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone Core YoY",
+      "forecast": "2.2%",
+      "previous": "2.3%"
+    },
+    {
+      "time_et": "07:00",
+      "time_cet": "13:00",
+      "cur": "GBP",
+      "title": "BoE Bank Rate",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "07:00",
+      "time_cet": "13:00",
+      "cur": "GBP",
+      "title": "BoE Rate Statement",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "07:30",
+      "time_cet": "13:30",
+      "cur": "GBP",
+      "title": "BoE Press Conference",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "08:15",
+      "time_cet": "14:15",
+      "cur": "EUR",
+      "title": "ECB Rate Decision",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "08:15",
+      "time_cet": "14:15",
+      "cur": "EUR",
+      "title": "ECB Rate Statement",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "08:45",
+      "time_cet": "14:45",
+      "cur": "EUR",
+      "title": "ECB Press Conference",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-04-30T09:08:16+02:00"
+}
