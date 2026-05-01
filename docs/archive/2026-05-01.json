@@ -1,0 +1,46 @@
+{
+  "date": "2026-05-01",
+  "date_fr": "Vendredi 1 mai 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/05/01/morning-juice-europe-session-prep-549/",
+      "date": "2026-05-01",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le rallye du yen, alimenté par l'intervention, risque de s'évaporer rapidement, augmentant la probabilité d'une nouvelle intervention japonaise.\n• Donald Trump maintient le blocus naval des ports iraniens, suscitant des inquiétudes quant à la réouverture du détroit d'Ormuz.\n• Le pétrole maintient son deuxième gain hebdomadaire en raison de la position de Trump sur les ports iraniens.\n• Le nouveau président de la Fed, Kevin Warsh, fait face à un dilemme entre les demandes de la Maison Blanche et les sceptiques.\n• Les Treasuries ont augmenté alors que la flambée des prix du pétrole s'est stabilisée; les rendements à 30 ans ont dépassé 5%."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/04/30/stocks-cap-best-month-since-2020-as-strong-growth-fuels-earnings-optimism-us-market-wrap/",
+      "date": "2026-04-30",
+      "title": "Stocks Cap Best Month Since 2020 as Strong Growth Fuels Earnings Optimism – US Market Wrap",
+      "summary": "• La résilience de l'économie américaine a stimulé la confiance dans les bénéfices, propulsant les actions à leur meilleure performance mensuelle depuis fin 2020.\n• Le S&P 500 a étendu son rallye d'avril à 10%, atteignant de nouveaux sommets, soutenu par une croissance américaine accélérée.\n• La croissance a été principalement tirée par l'IA et l'investissement des entreprises; les petites capitalisations ont grimpé de 2,2%.\n• La baisse des prix du pétrole a amélioré le sentiment et soutenu les obligations; le yen s'est renforcé suite à l'intervention japonaise.\n• Apple a rapporté des ventes solides après la clôture; l'IA reste un moteur clé, avec Google montrant de meilleurs retours que Meta."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Nationwide House Prices YoY",
+      "forecast": "2.2%",
+      "previous": "2.2%"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK S&P Maufacturing PMI",
+      "forecast": "53.3",
+      "previous": "53.6"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "BoE Consumer Credit",
+      "forecast": "4.2B",
+      "previous": "4.8B"
+    }
+  ],
+  "generated_at": "2026-05-01T10:29:40+02:00"
+}
