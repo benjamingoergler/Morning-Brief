@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/05/01/morning-juice-europe-session-prep-549/",
       "date": "2026-05-01",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le rallye du yen, alimenté par l'intervention, risque de s'évaporer rapidement, augmentant la probabilité d'une nouvelle intervention japonaise.\n• Donald Trump maintient le blocus naval des ports iraniens, suscitant des inquiétudes quant à la réouverture du détroit d'Ormuz.\n• Le pétrole maintient son deuxième gain hebdomadaire en raison de la position de Trump sur les ports iraniens.\n• Le nouveau président de la Fed, Kevin Warsh, fait face à un dilemme entre les demandes de la Maison Blanche et les sceptiques.\n• Les Treasuries ont augmenté alors que la flambée des prix du pétrole s'est stabilisée; les rendements à 30 ans ont dépassé 5%."
+      "summary": "• Le rallye du yen, alimenté par l'intervention, risque de s'évaporer, augmentant la probabilité d'une nouvelle intervention japonaise sur le marché.\n• Le président Donald Trump maintient le blocus naval des ports iraniens, suscitant des inquiétudes quant à la réouverture du détroit d'Ormuz.\n• Le pétrole maintient son deuxième gain hebdomadaire, soutenu par la position de Trump et les préoccupations concernant le détroit d'Ormuz.\n• Le nouveau président de la Fed, Kevin Warsh, fait face à un dilemme entre les demandes de la Maison Blanche et les sceptiques de la politique monétaire.\n• Les Treasuries ont augmenté alors que la flambée des prix du pétrole s'est stabilisée, les rendements à 30 ans dépassant 5% pour la première fois."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/04/30/stocks-cap-best-month-since-2020-as-strong-growth-fuels-earnings-optimism-us-market-wrap/",
       "date": "2026-04-30",
       "title": "Stocks Cap Best Month Since 2020 as Strong Growth Fuels Earnings Optimism – US Market Wrap",
-      "summary": "• La résilience de l'économie américaine a stimulé la confiance dans les bénéfices, propulsant les actions à leur meilleure performance mensuelle depuis fin 2020.\n• Le S&P 500 a étendu son rallye d'avril à 10%, atteignant de nouveaux sommets, soutenu par une croissance américaine accélérée.\n• La croissance a été principalement tirée par l'IA et l'investissement des entreprises; les petites capitalisations ont grimpé de 2,2%.\n• La baisse des prix du pétrole a amélioré le sentiment et soutenu les obligations; le yen s'est renforcé suite à l'intervention japonaise.\n• Apple a rapporté des ventes solides après la clôture; l'IA reste un moteur clé, avec Google montrant de meilleurs retours que Meta."
+      "summary": "• La résilience de l'économie américaine a renforcé la confiance dans les bénéfices, propulsant les actions à leur meilleure performance mensuelle depuis fin 2020.\n• Le S&P 500 a prolongé son rallye d'avril à 10%, atteignant de nouveaux sommets grâce à la croissance américaine tirée par l'IA.\n• Les petites capitalisations ont grimpé de 2,2%, reflétant le dynamisme économique domestique; la baisse du pétrole a soutenu les obligations.\n• Le yen s'est renforcé suite aux rapports d'intervention japonaise; Apple a annoncé des ventes solides après la clôture du marché.\n• L'intelligence artificielle est restée un moteur clé au T1, compensant la pression de l'inflation liée à la guerre.\n• Les consommateurs ont continué à dépenser, renforçant l'optimisme sur les bénéfices; Google a montré des retours sur l'IA, Meta semblait en retard."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/05/01/morning-juice-us-session-prep-1st-may-2/",
+      "date": "2026-05-01",
+      "title": "Morning Juice – US Session Prep (1st May)",
+      "summary": "• Les futures US ont montré un mouvement limité vendredi, marquant une pause après le rallye des indices Wall Street vers des records.\n• Les futures S&P 500 ont augmenté de 0,1%, tandis que les futures Nasdaq 100 ont baissé de 0,2% après des clôtures record jeudi.\n• Apple a gagné plus de 3% en pré-marché suite à des prévisions de revenus plus fortes qu'attendu, stimulant le sentiment.\n• La plupart des marchés européens étaient fermés pour le 1er mai; le FTSE 100 a chuté de 0,6%, plombé par NatWest (-4,7%).\n• Le yen a évolué dans une fourchette étroite après une hausse de 0,7% contre le dollar suite à l'intervention des autorités japonaises.\n• Le pétrole est en voie pour un deuxième gain hebdomadaire, avec le Brent au-dessus de 111$ et le WTI au-dessus de 105$."
+    }
   },
   "dockets": [
     {
@@ -42,5 +47,5 @@
       "previous": "4.8B"
     }
   ],
-  "generated_at": "2026-05-01T10:29:40+02:00"
+  "generated_at": "2026-05-01T16:18:54+02:00"
 }
