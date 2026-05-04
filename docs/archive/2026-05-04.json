@@ -1,0 +1,46 @@
+{
+  "date": "2026-05-04",
+  "date_fr": "Lundi 4 mai 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/05/04/morning-juice-europe-session-prep-550/",
+      "date": "2026-05-04",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Trump annonce que les États-Unis guideront des navires neutres hors du détroit d'Ormuz à partir de lundi.\n• Le secrétaire au Trésor Scott Bessent affirme que les États-Unis \"étouffent\" l'Iran avec des pressions économiques et financières.\n• Le pétrole se stabilise, les traders doutant de l'efficacité du plan de Trump concernant le détroit d'Ormuz.\n• Un pétrolier aurait été touché dans le détroit, ajoutant à l'incertitude au Moyen-Orient.\n• Les actions asiatiques sont proches de niveaux records grâce aux bénéfices solides des entreprises technologiques.\n• Les efforts pour mettre fin à la guerre en Iran se poursuivent, Trump jugeant la proposition de paix iranienne insuffisante."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/05/01/stocks-cap-longest-weekly-rally-on-earnings-peace-hopes-us-market-wrap/",
+      "date": "2026-05-01",
+      "title": "Stocks Cap Longest Weekly Rally on Earnings, Peace Hopes – US Market Wrap",
+      "summary": "• Les actions ont augmenté, le pétrole a baissé, les rendements ont légèrement progressé, et le dollar est resté stable.\n• L'optimisme autour d'un potentiel accord avec l'Iran et des bénéfices solides ont soutenu le sentiment du marché.\n• Le S&P 500 a enregistré sa cinquième semaine consécutive de gains, sa plus longue série depuis 2024.\n• Les actions technologiques ont mené l'avance après les prévisions solides d'Apple.\n• Le brut américain a chuté à environ 102 $ suite à une nouvelle proposition iranienne à Washington.\n• Trois responsables de la Fed ont exprimé leur désaccord sur le signal d'une prochaine baisse de taux."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "03:50",
+      "time_cet": "09:50",
+      "cur": "EUR",
+      "title": "French manufacturing PMI",
+      "forecast": "52.8",
+      "previous": "52.8"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German Manufacturing PMI",
+      "forecast": "51.2",
+      "previous": "51.2"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone Manufacturing PMI",
+      "forecast": "52.2",
+      "previous": "52.2"
+    }
+  ],
+  "generated_at": "2026-05-04T11:06:54+02:00"
+}
