@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-05",
+  "date_fr": "Mardi 5 mai 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/05/05/morning-juice-europe-session-prep-551/",
+      "date": "2026-05-05",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• La RBA a relevé son taux directeur à 4,35% (contre 4,1%), annulant l'assouplissement monétaire de l'année dernière.\n• Les États-Unis et l'Iran ont échangé des tirs, intensifiant la violence au Moyen-Orient et impliquant les Émirats arabes unis.\n• Cette escalade a ravivé les doutes sur le cessez-le-feu de quatre semaines et provoqué des appels à de nouvelles frappes.\n• Les prix du pétrole ont conservé leurs gains après les affrontements et les attaques près du détroit d'Ormuz.\n• Le Trésor américain prévoit un emprunt net de 189 milliards de dollars pour avril-juin, soit 80 milliards de plus que prévu."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/05/04/stocks-and-bonds-fall-as-oil-surge-revives-inflation-fears-us-market-wrap/",
+      "date": "2026-05-04",
+      "title": "Stocks and Bonds Fall as Oil Surge Revives Inflation Fears – US Market Wrap",
+      "summary": "• La forte hausse du pétrole a fait baisser les actions et les obligations, alimentant les craintes d'inflation mondiale.\n• Les actions ont reculé de leurs sommets historiques après un bond de 6% du Brent, dépassant 114 dollars le baril.\n• Les États-Unis et l'Iran ont échangé des tirs dans le golfe Persique, impliquant également les Émirats arabes unis.\n• Les Treasuries se sont vendus, poussant les rendements à 30 ans au-dessus de 5%, le pétrole atteignant un pic de quatre ans.\n• Les Émirats arabes unis ont accusé l'Iran d'une attaque de drone à Fujairah, émettant des alertes de missiles.\n• Trump a averti l'Iran de graves conséquences en cas d'attaque contre des navires américains dans la région."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:30",
+      "time_cet": "08:30",
+      "cur": "CHF",
+      "title": "Swiss CPI",
+      "forecast": "YoY: 0.6%, MoM: 0.3%",
+      "previous": "YoY: 0.3%, MoM: 0.2%"
+    }
+  ],
+  "generated_at": "2026-05-05T10:33:16+02:00"
+}
