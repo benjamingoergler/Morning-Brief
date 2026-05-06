@@ -6,81 +6,54 @@
       "url": "https://features.financialjuice.com/2026/05/06/morning-juice-europe-session-prep-552/",
       "date": "2026-05-06",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le Président Trump a suspendu l'effort américain pour les navires bloqués dans le détroit d'Hormuz, citant de \"Grands Progrès\" avec l'Iran.\n• Les États-Unis se concentrent sur la protection du transport maritime, mais le conflit persiste avec une nouvelle cible de navire.\n• Le pétrole a chuté pour le deuxième jour, suite aux déclarations de Trump sur un accord final avec l'Iran.\n• L'activité des services en Chine a progressé plus fortement qu'attendu en avril, malgré les chocs de prix de la guerre en Iran.\n• Les entreprises chinoises choisissent de ne pas répercuter les coûts plus élevés sur les clients."
+      "summary": "• Le président Trump a déclaré qu'il suspendrait l'aide aux navires dans le détroit d'Hormuz pour négocier un accord avec l'Iran.\n• Les États-Unis ont annoncé la fin des opérations offensives contre l'Iran, se concentrant sur la protection du trafic maritime dans le détroit.\n• Le pétrole a chuté pour la deuxième journée suite aux progrès rapportés dans les négociations entre les États-Unis et l'Iran.\n• L'activité des services en Chine a surpris en s'étendant plus rapidement en avril malgré les chocs de prix liés à la guerre.\n• Les indices PMI des services et composites pour la France, l'Allemagne et la zone Euro sont attendus à 03:50, 03:55 et 04:00 ET.\n• Les indices PMI des services et composites du Royaume-Uni sont prévus pour 04:30 ET, avec des prévisions stables par rapport aux données précédentes."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/05/04/stocks-and-bonds-fall-as-oil-surge-revives-inflation-fears-us-market-wrap/",
       "date": "2026-05-04",
       "title": "Stocks and Bonds Fall as Oil Surge Revives Inflation Fears – US Market Wrap",
-      "summary": "• Un fort rallye pétrolier a fait baisser les actions et les obligations, les investisseurs craignant une inflation accrue.\n• Le Brent a bondi d'environ 6%, dépassant 114 $ le baril, entraînant un recul des actions depuis leurs records.\n• Les États-Unis et l'Iran ont échangé des tirs dans le golfe Persique, impliquant également les Émirats arabes unis.\n• Les rendements des bons du Trésor à 30 ans ont dépassé 5% suite à la vente massive d'obligations.\n• Les Émirats arabes unis ont signalé une attaque de drone iranien sur le port de Fujairah et des alertes aux missiles.\n• Le détroit d'Hormuz reste un point central du conflit, largement bloqué depuis fin février."
+      "summary": "• Une forte hausse du pétrole a entraîné une baisse des actions et des obligations, les investisseurs s'inquiétant de l'inflation.\n• Le Brent a dépassé les 114$ le baril suite à des échanges de tirs entre les États-Unis et l'Iran dans le Golfe Persique.\n• Les rendements des bons du Trésor à 30 ans ont dépassé 5% suite à la hausse des prix du pétrole.\n• Les États-Unis ont repoussé des attaques iraniennes et aidé deux navires à traverser Hormuz.\n• Les Émirats Arabes Unis ont blâmé l'Iran pour une attaque de drone et ont émis des alertes de missiles.\n• Le détroit d'Hormuz reste central dans le conflit, l'Iran utilisant son contrôle pour exercer une pression économique."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/05/06/morning-juice-us-session-prep-6th-may-2/",
+      "date": "2026-05-06",
+      "title": "Morning Juice – US Session Prep (6th May)",
+      "summary": "• Le dollar et les Treasuries ont augmenté suite aux progrès rapportés dans les pourparlers de paix entre les États-Unis et l'Iran.\n• Le président Trump a indiqué qu'il reporterait l'aide aux navires dans le détroit d'Hormuz pour négocier un accord avec l'Iran.\n• Le yen a atteint son plus haut niveau en plus de deux mois, soutenu par l'anticipation d'un accord de paix.\n• Les entreprises technologiques mènent les gains des actions mondiales grâce aux bénéfices records et aux investissements dans l'IA.\n• Les données sur l'emploi ADP aux États-Unis sont attendues à 08:15 ET, avec une prévision de 120K.\n• Les stocks hebdomadaires de pétrole brut EIA sont prévus pour 10:30 ET, avec une prévision de -3.419M."
+    }
   },
   "dockets": [
     {
       "time_et": "03:50",
       "time_cet": "09:50",
       "cur": "EUR",
-      "title": "French PMI’s Services",
+      "title": "French PMI’s",
       "forecast": "46.5",
       "previous": "46.5"
     },
     {
-      "time_et": "03:50",
-      "time_cet": "09:50",
-      "cur": "EUR",
-      "title": "French PMI’s Composite",
-      "forecast": "47.6",
-      "previous": "47.6"
-    },
-    {
       "time_et": "03:55",
       "time_cet": "09:55",
       "cur": "EUR",
-      "title": "German PMI’s Services",
+      "title": "German PMI’s",
       "forecast": "46.9",
       "previous": "46.9"
     },
     {
-      "time_et": "03:55",
-      "time_cet": "09:55",
-      "cur": "EUR",
-      "title": "German PMI’s Composite",
-      "forecast": "48.3",
-      "previous": "48.3"
-    },
-    {
       "time_et": "04:00",
       "time_cet": "10:00",
       "cur": "EUR",
-      "title": "Eurozone PMI’s Services",
+      "title": "Eurozone PMI’s",
       "forecast": "47.4",
       "previous": "47.4"
     },
     {
-      "time_et": "04:00",
-      "time_cet": "10:00",
-      "cur": "EUR",
-      "title": "Eurozone PMI’s Composite",
-      "forecast": "48.6",
-      "previous": "48.6"
-    },
-    {
       "time_et": "04:30",
       "time_cet": "10:30",
       "cur": "GBP",
-      "title": "UK PMI’s Services",
-      "forecast": "51",
-      "previous": "51"
-    },
-    {
-      "time_et": "04:30",
-      "time_cet": "10:30",
-      "cur": "GBP",
-      "title": "UK PMI’s Composite",
+      "title": "UK PMI’s",
       "forecast": "51",
       "previous": "51"
     }
   ],
-  "generated_at": "2026-05-06T11:12:03+02:00"
+  "generated_at": "2026-05-06T17:31:44+02:00"
 }
