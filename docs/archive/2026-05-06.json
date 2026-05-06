@@ -1,0 +1,86 @@
+{
+  "date": "2026-05-06",
+  "date_fr": "Mercredi 6 mai 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/05/06/morning-juice-europe-session-prep-552/",
+      "date": "2026-05-06",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le Président Trump a suspendu l'effort américain pour les navires bloqués dans le détroit d'Hormuz, citant de \"Grands Progrès\" avec l'Iran.\n• Les États-Unis se concentrent sur la protection du transport maritime, mais le conflit persiste avec une nouvelle cible de navire.\n• Le pétrole a chuté pour le deuxième jour, suite aux déclarations de Trump sur un accord final avec l'Iran.\n• L'activité des services en Chine a progressé plus fortement qu'attendu en avril, malgré les chocs de prix de la guerre en Iran.\n• Les entreprises chinoises choisissent de ne pas répercuter les coûts plus élevés sur les clients."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/05/04/stocks-and-bonds-fall-as-oil-surge-revives-inflation-fears-us-market-wrap/",
+      "date": "2026-05-04",
+      "title": "Stocks and Bonds Fall as Oil Surge Revives Inflation Fears – US Market Wrap",
+      "summary": "• Un fort rallye pétrolier a fait baisser les actions et les obligations, les investisseurs craignant une inflation accrue.\n• Le Brent a bondi d'environ 6%, dépassant 114 $ le baril, entraînant un recul des actions depuis leurs records.\n• Les États-Unis et l'Iran ont échangé des tirs dans le golfe Persique, impliquant également les Émirats arabes unis.\n• Les rendements des bons du Trésor à 30 ans ont dépassé 5% suite à la vente massive d'obligations.\n• Les Émirats arabes unis ont signalé une attaque de drone iranien sur le port de Fujairah et des alertes aux missiles.\n• Le détroit d'Hormuz reste un point central du conflit, largement bloqué depuis fin février."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "03:50",
+      "time_cet": "09:50",
+      "cur": "EUR",
+      "title": "French PMI’s Services",
+      "forecast": "46.5",
+      "previous": "46.5"
+    },
+    {
+      "time_et": "03:50",
+      "time_cet": "09:50",
+      "cur": "EUR",
+      "title": "French PMI’s Composite",
+      "forecast": "47.6",
+      "previous": "47.6"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German PMI’s Services",
+      "forecast": "46.9",
+      "previous": "46.9"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German PMI’s Composite",
+      "forecast": "48.3",
+      "previous": "48.3"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone PMI’s Services",
+      "forecast": "47.4",
+      "previous": "47.4"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone PMI’s Composite",
+      "forecast": "48.6",
+      "previous": "48.6"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK PMI’s Services",
+      "forecast": "51",
+      "previous": "51"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK PMI’s Composite",
+      "forecast": "51",
+      "previous": "51"
+    }
+  ],
+  "generated_at": "2026-05-06T11:12:03+02:00"
+}
