@@ -1,0 +1,38 @@
+{
+  "date": "2026-05-07",
+  "date_fr": "Jeudi 7 mai 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/05/07/morning-juice-europe-session-prep-553/",
+      "date": "2026-05-07",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Les États-Unis et l'Iran discutent d'une nouvelle proposition pour mettre fin à la guerre, Trump cherchant une sortie du conflit.\n• Le Japon est prêt à répondre à toute spéculation sur le marché des changes, après des interventions suspectées.\n• Le pétrole se stabilise après une chute de près de 8%, les discussions US-Iran apaisant les tensions.\n• Les actions japonaises, menées par la tech, bondissent à la réouverture des marchés après les vacances.\n• L'optimisme sur un accord US-Iran stimule les marchés mondiaux et les actions japonaises.\n• La Chine conseille à ses banques de suspendre les nouveaux prêts aux raffineurs sanctionnés par les US."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/05/06/with-hopes-that-the-war-is-almost-over-stocks-reached-all-time-highs-us-market-wrap/",
+      "date": "2026-05-06",
+      "title": "With hopes that the war is almost over, stocks reached all-time highs – US Market Wrap",
+      "summary": "• Les actions mondiales ont augmenté, le pétrole a baissé, espoir d'un accord US-Iran pour stopper la guerre.\n• Le S&P 500 a progressé de 1,5%, atteignant des records, porté par un fort appétit pour le risque.\n• Les solides résultats d'entreprises, notamment Advanced Micro Devices, ont stimulé l'optimisme général.\n• Le brut US a clôturé à 95$, réduisant les craintes d'inflation; les prix de l'or ont bondi.\n• Les rendements du Trésor ont chuté, le dollar a baissé, les paris sur les hausses de taux de la Fed s'estompent.\n• Trump a déclaré que l'Iran ne possédera pas d'arme nucléaire et qu'un accord est très possible."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "UK",
+      "title": "Construction PMI",
+      "forecast": "51",
+      "previous": "51"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone Retail Sales",
+      "forecast": "-0.3%",
+      "previous": "-0.2%"
+    }
+  ],
+  "generated_at": "2026-05-07T11:11:38+02:00"
+}
