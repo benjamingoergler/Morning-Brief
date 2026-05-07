@@ -6,22 +6,27 @@
       "url": "https://features.financialjuice.com/2026/05/07/morning-juice-europe-session-prep-553/",
       "date": "2026-05-07",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Les États-Unis et l'Iran discutent d'une nouvelle proposition pour mettre fin à la guerre, Trump cherchant une sortie du conflit.\n• Le Japon est prêt à répondre à toute spéculation sur le marché des changes, après des interventions suspectées.\n• Le pétrole se stabilise après une chute de près de 8%, les discussions US-Iran apaisant les tensions.\n• Les actions japonaises, menées par la tech, bondissent à la réouverture des marchés après les vacances.\n• L'optimisme sur un accord US-Iran stimule les marchés mondiaux et les actions japonaises.\n• La Chine conseille à ses banques de suspendre les nouveaux prêts aux raffineurs sanctionnés par les US."
+      "summary": "• Les États-Unis et l'Iran envisagent une nouvelle proposition de paix, Trump cherchant une sortie du conflit qui a fait monter les prix de l'énergie.\n• Le Japon est prêt à intervenir sur tous les fronts contre les mouvements spéculatifs sur le marché des changes, suite à des suspicions d'intervention.\n• Les prix du pétrole se sont stabilisés après une chute de près de 8%, alors que les États-Unis et l'Iran discutent d'une proposition de paix.\n• Les actions japonaises ont bondi, tirées par la technologie, les marchés rattrapant le rallye mondial grâce à l'optimisme sur l'accord US-Iran.\n• Le régulateur financier chinois a conseillé aux grandes banques de suspendre les nouveaux prêts à cinq raffineurs sanctionnés par les US."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/05/06/with-hopes-that-the-war-is-almost-over-stocks-reached-all-time-highs-us-market-wrap/",
       "date": "2026-05-06",
       "title": "With hopes that the war is almost over, stocks reached all-time highs – US Market Wrap",
-      "summary": "• Les actions mondiales ont augmenté, le pétrole a baissé, espoir d'un accord US-Iran pour stopper la guerre.\n• Le S&P 500 a progressé de 1,5%, atteignant des records, porté par un fort appétit pour le risque.\n• Les solides résultats d'entreprises, notamment Advanced Micro Devices, ont stimulé l'optimisme général.\n• Le brut US a clôturé à 95$, réduisant les craintes d'inflation; les prix de l'or ont bondi.\n• Les rendements du Trésor ont chuté, le dollar a baissé, les paris sur les hausses de taux de la Fed s'estompent.\n• Trump a déclaré que l'Iran ne possédera pas d'arme nucléaire et qu'un accord est très possible."
+      "summary": "• Les actions mondiales ont augmenté et les obligations ont progressé, le pétrole chutant sur l'espoir d'un accord US-Iran mettant fin à la guerre.\n• L'appétit pour le risque a propulsé le S&P 500 de 1,5% vers de nouveaux records, soutenu par de solides résultats d'entreprises.\n• Le brut US a clôturé à 95$, apaisant les craintes d'inflation, tandis que l'or a fortement augmenté et les rendements du Trésor ont baissé.\n• Le dollar est retombé à ses niveaux d'avant-guerre, les paris sur les hausses de taux de la Fed s'estompant.\n• Les États-Unis et l'Iran discutent d'une proposition pour rouvrir le détroit d'Hormuz et lever l'embargo portuaire.\n• Trump a déclaré que l'Iran ne possédera pas d'arme nucléaire et qu'un accord de paix est \"très possible\" avant son voyage à Pékin."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/05/07/morning-juice-us-session-prep-7th-may-2/",
+      "date": "2026-05-07",
+      "title": "Morning Juice – US Session Prep (7th May)",
+      "summary": "• Les Treasuries US ont progressé, les investisseurs étant confiants dans un accord entre les États-Unis et l'Iran.\n• Les traders surveilleront les demandes d'allocations chômage pour des indications sur l'orientation des taux d'intérêt.\n• Le dollar est resté stable, tandis que le yen s'est raffermi après que le Japon ait montré sa volonté de contrer la spéculation.\n• Les États-Unis et l'Iran explorent une nouvelle proposition de paix, Trump cherchant à résoudre le conflit ayant affecté les prix de l'énergie.\n• Le régulateur financier chinois a recommandé aux grandes banques de suspendre les nouveaux prêts à cinq raffineurs sanctionnés par les US."
+    }
   },
   "dockets": [
     {
       "time_et": "04:30",
       "time_cet": "10:30",
-      "cur": "UK",
-      "title": "Construction PMI",
+      "cur": "GBP",
+      "title": "UK Construction PMI",
       "forecast": "51",
       "previous": "51"
     },
@@ -34,5 +39,5 @@
       "previous": "-0.2%"
     }
   ],
-  "generated_at": "2026-05-07T11:11:38+02:00"
+  "generated_at": "2026-05-07T17:29:38+02:00"
 }
