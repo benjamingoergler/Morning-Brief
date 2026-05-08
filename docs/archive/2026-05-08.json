@@ -1,0 +1,54 @@
+{
+  "date": "2026-05-08",
+  "date_fr": "Vendredi 8 mai 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/05/08/morning-juice-europe-session-prep-554/",
+      "date": "2026-05-08",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Keir Starmer attend les résultats d'élections locales cruciales pour son avenir et la politique britannique.\n• Les États-Unis ont frappé des cibles militaires en Iran après des tirs sur des destroyers dans le détroit d'Hormuz.\n• Les prix du pétrole ont bondi suite aux affrontements US-Iran, menaçant un accord de cessez-le-feu fragile.\n• Les salaires réels japonais ont augmenté pour le 3e mois en mars, soutenant les hausses de taux de la BOJ.\n• Les tarifs douaniers de 10% de Trump ont été jugés illégaux par un tribunal fédéral, un revers économique.\n• Susan Collins de la Fed de Boston a soutenu les dissidences sur la formulation des futures réductions de taux."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/05/06/with-hopes-that-the-war-is-almost-over-stocks-reached-all-time-highs-us-market-wrap/",
+      "date": "2026-05-06",
+      "title": "With hopes that the war is almost over, stocks reached all-time highs – US Market Wrap",
+      "summary": "• Les actions mondiales ont progressé, le S&P 500 de 1.5%, tandis que le pétrole a baissé sur des espoirs de paix US-Iran.\n• L'appétit pour le risque a propulsé les actions à des sommets, avec de solides résultats d'entreprises comme AMD.\n• Le brut US a clôturé à 95$, réduisant les craintes d'inflation; l'or a grimpé, les rendements du Trésor ont chuté.\n• Les États-Unis et l'Iran discutent d'une solution pour leur impasse de 10 semaines, incluant le détroit d'Hormuz.\n• Trump a déclaré que l'Iran a accepté de ne pas avoir d'arme nucléaire et qu'un accord est \"très possible\".\n• Le diplomate chinois a exhorté à la réouverture immédiate du détroit d'Hormuz lors d'une rencontre avec l'Iran."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Industrial Production YoY",
+      "forecast": "-1.9%",
+      "previous": "0%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Trade Balance",
+      "forecast": "17.8B",
+      "previous": "19.8B"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Trade Exports MoM",
+      "forecast": "-1.5%",
+      "previous": "3.6%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Trade Imports MoM",
+      "forecast": "0.5%",
+      "previous": "4.7%"
+    }
+  ],
+  "generated_at": "2026-05-08T10:09:49+02:00"
+}
