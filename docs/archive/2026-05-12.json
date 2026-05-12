@@ -1,0 +1,54 @@
+{
+  "date": "2026-05-12",
+  "date_fr": "Mardi 12 mai 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/05/12/morning-juice-europe-session-prep-556/",
+      "date": "2026-05-12",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le cessez-le-feu entre les États-Unis et l'Iran est \"sous assistance respiratoire massive\" après le rejet par Trump de la dernière offre de paix de Téhéran.\n• Les prix du pétrole ont augmenté suite aux doutes de Trump sur le cessez-le-feu avec l'Iran, prolongeant la fermeture du détroit d'Ormuz.\n• Keir Starmer fait face à une pression croissante pour démissionner, plusieurs députés réclamant un calendrier pour son départ.\n• La ministre des Finances japonaise coordonne avec le secrétaire au Trésor américain sur la politique monétaire, signalant l'approbation tacite des interventions japonaises.\n• La Banque du Japon a signalé une possible hausse de taux le mois prochain, citant des risques d'inflation liés au conflit au Moyen-Orient.\n• Les dépenses des ménages japonais ont chuté pour le quatrième mois consécutif malgré la croissance des salaires, soulignant la fragilité de la consommation."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/05/11/stocks-reach-new-highs-despite-oil-spike-and-stalled-iran-talks-us-market-wrap/",
+      "date": "2026-05-11",
+      "title": "Stocks Reach New Highs Despite Oil Spike and Stalled Iran Talks – US Market Wrap",
+      "summary": "• La hausse des prix du pétrole a fait grimper les rendements obligataires, l'échec de l'accord US-Iran sapant les espoirs de réouverture du détroit d'Ormuz.\n• Le brut américain s'est établi près de 98 $ le baril, les perturbations du transport maritime ravivant les craintes de pénuries énergétiques.\n• Les rendements du Trésor ont augmenté, les marchés réduisant les attentes de baisses de taux de la Fed en raison du conflit au Moyen-Orient.\n• Le S&P 500 a atteint un nouveau record, porté par les valeurs des semi-conducteurs, malgré le déclin de la plupart des composants.\n• Trump a discuté d'une éventuelle action militaire avec son équipe de sécurité nationale, les négociations avec Téhéran étant bloquées.\n• Les investisseurs anticipent un nouveau rapport clé sur l'inflation américaine, prévoyant une forte augmentation des prix à la consommation."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German CPI YoY",
+      "forecast": "2.9%",
+      "previous": "2.9%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German HICP YoY",
+      "forecast": "2.9%",
+      "previous": "2.9%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "German ZEW Current Conditions",
+      "forecast": "-78",
+      "previous": "-73.7"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "German ZEW Economic Sentiment",
+      "forecast": "-19.5",
+      "previous": "-17.2"
+    }
+  ],
+  "generated_at": "2026-05-12T11:19:20+02:00"
+}
