@@ -6,24 +6,37 @@
       "url": "https://features.financialjuice.com/2026/05/13/morning-juice-europe-session-prep-557/",
       "date": "2026-05-13",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le Premier ministre britannique Keir Starmer a survécu à un vote de confiance, avec des discussions prévues avec Wes Streeting.\n• Donald Trump arrive à Pékin pour un sommet de 36 heures avec Xi Jinping, axé sur le commerce, les tarifs et Taïwan.\n• Le pétrole s'est stabilisé après une hausse de près de 8% en trois séances, le conflit iranien persistant.\n• Les exportations iraniennes sont sous pression suite au blocus naval américain du détroit d'Ormuz.\n• La RBA est sous pression pour augmenter les taux, le gouvernement australien n'ayant pas réduit suffisamment les déficits budgétaires.\n• L'administration Trump rembourse plus de 35,5 milliards de dollars de droits de douane après une décision de la Cour Suprême."
+      "summary": "• Le Premier ministre britannique Keir Starmer a survécu, le ministre de la Santé Wes Streeting doit le rencontrer.\\n• Donald Trump se rend à Pékin pour un sommet de 36 heures avec Xi Jinping, axé sur le commerce, Taïwan et l'Iran.\\n• Le pétrole s'est stabilisé après une hausse de 8%, le conflit au Moyen-Orient persistant et les exportations iraniennes étant affectées.\\n• La banque centrale australienne est sous pression pour augmenter les taux, le gouvernement n'ayant pas réduit suffisamment les déficits.\\n• L'administration Trump rembourse 35,5 milliards de dollars de tarifs après une décision de la Cour suprême."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/05/12/stocks-pull-back-as-hot-inflation-data-hits-chipmakers-us-market-wrap/",
       "date": "2026-05-12",
       "title": "Stocks Pull Back as Hot Inflation Data Hits Chipmakers – US Market Wrap",
-      "summary": "• Les actions américaines ont chuté, notamment les semi-conducteurs, et les obligations ont baissé suite aux données d'inflation.\n• Une hausse des prix à la consommation plus forte que prévu a stoppé le rallye, faisant reculer le S&P 500 et le Nasdaq 100.\n• Le Nasdaq 100 a baissé de près de 1%, et l'indice des fabricants de puces a chuté de 3%.\n• Les craintes d'inflation ont poussé les rendements du Trésor à la hausse, augmentant les paris sur une hausse des taux de la Fed.\n• Le brut américain a dépassé les 102 dollars le baril; l'inflation a accéléré à 3,8% en avril.\n• L'indice des prix à la consommation (CPI) a augmenté de 3,8% sur un an, le plus rapide depuis 2023."
+      "summary": "• Les actions américaines ont chuté, les semi-conducteurs et les obligations ont pesé suite aux données d'inflation.\\n• Le S&P 500 a reculé de son record, le NDX a perdu près de 1%, les fabricants de puces ont baissé de 3%.\\n• Les craintes d'inflation ont fait grimper les rendements du Trésor, les traders anticipant une hausse des taux de la Fed en 2027.\\n• Le pétrole brut américain a dépassé 102 dollars le baril, la guerre en Iran menaçant la croissance.\\n• L'inflation américaine a accéléré à 3,8% en avril (la plus rapide depuis 2023), le CPI core a augmenté de 2,8%.\\n• Le rallye des valeurs technologiques, notamment les puces (+70% en six semaines), semblait étiré."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/05/13/morning-juice-us-session-prep-13th-may-2/",
+      "date": "2026-05-13",
+      "title": "Morning Juice – US Session Prep (13th May)",
+      "summary": "• Le dollar a grimpé pour le troisième jour avant le PPI américain; les taux du Trésor à long terme sont restés au-dessus de 5%.\\n• Trump a réitéré ses menaces de guerre contre l'Iran avant son voyage en Chine, principal client pétrolier de l'Iran.\\n• Des négociateurs américains et chinois se sont rencontrés à Séoul pour préparer le sommet des deux plus grandes économies.\\n• L'AIE indique que les stocks de pétrole chutent à un rythme sans précédent en raison de la guerre en Iran.\\n• Les acheteurs ont fait monter les valeurs technologiques, pariant sur la poursuite de la hausse des fabricants de puces.\\n• Le pétrole a mis fin à une série de trois jours de hausse, malgré la fermeture du détroit d'Ormuz."
+    }
   },
   "dockets": [
     {
       "time_et": "02:45",
       "time_cet": "08:45",
       "cur": "EUR",
-      "title": "French CPI",
-      "forecast": "YoY: 2.2%, MoM: 1%, HICP YoY: 2.5%, HICP MoM: 1.2%",
-      "previous": "YoY: 2.2%, MoM: 1%, HICP YoY: 2.5%, HICP MoM: 1.2%"
+      "title": "French CPI YoY",
+      "forecast": "2.2%",
+      "previous": "2.2%"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French HICP YoY",
+      "forecast": "2.5%",
+      "previous": "2.5%"
     },
     {
       "time_et": "04:00",
@@ -37,10 +50,10 @@
       "time_et": "05:00",
       "time_cet": "11:00",
       "cur": "EUR",
-      "title": "Eurozone GDP",
-      "forecast": "QoQ: 0.1%, YoY: 0.8%",
-      "previous": "QoQ: 0.1%, YoY: 0.8%"
+      "title": "Eurozone GDP QoQ",
+      "forecast": "0.1%",
+      "previous": "0.1%"
     }
   ],
-  "generated_at": "2026-05-13T11:25:50+02:00"
+  "generated_at": "2026-05-13T17:45:49+02:00"
 }
