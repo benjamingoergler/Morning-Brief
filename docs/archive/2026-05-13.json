@@ -1,0 +1,46 @@
+{
+  "date": "2026-05-13",
+  "date_fr": "Mercredi 13 mai 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/05/13/morning-juice-europe-session-prep-557/",
+      "date": "2026-05-13",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le Premier ministre britannique Keir Starmer a survécu à un vote de confiance, avec des discussions prévues avec Wes Streeting.\n• Donald Trump arrive à Pékin pour un sommet de 36 heures avec Xi Jinping, axé sur le commerce, les tarifs et Taïwan.\n• Le pétrole s'est stabilisé après une hausse de près de 8% en trois séances, le conflit iranien persistant.\n• Les exportations iraniennes sont sous pression suite au blocus naval américain du détroit d'Ormuz.\n• La RBA est sous pression pour augmenter les taux, le gouvernement australien n'ayant pas réduit suffisamment les déficits budgétaires.\n• L'administration Trump rembourse plus de 35,5 milliards de dollars de droits de douane après une décision de la Cour Suprême."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/05/12/stocks-pull-back-as-hot-inflation-data-hits-chipmakers-us-market-wrap/",
+      "date": "2026-05-12",
+      "title": "Stocks Pull Back as Hot Inflation Data Hits Chipmakers – US Market Wrap",
+      "summary": "• Les actions américaines ont chuté, notamment les semi-conducteurs, et les obligations ont baissé suite aux données d'inflation.\n• Une hausse des prix à la consommation plus forte que prévu a stoppé le rallye, faisant reculer le S&P 500 et le Nasdaq 100.\n• Le Nasdaq 100 a baissé de près de 1%, et l'indice des fabricants de puces a chuté de 3%.\n• Les craintes d'inflation ont poussé les rendements du Trésor à la hausse, augmentant les paris sur une hausse des taux de la Fed.\n• Le brut américain a dépassé les 102 dollars le baril; l'inflation a accéléré à 3,8% en avril.\n• L'indice des prix à la consommation (CPI) a augmenté de 3,8% sur un an, le plus rapide depuis 2023."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French CPI",
+      "forecast": "YoY: 2.2%, MoM: 1%, HICP YoY: 2.5%, HICP MoM: 1.2%",
+      "previous": "YoY: 2.2%, MoM: 1%, HICP YoY: 2.5%, HICP MoM: 1.2%"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "",
+      "title": "IEA Monthly Report",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone GDP",
+      "forecast": "QoQ: 0.1%, YoY: 0.8%",
+      "previous": "QoQ: 0.1%, YoY: 0.8%"
+    }
+  ],
+  "generated_at": "2026-05-13T11:25:50+02:00"
+}
