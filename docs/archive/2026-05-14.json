@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/05/14/morning-juice-europe-session-prep-558/",
       "date": "2026-05-14",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Xi et Trump ont exprimé leur volonté de collaboration, Trump soulignant une délégation incluant Jensen Huang et Elon Musk.\n• Le secrétaire à la Santé britannique, Wes Streeting, pourrait démissionner pour briguer la direction du parti travailliste.\n• Les prix du pétrole se stabilisent, malgré la rencontre Trump-Xi et le conflit iranien sans résolution immédiate.\n• Un membre du conseil de la Banque du Japon suggère une hausse des taux d'intérêt précoce, sauf ralentissement économique clair.\n• Christine Lagarde exhorte les dirigeants de l'UE à renforcer les fondations du bloc avec courage.\n• Davantage d'agents immobiliers britanniques ont signalé une baisse des prix des maisons en avril, l'indicateur RICS atteignant son plus bas depuis novembre 2023.\n• La Fed prévoit d'acheter environ 10 milliards de dollars de bons du Trésor, ralentissant son programme de reconstitution des réserves."
+      "summary": "• Xi et Trump ont exprimé un sentiment positif sur les relations US-Chine, Trump mentionnant une délégation incluant Nvidia et Tesla.\n• Les prix du pétrole se sont stabilisés malgré la rencontre Trump-Xi et les préoccupations persistantes concernant la guerre en Iran.\n• Kazuyuki Masu (BoJ) suggère une hausse rapide des taux d'intérêt si aucun signe clair de ralentissement économique n'apparaît.\n• Christine Lagarde (ECB) a appelé les dirigeants de l'UE à faire preuve de courage pour renforcer les fondations du bloc.\n• Plus d'agents immobiliers britanniques ont signalé une baisse des prix en avril, l'indicateur RICS au plus bas depuis novembre 2023.\n• La Fed achètera environ 10 milliards de dollars de bons du Trésor, ralentissant un programme de reconstitution des réserves."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/05/13/stocks-reach-new-all-time-highs-with-a-tech-boost-us-market-wrap/",
       "date": "2026-05-13",
       "title": "Stocks Reach New All-Time Highs with a Tech Boost – US Market Wrap",
-      "summary": "• Les géants technologiques ont propulsé les actions à des sommets historiques, éclipsant la résurgence de l'inflation.\n• Les mégacapitalisations ont mené les avancées du S&P 500, avec des dirigeants de Nvidia, Tesla et Apple en Chine.\n• Un indice des fabricants de puces a augmenté de 2,6%, tandis qu'une baisse des prix du pétrole a amélioré le sentiment.\n• Les prix de gros américains ont augmenté au rythme le plus rapide depuis 2022, impactant les Treasuries.\n• Une émission de 25 milliards de dollars de bons à 30 ans a offert des taux de 5% aux investisseurs, une première depuis 2007.\n• Des chiffres d'inflation consécutifs ont renforcé les paris des traders sur une hausse des taux de la Fed l'année prochaine.\n• L'indice des prix à la production (PPI) a bondi de 6% sur un an, la mesure core augmentant de 5,2% depuis avril 2025."
+      "summary": "• Les géants de la technologie ont propulsé les actions à des sommets historiques, malgré la résurgence de l'inflation.\n• Les mégacaps ont mené les gains du S&P 500, avec des dirigeants de Nvidia, Tesla et Apple rejoignant la délégation de Trump en Chine.\n• Un indice des fabricants de puces a augmenté de 2,6%, tandis qu'une baisse des prix du pétrole a également amélioré le sentiment.\n• Les prix de gros américains ont augmenté au rythme le plus rapide depuis 2022, impactant les Treasuries.\n• Une émission de bons du Trésor à 30 ans de 25 milliards de dollars a offert des taux de 5% pour la première fois depuis 2007.\n• Les chiffres d'inflation ont renforcé les paris des traders sur une hausse des taux de la Fed; l'IPP a augmenté de 6% sur un an."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/05/14/morning-juice-us-session-prep-14th-may-2/",
+      "date": "2026-05-14",
+      "title": "Morning Juice – US Session Prep (14th May)",
+      "summary": "• La devise est restée stable, les futures du marché américain ayant progressé grâce aux solides résultats technologiques.\n• Les taux des bons du Trésor à 30 ans sont restés supérieurs à 5% après l'approbation de Kevin Warsh comme chef de la Fed.\n• USD/CNY et USD/CNH ont chuté à leurs plus bas niveaux depuis février 2023, Xi Jinping ayant mis l'accent sur l'ouverture de la Chine.\n• L'avancée des valeurs technologiques ne montre aucun signe de ralentissement, stimulée par une vente d'actions et les résultats de Cisco Systems.\n• Un groupe de la marine britannique a signalé la prise d'un navire commercial près du détroit d'Ormuz, en route vers les eaux iraniennes."
+    }
   },
   "dockets": [
     {
@@ -42,5 +47,5 @@
       "previous": "-0.4%"
     }
   ],
-  "generated_at": "2026-05-14T11:15:52+02:00"
+  "generated_at": "2026-05-14T17:23:11+02:00"
 }
