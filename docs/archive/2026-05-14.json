@@ -1,0 +1,46 @@
+{
+  "date": "2026-05-14",
+  "date_fr": "Jeudi 14 mai 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/05/14/morning-juice-europe-session-prep-558/",
+      "date": "2026-05-14",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Xi et Trump ont exprimé leur volonté de collaboration, Trump soulignant une délégation incluant Jensen Huang et Elon Musk.\n• Le secrétaire à la Santé britannique, Wes Streeting, pourrait démissionner pour briguer la direction du parti travailliste.\n• Les prix du pétrole se stabilisent, malgré la rencontre Trump-Xi et le conflit iranien sans résolution immédiate.\n• Un membre du conseil de la Banque du Japon suggère une hausse des taux d'intérêt précoce, sauf ralentissement économique clair.\n• Christine Lagarde exhorte les dirigeants de l'UE à renforcer les fondations du bloc avec courage.\n• Davantage d'agents immobiliers britanniques ont signalé une baisse des prix des maisons en avril, l'indicateur RICS atteignant son plus bas depuis novembre 2023.\n• La Fed prévoit d'acheter environ 10 milliards de dollars de bons du Trésor, ralentissant son programme de reconstitution des réserves."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/05/13/stocks-reach-new-all-time-highs-with-a-tech-boost-us-market-wrap/",
+      "date": "2026-05-13",
+      "title": "Stocks Reach New All-Time Highs with a Tech Boost – US Market Wrap",
+      "summary": "• Les géants technologiques ont propulsé les actions à des sommets historiques, éclipsant la résurgence de l'inflation.\n• Les mégacapitalisations ont mené les avancées du S&P 500, avec des dirigeants de Nvidia, Tesla et Apple en Chine.\n• Un indice des fabricants de puces a augmenté de 2,6%, tandis qu'une baisse des prix du pétrole a amélioré le sentiment.\n• Les prix de gros américains ont augmenté au rythme le plus rapide depuis 2022, impactant les Treasuries.\n• Une émission de 25 milliards de dollars de bons à 30 ans a offert des taux de 5% aux investisseurs, une première depuis 2007.\n• Des chiffres d'inflation consécutifs ont renforcé les paris des traders sur une hausse des taux de la Fed l'année prochaine.\n• L'indice des prix à la production (PPI) a bondi de 6% sur un an, la mesure core augmentant de 5,2% depuis avril 2025."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK GDP QoQ",
+      "forecast": "0.6%",
+      "previous": "0.1%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Manufacturing Production YoY",
+      "forecast": "0.2%",
+      "previous": "-0.5%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Industrial Production YoY",
+      "forecast": "0.3%",
+      "previous": "-0.4%"
+    }
+  ],
+  "generated_at": "2026-05-14T11:15:52+02:00"
+}
