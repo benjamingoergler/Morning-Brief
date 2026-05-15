@@ -6,16 +6,30 @@
       "url": "https://features.financialjuice.com/2026/05/15/morning-juice-europe-session-prep-559/",
       "date": "2026-05-15",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le livre sterling a chuté suite à un défi potentiel à la direction du Premier ministre britannique Keir Starmer, soulevant des doutes sur son gouvernement.\n• Le président Trump a indiqué que la Chine est prête à soutenir les négociations avec l'Iran pour mettre fin à la guerre et rouvrir le détroit d'Ormuz.\n• Le gouverneur de la Fed, Michael Barr, s'est opposé à la réduction du bilan de la banque centrale, la jugeant une menace pour la stabilité financière.\n• La ministre japonaise des Finances a réitéré qu'aucun budget supplémentaire n'est nécessaire, la hausse des rendements des JGB étant une tendance mondiale.\n• Le représentant commercial américain anticipe que la Chine s'engagera à des milliards d'achats agricoles américains lors du sommet Trump-Xi."
+      "summary": "• Le leadership de Keir Starmer au Royaume-Uni est contesté, faisant chuter la livre sterling et semant le doute sur la dette nationale.\n• Donald Trump indique que la Chine soutient les négociations avec l'Iran pour une résolution diplomatique et la réouverture du détroit d'Ormuz.\n• Le gouverneur de la Fed, Michael Barr, s'oppose à la réduction du bilan de la banque centrale, la jugeant dangereuse pour la stabilité financière.\n• La ministre des Finances japonaise, Satsuki Katayama, ne prévoit pas de budget supplémentaire, attribuant la hausse des rendements JGB à une tendance mondiale.\n• Jamieson Greer anticipe des milliards d'achats agricoles chinois, alors que Trump et Xi Jinping terminent leur sommet à Pékin."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/05/14/ai-drives-record-breaking-run-as-the-sp-500-rises-to-7500-us-market-wrap/",
       "date": "2026-05-14",
       "title": "AI Drives Record-Breaking Run as the S&P 500 Rises to 7,500 – US Market Wrap",
-      "summary": "• Le retour en force du secteur de l'IA a alimenté l'élan boursier, le marché progressant grâce à la confiance des consommateurs.\n• Le S&P 500 a dépassé 7 500, et la valorisation de NVIDIA a approché 6 trillions de dollars après une hausse de sept jours.\n• L'action Cisco Systems Inc. a augmenté de 13% suite à de solides prévisions, tandis que Ford Motor et Cerebras Systems ont également grimpé.\n• Apple a chuté après des rapports indiquant qu'OpenAI n'a pas vu les avantages attendus de leur accord et envisage une action en justice.\n• Les paris renouvelés sur l'IA, les bénéfices solides et la résilience économique ont propulsé les actions vers de nouveaux records.\n• Les ventes au détail ont augmenté pour le troisième mois consécutif, et les ventes du groupe de contrôle ont dépassé les attentes."
+      "summary": "• Le regain d'intérêt pour l'IA a stimulé les marchés boursiers, avec des signes de confiance des consommateurs malgré la hausse des coûts énergétiques.\n• Le S&P 500 a dépassé 7 500, et la valorisation de NVIDIA a approché 6 trillions de dollars après sept jours de hausse.\n• Cisco Systems a bondi de 13% grâce à de solides prévisions, tandis que Ford Motor et Cerebras Systems ont également profité de l'euphorie IA.\n• Apple a chuté suite à des rapports indiquant qu'OpenAI n'a pas vu les bénéfices attendus de leur accord et envisage des poursuites.\n• Les bénéfices d'entreprise robustes et la résilience économique ont propulsé les actions, avec des ventes au détail en hausse pour le troisième mois.\n• Les ventes du groupe de contrôle, contribuant au PIB trimestriel, ont dépassé les attentes, surpassant les craintes d'inflation énergétique."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/05/15/morning-juice-us-session-prep-15th-may-2/",
+      "date": "2026-05-15",
+      "title": "Morning Juice – US Session Prep (15th May)",
+      "summary": "• Le dollar est en voie de réaliser sa meilleure performance hebdomadaire en deux mois, les rendements du Trésor ayant bondi face aux craintes d'inflation.\n• Une vente massive sur les marchés obligataires mondiaux a entraîné une chute des actions, mettant fin à la hausse alimentée par l'IA.\n• Les coûts d'emprunt ont atteint des sommets pluriannuels du Japon aux États-Unis, les banques centrales pourraient relever les taux.\n• Les Émirats arabes unis ont tenté de coordonner une réponse militaire à l'Iran, mais l'Arabie saoudite et le Qatar ont refusé.\n• Les pressions sur les prix aux États-Unis suggèrent que la Fed pourrait augmenter ses taux d'intérêt au cours de la prochaine année."
+    }
   },
-  "dockets": [],
-  "generated_at": "2026-05-15T11:30:10+02:00"
+  "dockets": [
+    {
+      "time_et": "09:15",
+      "time_cet": "15:15",
+      "cur": "USD",
+      "title": "US Industrial Production for April",
+      "forecast": "0.3%",
+      "previous": "0.5%"
+    }
+  ],
+  "generated_at": "2026-05-15T17:19:53+02:00"
 }
