@@ -6,21 +6,26 @@
       "url": "https://features.financialjuice.com/2026/05/18/morning-juice-europe-session-prep-560/",
       "date": "2026-05-18",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le rendement des obligations du Trésor américain à long terme a atteint un sommet de près de trois ans, alimenté par les craintes d'inflation.\n• Les obligations d'État japonaises ont chuté, prolongeant la vente mondiale, les rendements atteignant des sommets pluridécennaux avant le G7.\n• Le pétrole a augmenté pour le troisième jour, Donald Trump pressant l'Iran pour un accord et la réouverture du détroit d'Ormuz.\n• Les États-Unis et l'Iran restent éloignés d'un accord; une attaque de drone aux Émirats souligne la fragilité du cessez-le-feu.\n• La croissance chinoise a ralenti en avril, l'investissement baissant et les ventes au détail/production industrielle manquant les prévisions.\n• La Première ministre japonaise Sanae Takaichi prévoit un budget supplémentaire face à la hausse des prix des matières premières."
+      "summary": "• Le rendement des obligations du Trésor américain à long terme a atteint son plus haut niveau en près de trois ans, alimenté par les craintes d'inflation.\n• Les obligations d'État japonaises ont chuté, prolongeant la vente mondiale, en raison de la hausse du pétrole et des craintes inflationnistes.\n• Le pétrole a augmenté pour le troisième jour, Donald Trump faisant pression sur l'Iran pour rouvrir le détroit d'Ormuz.\n• Les États-Unis et l'Iran restent éloignés d'un accord, une attaque de drone aux Émirats soulignant la fragilité de la trêve.\n• La croissance chinoise a ralenti en avril, l'investissement reprenant sa baisse et la production industrielle manquant les prévisions.\n• La Première ministre japonaise Takaichi prévoit un budget supplémentaire face à la hausse des prix des matières premières."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/05/15/as-bonds-suffer-stocks-record-their-worst-day-since-march-us-market-wrap/",
       "date": "2026-05-15",
       "title": "As bonds suffer, stocks record their worst day since March – US Market Wrap",
-      "summary": "• Une vente d'obligations mondiales a interrompu le rallye boursier, craignant un resserrement des banques centrales face à l'inflation.\n• Le S&P 500 a chuté de 1,2%, sa plus forte baisse depuis mars; un indice des fabricants de puces a reculé de 4%.\n• Les rendements des obligations américaines à 10 ans ont dépassé 4,5%; ceux du Japon à 30 ans ont atteint 4% pour la première fois.\n• Au Royaume-Uni, une crise politique a poussé les taux des obligations à long terme à un sommet de 28 ans; le dollar a prolongé ses gains.\n• Le brut américain s'est établi au-dessus de 105 $, la fermeture potentielle d'Ormuz pourrait exacerber les difficultés énergétiques.\n• Des rapports récents ont indiqué des pressions inflationnistes croissantes, augmentant les paris sur une hausse des taux de la Fed."
+      "summary": "• Une vente massive d'obligations mondiales a interrompu le rallye boursier, craignant un resserrement des banques centrales face à l'inflation.\n• Le S&P 500 a chuté de 1,2%, la plus forte baisse depuis mars; l'indice des fabricants de puces a reculé de 4%.\n• Les rendements des obligations américaines à 10 ans ont dépassé 4,5%; ceux du Japon à 30 ans ont atteint 4% pour la première fois.\n• Une crise politique au Royaume-Uni a poussé les taux des obligations longues à un sommet de 28 ans; le dollar a prolongé son gain hebdomadaire.\n• Le brut américain s'est établi au-dessus de 105$; la fermeture du détroit d'Ormuz pourrait exacerber les difficultés énergétiques.\n• Des rapports successifs cette semaine ont indiqué des pressions inflationnistes croissantes, augmentant les paris sur des hausses de taux de la Fed.\n• Trump n'a pas pressé Xi Jinping sur l'Iran/Hormuz; la Chine estime que le détroit devrait être rouvert dès que possible."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/05/18/morning-juice-us-session-prep-18th-may/",
+      "date": "2026-05-18",
+      "title": "Morning Juice – US Session Prep (18th May)",
+      "summary": "• Les rendements des bons du Trésor à long terme ont augmenté, le manque de progrès dans les pourparlers US-Iran poussant les prix du pétrole.\n• Le dollar s'est affaibli, les actions ont chuté en raison de l'impasse US-Iran, tandis que les obligations ont trouvé une stabilité.\n• Trump a exprimé sa frustration envers l'Iran après l'attaque de drones aux Émirats, avertissant que « le temps presse ».\n• La croissance chinoise a ralenti en avril, les investissements diminuant, remettant en question l'absence de relance gouvernementale.\n• La chute des obligations d'État japonaises a alimenté la vente mondiale de dette, la hausse du pétrole attisant les craintes d'inflation.\n• Les taux du Trésor à 30 ans ont bondi à 5,16% (plus haut depuis 2007) en raison des craintes d'inflation liées au pétrole."
+    }
   },
   "dockets": [
     {
       "time_et": "03:35",
       "time_cet": "09:35",
-      "cur": "GBP",
+      "cur": "",
       "title": "BoE’s Greene speaks on a panel at the FT business of luxury summit in Italy.",
       "forecast": "",
       "previous": ""
@@ -28,11 +33,11 @@
     {
       "time_et": "04:30",
       "time_cet": "10:30",
-      "cur": "GBP",
+      "cur": "",
       "title": "BoE’s Mann speaks on a panel at the Lamfalussy Lectures Conference in Hungary.",
       "forecast": "",
       "previous": ""
     }
   ],
-  "generated_at": "2026-05-18T12:47:09+02:00"
+  "generated_at": "2026-05-18T18:28:03+02:00"
 }
