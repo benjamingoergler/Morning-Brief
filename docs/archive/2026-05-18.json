@@ -1,0 +1,38 @@
+{
+  "date": "2026-05-18",
+  "date_fr": "Lundi 18 mai 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/05/18/morning-juice-europe-session-prep-560/",
+      "date": "2026-05-18",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le rendement des obligations du Trésor américain à long terme a atteint un sommet de près de trois ans, alimenté par les craintes d'inflation.\n• Les obligations d'État japonaises ont chuté, prolongeant la vente mondiale, les rendements atteignant des sommets pluridécennaux avant le G7.\n• Le pétrole a augmenté pour le troisième jour, Donald Trump pressant l'Iran pour un accord et la réouverture du détroit d'Ormuz.\n• Les États-Unis et l'Iran restent éloignés d'un accord; une attaque de drone aux Émirats souligne la fragilité du cessez-le-feu.\n• La croissance chinoise a ralenti en avril, l'investissement baissant et les ventes au détail/production industrielle manquant les prévisions.\n• La Première ministre japonaise Sanae Takaichi prévoit un budget supplémentaire face à la hausse des prix des matières premières."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/05/15/as-bonds-suffer-stocks-record-their-worst-day-since-march-us-market-wrap/",
+      "date": "2026-05-15",
+      "title": "As bonds suffer, stocks record their worst day since March – US Market Wrap",
+      "summary": "• Une vente d'obligations mondiales a interrompu le rallye boursier, craignant un resserrement des banques centrales face à l'inflation.\n• Le S&P 500 a chuté de 1,2%, sa plus forte baisse depuis mars; un indice des fabricants de puces a reculé de 4%.\n• Les rendements des obligations américaines à 10 ans ont dépassé 4,5%; ceux du Japon à 30 ans ont atteint 4% pour la première fois.\n• Au Royaume-Uni, une crise politique a poussé les taux des obligations à long terme à un sommet de 28 ans; le dollar a prolongé ses gains.\n• Le brut américain s'est établi au-dessus de 105 $, la fermeture potentielle d'Ormuz pourrait exacerber les difficultés énergétiques.\n• Des rapports récents ont indiqué des pressions inflationnistes croissantes, augmentant les paris sur une hausse des taux de la Fed."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "03:35",
+      "time_cet": "09:35",
+      "cur": "GBP",
+      "title": "BoE’s Greene speaks on a panel at the FT business of luxury summit in Italy.",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "BoE’s Mann speaks on a panel at the Lamfalussy Lectures Conference in Hungary.",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-05-18T12:47:09+02:00"
+}
