@@ -1,0 +1,54 @@
+{
+  "date": "2026-05-19",
+  "date_fr": "Mardi 19 mai 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/05/19/morning-juice-europe-session-prep-561/",
+      "date": "2026-05-19",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le pétrole a chuté après l'annulation par le Président Trump d'une frappe sur l'Iran, suite à un appel des alliés du Golfe Persique.\n• Un responsable du ministère des Finances japonais a exprimé des doutes sur la vente de bons du Trésor américain pour soutenir le yen.\n• L'économie japonaise a connu une croissance plus rapide que prévu, renforçant l'argument des hausses de taux de la Banque du Japon.\n• La RBA australienne s'inquiète de l'ancrage des anticipations d'inflation, impactées par le choc pétolier Iran-US.\n• Les pressions sous-jacentes des précédentes hausses de prix en Australie n'ont pas encore totalement disparu."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/05/15/as-bonds-suffer-stocks-record-their-worst-day-since-march-us-market-wrap/",
+      "date": "2026-05-15",
+      "title": "As bonds suffer, stocks record their worst day since March – US Market Wrap",
+      "summary": "• Une vente massive d'obligations mondiales a interrompu le rallye boursier, craignant un resserrement des banques centrales face à l'inflation.\n• Le S&P 500 a chuté de 1,2%, sa plus forte baisse depuis mars, tandis que l'indice des semi-conducteurs a reculé de 4%.\n• Les rendements des bons du Trésor américain à 10 ans ont dépassé 4,5%; ceux du Japon à 30 ans ont atteint 4% pour la première fois.\n• La crise politique au Royaume-Uni a poussé les taux obligataires longs à un sommet de 28 ans; le dollar a étendu ses gains hebdomadaires.\n• Le brut américain s'est établi au-dessus de $105, la dispute sur le détroit d'Hormuz pouvant exacerber les difficultés énergétiques.\n• La hausse des pressions sur les prix a renforcé les paris des traders sur une augmentation des taux de la Federal Reserve."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Employment Change SA",
+      "forecast": "-10K",
+      "previous": "-11K"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Employment Change 3M/3M",
+      "forecast": "101K",
+      "previous": "25K"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Unemployment Rate",
+      "forecast": "4.9%",
+      "previous": "4.9%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Average Weekly Earnings YoY",
+      "forecast": "3.8%",
+      "previous": "3.8%"
+    }
+  ],
+  "generated_at": "2026-05-19T12:23:47+02:00"
+}
