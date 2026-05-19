@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/05/19/morning-juice-europe-session-prep-561/",
       "date": "2026-05-19",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le pétrole a chuté après l'annulation par le Président Trump d'une frappe sur l'Iran, suite à un appel des alliés du Golfe Persique.\n• Un responsable du ministère des Finances japonais a exprimé des doutes sur la vente de bons du Trésor américain pour soutenir le yen.\n• L'économie japonaise a connu une croissance plus rapide que prévu, renforçant l'argument des hausses de taux de la Banque du Japon.\n• La RBA australienne s'inquiète de l'ancrage des anticipations d'inflation, impactées par le choc pétolier Iran-US.\n• Les pressions sous-jacentes des précédentes hausses de prix en Australie n'ont pas encore totalement disparu."
+      "summary": "• Le pétrole a chuté après l'annulation par Trump d'une frappe sur l'Iran, suite à un appel des alliés du Golfe Persique.\n• Un responsable japonais a exprimé des doutes sur la vente de bons du Trésor américain pour soutenir le yen, la jugeant contre-productive.\n• L'économie japonaise a connu une croissance plus rapide que prévu, renforçant les arguments pour des hausses de taux de la BOJ.\n• Les décideurs australiens s'inquiètent de l'ancrage des anticipations d'inflation, exacerbées par le nouveau choc pétrolier.\n• Les pressions inflationnistes sous-jacentes des précédentes hausses de prix n'ont pas encore totalement diminué."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/05/15/as-bonds-suffer-stocks-record-their-worst-day-since-march-us-market-wrap/",
       "date": "2026-05-15",
       "title": "As bonds suffer, stocks record their worst day since March – US Market Wrap",
-      "summary": "• Une vente massive d'obligations mondiales a interrompu le rallye boursier, craignant un resserrement des banques centrales face à l'inflation.\n• Le S&P 500 a chuté de 1,2%, sa plus forte baisse depuis mars, tandis que l'indice des semi-conducteurs a reculé de 4%.\n• Les rendements des bons du Trésor américain à 10 ans ont dépassé 4,5%; ceux du Japon à 30 ans ont atteint 4% pour la première fois.\n• La crise politique au Royaume-Uni a poussé les taux obligataires longs à un sommet de 28 ans; le dollar a étendu ses gains hebdomadaires.\n• Le brut américain s'est établi au-dessus de $105, la dispute sur le détroit d'Hormuz pouvant exacerber les difficultés énergétiques.\n• La hausse des pressions sur les prix a renforcé les paris des traders sur une augmentation des taux de la Federal Reserve."
+      "summary": "• La vente d'obligations mondiales a interrompu le rallye boursier, craignant un resserrement des banques centrales face à l'inflation persistante.\n• Le S&P 500 a chuté de 1,2% et l'indice des semi-conducteurs de 4%, marquant la plus forte baisse depuis mars.\n• Les rendements des bons du Trésor américain à 10 ans ont dépassé 4,5%; ceux du Japon à 30 ans ont atteint 4% pour la première fois.\n• Une crise politique au Royaume-Uni a poussé les taux des obligations à long terme à un sommet de 28 ans; le dollar a gagné.\n• Le brut américain s'est établi au-dessus de 105 dollars, avec des craintes d'une fermeture du détroit d'Hormuz exacerbant l'inflation.\n• Des rapports successifs ont indiqué des pressions croissantes sur les prix, augmentant les paris sur des hausses de taux de la Fed."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/05/19/morning-juice-us-session-prep-19th-may-2/",
+      "date": "2026-05-19",
+      "title": "Morning Juice – US Session Prep (19th May)",
+      "summary": "• Le dollar a bondi sur la demande de valeur refuge après que la décision de Trump n'ait pas stimulé la confiance du marché.\n• Les Treasuries ont chuté alors que les prix du pétrole restaient élevés; Christopher Waller de la Fed doit prendre la parole.\n• Une baisse des actions technologiques a tiré les marchés boursiers américains et asiatiques vers le bas.\n• Les rendements du pétrole et du Trésor ont peu bougé, les traders attendant des signes de progrès au Moyen-Orient.\n• La hausse des rendements des bons du Trésor américain à plus longue échéance met les investisseurs obligataires à l'épreuve."
+    }
   },
   "dockets": [
     {
@@ -50,5 +55,5 @@
       "previous": "3.8%"
     }
   ],
-  "generated_at": "2026-05-19T12:23:47+02:00"
+  "generated_at": "2026-05-19T18:24:33+02:00"
 }
