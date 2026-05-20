@@ -1,0 +1,49 @@
+{
+  "date": "2026-05-20",
+  "date_fr": "Mercredi 20 mai 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/05/20/morning-juice-europe-session-prep-562/",
+      "date": "2026-05-20",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le Président Trump a menacé de reprendre les frappes contre l'Iran, cherchant à conclure un accord pour mettre fin à la guerre.\n• L'Union Européenne a finalisé le texte de son accord commercial avec les États-Unis, levant un obstacle majeur avant l'échéance de Donald Trump.\n• La demande pour l'adjudication d'obligations d'État japonaises à 20 ans a été plus forte que la moyenne des 12 derniers mois.\n• Le Président Trump a démenti les affirmations selon lesquelles Xi Jinping aurait fait une évaluation sombre de la guerre en Ukraine.\n• Le pétrole est resté stable, les traders évaluant la dernière menace du Président Trump de reprendre les frappes contre l'Iran.\n• La présidente de la Fed de Philadelphie, Anna Paulson, a indiqué qu'elle préférait maintenir les taux d'intérêt stables."
+    },
+    "wrap": null,
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK CPI",
+      "forecast": "YoY – Forecast: 3% | MoM – Forecast: 0.9% | Core YoY – Forecast: 2.6%",
+      "previous": "YoY – Prior: 3.3% | MoM – Prior: 0.7% | Core YoY – Prior: 3.1%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Input Prices",
+      "forecast": "YoY – Forecast: 6.3% | MoM – Forecast: 1%",
+      "previous": "YoY – Prior: 5.4% | MoM – Prior: 4.4%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Output Prices",
+      "forecast": "YoY – Forecast: 3% | MoM – Forecast: 1%",
+      "previous": "YoY – Prior: 2.6% | MoM – Prior: 0.9%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone CPI",
+      "forecast": "YoY – Forecast: 3% | MoM – Forecast: 1% | Core YoY – Forecast: 2.2%",
+      "previous": "YoY – Prior: 3% | MoM – Prior: 1% | Core YoY – Prior: 2.2%"
+    }
+  ],
+  "generated_at": "2026-05-20T12:03:14+02:00"
+}

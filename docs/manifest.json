@@ -1,6 +1,10 @@
 {
-  "today": "2026-05-19",
+  "today": "2026-05-20",
   "days": [
+    {
+      "date": "2026-05-20",
+      "headline": "(brief sans US wrap)"
+    },
     {
       "date": "2026-05-19",
       "headline": "As bonds suffer, stocks record their worst day since March – US Market Wrap"
