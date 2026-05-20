@@ -6,44 +6,70 @@
       "url": "https://features.financialjuice.com/2026/05/20/morning-juice-europe-session-prep-562/",
       "date": "2026-05-20",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le Président Trump a menacé de reprendre les frappes contre l'Iran, cherchant à conclure un accord pour mettre fin à la guerre.\n• L'Union Européenne a finalisé le texte de son accord commercial avec les États-Unis, levant un obstacle majeur avant l'échéance de Donald Trump.\n• La demande pour l'adjudication d'obligations d'État japonaises à 20 ans a été plus forte que la moyenne des 12 derniers mois.\n• Le Président Trump a démenti les affirmations selon lesquelles Xi Jinping aurait fait une évaluation sombre de la guerre en Ukraine.\n• Le pétrole est resté stable, les traders évaluant la dernière menace du Président Trump de reprendre les frappes contre l'Iran.\n• La présidente de la Fed de Philadelphie, Anna Paulson, a indiqué qu'elle préférait maintenir les taux d'intérêt stables."
+      "summary": "• Donald Trump a menacé de reprendre les frappes sur l'Iran, après avoir annulé une attaque US, pour un accord de fin de guerre.\n• L'Union Européenne a finalisé l'accord commercial avec les États-Unis, levant un obstacle majeur avant la date limite de Trump.\n• L'enchère d'obligations japonaises à 20 ans a montré une demande plus forte, avec un ratio bid-to-cover de 4.01.\n• Trump a démenti les rapports selon lesquels Xi Jinping aurait une évaluation pessimiste de la guerre en Ukraine.\n• Le pétrole est resté stable alors que les traders évaluaient la menace de Trump de reprendre les frappes sur l'Iran.\n• Anna Paulson de la Fed de Philadelphie a favorisé le maintien des taux, conditionnant des baisses à des progrès durables sur l'inflation."
     },
-    "wrap": null,
-    "mj_us": null
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/05/19/stocks-drop-while-bond-yields-rise-due-to-fed-hike-fear-us-market-wrap/",
+      "date": "2026-05-19",
+      "title": "Stocks Drop While Bond Yields Rise Due to Fed-Hike Fear – US Market Wrap",
+      "summary": "• La faiblesse récente des obligations a poussé les taux à des sommets pluriannuels, réduisant l'enthousiasme pour les actions.\n• Les rendements des bons du Trésor à 30 ans ont atteint des niveaux inédits depuis 2007, avec le pétrole à 100 $.\n• La hausse des coûts de l'énergie pourrait augmenter la probabilité d'une hausse des taux de la Fed.\n• Google d'Alphabet redessine sa barre de recherche et introduit de nouveaux outils d'IA, investissant des milliards.\n• Le S&P 500 a enregistré sa plus longue série de pertes depuis le 31 mars, après un record.\n• Le groupe des fabricants de puces a connu une volatilité extrême suite à la frénésie de l'IA."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/05/20/morning-juice-us-session-prep-20th-may-2/",
+      "date": "2026-05-20",
+      "title": "Morning Juice – US Session Prep (20th May)",
+      "summary": "• Les actions ont regagné du terrain alors que la vente d'obligations s'est calmée, en attente des résultats de Nvidia.\n• Le S&P 500 était sur le point de briser une série de trois jours de pertes, avec des futures en hausse de 0.3%.\n• Les contrats Nasdaq 100 ont augmenté de 0.6%, tandis que les taux obligataires US et européens ont reculé.\n• Le Brent a diminué de 2% pour atteindre près de 109 $ le baril, suite à la réduction des paris agressifs sur les taux.\n• Nvidia devrait annoncer une augmentation de 80% de ses revenus, avec un intérêt pour ses plans de fabrication.\n• Les traders d'options anticipent un mouvement d'environ 5.5% pour les actions Nvidia après le rapport."
+    }
   },
   "dockets": [
     {
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "GBP",
-      "title": "UK CPI",
-      "forecast": "YoY – Forecast: 3% | MoM – Forecast: 0.9% | Core YoY – Forecast: 2.6%",
-      "previous": "YoY – Prior: 3.3% | MoM – Prior: 0.7% | Core YoY – Prior: 3.1%"
+      "title": "UK CPI YoY",
+      "forecast": "3%",
+      "previous": "3.3%"
     },
     {
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "GBP",
-      "title": "UK Input Prices",
-      "forecast": "YoY – Forecast: 6.3% | MoM – Forecast: 1%",
-      "previous": "YoY – Prior: 5.4% | MoM – Prior: 4.4%"
+      "title": "UK CPI Core YoY",
+      "forecast": "2.6%",
+      "previous": "3.1%"
     },
     {
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "GBP",
-      "title": "UK Output Prices",
-      "forecast": "YoY – Forecast: 3% | MoM – Forecast: 1%",
-      "previous": "YoY – Prior: 2.6% | MoM – Prior: 0.9%"
+      "title": "UK Input Prices YoY",
+      "forecast": "6.3%",
+      "previous": "5.4%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Output Prices YoY",
+      "forecast": "3%",
+      "previous": "2.6%"
     },
     {
       "time_et": "05:00",
       "time_cet": "11:00",
       "cur": "EUR",
-      "title": "Eurozone CPI",
-      "forecast": "YoY – Forecast: 3% | MoM – Forecast: 1% | Core YoY – Forecast: 2.2%",
-      "previous": "YoY – Prior: 3% | MoM – Prior: 1% | Core YoY – Prior: 2.2%"
+      "title": "Eurozone CPI YoY",
+      "forecast": "3%",
+      "previous": "3%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone CPI Core YoY",
+      "forecast": "2.2%",
+      "previous": "2.2%"
     }
   ],
-  "generated_at": "2026-05-20T12:03:14+02:00"
+  "generated_at": "2026-05-20T18:28:30+02:00"
 }
