@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/05/21/morning-juice-europe-session-prep-563/",
       "date": "2026-05-21",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le taux de chômage australien a augmenté en avril, signalant un refroidissement du marché du travail dû aux taux et au choc énergétique.\n• Les États-Unis et l'Iran ont échangé des menaces d'escalade, prolongeant l'impasse au Moyen-Orient sans résolution concrète.\n• Les prix du pétrole ont légèrement rebondi après une chute, suite aux déclarations de Trump sur les \"dernières étapes\" avec l'Iran.\n• La Bank of Japan consultera les acteurs du marché concernant la réduction de ses achats d'obligations cette semaine.\n• Les rendements obligataires atteignent des sommets pluriannuels, alimentés par les inquiétudes concernant les dépenses et l'inflation.\n• Nvidia a mis en avant sa diversification pour réduire sa dépendance aux grands opérateurs de centres de données, stimulant sa croissance."
+      "summary": "• Le taux de chômage australien a augmenté de manière inattendue en avril, signalant un refroidissement du marché du travail.\n• Les États-Unis et l'Iran ont échangé des menaces d'escalade mercredi, prolongeant l'impasse au Moyen-Orient.\n• Le pétrole a légèrement progressé après une chute, suite aux déclarations de Trump sur des pourparlers \"finaux\" avec l'Iran.\n• La BoJ consultera les marchés sur le rythme de réduction de ses achats d'obligations, les rendements atteignant des sommets pluriannuels.\n• Nvidia a mis en avant sa diversification dans son rapport trimestriel pour réduire sa dépendance aux opérateurs de centres de données."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/05/20/us-iranian-hopes-drive-up-stocks-nvidia-rises-late-us-market-wrap/",
       "date": "2026-05-20",
       "title": "US-Iranian Hopes Drive Up Stocks; Nvidia Rises Late – US Market Wrap",
-      "summary": "• Les prix du pétrole ont chuté à environ 98 $ le baril, suite aux espoirs d'un accord avec l'Iran, stimulant actions et obligations.\n• Le S&P 500 a progressé de 1,1%, mettant fin à trois jours de baisse, tandis que les rendements des Treasuries à long terme ont diminué.\n• Le titre Nvidia a d'abord baissé après ses résultats, puis a fortement rebondi en fin de séance.\n• Trump a évoqué des \"dernières étapes\" avec l'Iran, menaçant d'actions \"désagréables\" si aucun accord n'était trouvé.\n• L'Iran analyse la nouvelle proposition américaine, affirmant que toutes les options restent ouvertes pour éviter la guerre.\n• La Fed a indiqué que la plupart des responsables envisageraient une hausse des taux si l'inflation restait obstinément élevée."
+      "summary": "• Les prix du pétrole ont chuté suite aux espoirs d'un accord de paix en Iran, stimulant les actions et les obligations.\n• Le brut américain est tombé à environ 98 $ le baril après les déclarations de Trump sur des pourparlers \"finaux\" avec Téhéran.\n• Le S&P 500 a gagné 1,1%, mettant fin à trois jours de baisse; les rendements des Treasuries ont reculé.\n• L'action Nvidia a grimpé en fin de journée après ses résultats, malgré une baisse initiale.\n• Les minutes de la Fed indiquent que la plupart des responsables pourraient envisager une hausse des taux si l'inflation persiste."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/05/21/morning-juice-us-session-prep-21st-may-2/",
+      "date": "2026-05-21",
+      "title": "Morning Juice – US Session Prep (21st May)",
+      "summary": "• Le dollar est resté stable, les investisseurs attendant un accord US-Iran pour rouvrir le détroit d'Hormuz.\n• Les Treasuries ont progressé, suivant la tendance des marchés obligataires mondiaux.\n• Les marchés attendent les PMI US, les demandes de chômage et l'enquête de la Fed de Philadelphie.\n• Le rallye des actions US s'est arrêté; le pétrole a augmenté et les rendements obligataires ont fluctué.\n• L'activité économique de la zone euro a chuté au rythme le plus rapide en 2,5 ans, craignant l'impact du conflit iranien.\n• Une enquête de la BoJ révèle une division sur la poursuite ou l'arrêt de la réduction des achats d'obligations."
+    }
   },
   "dockets": [
     {
@@ -114,5 +119,5 @@
       "previous": "53.7"
     }
   ],
-  "generated_at": "2026-05-21T12:10:58+02:00"
+  "generated_at": "2026-05-21T18:18:20+02:00"
 }
