@@ -1,0 +1,118 @@
+{
+  "date": "2026-05-21",
+  "date_fr": "Jeudi 21 mai 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/05/21/morning-juice-europe-session-prep-563/",
+      "date": "2026-05-21",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le taux de chômage australien a augmenté en avril, signalant un refroidissement du marché du travail dû aux taux et au choc énergétique.\n• Les États-Unis et l'Iran ont échangé des menaces d'escalade, prolongeant l'impasse au Moyen-Orient sans résolution concrète.\n• Les prix du pétrole ont légèrement rebondi après une chute, suite aux déclarations de Trump sur les \"dernières étapes\" avec l'Iran.\n• La Bank of Japan consultera les acteurs du marché concernant la réduction de ses achats d'obligations cette semaine.\n• Les rendements obligataires atteignent des sommets pluriannuels, alimentés par les inquiétudes concernant les dépenses et l'inflation.\n• Nvidia a mis en avant sa diversification pour réduire sa dépendance aux grands opérateurs de centres de données, stimulant sa croissance."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/05/20/us-iranian-hopes-drive-up-stocks-nvidia-rises-late-us-market-wrap/",
+      "date": "2026-05-20",
+      "title": "US-Iranian Hopes Drive Up Stocks; Nvidia Rises Late – US Market Wrap",
+      "summary": "• Les prix du pétrole ont chuté à environ 98 $ le baril, suite aux espoirs d'un accord avec l'Iran, stimulant actions et obligations.\n• Le S&P 500 a progressé de 1,1%, mettant fin à trois jours de baisse, tandis que les rendements des Treasuries à long terme ont diminué.\n• Le titre Nvidia a d'abord baissé après ses résultats, puis a fortement rebondi en fin de séance.\n• Trump a évoqué des \"dernières étapes\" avec l'Iran, menaçant d'actions \"désagréables\" si aucun accord n'était trouvé.\n• L'Iran analyse la nouvelle proposition américaine, affirmant que toutes les options restent ouvertes pour éviter la guerre.\n• La Fed a indiqué que la plupart des responsables envisageraient une hausse des taux si l'inflation restait obstinément élevée."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "03:15",
+      "time_cet": "09:15",
+      "cur": "EUR",
+      "title": "French PMI’s Services",
+      "forecast": "46.7",
+      "previous": "46.5"
+    },
+    {
+      "time_et": "03:15",
+      "time_cet": "09:15",
+      "cur": "EUR",
+      "title": "French PMI’s Composite",
+      "forecast": "47.7",
+      "previous": "47.6"
+    },
+    {
+      "time_et": "03:15",
+      "time_cet": "09:15",
+      "cur": "EUR",
+      "title": "French PMI’s Manufacturing",
+      "forecast": "52.1",
+      "previous": "52.8"
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "EUR",
+      "title": "Geraman PMI’s Services",
+      "forecast": "47",
+      "previous": "46.9"
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "EUR",
+      "title": "Geraman PMI’s Composite",
+      "forecast": "48.5",
+      "previous": "48.4"
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "EUR",
+      "title": "Geraman PMI’s Manufacturing",
+      "forecast": "51",
+      "previous": "51.4"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone PMI’s Services",
+      "forecast": "47.8",
+      "previous": "47.6"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone PMI’s Composite",
+      "forecast": "48.8",
+      "previous": "48.8"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone PMI’s Manufacturing",
+      "forecast": "51.8",
+      "previous": "52.2"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK PMI’s Services",
+      "forecast": "51.7",
+      "previous": "52.7"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK PMI’s Composite",
+      "forecast": "51.6",
+      "previous": "52.6"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK PMI’s Manufacturing",
+      "forecast": "53",
+      "previous": "53.7"
+    }
+  ],
+  "generated_at": "2026-05-21T12:10:58+02:00"
+}
