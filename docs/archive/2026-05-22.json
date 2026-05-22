@@ -1,0 +1,86 @@
+{
+  "date": "2026-05-22",
+  "date_fr": "Vendredi 22 mai 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/05/22/morning-juice-europe-session-prep-564/",
+      "date": "2026-05-22",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• L'inflation au Japon a progressé au rythme le plus lent en quatre ans, compliquant une hausse des taux de la BoJ.\n• Le pétrole a augmenté après trois jours de baisse, suite aux déclarations iraniennes sur l'uranium et le détroit d'Ormuz.\n• L'Iran a indiqué que la proposition américaine a partiellement comblé l'écart, mais les commentaires sur l'uranium ont assombri les perspectives.\n• L'Iran discute avec Oman d'un système de péage permanent pour formaliser son contrôle du trafic maritime dans le détroit d'Ormuz.\n• Les traders du Yen sont en alerte face à un risque d'intervention lundi, en raison de la faible liquidité du marché due aux jours fériés.\n• Les ventes au détail au Royaume-Uni et le PIB allemand sont attendus, ainsi que les indices IFO allemands."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/05/21/as-hopes-for-a-us-iran-deal-grow-stocks-rise-and-oil-falls-us-market-wrap/",
+      "date": "2026-05-21",
+      "title": "As hopes for a US-Iran deal grow, stocks rise and oil falls – US Market Wrap",
+      "summary": "• Les espoirs d'une solution diplomatique en Iran ont soutenu les actions et les obligations, tandis que le pétrole a baissé.\n• Le S&P 500 a prolongé ses gains hebdomadaires; la baisse des prix du pétrole brut américain a fait chuter les rendements du Trésor.\n• L'Iran a déclaré que la proposition américaine a comblé l'écart, malgré les doutes sur le stock d'uranium et les péages du détroit d'Ormuz.\n• Le secrétaire d'État Rubio a observé de «bons signes» d'un règlement possible, avec des médiateurs pakistanais attendus à Téhéran.\n• Le président iranien Pezeshkian a affirmé que la nation «ne reculera jamais», malgré les discussions en cours.\n• L'Iran et Oman discutent d'un système de péage permanent pour le détroit d'Ormuz; Trump souhaite qu'il reste ouvert et gratuit."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Retail Sales YoY",
+      "forecast": "1.3%",
+      "previous": "1.7%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Core MoM Retail Sales",
+      "forecast": "-0.3%",
+      "previous": "0.2%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German GDP QoQ",
+      "forecast": "0.3%",
+      "previous": "0.3%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German GDP YoY SA",
+      "forecast": "0.3%",
+      "previous": "0.3%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German GDP YoY NSA",
+      "forecast": "0.5%",
+      "previous": "0.5%"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "German IFO’s Expectations",
+      "forecast": "83.5",
+      "previous": "83.3"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "German IFO’s Business Climate",
+      "forecast": "84.2",
+      "previous": "84.4"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "German IFO’s Current Conditions",
+      "forecast": "85.1",
+      "previous": "85.4"
+    }
+  ],
+  "generated_at": "2026-05-22T11:56:59+02:00"
+}
