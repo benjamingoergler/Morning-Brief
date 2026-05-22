@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/05/22/morning-juice-europe-session-prep-564/",
       "date": "2026-05-22",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• L'inflation au Japon a progressé au rythme le plus lent en quatre ans, compliquant une hausse des taux de la BoJ.\n• Le pétrole a augmenté après trois jours de baisse, suite aux déclarations iraniennes sur l'uranium et le détroit d'Ormuz.\n• L'Iran a indiqué que la proposition américaine a partiellement comblé l'écart, mais les commentaires sur l'uranium ont assombri les perspectives.\n• L'Iran discute avec Oman d'un système de péage permanent pour formaliser son contrôle du trafic maritime dans le détroit d'Ormuz.\n• Les traders du Yen sont en alerte face à un risque d'intervention lundi, en raison de la faible liquidité du marché due aux jours fériés.\n• Les ventes au détail au Royaume-Uni et le PIB allemand sont attendus, ainsi que les indices IFO allemands."
+      "summary": "• L'inflation au Japon a progressé au rythme le plus lent en quatre ans, rendant difficile une hausse des taux par la BoJ.\n• Le pétrole a rebondi après trois jours de baisse, suite aux déclarations iraniennes sur l'uranium et le détroit d'Ormuz.\n• L'Iran a indiqué qu'une proposition américaine réduisait l'écart, mais des commentaires du leader suprême iranien ont assombri les perspectives.\n• L'Iran discute avec Oman d'un système de péage permanent pour formaliser son contrôle du trafic maritime.\n• Les traders du Yen sont en alerte face à un risque d'intervention lundi, dû à la faible liquidité des marchés."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/05/21/as-hopes-for-a-us-iran-deal-grow-stocks-rise-and-oil-falls-us-market-wrap/",
       "date": "2026-05-21",
       "title": "As hopes for a US-Iran deal grow, stocks rise and oil falls – US Market Wrap",
-      "summary": "• Les espoirs d'une solution diplomatique en Iran ont soutenu les actions et les obligations, tandis que le pétrole a baissé.\n• Le S&P 500 a prolongé ses gains hebdomadaires; la baisse des prix du pétrole brut américain a fait chuter les rendements du Trésor.\n• L'Iran a déclaré que la proposition américaine a comblé l'écart, malgré les doutes sur le stock d'uranium et les péages du détroit d'Ormuz.\n• Le secrétaire d'État Rubio a observé de «bons signes» d'un règlement possible, avec des médiateurs pakistanais attendus à Téhéran.\n• Le président iranien Pezeshkian a affirmé que la nation «ne reculera jamais», malgré les discussions en cours.\n• L'Iran et Oman discutent d'un système de péage permanent pour le détroit d'Ormuz; Trump souhaite qu'il reste ouvert et gratuit."
+      "summary": "• Les espoirs de solution diplomatique en Iran ont soutenu les actions et les obligations, tandis que le pétrole a chuté.\n• Le S&P 500 a prolongé ses gains hebdomadaires, et la baisse du pétrole a fait baisser les rendements du Trésor américain.\n• L'Iran a déclaré qu'une proposition américaine réduisait l'écart, malgré des doutes persistants sur une percée.\n• Le secrétaire d'État Rubio a observé de « bons signes » d'un règlement possible, avec des médiateurs pakistanais attendus.\n• L'Iran discute avec Oman d'un système de péage permanent pour contrôler le trafic maritime dans le détroit d'Ormuz.\n• Trump a déclaré que les États-Unis souhaitent que le détroit d'Ormuz reste ouvert et exempt de frais."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/05/22/morning-juice-us-session-prep-22nd-may-2/",
+      "date": "2026-05-22",
+      "title": "Morning Juice – US Session Prep (22nd May)",
+      "summary": "• Le dollar a progressé face à la plupart des devises du G10, les investisseurs attendant des développements Iran-US et un discours de Waller.\n• Les Treasuries américains ont légèrement augmenté, le rendement à 10 ans autour de 4,55%, soit 4 bps de moins que vendredi dernier.\n• USD/JPY a progressé de 0,1% à 159,12 après des données montrant une inflation core au plus bas en quatre ans.\n• Le Brent a rebondi au-dessus de 105 $ le baril, mais est resté en baisse sur la semaine.\n• Le S&P 500 est en passe de réaliser sa plus longue série de gains hebdomadaires depuis 2023.\n• Trump a annoncé l'envoi de 5 000 troupes supplémentaires en Pologne, inversant une décision antérieure."
+    }
   },
   "dockets": [
     {
@@ -29,7 +34,7 @@
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "GBP",
-      "title": "UK Core MoM Retail Sales",
+      "title": "UK Retail Sales Core MoM",
       "forecast": "-0.3%",
       "previous": "0.2%"
     },
@@ -82,5 +87,5 @@
       "previous": "85.4"
     }
   ],
-  "generated_at": "2026-05-22T11:56:59+02:00"
+  "generated_at": "2026-05-22T17:51:15+02:00"
 }
