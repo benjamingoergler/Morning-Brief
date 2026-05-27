@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-27",
+  "date_fr": "Mercredi 27 mai 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/05/27/morning-juice-europe-session-prep-567/",
+      "date": "2026-05-27",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• La banque centrale de Nouvelle-Zélande a maintenu ses taux, mais les décideurs étaient divisés sur une hausse face à l'inflation à moyen terme.\n• L'inflation de base australienne est restée au-dessus de la cible de la RBA en avril, renforçant les attentes hawkish après des hausses rapides.\n• Les États-Unis signalent des progrès vers un accord de paix avec l'Iran, malgré de nouvelles hostilités et l'incertitude du détroit d'Ormuz.\n• Le prix du pétrole a légèrement baissé, porté par l'optimisme d'un accord US-Iran malgré les tensions et l'incertitude.\n• L'enchère d'obligations d'État japonaises à 40 ans a montré une demande plus forte, avec un ratio bid-to-cover de 2.70."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/05/26/iran-peace-hopes-hold-as-the-sp-500-reaches-a-record-high-us-market-wrap/",
+      "date": "2026-05-26",
+      "title": "Iran Peace Hopes Hold as the S&P 500 Reaches a Record High – US Market Wrap",
+      "summary": "• Wall Street a débuté la semaine écourtée avec une hausse des actions et des Treasuries, l'accord US-Iran primant sur les frappes.\n• Le S&P 500 a atteint un nouveau sommet, les fabricants de puces en tête, grâce aux attentes d'un accord de paix.\n• Les rendements des Treasuries ont diminué, les craintes d'inflation s'atténuant, réduisant les paris sur les futures hausses de taux de la Fed.\n• Le marché pétrolier est volatil; le Brent a récupéré à environ 100 $ après avoir chuté de plus de 7% lundi.\n• Trump a annoncé des pourparlers pour prolonger le cessez-le-feu et rouvrir le détroit d'Ormuz, malgré l'incertitude.\n• Micron a fortement augmenté après que UBS Group AG ait relevé son objectif de prix à 1 625 $ pour le fabricant de puces."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French Consumer Confidence",
+      "forecast": "83",
+      "previous": "84"
+    }
+  ],
+  "generated_at": "2026-05-27T12:38:12+02:00"
+}
