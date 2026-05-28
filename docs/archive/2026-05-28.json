@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-28",
+  "date_fr": "Jeudi 28 mai 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/05/28/morning-juice-europe-session-prep-568/",
+      "date": "2026-05-28",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Les États-Unis ont mené des frappes aériennes sur un site militaire iranien et imposé de nouvelles sanctions, soulignant la fragilité diplomatique.\\n• Le pétrole a progressé après une chute de plus de 5%, suite aux nouvelles frappes américaines en Iran.\\n• Le Président Trump a affirmé qu'aucune nation ne contrôlerait le détroit d'Ormuz, un point de discorde majeur.\\n• Le Vice-président de la Fed, Philip Jefferson, anticipe un ralentissement de l'inflation, mais les risques haussiers persistent.\\n• Le Président de la Fed de Chicago, Austan Goolsbee, craint que l'investissement accru n'exige des taux d'intérêt plus élevés."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/05/27/conflicting-us-iran-signals-cause-the-stock-rally-to-falter-us-market-wrap/",
+      "date": "2026-05-27",
+      "title": "Conflicting US-Iran signals cause the stock rally to falter – US Market Wrap",
+      "summary": "• Wall Street a montré de l'incertitude face aux signaux contradictoires sur un accord pour l'Iran et le détroit d'Ormuz.\\n• Le S&P 500 a clôturé presque inchangé, malgré des actions restant à des sommets historiques.\\n• Les banques ont mené les pertes; l'indice des fabricants de puces a chuté, tandis que Meta a bondi sur l'IA.\\n• Le brut américain s'est établi en dessous de 89 dollars le baril.\\n• Trump s'est dit insatisfait des négociations avec l'Iran, réduisant les espoirs d'une percée rapide.\\n• Les États-Unis ont réfuté un rapport iranien sur un accord intérimaire concernant le trafic dans le détroit d'Ormuz."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "07:30",
+      "time_cet": "13:30",
+      "cur": "EUR",
+      "title": "ECB Meeting Minutes",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-05-28T12:38:26+02:00"
+}
