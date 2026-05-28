@@ -6,25 +6,30 @@
       "url": "https://features.financialjuice.com/2026/05/28/morning-juice-europe-session-prep-568/",
       "date": "2026-05-28",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Les États-Unis ont mené des frappes aériennes sur un site militaire iranien et imposé de nouvelles sanctions, soulignant la fragilité diplomatique.\\n• Le pétrole a progressé après une chute de plus de 5%, suite aux nouvelles frappes américaines en Iran.\\n• Le Président Trump a affirmé qu'aucune nation ne contrôlerait le détroit d'Ormuz, un point de discorde majeur.\\n• Le Vice-président de la Fed, Philip Jefferson, anticipe un ralentissement de l'inflation, mais les risques haussiers persistent.\\n• Le Président de la Fed de Chicago, Austan Goolsbee, craint que l'investissement accru n'exige des taux d'intérêt plus élevés."
+      "summary": "• Les États-Unis ont mené des frappes aériennes et imposé de nouvelles sanctions sur l'Iran, soulignant la fragilité diplomatique.\n• Le pétrole a progressé après une baisse de plus de 5%, suite aux frappes US et aux désaccords sur le détroit d'Ormuz.\n• Le président Trump a affirmé qu'aucune nation ne contrôlerait le détroit d'Ormuz, un point de discorde majeur.\n• Philip Jefferson de la Fed anticipe un ralentissement de l'inflation mais met en garde contre des risques haussiers.\n• Austan Goolsbee de la Fed de Chicago voit l'investissement futur potentiellement inflationniste, nécessitant des taux plus élevés."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/05/27/conflicting-us-iran-signals-cause-the-stock-rally-to-falter-us-market-wrap/",
       "date": "2026-05-27",
       "title": "Conflicting US-Iran signals cause the stock rally to falter – US Market Wrap",
-      "summary": "• Wall Street a montré de l'incertitude face aux signaux contradictoires sur un accord pour l'Iran et le détroit d'Ormuz.\\n• Le S&P 500 a clôturé presque inchangé, malgré des actions restant à des sommets historiques.\\n• Les banques ont mené les pertes; l'indice des fabricants de puces a chuté, tandis que Meta a bondi sur l'IA.\\n• Le brut américain s'est établi en dessous de 89 dollars le baril.\\n• Trump s'est dit insatisfait des négociations avec l'Iran, réduisant les espoirs d'une percée rapide.\\n• Les États-Unis ont réfuté un rapport iranien sur un accord intérimaire concernant le trafic dans le détroit d'Ormuz."
+      "summary": "• Les marchés boursiers de Wall Street étaient hésitants face aux signaux contradictoires sur un accord avec l'Iran.\n• Le S&P 500 a peu changé, les banques ont mené les pertes, tandis qu'un indice des fabricants de puces a chuté.\n• Meta a bondi après l'annonce de la vente d'abonnements pour son chatbot d'IA, compensant les dépenses.\n• Le brut américain s'est établi en dessous de 89 dollars le baril.\n• Trump s'est dit insatisfait des négociations avec l'Iran, réduisant les espoirs d'une avancée rapide.\n• Trump a souligné qu'aucune nation ne dominerait le détroit d'Ormuz, un obstacle majeur au conflit."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/05/28/morning-juice-us-session-prep-28th-may-2/",
+      "date": "2026-05-28",
+      "title": "Morning Juice – US Session Prep (28th May)",
+      "summary": "• Le dollar a progressé pour le troisième jour, les inquiétudes au Moyen-Orient persistant; le rendement US 10 ans a atteint 4,49%.\n• Données clés à venir: indice des prix PCE, deuxième estimation du PIB T1, biens durables et demandes de chômage.\n• Les responsables de la Fed Musalem et Barkin s'exprimeront; la BoE s'inquiète du levier des hedge funds.\n• Le GBP/USD a perdu 0,2% à 1,3405, enregistrant une troisième journée de baisse consécutive.\n• Le pétrole a bondi après de nouvelles frappes aériennes dans le golfe Persique; le Brent a atteint 96 dollars le baril."
+    }
   },
   "dockets": [
     {
       "time_et": "07:30",
       "time_cet": "13:30",
-      "cur": "EUR",
+      "cur": "",
       "title": "ECB Meeting Minutes",
       "forecast": "",
       "previous": ""
     }
   ],
-  "generated_at": "2026-05-28T12:38:26+02:00"
+  "generated_at": "2026-05-28T18:56:10+02:00"
 }
