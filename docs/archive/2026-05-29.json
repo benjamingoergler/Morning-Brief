@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-29",
+  "date_fr": "Vendredi 29 mai 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/05/29/morning-juice-europe-session-prep-569/",
+      "date": "2026-05-29",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Les États-Unis et l'Iran ont conclu un accord provisoire pour prolonger un cessez-le-feu de 60 jours, suscitant l'espoir d'une résolution du conflit. Donald Trump n'a pas encore accepté les termes.\n• Le pétrole a chuté suite à l'accord de cessez-le-feu US-Iran; le Brent est en passe de connaître sa plus forte baisse mensuelle depuis 2020.\n• L'inflation clé à Tokyo a ralenti de manière inattendue, compliquant le message de la BOJ mais n'empêchant pas une hausse des taux.\n• La banque centrale de Nouvelle-Zélande n'observe pas encore de pressions inflationnistes à moyen terme, mais est prête à réagir agressivement.\n• SpaceX vise une valorisation d'au moins 1,8 trillion de dollars pour son introduction en bourse, alors que la société d'Elon Musk approche de ses débuts."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/05/28/reports-of-the-us-iran-deal-send-stocks-to-all-time-highs-us-market-wrap/",
+      "date": "2026-05-28",
+      "title": "Reports of the US-Iran Deal Send Stocks to All-Time Highs – US Market Wrap",
+      "summary": "• Les actions de Wall Street ont atteint des sommets historiques, les obligations ont progressé et le rallye pétrolier s'est estompé.\n• Le S&P 500 a enregistré une sixième séance consécutive de hausse; le Brent a clôturé sous 94 dollars le baril.\n• Les rendements du Trésor ont diminué sur toute la courbe, et le dollar a reculé face à toutes les devises développées.\n• Les espoirs de trêve ont été tempérés par des affrontements dans le golfe Persique, soulignant la difficulté des négociations.\n• L'augmentation des coûts énergétiques a accentué les pressions inflationnistes, renforçant les craintes de hausses de taux de la Fed.\n• Les dépenses de consommation US ont augmenté en avril, l'inflation annuelle atteignant son plus haut niveau depuis 2023.\n• Anthropic a levé 65 milliards de dollars, valorisant l'entreprise d'IA à 965 milliards, dépassant pour la première fois OpenAI."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French GDP QoQ",
+      "forecast": "0%",
+      "previous": "0%"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French CPI YoY",
+      "forecast": "2.5%",
+      "previous": "2.2%"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French HICP YoY",
+      "forecast": "2.9%",
+      "previous": "2.5%"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German Unemployment Rate",
+      "forecast": "6.4%",
+      "previous": "6.4%"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German Unemployment Change",
+      "forecast": "10K",
+      "previous": "20K"
+    },
+    {
+      "time_et": "08:00",
+      "time_cet": "14:00",
+      "cur": "EUR",
+      "title": "German CPI YoY",
+      "forecast": "2.9%",
+      "previous": "2.9%"
+    },
+    {
+      "time_et": "08:00",
+      "time_cet": "14:00",
+      "cur": "EUR",
+      "title": "German HICP YoY",
+      "forecast": "2.8%",
+      "previous": "2.9%"
+    }
+  ],
+  "generated_at": "2026-05-29T12:30:05+02:00"
+}
