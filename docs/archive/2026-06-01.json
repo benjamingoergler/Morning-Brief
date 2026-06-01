@@ -1,0 +1,83 @@
+{
+  "date": "2026-06-01",
+  "date_fr": "Lundi 1 juin 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/06/01/morning-juice-europe-session-prep-570/",
+      "date": "2026-06-01",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Les États-Unis et l'Iran échangent des messages sur un accord de cessez-le-feu, mais les progrès restent incertains.\n• Le pétrole a augmenté après un creux de six semaines, les traders obligataires anticipent une hausse des taux de la Fed.\n• Le Yen fait face à un risque accru d'intervention après des tentatives historiques de soutien.\n• Le Premier ministre britannique Keir Starmer doit publier des échanges privés, menaçant sa position.\n• Alvaro Santos Pereira de la BCE appelle à une action rapide et décisive face aux pressions inflationnistes."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/05/29/us-iran-sets-a-record-weekly-run-for-the-sp-500-us-market-wrap/",
+      "date": "2026-05-29",
+      "title": "US-Iran Sets a Record Weekly Run for the S&P 500 – US Market Wrap",
+      "summary": "• Les espoirs d'un accord de cessez-le-feu en Iran ont propulsé les actions à une hausse hebdomadaire historique.\n• Le S&P 500 a enregistré sa neuvième semaine de gains consécutifs, sa plus longue série depuis 2023.\n• Dell a bondi de 33% grâce à des prévisions prometteuses, tandis que le Brent s'est établi à environ 92 $ le baril.\n• Les Treasuries ont connu leur meilleure semaine depuis le début du conflit US-Iran.\n• Trump a déclaré être prêt à une \"détermination finale\" sur le cessez-le-feu, mais est parti sans conclusion."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/06/01/morning-juice-us-session-prep-1st-june/",
+      "date": "2026-06-01",
+      "title": "Morning Juice – US Session Prep (1st June)",
+      "summary": "• Les actions prolongent leur avance, les futures US pointant vers de nouveaux records grâce à l'enthousiasme pour l'IA.\n• Microsoft et Nvidia ont progressé, les valeurs logicielles ayant gagné après les déclarations de Jensen Huang.\n• Le secteur des semi-conducteurs est en passe de réaliser son meilleur trimestre historique.\n• Les prix du pétrole Brent ont rebondi de 3% à près de 94 $ le baril, sur fond d'incertitude US-Iran.\n• Les obligations se sont affaiblies, le rendement du Trésor à 10 ans augmentant.\n• Le marché boursier s'appuie davantage sur l'élan de l'IA que sur le risque géopolitique."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Real Retail Sales YoY",
+      "forecast": "-1.6%",
+      "previous": "0.9%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Nationwide House Prices YoY",
+      "forecast": "2.3%",
+      "previous": "3%"
+    },
+    {
+      "time_et": "03:00",
+      "time_cet": "09:00",
+      "cur": "CHF",
+      "title": "Swiss GDP QoQ",
+      "forecast": "0.6%",
+      "previous": "0.1%"
+    },
+    {
+      "time_et": "03:50",
+      "time_cet": "09:50",
+      "cur": "EUR",
+      "title": "French Manufacturing PMI",
+      "forecast": "48.9",
+      "previous": "48.9"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German Manufacturing PMI",
+      "forecast": "49.9",
+      "previous": "49.9"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone Manufacturing PMI",
+      "forecast": "51.4",
+      "previous": "51.4"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK Manufacturing PMI",
+      "forecast": "53.7",
+      "previous": "53.7"
+    }
+  ],
+  "generated_at": "2026-06-01T14:17:29+02:00"
+}
