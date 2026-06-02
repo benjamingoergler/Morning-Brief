@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-02",
+  "date_fr": "Mardi 2 juin 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/06/02/morning-juice-europe-session-prep-571/",
+      "date": "2026-06-02",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le pétrole s'est stabilisé après sa plus forte hausse mensuelle, l'incertitude US-Iran menaçant les flux énergétiques du golfe Persique.\\n• Les traders parient sur une hausse du dollar US, soutenu par les incertitudes US-Iran et le rallye boursier alimenté par l'IA.\\n• Trump et Netanyahu ont divergé sur un appel Liban, les US peinant à relancer l'accord de paix iranien.\\n• La ministre japonaise Katayama est prête à agir sur les devises, après une intervention record fin avril-mai.\\n• Les attentes d'inflation à long terme en Australie ont augmenté, les marchés prévoyant un CPI au-dessus de la cible de la RBA."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/06/01/stocks-hit-record-highs-as-iran-talk-optimism-and-ai-rally-lift-markets-us-market-wrap/",
+      "date": "2026-06-01",
+      "title": "Stocks Hit Record Highs as Iran Talk Optimism and AI Rally Lift Markets – US Market Wrap",
+      "summary": "• Les actions US ont atteint de nouveaux sommets historiques, portées par les progrès US-Iran et l'enthousiasme pour l'IA.\\n• Le S&P 500 a grimpé vers 7 600, huitième hausse consécutive, sa plus longue série depuis mai 2025.\\n• Les valeurs technologiques ont mené l'avance, l'optimisme lié à l'IA étant de nouveau au premier plan du marché.\\n• Le pétrole brut US a réduit ses gains, se stabilisant près de 92 $ après les déclarations de Trump sur l'Iran.\\n• Trump a indiqué que les pourparlers avec l'Iran progressent rapidement, Israël et le Hezbollah ayant accepté d'arrêter les attaques.\\n• Malgré l'incertitude géopolitique, les investisseurs se sont concentrés sur la voie diplomatique, soutenant l'appétit pour le risque."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "BoE Consumer Credit",
+      "forecast": "1.7B",
+      "previous": "1.9B"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK Mortgage Lending",
+      "forecast": "5.4B",
+      "previous": "6.2B"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK Mortgage Approvals",
+      "forecast": "62K",
+      "previous": "63.5K"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone CPI YoY",
+      "forecast": "3.2%",
+      "previous": "3%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone Core CPI YoY",
+      "forecast": "2.4%",
+      "previous": "2.2%"
+    }
+  ],
+  "generated_at": "2026-06-02T13:05:43+02:00"
+}
