@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/06/02/morning-juice-europe-session-prep-571/",
       "date": "2026-06-02",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le pétrole s'est stabilisé après sa plus forte hausse mensuelle, l'incertitude US-Iran menaçant les flux énergétiques du golfe Persique.\\n• Les traders parient sur une hausse du dollar US, soutenu par les incertitudes US-Iran et le rallye boursier alimenté par l'IA.\\n• Trump et Netanyahu ont divergé sur un appel Liban, les US peinant à relancer l'accord de paix iranien.\\n• La ministre japonaise Katayama est prête à agir sur les devises, après une intervention record fin avril-mai.\\n• Les attentes d'inflation à long terme en Australie ont augmenté, les marchés prévoyant un CPI au-dessus de la cible de la RBA."
+      "summary": "• Le pétrole s'est stabilisé après sa plus forte hausse en un mois, l'incertitude sur les pourparlers US-Iran augmentant le risque sur les flux énergétiques.\n• Les traders parient sur une hausse du dollar US, soutenu par l'incertitude US-Iran et le rallye boursier alimenté par l'IA.\n• Trump et Netanyahu ont donné des versions divergentes d'un appel sur les combats au Liban, compliquant l'accord de paix iranien.\n• La ministre des Finances japonaise, Satsuki Katayama, a déclaré que les autorités sont prêtes à intervenir sur les devises, après une intervention record.\n• Les anticipations d'inflation à long terme en Australie ont augmenté, les marchés prévoyant un CPI au-dessus de la cible de la RBA.\n• Ian Harper, membre du conseil de la RBA, a noté ce changement d'anticipations d'inflation, inédit depuis des années."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/06/01/stocks-hit-record-highs-as-iran-talk-optimism-and-ai-rally-lift-markets-us-market-wrap/",
       "date": "2026-06-01",
       "title": "Stocks Hit Record Highs as Iran Talk Optimism and AI Rally Lift Markets – US Market Wrap",
-      "summary": "• Les actions US ont atteint de nouveaux sommets historiques, portées par les progrès US-Iran et l'enthousiasme pour l'IA.\\n• Le S&P 500 a grimpé vers 7 600, huitième hausse consécutive, sa plus longue série depuis mai 2025.\\n• Les valeurs technologiques ont mené l'avance, l'optimisme lié à l'IA étant de nouveau au premier plan du marché.\\n• Le pétrole brut US a réduit ses gains, se stabilisant près de 92 $ après les déclarations de Trump sur l'Iran.\\n• Trump a indiqué que les pourparlers avec l'Iran progressent rapidement, Israël et le Hezbollah ayant accepté d'arrêter les attaques.\\n• Malgré l'incertitude géopolitique, les investisseurs se sont concentrés sur la voie diplomatique, soutenant l'appétit pour le risque."
+      "summary": "• Les actions US ont atteint de nouveaux sommets historiques, portées par les progrès des négociations US-Iran et l'enthousiasme pour l'IA.\n• Le S&P 500 a grimpé vers 7 600, prolongeant son rallye avec une huitième hausse consécutive, la plus longue depuis mai 2025.\n• Les valeurs technologiques ont mené l'avance, l'optimisme lié à l'IA étant de nouveau au premier plan du marché.\n• Le pétrole brut US s'est établi près de 92 $ le baril après que Trump ait annoncé des progrès rapides dans les pourparlers avec l'Iran.\n• Les marchés ont continué de fluctuer sur les titres géopolitiques, les développements au Moyen-Orient restant fluides.\n• Malgré l'incertitude, les investisseurs se sont concentrés sur la voie diplomatique, soutenant l'appétit pour le risque et poussant les actions à des niveaux records."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/06/02/morning-juice-us-session-prep-2nd-june-2/",
+      "date": "2026-06-02",
+      "title": "Morning Juice – US Session Prep (2nd June)",
+      "summary": "• Le rallye des actions US a marqué une pause après la plus longue série de gains du S&P 500, entre enthousiasme pour l'IA et incertitude au Moyen-Orient.\n• Les futures ont légèrement glissé après huit gains consécutifs, mais la technologie est restée un support clair, Marvell bondissant en pré-marché.\n• Plus largement, le marché est toujours tiré vers le haut par l'optimisme lié à l'IA, malgré un contexte géopolitique non résolu.\n• Le pétrole a reculé, le Brent baissant de 1% à environ 94 $ le baril, Trump restant optimiste pour un accord de paix avec l'Iran.\n• La menace de Téhéran de suspendre les négociations montre la fragilité des perspectives, avec un large éventail de possibilités pour le brut.\n• Les Treasuries ont modestement récupéré, le dollar peu changé, les investisseurs équilibrent l'appétit pour le risque lié à l'IA et les risques énergétiques/inflationnistes du Moyen-Orient."
+    }
   },
   "dockets": [
     {
@@ -58,5 +63,5 @@
       "previous": "2.2%"
     }
   ],
-  "generated_at": "2026-06-02T13:05:43+02:00"
+  "generated_at": "2026-06-02T19:26:40+02:00"
 }
