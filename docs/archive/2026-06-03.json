@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-03",
+  "date_fr": "Mercredi 3 juin 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/06/03/morning-juice-europe-session-prep-572/",
+      "date": "2026-06-03",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le ministre des Finances japonais a réitéré la préparation à intervenir sur le marché des changes, alors que le yen s'affaiblit.\n• Le pétrole a augmenté pour le troisième jour, en raison du pessimisme sur un accord US-Iran et des combats au Moyen-Orient.\n• Le Japon a approuvé un budget supplémentaire de 19,4 milliards de dollars pour l'aide à l'inflation, mettant la politique fiscale en lumière.\n• Andy Burnham a annulé un appel avec des gestionnaires de fonds spéculatifs, poursuivant sa campagne électorale au Royaume-Uni.\n• Le président de la Fed, Kevin Warsh, a embauché Paul Winfree et Daniel Heil comme conseillers temporaires.\n• Les contrôles des capitaux en Chine restent stricts, limitant les transferts individuels à 50 000 $ par an."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/06/02/ai-rally-powers-stocks-to-new-records-as-peace-deal-hopes-build-us-market-wrap/",
+      "date": "2026-06-02",
+      "title": "AI Rally Powers Stocks to New Records as Peace Deal Hopes Build – US Market Wrap",
+      "summary": "• L'enthousiasme renouvelé pour l'IA a prolongé le rallye de Wall Street, soutenant l'appétit pour le risque.\n• Le S&P 500 a dépassé 7 600, prolongeant sa série de gains à neuf sessions, la plus longue depuis mai 2025.\n• Un indice clé des semi-conducteurs a bondi de près de 6%; Marvell Technology a grimpé de 33% après les commentaires de Nvidia.\n• Hewlett Packard Enterprise a également progressé après avoir relevé ses prévisions de ventes, citant la forte demande liée à l'IA.\n• Le Président Donald Trump reste optimiste quant à un accord de paix intérimaire US-Iran, malgré les combats au Liban.\n• Le pétrole brut US s'est établi près de 94 $ le baril après une session volatile, sur fond d'espoirs diplomatiques."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "03:50",
+      "time_cet": "09:50",
+      "cur": "EUR",
+      "title": "French PMI’s Services",
+      "forecast": "42.9",
+      "previous": "42.9"
+    },
+    {
+      "time_et": "03:50",
+      "time_cet": "09:50",
+      "cur": "EUR",
+      "title": "French PMI’s Composite",
+      "forecast": "43.5",
+      "previous": "43.5"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German PMI’s Services",
+      "forecast": "47.8",
+      "previous": "47.8"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German PMI’s Composite",
+      "forecast": "48.6",
+      "previous": "48.6"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone PMI’s Services",
+      "forecast": "46.4",
+      "previous": "46.4"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone PMI’s Composite",
+      "forecast": "47.5",
+      "previous": "47.5"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK PMI’s Services",
+      "forecast": "47.9",
+      "previous": "47.9"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK PMI’s Composite",
+      "forecast": "48.5",
+      "previous": "48.5"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone PPI YoY",
+      "forecast": "4.9%",
+      "previous": "2.1%"
+    }
+  ],
+  "generated_at": "2026-06-03T13:27:22+02:00"
+}
