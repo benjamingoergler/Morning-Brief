@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/06/03/morning-juice-europe-session-prep-572/",
       "date": "2026-06-03",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le ministre des Finances japonais a réitéré la préparation à intervenir sur le marché des changes, alors que le yen s'affaiblit.\n• Le pétrole a augmenté pour le troisième jour, en raison du pessimisme sur un accord US-Iran et des combats au Moyen-Orient.\n• Le Japon a approuvé un budget supplémentaire de 19,4 milliards de dollars pour l'aide à l'inflation, mettant la politique fiscale en lumière.\n• Andy Burnham a annulé un appel avec des gestionnaires de fonds spéculatifs, poursuivant sa campagne électorale au Royaume-Uni.\n• Le président de la Fed, Kevin Warsh, a embauché Paul Winfree et Daniel Heil comme conseillers temporaires.\n• Les contrôles des capitaux en Chine restent stricts, limitant les transferts individuels à 50 000 $ par an."
+      "summary": "• Le Ministre des Finances japonais a réitéré que les autorités sont prêtes à intervenir sur le yen si nécessaire, alors qu'il s'affaiblit.\n• Le pétrole a augmenté pour le troisième jour, en raison du pessimisme sur un accord US-Iran et des combats au Moyen-Orient.\n• Le Japon a approuvé un budget supplémentaire de 19,4 milliards de dollars pour amortir l'inflation, remettant la politique fiscale en lumière.\n• Andy Burnham a annulé un appel avec des gestionnaires de fonds spéculatifs pour se concentrer sur sa campagne électorale.\n• Le président de la Réserve fédérale, Kevin Warsh, a embauché des analystes politiques conservateurs comme conseillers temporaires.\n• La Chine maintient des contrôles stricts sur les capitaux, limitant les transferts individuels à 50 000 $ par an."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/06/02/ai-rally-powers-stocks-to-new-records-as-peace-deal-hopes-build-us-market-wrap/",
       "date": "2026-06-02",
       "title": "AI Rally Powers Stocks to New Records as Peace Deal Hopes Build – US Market Wrap",
-      "summary": "• L'enthousiasme renouvelé pour l'IA a prolongé le rallye de Wall Street, soutenant l'appétit pour le risque.\n• Le S&P 500 a dépassé 7 600, prolongeant sa série de gains à neuf sessions, la plus longue depuis mai 2025.\n• Un indice clé des semi-conducteurs a bondi de près de 6%; Marvell Technology a grimpé de 33% après les commentaires de Nvidia.\n• Hewlett Packard Enterprise a également progressé après avoir relevé ses prévisions de ventes, citant la forte demande liée à l'IA.\n• Le Président Donald Trump reste optimiste quant à un accord de paix intérimaire US-Iran, malgré les combats au Liban.\n• Le pétrole brut US s'est établi près de 94 $ le baril après une session volatile, sur fond d'espoirs diplomatiques."
+      "summary": "• L'enthousiasme renouvelé pour l'IA a prolongé le rallye de Wall Street, soutenu par l'optimisme d'un accord au Moyen-Orient.\n• Les valeurs technologiques ont mené le S&P 500 au-dessus de 7 600, prolongeant sa série de gains à neuf sessions.\n• Un indice clé des semi-conducteurs a bondi de près de 6%; Marvell Technology a grimpé de 33% après les propos de Nvidia.\n• Hewlett Packard Enterprise a également progressé, citant une forte demande liée à l'IA.\n• Le Président Trump reste optimiste quant à un accord de paix intérimaire entre les États-Unis et l'Iran.\n• Le pétrole brut américain s'est établi près de 94 $ le baril après une séance volatile."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/06/03/morning-juice-us-session-prep-3rd-june-2/",
+      "date": "2026-06-03",
+      "title": "Morning Juice – US Session Prep (3rd June)",
+      "summary": "• Les futures US ont légèrement baissé après un rallye mené par l'IA, poussant les indices à des records.\n• La hausse reste concentrée sur les technologies et semi-conducteurs, l'IA surperformant le marché plus large.\n• Le rallye semble puissant au niveau de l'indice, mais reste étroit sous la surface.\n• La remontée du Brent au-dessus de 98 $ le baril menace le cessez-le-feu US-Iran, poussant les rendements à la hausse.\n• Le dollar s'est modestement raffermi, les marchés surveillant la diplomatie et l'activité militaire.\n• Le marché est pris entre le momentum de l'IA et la hausse des prix de l'énergie et des rendements."
+    }
   },
   "dockets": [
     {
@@ -90,5 +95,5 @@
       "previous": "2.1%"
     }
   ],
-  "generated_at": "2026-06-03T13:27:22+02:00"
+  "generated_at": "2026-06-03T20:01:04+02:00"
 }
