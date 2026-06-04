@@ -1,0 +1,38 @@
+{
+  "date": "2026-06-04",
+  "date_fr": "Jeudi 4 juin 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/06/04/morning-juice-europe-session-prep-573/",
+      "date": "2026-06-04",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Les prix du pétrole ont baissé suite à l'apaisement des tensions géopolitiques au Moyen-Orient, avec un cessez-le-feu entre Israël et le Liban.\n• Trump a minimisé la menace des mines marines iraniennes dans le détroit d'Ormuz, contredisant d'autres responsables américains.\n• Lorie Logan de la Fed a évoqué de possibles hausses de taux si l'inflation ne revient pas durablement vers l'objectif de 2%.\n• Les investisseurs britanniques ont délaissé les fonds monétaires pour les obligations le mois dernier, attirés par des rendements élevés.\n• Les marchés mondiaux sont influencés par la détente géopolitique, les craintes d'inflation persistantes et les repositionnements d'investisseurs.\n• Des prix du pétrole plus bas pourraient soulager les attentes d'inflation, mais les banques centrales restent prudentes."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/06/03/stocks-fall-as-oil-rises-due-to-us-iranian-conflicts-us-market-wrap/",
+      "date": "2026-06-03",
+      "title": "Stocks Fall as Oil Rises Due to US-Iranian Conflicts – US Market Wrap",
+      "summary": "• Les actions ont chuté et les rendements obligataires ont augmenté, craignant une escalade des hostilités US-Iran et l'inflation.\n• Le S&P 500 a mis fin à une série de neuf jours de gains, chutant d'un record, avec un ETF logiciel en baisse de plus de 4%.\n• Le brut West Texas Intermediate s'est stabilisé à 96 $, les prix du pétrole alimentant les craintes d'inflation.\n• Les pertes des Treasuries ont été stimulées par la hausse du pétrole et l'amélioration du marché du travail, augmentant les prévisions de hausse des taux de la Fed.\n• Les États-Unis et l'Iran se sont affrontés, menaçant les pourparlers US-Iran et la réouverture du détroit d'Ormuz.\n• Alphabet a augmenté sa levée de fonds à 84,75 milliards de dollars pour financer ses dépenses croissantes en IA."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:30",
+      "time_cet": "08:30",
+      "cur": "CHF",
+      "title": "Swiss CPI YoY",
+      "forecast": "0.7%",
+      "previous": "0.6%"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "ECB’s Lagarde Speaks in Aix-en-Provence",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-06-04T12:25:48+02:00"
+}
