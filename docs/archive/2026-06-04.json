@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/06/04/morning-juice-europe-session-prep-573/",
       "date": "2026-06-04",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Les prix du pétrole ont baissé suite à l'apaisement des tensions géopolitiques au Moyen-Orient, avec un cessez-le-feu entre Israël et le Liban.\n• Trump a minimisé la menace des mines marines iraniennes dans le détroit d'Ormuz, contredisant d'autres responsables américains.\n• Lorie Logan de la Fed a évoqué de possibles hausses de taux si l'inflation ne revient pas durablement vers l'objectif de 2%.\n• Les investisseurs britanniques ont délaissé les fonds monétaires pour les obligations le mois dernier, attirés par des rendements élevés.\n• Les marchés mondiaux sont influencés par la détente géopolitique, les craintes d'inflation persistantes et les repositionnements d'investisseurs.\n• Des prix du pétrole plus bas pourraient soulager les attentes d'inflation, mais les banques centrales restent prudentes."
+      "summary": "• Les prix du pétrole ont baissé après un accord de cessez-le-feu entre Israël et le Liban, réduisant la prime de risque géopolitique.\n• Trump a minimisé la menace des mines iraniennes dans le détroit d'Ormuz, contredisant d'autres responsables américains.\n• Lorie Logan de la Fed a évoqué de possibles hausses de taux si l'inflation ne revient pas durablement vers l'objectif de 2%.\n• Les investisseurs britanniques ont délaissé le cash pour les obligations, attirés par des rendements obligataires élevés.\n• Le marché est tiraillé entre l'apaisement géopolitique et les préoccupations persistantes concernant l'inflation."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/06/03/stocks-fall-as-oil-rises-due-to-us-iranian-conflicts-us-market-wrap/",
       "date": "2026-06-03",
       "title": "Stocks Fall as Oil Rises Due to US-Iranian Conflicts – US Market Wrap",
-      "summary": "• Les actions ont chuté et les rendements obligataires ont augmenté, craignant une escalade des hostilités US-Iran et l'inflation.\n• Le S&P 500 a mis fin à une série de neuf jours de gains, chutant d'un record, avec un ETF logiciel en baisse de plus de 4%.\n• Le brut West Texas Intermediate s'est stabilisé à 96 $, les prix du pétrole alimentant les craintes d'inflation.\n• Les pertes des Treasuries ont été stimulées par la hausse du pétrole et l'amélioration du marché du travail, augmentant les prévisions de hausse des taux de la Fed.\n• Les États-Unis et l'Iran se sont affrontés, menaçant les pourparlers US-Iran et la réouverture du détroit d'Ormuz.\n• Alphabet a augmenté sa levée de fonds à 84,75 milliards de dollars pour financer ses dépenses croissantes en IA."
+      "summary": "• Les actions ont chuté, le S&P 500 mettant fin à neuf jours de gains, sur fond de hausse des rendements obligataires.\n• L'escalade des tensions entre les États-Unis et l'Iran a ravivé les craintes d'inflation et de perturbations de la paix.\n• Le brut WTI s'est stabilisé à 96 $, renforçant les prévisions de nouvelles hausses de taux de la Fed.\n• Alphabet a porté sa levée de fonds à 84,75 milliards de dollars pour financer ses investissements en IA.\n• Meta vend désormais l'accès à son agent IA aux entreprises pour générer de nouveaux revenus."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/06/04/morning-juice-us-session-prep-4th-june-2/",
+      "date": "2026-06-04",
+      "title": "Morning Juice – US Session Prep (4th June)",
+      "summary": "• Les actions mondiales ont reculé, les investisseurs s'interrogeant sur la durabilité du rallye de l'IA.\n• Le Nasdaq a chuté après que les prévisions de Broadcom sur l'IA n'aient pas satisfait les attentes très élevées.\n• La faiblesse s'est étendue à d'autres titres technologiques, même avec de bonnes prévisions, signalant des attentes extrêmes.\n• Les investisseurs commencent à prendre des bénéfices, car de simples bons résultats ne suffisent plus pour les valeurs IA.\n• Le recul du pétrole et la stabilité des Treasuries n'ont pas compensé l'appétit pour le risque affaibli."
+    }
   },
   "dockets": [
     {
@@ -34,5 +39,5 @@
       "previous": ""
     }
   ],
-  "generated_at": "2026-06-04T12:25:48+02:00"
+  "generated_at": "2026-06-04T18:21:20+02:00"
 }
