@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-05",
+  "date_fr": "Vendredi 5 juin 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/06/05/morning-juice-europe-session-prep-574/",
+      "date": "2026-06-05",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Les marchés mondiaux restent prudents, les investisseurs réévaluant la politique de la Fed et se détournant des actifs liés à l'IA.\n• Les traders obligataires anticipent des hausses de taux de la Fed, mais risquent un renversement si les données d'emploi US montrent une faiblesse.\n• Le pétrole se stabilise près de 95 $ le baril (Brent), pesé par les progrès diplomatiques US-Iran mais soutenu par l'incertitude Israël-Liban.\n• Au Japon, la hausse des salaires réels renforce les attentes d'une nouvelle hausse de taux de la BoJ ce mois-ci, s'éloignant de la politique ultra-accommodante.\n• Zelenskyy a proposé des pourparlers de paix à Putin, signalant une intensification des efforts diplomatiques pour mettre fin au conflit en Ukraine.\n• Au Royaume-Uni, les tensions politiques s'intensifient avec la candidature d'Andy Burnham contre Starmer, mais les marchés se concentrent sur l'économie."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/06/04/stocks-rotate-beyond-ai-as-broadcom-outlook-weighs-on-chipmakers-us-market-wrap/",
+      "date": "2026-06-04",
+      "title": "Stocks Rotate Beyond AI as Broadcom Outlook Weighs on Chipmakers – US Market Wrap",
+      "summary": "• Les investisseurs de Wall Street ont délaissé les semi-conducteurs après des prévisions décevantes de Broadcom sur les ventes liées à l'IA.\n• L'action Broadcom a chuté, entraînant l'indice des semi-conducteurs de 2,2%, marquant sa plus forte baisse depuis janvier 2025.\n• La largeur du marché s'est améliorée, 360 actions du S&P 500 ont progressé, et le Dow Jones a atteint un nouveau record.\n• Le marché est soutenu par l'optimisme concernant l'Iran, une croissance économique stable et de solides bénéfices d'entreprises.\n• Le S&P 500 est en passe de réaliser sa plus longue série de gains hebdomadaires depuis 1985, malgré le recul des semi-conducteurs.\n• Le secteur des semi-conducteurs connaît une période de consolidation après une performance exceptionnelle depuis 1999."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone GDP YoY Revised",
+      "forecast": "0.8%",
+      "previous": "0.8%"
+    }
+  ],
+  "generated_at": "2026-06-05T12:32:35+02:00"
+}
