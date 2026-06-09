@@ -6,24 +6,29 @@
       "url": "https://features.financialjuice.com/2026/06/09/morning-juice-europe-session-prep-575/",
       "date": "2026-06-09",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le pétrole s'est stabilisé après l'accord entre Israël et l'Iran pour cesser les attaques mutuelles, apaisant les tensions au Moyen-Orient.\n• Les hedge funds anticipent une faiblesse du yen avant la réunion de la Banque du Japon, citant les pressions structurelles.\n• Bank of America Securities conseille la prudence sur les actions US, voyant des « bear market signposts » indiquant un sommet.\n• Les exportations et importations chinoises ont dépassé les prévisions en mai, stimulées par la demande de matériel d'IA.\n• Le Japon entreprend sa plus grande réforme budgétaire depuis la Seconde Guerre mondiale, selon la ministre des Finances."
+      "summary": "• Le pétrole s'est stabilisé après l'accord Iran-Israël pour cesser les attaques, apaisant les tensions au Moyen-Orient.\n• Les hedge funds anticipent une faiblesse du JPY avant la réunion de la BoJ, malgré une hausse de taux possible.\n• La faiblesse du JPY est attribuée aux prix du pétrole, aux sorties de capitaux et aux différentiels de taux.\n• Bank of America Securities met en garde contre les actions US, signalant des « bear market signposts » proches d'un sommet.\n• Les exportations et importations chinoises ont dépassé les prévisions en mai, portées par la forte demande d'IA.\n• Le Japon entreprend la plus grande réforme budgétaire depuis la Seconde Guerre mondiale, selon le ministre des Finances."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/06/08/stocks-rebound-as-ai-rally-resumes-oil-eases-us-market-wrap/",
       "date": "2026-06-08",
       "title": "Stocks Rebound as AI Rally Resumes, Oil Eases – US Market Wrap",
-      "summary": "• Les actions ont rebondi, le pétrole a reculé, les rendements sont restés stables et le dollar peu changé, les acheteurs étant de retour.\n• Wall Street a fait un retour, portée par l'enthousiasme pour l'IA et une économie résiliente soutenant les entreprises américaines.\n• Les fabricants de puces comme Nvidia et Micron ont bondi de 5.6%, aidant le S&P 500 à se redresser.\n• Le Nasdaq 100 a augmenté de 1.6%, tandis qu'Apple a glissé de 1.9% après une réaction mitigée à sa plateforme d'IA.\n• Les traders de momentum sont revenus, renforçant la confiance dans le marché haussier après une brève pause.\n• Le sentiment a été soutenu par le recul du pétrole après l'apaisement des frappes entre l'Iran et Israël."
+      "summary": "• Les actions ont rebondi, le pétrole a reculé, les rendements sont restés stables et le dollar peu changé.\n• Wall Street a connu un retour en force grâce aux « dip buyers » et à l'enthousiasme pour l'IA.\n• Les fabricants de puces comme Nvidia et Micron ont bondi de 5.6%, tirant le S&P 500.\n• Le Nasdaq 100 a augmenté de 1.6%, tandis qu'Apple a glissé de 1.9% après sa plateforme IA.\n• Les traders de momentum sont revenus, renforçant la confiance dans le marché haussier actuel.\n• Le sentiment a été soutenu par la baisse du pétrole après l'apaisement des tensions Iran-Israël."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/06/09/morning-juice-us-session-prep-9th-june-2/",
+      "date": "2026-06-09",
+      "title": "Morning Juice – US Session Prep (9th June)",
+      "summary": "• Les Treasuries US ont légèrement progressé, bénéficiant d'une baisse des prix du pétrole.\n• Cette baisse du pétrole est liée à l'optimisme d'une résolution potentielle du conflit au Moyen-Orient.\n• Le dollar a glissé, s'éloignant de son sommet de deux mois atteint plus tôt cette semaine.\n• Le marché obligataire américain a montré une légère tendance haussière, influencé par le pétrole.\n• L'espoir d'une fin de la guerre au Moyen-Orient a contribué à la détente des prix de l'énergie.\n• La monnaie américaine a connu un recul après avoir affiché une forte performance récente."
+    }
   },
   "dockets": [
     {
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "EUR",
-      "title": "German Industrial Production YoY",
-      "forecast": "-1.1%",
-      "previous": "-2.8%"
+      "title": "German Industrial Production",
+      "forecast": "YoY: -1.1% | MoM: 0.4%",
+      "previous": "YoY: -2.8% | MoM: -0.7%"
     },
     {
       "time_et": "02:00",
@@ -50,5 +55,5 @@
       "previous": "14.3B"
     }
   ],
-  "generated_at": "2026-06-09T12:08:58+02:00"
+  "generated_at": "2026-06-09T18:02:06+02:00"
 }
