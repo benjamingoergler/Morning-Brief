@@ -1,0 +1,54 @@
+{
+  "date": "2026-06-09",
+  "date_fr": "Mardi 9 juin 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/06/09/morning-juice-europe-session-prep-575/",
+      "date": "2026-06-09",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le pétrole s'est stabilisé après l'accord entre Israël et l'Iran pour cesser les attaques mutuelles, apaisant les tensions au Moyen-Orient.\n• Les hedge funds anticipent une faiblesse du yen avant la réunion de la Banque du Japon, citant les pressions structurelles.\n• Bank of America Securities conseille la prudence sur les actions US, voyant des « bear market signposts » indiquant un sommet.\n• Les exportations et importations chinoises ont dépassé les prévisions en mai, stimulées par la demande de matériel d'IA.\n• Le Japon entreprend sa plus grande réforme budgétaire depuis la Seconde Guerre mondiale, selon la ministre des Finances."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/06/08/stocks-rebound-as-ai-rally-resumes-oil-eases-us-market-wrap/",
+      "date": "2026-06-08",
+      "title": "Stocks Rebound as AI Rally Resumes, Oil Eases – US Market Wrap",
+      "summary": "• Les actions ont rebondi, le pétrole a reculé, les rendements sont restés stables et le dollar peu changé, les acheteurs étant de retour.\n• Wall Street a fait un retour, portée par l'enthousiasme pour l'IA et une économie résiliente soutenant les entreprises américaines.\n• Les fabricants de puces comme Nvidia et Micron ont bondi de 5.6%, aidant le S&P 500 à se redresser.\n• Le Nasdaq 100 a augmenté de 1.6%, tandis qu'Apple a glissé de 1.9% après une réaction mitigée à sa plateforme d'IA.\n• Les traders de momentum sont revenus, renforçant la confiance dans le marché haussier après une brève pause.\n• Le sentiment a été soutenu par le recul du pétrole après l'apaisement des frappes entre l'Iran et Israël."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Industrial Production YoY",
+      "forecast": "-1.1%",
+      "previous": "-2.8%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Trade Imports",
+      "forecast": "-2%",
+      "previous": "5.1%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Trade Exports",
+      "forecast": "-0.5%",
+      "previous": "0.5%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Trade Balance",
+      "forecast": "15.9B",
+      "previous": "14.3B"
+    }
+  ],
+  "generated_at": "2026-06-09T12:08:58+02:00"
+}
