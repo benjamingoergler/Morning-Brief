@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/06/11/morning-juice-europe-session-prep-577/",
       "date": "2026-06-11",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le pétrole a bondi après des frappes militaires américaines sur l'Iran, qui a stoppé les navires dans le détroit d'Hormuz.\n• Les traders obligataires anticipent des hausses de taux de la Fed d'ici fin d'année, malgré une inflation US modérée.\n• Le Trésor américain a remboursé près de 22 milliards de dollars de recettes tarifaires en mai, suite à une décision de la Cour Suprême.\n• La Chancelière britannique Rachel Reeves prévoit d'alléger la fiscalité pour les riches investisseurs américains s'installant au Royaume-Uni.\n• Les tensions géopolitiques au Moyen-Orient s'intensifient, impactant les prix du pétrole et les routes commerciales mondiales.\n• La BCE doit annoncer ses taux aujourd'hui, avec des prévisions à 2,4% pour le taux directeur et 2,25% pour le taux de dépôt."
+      "summary": "• Le pétrole a bondi après des frappes militaires américaines en Iran, qui a annoncé un arrêt des navires via le détroit d'Ormuz.\n• Les traders obligataires anticipent une hausse des taux de la Fed d'ici fin d'année, malgré une inflation US core plus faible.\n• Le Trésor américain a remboursé près de 22 milliards de dollars de recettes tarifaires en mai, suite à une décision de la Cour Suprême.\n• Rachel Reeves, Chancelière de l'Échiquier, prévoit d'alléger la charge fiscale pour les riches investisseurs US au Royaume-Uni.\n• La BCE devrait annoncer ses décisions sur les taux d'intérêt aujourd'hui, avec des prévisions de hausse pour les taux directeur et de dépôt."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/06/10/stocks-hit-five-week-low-as-tech-selloff-oil-rise-weigh-us-market-wrap/",
       "date": "2026-06-10",
       "title": "Stocks Hit Five-Week Low as Tech Selloff, Oil Rise Weigh – US Market Wrap",
-      "summary": "• Les marchés ont chuté, le S&P 500 perdant 1,6% à un plus bas de cinq semaines, suite à une vente massive de titres technologiques.\n• Le secteur des semi-conducteurs a été particulièrement touché, avec une baisse de 3,6% pour l'indice clé des fabricants de puces.\n• Le pétrole brut US a clôturé près de 90 dollars après les avertissements de Trump sur l'Iran et les tensions au Moyen-Orient.\n• Les inquiétudes concernant une bulle potentielle dans les actions liées à l'IA s'intensifient, notamment pour les mégacaps.\n• Une augmentation des émissions d'actions liées à l'IA soulève des questions sur la demande et les valorisations actuelles.\n• Les tensions au Moyen-Orient pourraient perturber les pourparlers US-Iran, augmentant les craintes d'inflation et de hausses de taux de la Fed."
+      "summary": "• Les marchés ont chuté, le pétrole a grimpé, les rendements ont augmenté et le dollar est resté stable, sous pression technologique et géopolitique.\n• Le S&P 500 a baissé de 1,6% à un plus bas de cinq semaines, suite à une nouvelle vente massive des valeurs technologiques.\n• Le pétrole brut US s'est établi près de 90$, après les avertissements de Trump sur l'Iran et les tensions au Moyen-Orient.\n• Les inquiétudes concernant une bulle potentielle dans les valeurs liées à l'IA s'intensifient, notamment pour les mégacaps et semi-conducteurs.\n• La hausse des émissions d'actions liées à l'IA soulève des questions sur la capacité d'absorption du marché et les valorisations.\n• Les tensions au Moyen-Orient pourraient perturber les pourparlers US-Iran, augmentant les craintes d'inflation et de hausses de taux de la Fed."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/06/11/morning-juice-us-session-prep-11th-june-2/",
+      "date": "2026-06-11",
+      "title": "Morning Juice – US Session Prep (11th June)",
+      "summary": "• Les traders achètent la baisse des actions, espérant une reprise des pourparlers pour rouvrir le détroit d'Ormuz après les frappes US en Iran.\n• La BCE devrait relever ses taux pour la première fois depuis 2023, face à l'inflation exacerbée par le conflit Iranien.\n• La question clé pour la BCE est la possibilité d'une nouvelle hausse des taux en juillet, ce qui ne garantit pas un rallye de l'euro.\n• L'hospitalisation du gouverneur de la BoJ, Kazuo Ueda, crée de l'incertitude avant la réunion de politique monétaire la semaine prochaine.\n• La Chine s'inquiète des droits du travail face à l'adoption rapide de l'IA, un journal d'État appelant à la protection."
+    }
   },
   "dockets": [
     {
@@ -42,5 +47,5 @@
       "previous": ""
     }
   ],
-  "generated_at": "2026-06-11T13:10:10+02:00"
+  "generated_at": "2026-06-11T18:56:45+02:00"
 }
