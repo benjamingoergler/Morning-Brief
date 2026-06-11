@@ -1,0 +1,46 @@
+{
+  "date": "2026-06-11",
+  "date_fr": "Jeudi 11 juin 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/06/11/morning-juice-europe-session-prep-577/",
+      "date": "2026-06-11",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le pétrole a bondi après des frappes militaires américaines sur l'Iran, qui a stoppé les navires dans le détroit d'Hormuz.\n• Les traders obligataires anticipent des hausses de taux de la Fed d'ici fin d'année, malgré une inflation US modérée.\n• Le Trésor américain a remboursé près de 22 milliards de dollars de recettes tarifaires en mai, suite à une décision de la Cour Suprême.\n• La Chancelière britannique Rachel Reeves prévoit d'alléger la fiscalité pour les riches investisseurs américains s'installant au Royaume-Uni.\n• Les tensions géopolitiques au Moyen-Orient s'intensifient, impactant les prix du pétrole et les routes commerciales mondiales.\n• La BCE doit annoncer ses taux aujourd'hui, avec des prévisions à 2,4% pour le taux directeur et 2,25% pour le taux de dépôt."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/06/10/stocks-hit-five-week-low-as-tech-selloff-oil-rise-weigh-us-market-wrap/",
+      "date": "2026-06-10",
+      "title": "Stocks Hit Five-Week Low as Tech Selloff, Oil Rise Weigh – US Market Wrap",
+      "summary": "• Les marchés ont chuté, le S&P 500 perdant 1,6% à un plus bas de cinq semaines, suite à une vente massive de titres technologiques.\n• Le secteur des semi-conducteurs a été particulièrement touché, avec une baisse de 3,6% pour l'indice clé des fabricants de puces.\n• Le pétrole brut US a clôturé près de 90 dollars après les avertissements de Trump sur l'Iran et les tensions au Moyen-Orient.\n• Les inquiétudes concernant une bulle potentielle dans les actions liées à l'IA s'intensifient, notamment pour les mégacaps.\n• Une augmentation des émissions d'actions liées à l'IA soulève des questions sur la demande et les valorisations actuelles.\n• Les tensions au Moyen-Orient pourraient perturber les pourparlers US-Iran, augmentant les craintes d'inflation et de hausses de taux de la Fed."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "08:15",
+      "time_cet": "14:15",
+      "cur": "EUR",
+      "title": "ECB Interest rate",
+      "forecast": "2.4%",
+      "previous": "2.15%"
+    },
+    {
+      "time_et": "08:15",
+      "time_cet": "14:15",
+      "cur": "EUR",
+      "title": "ECB Deposit Rate",
+      "forecast": "2.25%",
+      "previous": "2%"
+    },
+    {
+      "time_et": "08:15",
+      "time_cet": "14:15",
+      "cur": "EUR",
+      "title": "ECB Rate Statement",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-06-11T13:10:10+02:00"
+}
