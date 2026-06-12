@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/06/12/morning-juice-europe-session-prep-578/",
       "date": "2026-06-12",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le sentiment de risque mondial s'est amélioré après l'annonce par Trump de l'annulation des frappes sur l'Iran et d'un accord imminent.\n• Trump a évoqué un \"mémorandum d'accord très solide\" pour le détroit d'Ormuz et l'engagement non nucléaire de Téhéran.\n• Le pétrole a poursuivi sa baisse, le Brent reculant, alors que les primes de risque géopolitique se sont dissipées.\n• Les marchés obligataires sont restés soutenus, les craintes d'inflation énergétique s'atténuant et la pression sur les rendements diminuant.\n• L'incertitude politique au Royaume-Uni a augmenté suite à la démission du Secrétaire à la Défense Healey sur un différend budgétaire.\n• La banque centrale de Corée du Sud a signalé une position plus hawkish, le gouverneur Rhee plaidant pour des hausses de taux immédiates."
+      "summary": "• Le sentiment de risque mondial s'est amélioré après l'annulation par Trump des attaques contre l'Iran, un accord étant proche.\n• Trump a évoqué un \"très fort protocole d'accord\" pour la navigation et l'engagement non-nucléaire de Téhéran.\n• Le pétrole a poursuivi sa baisse, le Brent reculant, suite à l'atténuation des primes de risque géopolitiques.\n• Les marchés obligataires sont restés soutenus, la baisse des craintes d'inflation énergétique réduisant la pression sur les rendements.\n• L'incertitude politique au Royaume-Uni a augmenté avec la démission du Secrétaire à la Défense Healey.\n• La banque centrale sud-coréenne a signalé une position plus hawkish, le gouverneur Rhee plaidant pour des hausses de taux."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/06/11/stocks-surge-oil-drops-on-iran-deal-hopes-us-market-wrap/",
       "date": "2026-06-11",
       "title": "Stocks Surge, Oil Drops on Iran Deal Hopes – US Market Wrap",
-      "summary": "• Les actions ont bondi, les rendements et le pétrole ont chuté, le dollar s'est affaibli, stimulés par l'optimisme d'un accord US-Iran.\n• Le S&P 500 a grimpé de 1,8%, mettant fin à deux jours de baisse, porté par l'espoir de paix.\n• Le brut américain a glissé à environ 86 $, allégeant les craintes d'inflation et faisant baisser les rendements obligataires.\n• Les fabricants de puces ont enregistré une hausse de près de 8%, contribuant à l'ambiance positive du marché.\n• SpaceX a levé 75 milliards de dollars lors d'une introduction en bourse record, marquant une étape majeure.\n• Trump a retiré ses menaces de frappes, évoquant des discussions avancées et un accord possible en quelques jours."
+      "summary": "• Les actions ont bondi, les rendements ont chuté, le pétrole a baissé et le dollar s'est affaibli grâce à l'optimisme sur un accord US-Iran.\n• Wall Street a rallié, le S&P 500 a grimpé de 1,8%, le pétrole brut US a glissé à environ 86$.\n• La baisse du pétrole a atténué les craintes d'inflation, entraînant une diminution des rendements obligataires.\n• Une forte hausse de près de 8% des fabricants de puces a contribué au sentiment positif.\n• SpaceX a levé 75 milliards de dollars lors d'une introduction en bourse record.\n• Trump a retiré ses menaces de frappes, indiquant qu'un accord pourrait être finalisé rapidement."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/06/12/morning-juice-us-session-prep-12th-june-2/",
+      "date": "2026-06-12",
+      "title": "Morning Juice – US Session Prep (12th June)",
+      "summary": "• Les bons du Trésor US ont augmenté, soutenus par l'optimisme d'un accord US-Iran pour rouvrir le détroit d'Ormuz.\n• Le dollar a réduit ses gains, les rapports sur un accord potentiel ayant stimulé le sentiment général.\n• Les investisseurs attendent les données de l'Université du Michigan sur les attentes d'inflation et le sentiment des consommateurs.\n• L'enquête préliminaire de l'Université du Michigan de juin prévoit un sentiment à 46, contre 44,8 précédemment.\n• Le membre de la BCE Nagel participera à une discussion sur l'Europe et les relations franco-allemandes à Berlin.\n• Trump participera à un podcast pré-enregistré avec la Seconde Dame."
+    }
   },
   "dockets": [
     {
@@ -50,5 +55,5 @@
       "previous": "2.7%"
     }
   ],
-  "generated_at": "2026-06-12T12:49:56+02:00"
+  "generated_at": "2026-06-12T18:22:37+02:00"
 }
