@@ -1,0 +1,54 @@
+{
+  "date": "2026-06-12",
+  "date_fr": "Vendredi 12 juin 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/06/12/morning-juice-europe-session-prep-578/",
+      "date": "2026-06-12",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le sentiment de risque mondial s'est amélioré après l'annonce par Trump de l'annulation des frappes sur l'Iran et d'un accord imminent.\n• Trump a évoqué un \"mémorandum d'accord très solide\" pour le détroit d'Ormuz et l'engagement non nucléaire de Téhéran.\n• Le pétrole a poursuivi sa baisse, le Brent reculant, alors que les primes de risque géopolitique se sont dissipées.\n• Les marchés obligataires sont restés soutenus, les craintes d'inflation énergétique s'atténuant et la pression sur les rendements diminuant.\n• L'incertitude politique au Royaume-Uni a augmenté suite à la démission du Secrétaire à la Défense Healey sur un différend budgétaire.\n• La banque centrale de Corée du Sud a signalé une position plus hawkish, le gouverneur Rhee plaidant pour des hausses de taux immédiates."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/06/11/stocks-surge-oil-drops-on-iran-deal-hopes-us-market-wrap/",
+      "date": "2026-06-11",
+      "title": "Stocks Surge, Oil Drops on Iran Deal Hopes – US Market Wrap",
+      "summary": "• Les actions ont bondi, les rendements et le pétrole ont chuté, le dollar s'est affaibli, stimulés par l'optimisme d'un accord US-Iran.\n• Le S&P 500 a grimpé de 1,8%, mettant fin à deux jours de baisse, porté par l'espoir de paix.\n• Le brut américain a glissé à environ 86 $, allégeant les craintes d'inflation et faisant baisser les rendements obligataires.\n• Les fabricants de puces ont enregistré une hausse de près de 8%, contribuant à l'ambiance positive du marché.\n• SpaceX a levé 75 milliards de dollars lors d'une introduction en bourse record, marquant une étape majeure.\n• Trump a retiré ses menaces de frappes, évoquant des discussions avancées et un accord possible en quelques jours."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Manufacturing Production MoM",
+      "forecast": "-0.2%",
+      "previous": "1.2%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK GDP Estimate MoM",
+      "forecast": "-0.1%",
+      "previous": "0.3%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK GDP Estimate 3M/3M",
+      "forecast": "0.7%",
+      "previous": "0.6%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German HICP Final YoY",
+      "forecast": "2.7%",
+      "previous": "2.7%"
+    }
+  ],
+  "generated_at": "2026-06-12T12:49:56+02:00"
+}
