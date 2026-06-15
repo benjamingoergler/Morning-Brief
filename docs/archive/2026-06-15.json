@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-15",
+  "date_fr": "Lundi 15 juin 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/06/15/morning-juice-europe-session-prep-579/",
+      "date": "2026-06-15",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Les États-Unis et l'Iran ont conclu un accord intérimaire pour rouvrir le détroit d'Ormuz, ouvrant 60 jours de négociations sur le programme nucléaire.\n• Le pétrole a chuté suite à l'accord US-Iran, avec la réouverture potentielle du détroit d'Ormuz.\n• La Banque du Japon devrait relever son taux directeur au plus haut depuis 1995, lors d'une réunion sans le gouverneur.\n• Les Treasuries ont progressé, les investisseurs réduisant les attentes de hausses de taux de la Fed après l'accord iranien.\n• Les spéculateurs ont augmenté leurs paris contre le yen à un plus haut de neuf ans, signalant un regain du carry trade.\n• Les dépenses de consommation en Chine pourraient avoir diminué pour la première fois depuis la pandémie, prolongeant le ralentissement économique."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/06/12/stocks-rise-oil-falls-on-iran-deal-optimism-us-market-wrap/",
+      "date": "2026-06-12",
+      "title": "Stocks Rise, Oil Falls on Iran Deal Optimism – US Market Wrap",
+      "summary": "• Les espoirs d'un accord diplomatique en Iran ont accentué la baisse des prix du pétrole et soutenu les actions.\n• Le sentiment de Wall Street a été renforcé par le fort début de cotation de SpaceX, qui a grimpé de 19%.\n• Le S&P 500 a progressé, tandis que le brut américain s'est établi sous 85 $ suite à l'accord iranien.\n• Un responsable américain estime à 80-85% la probabilité d'un accord imminent, potentiellement signé ce week-end ou lundi.\n• Les actions ont brièvement reculé après les plaintes de Trump concernant des fuites sur l'accord iranien.\n• La Fed devrait maintenir ses taux inchangés lors de la réunion des 16-17 juin, la première sous Kevin Warsh."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/06/15/morning-juice-us-session-prep-15th-june/",
+      "date": "2026-06-15",
+      "title": "Morning Juice – US Session Prep (15th June)",
+      "summary": "• Les Treasuries US ont rallié et le dollar a chuté après l'accord intérimaire US-Iran sur le détroit d'Ormuz.\n• L'optimisme grandit pour la normalisation des flux énergétiques et l'apaisement des craintes d'inflation.\n• L'accord US-Iran met fin à une guerre et ouvre 60 jours de négociations sur le programme nucléaire de Téhéran.\n• Le cadre comprend la réouverture de la route maritime clé et une prolongation du cessez-le-feu."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone Industrial Production",
+      "forecast": "YoY: 0.4% / MoM: 0.2%",
+      "previous": "YoY: -2.1% / MoM: 0.2%"
+    }
+  ],
+  "generated_at": "2026-06-15T14:49:22+02:00"
+}
