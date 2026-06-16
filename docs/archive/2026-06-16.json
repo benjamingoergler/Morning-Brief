@@ -1,0 +1,33 @@
+{
+  "date": "2026-06-16",
+  "date_fr": "Mardi 16 juin 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/06/16/morning-juice-europe-session-prep-580/",
+      "date": "2026-06-16",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• La Banque du Japon a relevé son taux directeur à son plus haut niveau depuis 1995, signalant une normalisation continue de sa politique monétaire.\n• Donald Trump maintient que le détroit d'Ormuz rouvrira vendredi, mais ses alliés européens ne partagent pas son optimisme quant à un accord.\n• Le pétrole s'est stabilisé après une forte baisse, les marchés attendant des détails sur un éventuel accord américano-iranien pour rouvrir le détroit d'Ormuz.\n• Les dépenses de consommation en Chine ont diminué en mai pour la première fois depuis la pandémie, malgré des exportations solides et une détente des tensions autour de l'Iran.\n• Les prix de l'immobilier en Chine ont chuté plus rapidement en mai, inversant les signes de reprise observés en début d'année.\n• Les données ZEW allemandes pour juin montrent une détérioration du sentiment économique et des conditions actuelles, plus marquée que prévu."
+    },
+    "wrap": null,
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "German ZEW Current Conditions",
+      "forecast": "-78",
+      "previous": "-77.8"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "German ZEW Economic Sentiment",
+      "forecast": "-5.5",
+      "previous": "-10.2"
+    }
+  ],
+  "generated_at": "2026-06-16T13:44:37+02:00"
+}

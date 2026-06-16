@@ -1,6 +1,10 @@
 {
-  "today": "2026-06-15",
+  "today": "2026-06-16",
   "days": [
+    {
+      "date": "2026-06-16",
+      "headline": "(brief sans US wrap)"
+    },
     {
       "date": "2026-06-15",
       "headline": "Stocks Rise, Oil Falls on Iran Deal Optimism – US Market Wrap"
