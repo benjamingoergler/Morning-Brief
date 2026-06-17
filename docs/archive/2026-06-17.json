@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-17",
+  "date_fr": "Mercredi 17 juin 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/06/17/morning-juice-europe-session-prep-581/",
+      "date": "2026-06-17",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• L'Iran devrait recevoir des incitations financières étendues, incluant la vente immédiate de pétrole et l'accès à un fonds de 300 milliards de dollars.\n• Les prix du pétrole se maintiennent près d'un plus bas de trois mois, anticipant une augmentation de l'offre suite à l'accord US-Iran.\n• La Fed devrait maintenir ses taux d'intérêt, un défi pour le nouveau président Kevin Warsh face à l'inflation et la pression de Trump.\n• Le chef de la banque centrale chinoise participera au Lujiazui Forum, potentiellement pour signaler de nouvelles mesures de soutien économique.\n• La balance commerciale du Japon est déficitaire pour la première fois en quatre mois, le yen faible gonflant la valeur des importations."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/06/16/stocks-pause-near-records-ahead-of-first-warsh-fed-decision-us-market-wrap/",
+      "date": "2026-06-16",
+      "title": "Stocks Pause Near Records Ahead of First Warsh Fed Decision – US Market Wrap",
+      "summary": "• Le rallye des actions US a marqué une pause, les investisseurs attendant la décision de la Fed sous la présidence de Kevin Warsh.\n• La baisse des prix du pétrole a soutenu les obligations, faisant chuter les rendements; la rotation hors technologie s'est poursuivie.\n• Le S&P 500 a légèrement baissé et le NDX a reculé d'environ 2%, tandis que le Dow Jones a atteint un nouveau record.\n• Le pétrole est tombé sous 80 $ le baril, anticipant une reprise de l'offre mondiale et un accord US-Iran.\n• L'attention se porte sur la communication de la Fed de Warsh, notamment les projections économiques et le dot plot.\n• La valorisation de SpaceX a bondi, approchant celle d'Amazon, reflétant l'enthousiasme pour les actifs de croissance."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK CPI YoY",
+      "forecast": "3%",
+      "previous": "2.8%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Core CPI YoY",
+      "forecast": "2.7%",
+      "previous": "2.5%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK RPI MoM",
+      "forecast": "0.5%",
+      "previous": "0.7%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "PPI Output YoY",
+      "forecast": "4%",
+      "previous": "4%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "PPI Input YoY",
+      "forecast": "-78",
+      "previous": "-77.8"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "",
+      "title": "IEA Monthly Report",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone CPI YoY",
+      "forecast": "3.2%",
+      "previous": "3.2%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone Core CPI YoY",
+      "forecast": "2.5%",
+      "previous": "2.5%"
+    }
+  ],
+  "generated_at": "2026-06-17T13:21:27+02:00"
+}
