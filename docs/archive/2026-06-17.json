@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/06/17/morning-juice-europe-session-prep-581/",
       "date": "2026-06-17",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• L'Iran devrait recevoir des incitations financières étendues, incluant la vente immédiate de pétrole et l'accès à un fonds de 300 milliards de dollars.\n• Les prix du pétrole se maintiennent près d'un plus bas de trois mois, anticipant une augmentation de l'offre suite à l'accord US-Iran.\n• La Fed devrait maintenir ses taux d'intérêt, un défi pour le nouveau président Kevin Warsh face à l'inflation et la pression de Trump.\n• Le chef de la banque centrale chinoise participera au Lujiazui Forum, potentiellement pour signaler de nouvelles mesures de soutien économique.\n• La balance commerciale du Japon est déficitaire pour la première fois en quatre mois, le yen faible gonflant la valeur des importations."
+      "summary": "• L'Iran pourrait obtenir des incitations financières majeures, incluant la vente de pétrole et l'accès à 300 milliards de dollars, via un accord avec les US.\n• Le pétrole se maintient près d'un plus bas de trois mois, anticipant une offre accrue suite à l'accord US-Iran sur le détroit d'Ormuz.\n• La Fed devrait maintenir les taux stables, testant le nouveau président Kevin Warsh face à l'inflation croissante et la pression de Trump.\n• Le chef de la banque centrale chinoise interviendra au Forum de Lujiazui, signalant les prochaines mesures de soutien à l'économie.\n• La balance commerciale du Japon est déficitaire pour la première fois en quatre mois, le yen faible gonflant la valeur des importations."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/06/16/stocks-pause-near-records-ahead-of-first-warsh-fed-decision-us-market-wrap/",
       "date": "2026-06-16",
       "title": "Stocks Pause Near Records Ahead of First Warsh Fed Decision – US Market Wrap",
-      "summary": "• Le rallye des actions US a marqué une pause, les investisseurs attendant la décision de la Fed sous la présidence de Kevin Warsh.\n• La baisse des prix du pétrole a soutenu les obligations, faisant chuter les rendements; la rotation hors technologie s'est poursuivie.\n• Le S&P 500 a légèrement baissé et le NDX a reculé d'environ 2%, tandis que le Dow Jones a atteint un nouveau record.\n• Le pétrole est tombé sous 80 $ le baril, anticipant une reprise de l'offre mondiale et un accord US-Iran.\n• L'attention se porte sur la communication de la Fed de Warsh, notamment les projections économiques et le dot plot.\n• La valorisation de SpaceX a bondi, approchant celle d'Amazon, reflétant l'enthousiasme pour les actifs de croissance."
+      "summary": "• Le rallye des actions US a marqué une pause avant la première décision de politique monétaire de la Fed sous le président Kevin Warsh.\n• La baisse des prix du pétrole a soutenu les obligations, entraînant une diminution des rendements obligataires.\n• Le S&P 500 a légèrement baissé et le Nasdaq 100 a reculé d'environ 2%, impactés par la faiblesse des valeurs technologiques.\n• Les secteurs sensibles à l'économie ont bien résisté, permettant au Dow Jones Industrial Average d'atteindre un nouveau record.\n• Le pétrole est tombé sous 80 dollars le baril, les traders anticipant une reprise des approvisionnements mondiaux.\n• Les marchés se concentrent sur l'accord de paix intérimaire US-Iran et ses implications pour les prix de l'énergie et l'économie."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/06/17/morning-juice-us-session-prep-17th-june-2/",
+      "date": "2026-06-17",
+      "title": "Morning Juice – US Session Prep (17th June)",
+      "summary": "• Les Treasuries US sont restés stables, avec de légères augmentations de rendement à court terme, en attente de la réunion de la Fed.\n• Les swaps indiquent un maintien probable des taux, l'attention étant portée sur l'orientation dovish ou hawkish de Warsh.\n• Les investisseurs attendent de voir si les remarques de Warsh reflètent sa position ou celle du comité plus large.\n• La Fed de Warsh communiquera ses perspectives, avec un focus sur les changements éventuels au Summary of Economic Projections et au dot plot.\n• Une nouvelle hausse de la valorisation de SpaceX la rapproche de la capitalisation boursière d'Amazon, montrant l'enthousiasme pour la croissance."
+    }
   },
   "dockets": [
     {
@@ -29,7 +34,7 @@
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "GBP",
-      "title": "UK Core CPI YoY",
+      "title": "UK Core YoY",
       "forecast": "2.7%",
       "previous": "2.5%"
     },
@@ -45,7 +50,7 @@
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "GBP",
-      "title": "PPI Output YoY",
+      "title": "UK PPI Output YoY",
       "forecast": "4%",
       "previous": "4%"
     },
@@ -53,7 +58,7 @@
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "GBP",
-      "title": "PPI Input YoY",
+      "title": "UK PPI Input YoY",
       "forecast": "-78",
       "previous": "-77.8"
     },
@@ -77,10 +82,10 @@
       "time_et": "05:00",
       "time_cet": "11:00",
       "cur": "EUR",
-      "title": "Eurozone Core CPI YoY",
+      "title": "Eurozone Core YoY",
       "forecast": "2.5%",
       "previous": "2.5%"
     }
   ],
-  "generated_at": "2026-06-17T13:21:27+02:00"
+  "generated_at": "2026-06-17T18:40:10+02:00"
 }
