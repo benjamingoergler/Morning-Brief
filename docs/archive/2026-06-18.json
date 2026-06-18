@@ -6,22 +6,27 @@
       "url": "https://features.financialjuice.com/2026/06/18/morning-juice-europe-session-prep-582/",
       "date": "2026-06-18",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le Président Trump a signé un accord intérimaire pour mettre fin à la guerre avec l'Iran et rouvrir le détroit d'Ormuz.\n• Kevin Warsh, nouveau président de la Fed, s'est engagé à maîtriser l'inflation et à réorganiser la banque centrale américaine.\n• La Fed a maintenu ses taux; neuf responsables prévoient au moins une hausse cette année, six en anticipent deux ou plus.\n• Le pétrole a chuté suite à l'accord de paix US-Iran, l'attention se portant sur la reprise du transit dans le détroit d'Ormuz.\n• Les marchés surveillent une intervention sur le yen après la position hawkish de la Fed, provoquant une baisse de la devise."
+      "summary": "• Le président Trump a signé un accord intérimaire pour mettre fin à la guerre avec l'Iran et rouvrir le détroit d'Ormuz.\n• Kevin Warsh a débuté son mandat de président de la Fed, s'engageant à maîtriser l'inflation et à réorganiser la banque centrale.\n• La Fed a maintenu les taux inchangés; neuf officiels prévoient au moins une hausse cette année, six en anticipent deux.\n• Le pétrole a chuté suite à l'accord de paix US-Iran, l'attention se portant sur la reprise rapide du transit via Ormuz.\n• Les marchés surveillent une possible intervention sur le yen après la position hawkish de la Fed, provoquant une chute de la devise.\n• L'économie néo-zélandaise a redémarré au T1 grâce aux faibles taux d'intérêt et à l'augmentation des dépenses."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/06/17/stocks-fall-as-fed-signals-higher-rates-may-be-needed-us-market-wrap/",
       "date": "2026-06-17",
       "title": "Stocks Fall as Fed Signals Higher Rates May Be Needed – US Market Wrap",
-      "summary": "• Wall Street a reculé après que la Fed ait signalé de potentielles hausses de taux face au conflit iranien et aux prix de l'énergie.\n• Le S&P 500 a chuté de 1,2%; les rendements des Treasuries à deux ans ont bondi de 16 points de base à 4,21%.\n• La Fed a maintenu ses taux, mais les projections montrent un comité divisé sur les futures hausses.\n• Le nouveau président de la Fed, Kevin Warsh, a souligné la \"stabilité des prix\", signalant une réponse agressive à l'inflation.\n• Les marchés monétaires intègrent désormais pleinement une hausse des taux de la Fed d'ici octobre.\n• La Fed a jugé la croissance économique solide, mettant l'accent sur la productivité et l'investissement, et se concentrant sur l'inflation."
+      "summary": "• Wall Street a reculé après que la Fed ait signalé de possibles hausses de taux face à l'inflation post-conflit iranien.\n• Le S&P 500 a chuté de 1,2%, tandis que le rendement des Treasuries à deux ans a bondi de 16 points de base à 4,21%.\n• La Fed a maintenu les taux inchangés, mais neuf officiels prévoient au moins une hausse, six en anticipent deux ou plus.\n• Le nouveau président de la Fed, Kevin Warsh, a insisté sur la \"stabilité des prix\", suggérant une réponse agressive à l'inflation.\n• Les marchés monétaires intègrent désormais pleinement une hausse de taux de la Fed d'ici octobre.\n• La Fed a décrit la croissance économique comme solide, soulignant les gains de productivité et l'investissement."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/06/18/morning-juice-us-session-prep-18th-june-2/",
+      "date": "2026-06-18",
+      "title": "Morning Juice – US Session Prep (18th June)",
+      "summary": "• Les futures US ont progressé, le pétrole ayant chuté suite à l'accord Trump sur le Moyen-Orient et la normalisation des flux.\n• S&P 500 et Nasdaq futures ont augmenté, la tech menant la hausse, Intel bondissant après un accord avec Apple.\n• Le Brent est tombé à son plus bas depuis le conflit, les tankers saoudiens reprenant leurs signaux dans le golfe d'Oman.\n• Les rendements des Treasuries à court terme sont restés élevés, les traders anticipant une hausse de la Fed en septembre.\n• Les rendements des gilts britanniques ont aussi augmenté après que la BoE ait maintenu ses taux, prête à agir contre l'inflation.\n• Le message général est que la baisse du pétrole soutient le sentiment de risque, mais les banques centrales restent hawkish."
+    }
   },
   "dockets": [
     {
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "GBP",
-      "title": "UK Employment - Unemployment Rate",
+      "title": "Unemployment Rate",
       "forecast": "5%",
       "previous": "5%"
     },
@@ -29,7 +34,7 @@
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "GBP",
-      "title": "UK Employment - Employment Change SA",
+      "title": "Employment Change SA",
       "forecast": "-23k",
       "previous": "-100k"
     },
@@ -37,7 +42,7 @@
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "GBP",
-      "title": "UK Employment - Employment Change 3m/3m",
+      "title": "Employment Change 3m/3m",
       "forecast": "73k",
       "previous": "148k"
     },
@@ -45,7 +50,7 @@
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "GBP",
-      "title": "UK Employment - Average Weekly Earnings YoY",
+      "title": "Average Weekly Earnings YoY",
       "forecast": "4%",
       "previous": "4.1%"
     },
@@ -66,5 +71,5 @@
       "previous": "3.75%"
     }
   ],
-  "generated_at": "2026-06-18T12:53:50+02:00"
+  "generated_at": "2026-06-18T18:36:40+02:00"
 }
