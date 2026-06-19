@@ -1,0 +1,46 @@
+{
+  "date": "2026-06-19",
+  "date_fr": "Vendredi 19 juin 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/06/19/morning-juice-europe-session-prep-583/",
+      "date": "2026-06-19",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Andy Burnham a remporté un siège parlementaire au Royaume-Uni, ouvrant la voie à un défi potentiel contre le Premier ministre Keir Starmer.\n• Le ministre des Finances japonais Satsuki Katayama est prêt à agir contre la spéculation sur le yen, proche de son plus bas en quatre décennies.\n• Le pétrole est en baisse hebdomadaire significative suite à l'accord de paix intérimaire US-Iran, normalisant le trafic dans le détroit d'Ormuz.\n• L'accord US-Iran est entré en vigueur, rétablissant le transport maritime via Ormuz et lançant les négociations sur le programme nucléaire de Téhéran.\n• Kevin Warsh, nouveau président de la Fed, est perçu comme un faucon engagé, priorisant la maîtrise de l'inflation.\n• Le marché du Trésor a vu une hausse record des contrats à terme, suggérant une prochaine hausse des taux par la Réserve fédérale."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/06/18/stocks-rally-as-us-iran-peace-deal-eases-inflation-concerns-us-market-wrap/",
+      "date": "2026-06-18",
+      "title": "Stocks Rally as US-Iran Peace Deal Eases Inflation Concerns – US Market Wrap",
+      "summary": "• Wall Street a rebondi, les actions et obligations progressant grâce à l'accord de paix US-Iran.\n• L'accord a renforcé la confiance, réduisant les pressions énergétiques et les risques d'inflation.\n• Le S&P 500 a grimpé de 1,1%, l'indice des semi-conducteurs atteignant un nouveau record historique.\n• Intel a bondi après l'annonce par Trump d'un partenariat avec Apple pour la fabrication de semi-conducteurs aux États-Unis.\n• Les rendements du Trésor ont baissé, apaisant les craintes d'un resserrement monétaire accru de la Fed.\n• Le trafic maritime a repris dans le détroit d'Ormuz, la levée du blocus américain calmant les craintes de choc d'approvisionnement."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Retail Sales YoY",
+      "forecast": "1.8%",
+      "previous": "0%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Retail Sales Core YoY",
+      "forecast": "3.1%",
+      "previous": "1.1%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German PPI YoY",
+      "forecast": "2.5%",
+      "previous": "1.7%"
+    }
+  ],
+  "generated_at": "2026-06-19T13:04:56+02:00"
+}
