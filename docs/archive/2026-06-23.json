@@ -2,15 +2,25 @@
   "date": "2026-06-23",
   "date_fr": "Mardi 23 juin 2026",
   "articles": {
-    "mj_eu": null,
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/06/23/morning-juice-europe-session-prep-585/",
+      "date": "2026-06-23",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Les États-Unis ont accordé une licence de 60 jours à l'Iran pour vendre du pétrole, offrant une bouée de sauvetage économique pendant les pourparlers de paix.\n• La ministre des Finances japonaise Katayama s'est entretenue avec le secrétaire au Trésor américain Bessent, stimulant brièvement le yen.\n• Le yen reste proche de son plus bas niveau en quatre décennies malgré le léger rebond suite aux discussions US-Japon.\n• L'enchère d'obligations d'État japonaises à 5 ans a montré une demande plus faible (bid-to-cover 3.11 vs 3.22 précédent).\n• Le pétrole s'est stabilisé après une chute de plus de 3%, suite aux progrès des pourparlers de paix iraniens et à la dérogation US."
+    },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/06/22/stocks-drop-as-us-iranian-hopes-are-offsets-by-spacexs-rout-us-market-wrap/",
       "date": "2026-06-22",
       "title": "Stocks Drop as US-Iranian Hopes Are Offsets by SpaceX’s Rout – US Market Wrap",
-      "summary": "• Les marchés boursiers de Wall Street ont reculé après des records, le Nasdaq Composite chutant de 1,3%.\n• La baisse des géants technologiques a éclipsé les progrès des négociations de paix entre les États-Unis et l'Iran.\n• Alphabet a mené les pertes suite au départ de John Jumper, lauréat du prix Nobel, pour Anthropic PBC.\n• Le titre SpaceX a chuté de 16%, tandis que la société émet des obligations pour financer ses ambitions en IA.\n• Les rendements du Trésor américain en hausse ont également pesé sur le sentiment des investisseurs.\n• Le pétrole a reculé, le Brent s'établissant sous les 78 dollars le baril."
+      "summary": "• Les actions de Wall Street ont chuté, les pertes des géants technologiques l'emportant sur l'optimisme des négociations de paix US-Iran.\n• Le Nasdaq Composite a baissé de 1,3%, avec Alphabet en tête des pertes parmi les mégacaps.\n• L'action SpaceX a chuté de 16%, passant sous son prix de clôture initial, suite à une émission d'obligations.\n• Elon Musk finance ses ambitions en IA par un emprunt majeur, tandis que les rendements du Treasury augmentent.\n• Le Brent crude s'est établi sous 78$, le pétrole reculant malgré les attentes de solution de paix au Moyen-Orient.\n• John Jumper, lauréat du prix Nobel de Google DeepMind, a quitté Alphabet pour Anthropic PBC, impactant le titre."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/06/23/morning-juice-us-session-prep-23rd-june-2/",
+      "date": "2026-06-23",
+      "title": "Morning Juice – US Session Prep (23rd June)",
+      "summary": "• Les Treasuries à court terme ont surperformé, les traders réduisant leurs attentes de hausses de taux de la Fed.\n• Le dollar a progressé contre toutes les devises du G10, à l'exception notable du yen japonais.\n• Les données flash du PMI S&P US pour juin sont attendues, avec des prévisions pour le manufacturier et les services.\n• Une adjudication de bons du Trésor US à 2 ans est prévue à 13:00 ET, avec des détails sur le rendement et le bid-to-cover précédent.\n• Des discours sont prévus par le gouverneur Macklem de la Banque du Canada et des membres de la BoE et de la BCE.\n• Donald Trump prononcera des remarques à Mack Trucks Lehigh Valley Operations à 14:05 ET.\n• FedEx publiera ses résultats du T4 2026 après la clôture, avec des estimations de revenus de 24.06B$ et un EPS de 5.97."
+    }
   },
   "dockets": [],
-  "generated_at": "2026-06-23T12:10:51+02:00"
+  "generated_at": "2026-06-23T17:52:34+02:00"
 }
