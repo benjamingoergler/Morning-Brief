@@ -6,25 +6,22 @@
       "url": "https://features.financialjuice.com/2026/06/25/morning-juice-europe-session-prep-587/",
       "date": "2026-06-25",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• La banque centrale chinoise a introduit un tenor overnight pour ses opérations de marché ouvert, visant à remodeler les coûts d'emprunt et renforcer la politique monétaire.\n• Le Brent a effacé tous ses gains liés au conflit iranien, le trafic dans le détroit d'Ormuz se normalisant après les progrès de paix.\n• L'emploi australien a rebondi en mai, inversant le déclin précédent, tandis que le taux de chômage a légèrement baissé, soutenant la RBA.\n• Le PM japonais Takaichi a dévoilé une stratégie économique axée sur l'investissement massif dans l'IA, les semi-conducteurs et la défense.\n• Le membre du BoJ Tamura a suggéré des hausses de taux tous les quelques mois, accélérant le resserrement face aux risques d'inflation."
+      "summary": "• La banque centrale chinoise a introduit une échéance overnight pour ses opérations de marché ouvert, réformant les coûts d'emprunt à court terme.\n• Le Brent a effacé ses gains du conflit iranien, le trafic dans le détroit d'Hormuz se normalisant, apaisant les craintes d'approvisionnement.\n• L'emploi australien a rebondi en mai, inversant la baisse précédente, et le taux de chômage a baissé, confirmant un marché du travail tendu.\n• Le PM japonais Takaichi a dévoilé une stratégie économique axée sur l'IA, les semi-conducteurs, la défense et la construction navale.\n• Tamura de la BoJ a suggéré des hausses de taux tous les quelques mois, accélérant le resserrement face aux risques d'inflation."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/06/24/after-microns-blowout-outlook-stocks-rise-late-us-market-wrap/",
       "date": "2026-06-24",
       "title": "After Micron’s Blowout Outlook, Stocks Rise Late – US Market Wrap",
-      "summary": "• Les actions ont augmenté en fin de séance, l'optimisme de Micron ravivant la confiance dans le secteur de l'IA, propulsant le marché.\n• Le Nasdaq 100 ETF a bondi de 1% après la clôture; Micron a grimpé de 10% sur des prévisions de ventes dépassant les attentes.\n• Le S&P 500 a clôturé presque inchangé, malgré la hausse de la majorité de ses actions; le Brent est passé sous les $74.\n• La baisse du Brent sous $74 a apaisé les craintes d'inflation avant le rapport crucial de la Fed, faisant baisser les rendements obligatoires.\n• Deux chercheurs clés en IA de Google quittent l'entreprise pour Anthropic, s'ajoutant à une série de départs notables.\n• Anthropic a accusé Alibaba d'accéder \"illicitement\" à son modèle Claude AI via des milliers de faux comptes."
+      "summary": "• Les actions ont progressé en fin de séance, stimulées par les perspectives positives de Micron, ravivant la confiance dans le secteur de l'IA.\n• Un ETF suivant le Nasdaq 100 a bondi de 1% après la clôture; Micron a augmenté de 10% sur des prévisions de ventes solides.\n• Le S&P 500 a peu bougé; le Brent est tombé sous 74$, les discussions de paix réduisant les craintes d'inflation.\n• Deux chercheurs clés de Google AI quittent l'entreprise pour Anthropic, menaçant la domination de Google dans l'IA.\n• Anthropic accuse Alibaba d'accès illicite à son modèle Claude via des milliers de faux comptes, sapant sa politique anti-Chine.\n• OpenAI a lancé sa première puce IA personnalisée, développée avec Broadcom, visant un avantage concurrentiel pour ses produits ChatGPT."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/06/25/morning-juice-us-session-prep-25th-june-2/",
+      "date": "2026-06-25",
+      "title": "Morning Juice – US Session Prep (25th June)",
+      "summary": "• L'indice du dollar a chuté avant des données US cruciales; les rendements du Trésor ont légèrement augmenté.\n• Le yen est resté proche de son plus bas depuis 1986; les actions mondiales ont grimpé grâce aux prévisions de Micron.\n• Le pétrole Brent a perdu tous ses gains de guerre, les flux dans le détroit d'Hormuz s'étant normalisés.\n• Amazon a augmenté ses investissements en Inde de 13 milliards de dollars, ciblant l'IA et l'infrastructure cloud.\n• Des tensions ont éclaté entre Trump et les Républicains du Sénat concernant la guerre en Iran."
+    }
   },
   "dockets": [
-    {
-      "time_et": "04:30",
-      "time_cet": "10:30",
-      "cur": "EUR",
-      "title": "ECB’s Lane joins virtual panel participation at 21st IEA World Congress in Belgrade, Serbia.",
-      "forecast": "",
-      "previous": ""
-    },
     {
       "time_et": "05:00",
       "time_cet": "11:00",
@@ -32,7 +29,15 @@
       "title": "ECB’s Moulin presents annual report on financial inclusion in Paris",
       "forecast": "",
       "previous": ""
+    },
+    {
+      "time_et": "06:00",
+      "time_cet": "12:00",
+      "cur": "EUR",
+      "title": "ECB’s Lane joins virtual panel participation at 21st IEA World Congress in Belgrade, Serbia.",
+      "forecast": "",
+      "previous": ""
     }
   ],
-  "generated_at": "2026-06-25T11:51:57+02:00"
+  "generated_at": "2026-06-25T17:40:52+02:00"
 }
