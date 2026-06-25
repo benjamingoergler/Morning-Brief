@@ -1,0 +1,38 @@
+{
+  "date": "2026-06-25",
+  "date_fr": "Jeudi 25 juin 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/06/25/morning-juice-europe-session-prep-587/",
+      "date": "2026-06-25",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• La banque centrale chinoise a introduit un tenor overnight pour ses opérations de marché ouvert, visant à remodeler les coûts d'emprunt et renforcer la politique monétaire.\n• Le Brent a effacé tous ses gains liés au conflit iranien, le trafic dans le détroit d'Ormuz se normalisant après les progrès de paix.\n• L'emploi australien a rebondi en mai, inversant le déclin précédent, tandis que le taux de chômage a légèrement baissé, soutenant la RBA.\n• Le PM japonais Takaichi a dévoilé une stratégie économique axée sur l'investissement massif dans l'IA, les semi-conducteurs et la défense.\n• Le membre du BoJ Tamura a suggéré des hausses de taux tous les quelques mois, accélérant le resserrement face aux risques d'inflation."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/06/24/after-microns-blowout-outlook-stocks-rise-late-us-market-wrap/",
+      "date": "2026-06-24",
+      "title": "After Micron’s Blowout Outlook, Stocks Rise Late – US Market Wrap",
+      "summary": "• Les actions ont augmenté en fin de séance, l'optimisme de Micron ravivant la confiance dans le secteur de l'IA, propulsant le marché.\n• Le Nasdaq 100 ETF a bondi de 1% après la clôture; Micron a grimpé de 10% sur des prévisions de ventes dépassant les attentes.\n• Le S&P 500 a clôturé presque inchangé, malgré la hausse de la majorité de ses actions; le Brent est passé sous les $74.\n• La baisse du Brent sous $74 a apaisé les craintes d'inflation avant le rapport crucial de la Fed, faisant baisser les rendements obligatoires.\n• Deux chercheurs clés en IA de Google quittent l'entreprise pour Anthropic, s'ajoutant à une série de départs notables.\n• Anthropic a accusé Alibaba d'accéder \"illicitement\" à son modèle Claude AI via des milliers de faux comptes."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "EUR",
+      "title": "ECB’s Lane joins virtual panel participation at 21st IEA World Congress in Belgrade, Serbia.",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "ECB’s Moulin presents annual report on financial inclusion in Paris",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-06-25T11:51:57+02:00"
+}
