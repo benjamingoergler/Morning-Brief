@@ -6,21 +6,26 @@
       "url": "https://features.financialjuice.com/2026/06/26/morning-juice-europe-session-prep-588/",
       "date": "2026-06-26",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Un navire a été touché dans le détroit d'Ormuz, première attaque depuis l'accord de paix US-Iran, menaçant le transport maritime. • Des alliés du politicien britannique Burnham exhortent à diviser le Trésor pour mettre l'accent sur la croissance économique. • Les États membres de l'UE ont prolongé la suspension des tarifs sur 4 milliards de dollars de biens américains liés au différend Airbus-Boeing. • Le Dollar est en passe de réaliser l'une de ses meilleures performances mensuelles en un an, une reprise plus large étant attendue. • Le Yen est la devise du G10 la plus performante contre le Dollar ce mois-ci, se stabilisant près de son plus bas en près de quatre décennies."
+      "summary": "• Un navire a été touché par un projectile non identifié dans le détroit d'Ormuz, menaçant la restauration du corridor énergétique.\n• Des alliés de Burnham (UK) exhortent à diviser le Trésor pour prioriser la croissance économique.\n• L'UE a prolongé la suspension des tarifs sur 4 milliards de dollars de biens US liés au différend Airbus-Boeing.\n• Le Dollar est en passe de réaliser l'une de ses meilleures performances mensuelles en un an, avec des attentes de reprise.\n• Le Yen est la meilleure devise du G10 contre le Dollar ce mois-ci, stabilisé près de son plus bas en quatre décennies."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/06/25/stocks-fluctuate-as-apple-declines-and-micron-rises-us-market-wrap/",
       "date": "2026-06-25",
       "title": "Stocks fluctuate as Apple declines and Micron rises – US Market Wrap",
-      "summary": "• Une nouvelle vague de volatilité technologique a frappé Wall Street, avec une vente massive des mégacaps. • Les Magnificent Seven ont chuté, Apple en tête après avoir augmenté les prix de ses Mac et iPad. • Le S&P 500 a fluctué malgré des prévisions solides de Micron qui ont stimulé les fabricants de puces. • Microsoft a annoncé une troisième augmentation de prix pour ses consoles Xbox, soulignant la situation des composants. • Le titre Qualcomm a bondi après des prévisions de ventes d'IA de plus de 15 milliards de dollars d'ici 2029. • Les prix du brut WTI ont grimpé après quatre jours de baisse suite à un incident dans le détroit d'Ormuz."
+      "summary": "• Une nouvelle vague de volatilité technologique a frappé Wall Street, les mégacapitalisations chutant.\n• Les Magnificent Seven ont plongé, Apple en tête après avoir augmenté les prix de ses Mac et iPad.\n• Microsoft a annoncé une troisième hausse de prix pour ses Xbox, reflétant la situation des composants.\n• Qualcomm a bondi après avoir prévu 15 milliards de dollars de ventes d'IA pour les centres de données d'ici 2029.\n• Les prix du brut WTI ont grimpé après quatre jours de baisse, suite à l'incident dans le détroit d'Ormuz."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/06/26/morning-juice-us-session-prep-26th-june-2/",
+      "date": "2026-06-26",
+      "title": "Morning Juice – US Session Prep (26th June)",
+      "summary": "• Le Dollar a inversé ses gains, les rendements du Trésor ont baissé suite à la diminution des prix du pétrole.\n• USD/JPY a reculé de 0,2% à 161,54, le Yen restant proche de son plus bas depuis 1986, alimentant les spéculations.\n• EUR/USD a regagné le niveau de 1,14, bénéficiant d'un support de fin de mois.\n• Les valeurs technologiques ont de nouveau tiré les indices mondiaux vers le bas, avec des ventes de semi-conducteurs.\n• Les investisseurs ont retiré des fonds des actions US pour la première fois en trois mois, notamment des fonds tech."
+    }
   },
   "dockets": [
     {
       "time_et": "03:00",
       "time_cet": "09:00",
-      "cur": "EUR",
+      "cur": "ECB",
       "title": "ECB’s Pereira Speaks",
       "forecast": "",
       "previous": ""
@@ -28,11 +33,11 @@
     {
       "time_et": "04:30",
       "time_cet": "10:30",
-      "cur": "EUR",
+      "cur": "ECB",
       "title": "ECB’s Nagel Speaks",
       "forecast": "",
       "previous": ""
     }
   ],
-  "generated_at": "2026-06-26T11:58:26+02:00"
+  "generated_at": "2026-06-26T17:24:55+02:00"
 }
