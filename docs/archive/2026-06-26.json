@@ -1,0 +1,38 @@
+{
+  "date": "2026-06-26",
+  "date_fr": "Vendredi 26 juin 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/06/26/morning-juice-europe-session-prep-588/",
+      "date": "2026-06-26",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Un navire a été touché dans le détroit d'Ormuz, première attaque depuis l'accord de paix US-Iran, menaçant le transport maritime. • Des alliés du politicien britannique Burnham exhortent à diviser le Trésor pour mettre l'accent sur la croissance économique. • Les États membres de l'UE ont prolongé la suspension des tarifs sur 4 milliards de dollars de biens américains liés au différend Airbus-Boeing. • Le Dollar est en passe de réaliser l'une de ses meilleures performances mensuelles en un an, une reprise plus large étant attendue. • Le Yen est la devise du G10 la plus performante contre le Dollar ce mois-ci, se stabilisant près de son plus bas en près de quatre décennies."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/06/25/stocks-fluctuate-as-apple-declines-and-micron-rises-us-market-wrap/",
+      "date": "2026-06-25",
+      "title": "Stocks fluctuate as Apple declines and Micron rises – US Market Wrap",
+      "summary": "• Une nouvelle vague de volatilité technologique a frappé Wall Street, avec une vente massive des mégacaps. • Les Magnificent Seven ont chuté, Apple en tête après avoir augmenté les prix de ses Mac et iPad. • Le S&P 500 a fluctué malgré des prévisions solides de Micron qui ont stimulé les fabricants de puces. • Microsoft a annoncé une troisième augmentation de prix pour ses consoles Xbox, soulignant la situation des composants. • Le titre Qualcomm a bondi après des prévisions de ventes d'IA de plus de 15 milliards de dollars d'ici 2029. • Les prix du brut WTI ont grimpé après quatre jours de baisse suite à un incident dans le détroit d'Ormuz."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "03:00",
+      "time_cet": "09:00",
+      "cur": "EUR",
+      "title": "ECB’s Pereira Speaks",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "EUR",
+      "title": "ECB’s Nagel Speaks",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-06-26T11:58:26+02:00"
+}
