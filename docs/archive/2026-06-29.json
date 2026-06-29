@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-29",
+  "date_fr": "Lundi 29 juin 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/06/29/morning-juice-europe-session-prep-589/",
+      "date": "2026-06-29",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Les États-Unis et l'Iran ont convenu de cesser les attaques avant la reprise des pourparlers de paix cette semaine sur le détroit d'Ormuz.\n• Les prix du pétrole ont réduit leurs gains après l'accord US-Iran, suite aux tensions du week-end près du détroit d'Ormuz.\n• La banque centrale chinoise a mené une opération de reverse repo overnight, surprenant les marchés sans divulguer le taux.\n• Les ventes au détail du Japon ont augmenté en mai pour le troisième mois, soutenues par la hausse des salaires et les subventions.\n• Le gouverneur adjoint de la RBA, Chris Kent, a déclaré que la banque sera mieux préparée à la prochaine crise.\n• Le président de la Fed de Richmond, Tom Barkin, juge l'inflation trop élevée, mais entrevoit des signes de modération prochaine."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/06/26/stocks-fluctuate-as-wall-street-rotation-accelerates-us-market-wrap/",
+      "date": "2026-06-26",
+      "title": "Stocks fluctuate as Wall Street rotation accelerates – US Market Wrap",
+      "summary": "• Les traders de Wall Street ont opéré une rotation des fabricants de puces vers des entreprises à plus fort potentiel de croissance.\n• Le S&P 500 a peu changé, mais la majorité des actions ont progressé, signalant la résilience économique.\n• La version équipondérée du S&P 500 a atteint de nouveaux sommets, soulignant cette rotation sectorielle.\n• La baisse des prix du pétrole a également contribué à soutenir le sentiment général du marché.\n• Le secteur des semi-conducteurs a subi une nouvelle vague de ventes après un trimestre très performant.\n• OpenAI présente un nouveau modèle d'IA, ce qui pourrait retarder son introduction en bourse et affecter SoftBank."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "BoE Consumer Credit",
+      "forecast": "1.8B",
+      "previous": "1.9B"
+    }
+  ],
+  "generated_at": "2026-06-29T13:32:13+02:00"
+}
