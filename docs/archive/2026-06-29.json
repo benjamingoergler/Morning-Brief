@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/06/29/morning-juice-europe-session-prep-589/",
       "date": "2026-06-29",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Les États-Unis et l'Iran ont convenu de cesser les attaques avant la reprise des pourparlers de paix cette semaine sur le détroit d'Ormuz.\n• Les prix du pétrole ont réduit leurs gains après l'accord US-Iran, suite aux tensions du week-end près du détroit d'Ormuz.\n• La banque centrale chinoise a mené une opération de reverse repo overnight, surprenant les marchés sans divulguer le taux.\n• Les ventes au détail du Japon ont augmenté en mai pour le troisième mois, soutenues par la hausse des salaires et les subventions.\n• Le gouverneur adjoint de la RBA, Chris Kent, a déclaré que la banque sera mieux préparée à la prochaine crise.\n• Le président de la Fed de Richmond, Tom Barkin, juge l'inflation trop élevée, mais entrevoit des signes de modération prochaine."
+      "summary": "• Les États-Unis et l'Iran ont convenu de cesser les attaques avant les pourparlers de paix sur le détroit d'Ormuz.\n• Le pétrole a réduit ses gains après l'accord US-Iran, suite aux tensions du week-end près du détroit d'Ormuz.\n• La banque centrale chinoise a mené une opération de repo inversé surprise sans révéler le taux d'intérêt.\n• Les ventes au détail du Japon ont augmenté pour le troisième mois en mai, soutenues par les salaires et subventions.\n• La RBA est mieux préparée pour la prochaine crise après avoir examiné des outils de politique monétaire alternatifs.\n• Le président de la Fed de Richmond, Barkin, a averti que l'inflation reste trop élevée, malgré des signes de modération."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/06/26/stocks-fluctuate-as-wall-street-rotation-accelerates-us-market-wrap/",
       "date": "2026-06-26",
       "title": "Stocks fluctuate as Wall Street rotation accelerates – US Market Wrap",
-      "summary": "• Les traders de Wall Street ont opéré une rotation des fabricants de puces vers des entreprises à plus fort potentiel de croissance.\n• Le S&P 500 a peu changé, mais la majorité des actions ont progressé, signalant la résilience économique.\n• La version équipondérée du S&P 500 a atteint de nouveaux sommets, soulignant cette rotation sectorielle.\n• La baisse des prix du pétrole a également contribué à soutenir le sentiment général du marché.\n• Le secteur des semi-conducteurs a subi une nouvelle vague de ventes après un trimestre très performant.\n• OpenAI présente un nouveau modèle d'IA, ce qui pourrait retarder son introduction en bourse et affecter SoftBank."
+      "summary": "• Wall Street a opéré une rotation des valeurs de semi-conducteurs vers des entreprises à forte croissance.\n• Le S&P 500 a peu varié, mais la plupart des actions ont progressé, signalant une résilience économique.\n• La version \"equal-weighted\" du S&P 500 a atteint de nouveaux sommets, confirmant la rotation sectorielle.\n• La baisse des prix du pétrole a contribué à améliorer le sentiment général du marché.\n• Les entreprises de semi-conducteurs ont subi de nouvelles ventes après un trimestre exceptionnel.\n• OpenAI prépare un nouveau modèle d'IA, ce qui pourrait retarder son IPO et affecter SoftBank."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/06/29/morning-juice-us-session-prep-29th-june/",
+      "date": "2026-06-29",
+      "title": "Morning Juice – US Session Prep (29th June)",
+      "summary": "• Les marchés mondiaux ont débuté la semaine en hausse, les investisseurs achetant après la correction précédente.\n• Les futures S&P 500 ont gagné 0.8% et les futures Nasdaq 100 1.2% en pré-marché.\n• Les actions européennes étaient stables, les marchés asiatiques en légère hausse grâce à la PBoC.\n• Le Brent a augmenté à environ 72.40 $ le baril suite aux tensions US-Iran près d'Ormuz.\n• Les rendements du Trésor et le dollar sont stables, la Fed pourrait relever les taux en septembre.\n• Le marché tente de retrouver l'appétit pour le risque malgré la rhétorique des banques centrales."
+    }
   },
   "dockets": [
     {
@@ -26,5 +31,5 @@
       "previous": "1.9B"
     }
   ],
-  "generated_at": "2026-06-29T13:32:13+02:00"
+  "generated_at": "2026-06-29T18:39:08+02:00"
 }
