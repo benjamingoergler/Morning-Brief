@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-30",
+  "date_fr": "Mardi 30 juin 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/06/30/morning-juice-europe-session-prep-590/",
+      "date": "2026-06-30",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• La ministre des Finances japonaise Katayama s'engage à réagir aux évolutions du marché des changes; le yen a atteint son plus bas niveau face au dollar depuis 1986.\n• Le pétrole se dirige vers sa plus forte baisse trimestrielle depuis la pandémie; Morgan Stanley anticipe un excédent d'offre.\n• L'Iran réaffirme son contrôle sur le détroit d'Ormuz avant de nouvelles négociations avec les États-Unis.\n• L'activité manufacturière et non manufacturière chinoise a dépassé les attentes en juin, portée par les exportations.\n• La banque centrale australienne a maintenu ses taux pour évaluer l'économie et l'impact sur le marché immobilier.\n• L'UE et la Chine ont fixé un délai à octobre pour résoudre leurs désaccords commerciaux, dans un contexte de tensions croissantes."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/06/29/after-a-decline-buyers-intervene-causing-the-nasdaq-100-to-rise-2-us-market-wrap/",
+      "date": "2026-06-29",
+      "title": "After a decline, buyers intervene, causing the Nasdaq 100 to rise 2% – US Market Wrap",
+      "summary": "• Les actions ont progressé, la correction récente de l'IA ayant attiré des acheteurs misant sur la rentabilité future.\n• Le S&P 500 a bondi de 1%, le Nasdaq 100 a doublé cette performance, marquant un trimestre record.\n• L'indicateur des Magnificent Seven a augmenté de 2,5% lundi, après une sous-performance ce mois-ci.\n• Les fabricants de puces ont rebondi après leur pire semaine depuis avril 2025, dans un après-midi turbulent.\n• Les actions ont rallié malgré la hausse des prix du pétrole; Trump a annoncé la reprise des négociations avec l'Iran.\n• Le marché obligataire est resté calme après la décision de la Cour Suprême concernant Lisa Cook, préservant l'indépendance de la Fed.\n• Le yen a légèrement baissé, atteignant son plus bas niveau face au dollar depuis 1986."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK GDP QoQ",
+      "forecast": "0.6%",
+      "previous": "0.6%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Current Account",
+      "forecast": "-21.3B",
+      "previous": "-18.4B"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French CPI YoY",
+      "forecast": "2%",
+      "previous": "2.4%"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French HICP YoY",
+      "forecast": "2.3%",
+      "previous": "2.8%"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German Unemplyment Rate",
+      "forecast": "6.3%",
+      "previous": "6.3%"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German Unemplyment Change",
+      "forecast": "5K",
+      "previous": "-12K"
+    },
+    {
+      "time_et": "08:00",
+      "time_cet": "14:00",
+      "cur": "EUR",
+      "title": "German CPI YoY",
+      "forecast": "2.6%",
+      "previous": "2.6%"
+    },
+    {
+      "time_et": "08:00",
+      "time_cet": "14:00",
+      "cur": "EUR",
+      "title": "German HICP YoY",
+      "forecast": "2.5%",
+      "previous": "2.7%"
+    }
+  ],
+  "generated_at": "2026-06-30T12:07:07+02:00"
+}
