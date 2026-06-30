@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/06/30/morning-juice-europe-session-prep-590/",
       "date": "2026-06-30",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• La ministre des Finances japonaise Katayama s'engage à réagir aux évolutions du marché des changes; le yen a atteint son plus bas niveau face au dollar depuis 1986.\n• Le pétrole se dirige vers sa plus forte baisse trimestrielle depuis la pandémie; Morgan Stanley anticipe un excédent d'offre.\n• L'Iran réaffirme son contrôle sur le détroit d'Ormuz avant de nouvelles négociations avec les États-Unis.\n• L'activité manufacturière et non manufacturière chinoise a dépassé les attentes en juin, portée par les exportations.\n• La banque centrale australienne a maintenu ses taux pour évaluer l'économie et l'impact sur le marché immobilier.\n• L'UE et la Chine ont fixé un délai à octobre pour résoudre leurs désaccords commerciaux, dans un contexte de tensions croissantes."
+      "summary": "• Le yen a atteint son plus bas niveau face au dollar depuis 1986, suscitant l'inquiétude au Japon et une vigilance accrue des autorités.\\n• Le ministre des Finances japonais a réitéré que le Japon réagira de manière appropriée aux évolutions du marché des changes.\\n• Le pétrole se dirige vers sa plus forte baisse trimestrielle depuis la pandémie, avec des avertissements de Morgan Stanley sur une offre excédentaire.\\n• L'activité manufacturière et non manufacturière de la Chine a dépassé les attentes en juin, portée par des exportations robustes.\\n• La RBA australienne a maintenu son taux directeur pour évaluer l'économie et surveiller l'impact sur le marché immobilier.\\n• L'UE et la Chine ont fixé une échéance à octobre pour progresser sur leurs désaccords commerciaux croissants."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/06/29/after-a-decline-buyers-intervene-causing-the-nasdaq-100-to-rise-2-us-market-wrap/",
       "date": "2026-06-29",
       "title": "After a decline, buyers intervene, causing the Nasdaq 100 to rise 2% – US Market Wrap",
-      "summary": "• Les actions ont progressé, la correction récente de l'IA ayant attiré des acheteurs misant sur la rentabilité future.\n• Le S&P 500 a bondi de 1%, le Nasdaq 100 a doublé cette performance, marquant un trimestre record.\n• L'indicateur des Magnificent Seven a augmenté de 2,5% lundi, après une sous-performance ce mois-ci.\n• Les fabricants de puces ont rebondi après leur pire semaine depuis avril 2025, dans un après-midi turbulent.\n• Les actions ont rallié malgré la hausse des prix du pétrole; Trump a annoncé la reprise des négociations avec l'Iran.\n• Le marché obligataire est resté calme après la décision de la Cour Suprême concernant Lisa Cook, préservant l'indépendance de la Fed.\n• Le yen a légèrement baissé, atteignant son plus bas niveau face au dollar depuis 1986."
+      "summary": "• Les actions ont progressé, le récent repli de l'IA ayant attiré des acheteurs confiants dans la rentabilité future.\\n• Le S&P 500 a bondi de 1% et le Nasdaq 100 a doublé cette hausse, marquant un trimestre fort.\\n• L'indice des Magnificent Seven, sous-performant ce mois-ci, a augmenté de 2,5% lundi.\\n• Les fabricants de puces ont rebondi après leur pire semaine depuis avril 2025.\\n• Les négociations de paix entre Trump et l'Iran doivent reprendre mardi après un accord sur le détroit d'Ormuz.\\n• La Cour Suprême a confirmé la position de Lisa Cook à la Fed, préservant l'indépendance de la banque centrale."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/06/30/morning-juice-us-session-prep-30th-june-2/",
+      "date": "2026-06-30",
+      "title": "Morning Juice – US Session Prep (30th June)",
+      "summary": "• Les futures sur actions US ont légèrement augmenté, le S&P 500 étant en passe de réaliser son meilleur trimestre en six ans.\\n• Le sentiment général est soutenu par les attentes de résultats d'entreprises liés à l'IA et un contexte macroéconomique résilient.\\n• Le dollar s'est renforcé alors que le yen a dépassé 162 contre le dollar, son plus bas depuis 1986, augmentant le risque d'intervention.\\n• Le Brent a glissé vers 73 $ le baril, suite à la reprise des expéditions via Ormuz et à la révision à la baisse des prévisions de Morgan Stanley.\\n• Les marchés surveillent les pourparlers de paix de mardi, cruciaux pour les prix de l'énergie et les attentes de hausse des taux de la Fed en septembre.\\n• Morgan Stanley a réduit ses prévisions de prix du pétrole en raison de la normalisation de l'offre et de la faible demande chinoise."
+    }
   },
   "dockets": [
     {
@@ -82,5 +87,5 @@
       "previous": "2.7%"
     }
   ],
-  "generated_at": "2026-06-30T12:07:07+02:00"
+  "generated_at": "2026-06-30T17:31:41+02:00"
 }
