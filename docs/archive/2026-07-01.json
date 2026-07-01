@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-01",
+  "date_fr": "Mercredi 1 juillet 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/07/01/morning-juice-europe-session-prep-591/",
+      "date": "2026-07-01",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le bilan des séismes au Venezuela s'élève à près de 2 000 morts, avec des répliques en baisse et des efforts de récupération étendus.\n• L'administration Trump prévoit 500 millions de dollars pour soutenir les petits transformateurs de viande face à la consolidation et aux prix du bétail.\n• Des milliers de personnes ont manifesté contre les migrants en Afrique du Sud, sous haute surveillance policière pour éviter les violences.\n• Les actions des fournisseurs d'équipements semi-conducteurs grimpent grâce aux investissements accrus des fabricants de puces sud-coréens.\n• Les banques centrales mondiales envisagent de réduire leur exposition au US dollar à long terme, une première en trois ans."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/06/30/stocks-cap-strongest-quarter-in-six-years-on-ai-momentum-and-economic-strength-us-market-wrap/",
+      "date": "2026-06-30",
+      "title": "Stocks Cap Strongest Quarter in Six Years on AI Momentum and Economic Strength – US Market Wrap",
+      "summary": "• Les actions US ont terminé leur meilleur trimestre en six ans sur une note positive, les semi-conducteurs prolongeant leur rallye.\n• Le rallye a ajouté plus de 8 trillions de dollars au S&P 500, soutenu par la résilience du marché du travail et la confiance.\n• Les valeurs technologiques ont mené l'avance, le Nasdaq 100 grimpant de 1.7%, l'indice des semi-conducteurs enregistrant son meilleur trimestre.\n• Les Treasuries ont reculé et les prix du pétrole ont baissé, l'optimisme grandissant pour un accord permanent sur l'Iran.\n• Les récentes données économiques continuent de montrer une force sous-jacente de l'économie américaine.\n• La demande de travailleurs et les dépenses de consommation restent fermes, malgré l'impact des prix élevés sur la confiance."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Nationwide House Prices YoY",
+      "forecast": "2.5%",
+      "previous": "1.7%"
+    },
+    {
+      "time_et": "03:50",
+      "time_cet": "09:50",
+      "cur": "EUR",
+      "title": "French Manufacturing PMI",
+      "forecast": "50.7",
+      "previous": "50.7"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German Manufacturing PMI",
+      "forecast": "50",
+      "previous": "50"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone Manufacturing PMI",
+      "forecast": "51.3",
+      "previous": "51.3"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK Manufacturing PMI",
+      "forecast": "53.1",
+      "previous": "53.1"
+    }
+  ],
+  "generated_at": "2026-07-01T12:30:10+02:00"
+}
