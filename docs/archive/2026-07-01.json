@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/07/01/morning-juice-europe-session-prep-591/",
       "date": "2026-07-01",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le bilan des séismes au Venezuela s'élève à près de 2 000 morts, avec des répliques en baisse et des efforts de récupération étendus.\n• L'administration Trump prévoit 500 millions de dollars pour soutenir les petits transformateurs de viande face à la consolidation et aux prix du bétail.\n• Des milliers de personnes ont manifesté contre les migrants en Afrique du Sud, sous haute surveillance policière pour éviter les violences.\n• Les actions des fournisseurs d'équipements semi-conducteurs grimpent grâce aux investissements accrus des fabricants de puces sud-coréens.\n• Les banques centrales mondiales envisagent de réduire leur exposition au US dollar à long terme, une première en trois ans."
+      "summary": "• Le bilan des victimes des tremblements de terre au Venezuela s'élève à près de 2 000, les répliques s'atténuant.\n• L'administration Trump prévoit de verser 500 millions de dollars pour soutenir les petits transformateurs de viande.\n• Des milliers de personnes ont participé à des manifestations anti-migrants en Afrique du Sud, sous surveillance policière massive.\n• Les actions des fournisseurs d'équipements semi-conducteurs montent en flèche grâce aux investissements des fabricants sud-coréens.\n• Les banques centrales mondiales prévoient de réduire leur exposition au US dollar à long terme, une première en trois ans."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/06/30/stocks-cap-strongest-quarter-in-six-years-on-ai-momentum-and-economic-strength-us-market-wrap/",
       "date": "2026-06-30",
       "title": "Stocks Cap Strongest Quarter in Six Years on AI Momentum and Economic Strength – US Market Wrap",
-      "summary": "• Les actions US ont terminé leur meilleur trimestre en six ans sur une note positive, les semi-conducteurs prolongeant leur rallye.\n• Le rallye a ajouté plus de 8 trillions de dollars au S&P 500, soutenu par la résilience du marché du travail et la confiance.\n• Les valeurs technologiques ont mené l'avance, le Nasdaq 100 grimpant de 1.7%, l'indice des semi-conducteurs enregistrant son meilleur trimestre.\n• Les Treasuries ont reculé et les prix du pétrole ont baissé, l'optimisme grandissant pour un accord permanent sur l'Iran.\n• Les récentes données économiques continuent de montrer une force sous-jacente de l'économie américaine.\n• La demande de travailleurs et les dépenses de consommation restent fermes, malgré l'impact des prix élevés sur la confiance."
+      "summary": "• Les actions US ont clôturé leur meilleur trimestre en six ans sur une note positive, les semi-conducteurs prolongeant leur rallye.\n• Le rallye a ajouté plus de 8 trillions de dollars à la valeur de marché du S&P 500 au cours des trois derniers mois.\n• Le Nasdaq 100 a augmenté de 1.7%, et l'indice des semi-conducteurs a enregistré son trimestre le plus solide jamais enregistré.\n• Les Treasuries ont baissé et les prix du pétrole ont chuté, optimisme sur un accord permanent Iran.\n• Les dernières données économiques continuent de souligner la force sous-jacente de l'économie américaine."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/07/01/morning-juice-us-session-prep-1st-july-2/",
+      "date": "2026-07-01",
+      "title": "Morning Juice – US Session Prep (1st July)",
+      "summary": "• Les actions mondiales ont débuté juillet prudemment, les investisseurs attendant les remarques du président de la Fed, Warsh.\n• Les marchés penchent vers une nouvelle hausse des taux US, les futures US glissent, les actions européennes baissent.\n• Le dollar a étendu ses gains récents, tandis que les rendements des Treasuries sont restés globalement stables.\n• L'attention se porte sur l'apparition de Warsh à Sintra pour plus de clarté sur la politique de la Fed.\n• L'inflation et le rapport sur l'emploi de jeudi sont centraux, avec une chance significative d'une hausse de la Fed ce mois-ci.\n• Le Brent a baissé sur les progrès des négociations US-Iran; l'Europe anticipe un resserrement de la BCE malgré une inflation plus douce."
+    }
   },
   "dockets": [
     {
@@ -58,5 +63,5 @@
       "previous": "53.1"
     }
   ],
-  "generated_at": "2026-07-01T12:30:10+02:00"
+  "generated_at": "2026-07-01T17:45:55+02:00"
 }
