@@ -1,0 +1,38 @@
+{
+  "date": "2026-07-02",
+  "date_fr": "Jeudi 2 juillet 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/07/02/morning-juice-europe-session-prep-592/",
+      "date": "2026-07-02",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le yen glisse vers 200 par dollar, un risque à moyen terme, causant le plus de faillites au S1 depuis 2022.\n• Le pétrole a chuté pour le 3ème jour alors que les flux du détroit d'Ormuz augmentent et que les pourparlers US-Iran progressent.\n• Les prix des maisons en Nouvelle-Zélande ont baissé pour le 3ème mois consécutif en juin, proches d'un plus bas de 3 ans.\n• La Première ministre japonaise Sanae Takaichi est en Inde pour renforcer les liens économiques et la coopération sécuritaire.\n• Les États-Unis ne renouvelleront pas l'accord commercial avec le Canada et le Mexique, optant pour des révisions annuelles.\n• Les grandes banques sud-coréennes renforcent leurs desks à Londres et Séoul pour le trading 24h/24 du won."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/07/01/warsh-says-price-risks-fading-while-most-stocks-rise-us-market-wrap/",
+      "date": "2026-07-01",
+      "title": "Warsh Says Price Risks Fading, While Most Stocks Rise – US Market Wrap",
+      "summary": "• Les actions US ont progressé grâce aux signes de force économique et à la baisse des pressions inflationnistes, selon le président Warsh.\n• Le secteur industriel a rebondi, l'activité augmentant pour le 6ème mois consécutif, avec une baisse des coûts d'intrants.\n• Le S&P 500 a majoritairement grimpé, malgré la fluctuation due aux fabricants de puces; les rendements à 2 ans ont légèrement baissé.\n• Les prix du pétrole ont chuté suite à l'annonce de négociations indirectes prometteuses entre les États-Unis et l'Iran.\n• Apple négocie l'achat de puces auprès de firmes chinoises blacklistées pour atténuer la pénurie mondiale de mémoire.\n• Meta développe une infrastructure cloud pour l'IA, concurrençant Amazon Web Services, Microsoft Azure et Google Cloud."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:30",
+      "time_cet": "08:30",
+      "cur": "CHF",
+      "title": "Swiss CPI",
+      "forecast": "YoY: 0.5% | MoM: 0.1%",
+      "previous": "YoY: 0.6% | MoM: 0.2%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone Unemployment Rate",
+      "forecast": "YoY: 5.1%",
+      "previous": "YoY: 5.1%"
+    }
+  ],
+  "generated_at": "2026-07-02T11:43:23+02:00"
+}
