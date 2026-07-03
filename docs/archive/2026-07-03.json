@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-03",
+  "date_fr": "Vendredi 3 juillet 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/07/03/morning-juice-europe-session-prep-593/",
+      "date": "2026-07-03",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• La Présidente de la BCE, Lagarde, a défendu la hausse de taux du mois dernier, renforçant l'attention sur l'inflation malgré les signes de ralentissement des pressions sur les prix.\n• Le ministre des Finances japonais Katayama a réitéré la possibilité d'une « action appropriée » sur le marché des devises, maintenant les risques d'intervention sur le Yen.\n• Le pétrole s'est stabilisé près de ses plus bas récents alors que le trafic dans le détroit d'Ormuz augmentait, ajoutant à l'offre à court terme.\n• L'attention américaine est restée sur la Fed, Trump suggérant que le président Warsh pourrait avoir du mal à convaincre les décideurs de suivre sa voie.\n• Trump et ses alliés renouvellent leurs efforts pour remodeler la Fed après le blocage par la Cour suprême du retrait de la gouverneure Lisa Cook.\n• La banque centrale chinoise a réduit ses achats d'obligations d'État en juin à leur plus bas niveau en neuf mois, signalant une prudence face à la baisse des rendements."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/07/02/stocks-gain-as-softer-jobs-report-eases-fed-tightening-fears-us-market-wrap/",
+      "date": "2026-07-02",
+      "title": "Stocks Gain as Softer Jobs Report Eases Fed Tightening Fears – US Market Wrap",
+      "summary": "• La plupart des actions US ont progressé après un rapport sur l'emploi plus faible que prévu, réduisant les craintes de hausses de taux de la Fed.\n• Le S&P 500 a peu changé, les gains étant compensés par une forte baisse des valeurs de semi-conducteurs.\n• Le Dow Jones Industrial Average a atteint un nouveau record historique, signalant une amélioration générale du sentiment.\n• Les rendements des bons du Trésor à deux ans ont chuté de quatre points de base à 4,14%.\n• Le dollar s'est affaibli et les marchés des taux ont réduit les attentes de hausse de la Fed dans les prochains mois.\n• Les Nonfarm Payrolls de juin ont augmenté de 57 000, avec des révisions à la baisse des deux mois précédents."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "EUR",
+      "title": "ECB’s Lagarde speaks at economy conference in Aix-En-Provence",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-07-03T11:42:17+02:00"
+}
