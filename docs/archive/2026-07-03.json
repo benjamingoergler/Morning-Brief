@@ -6,25 +6,30 @@
       "url": "https://features.financialjuice.com/2026/07/03/morning-juice-europe-session-prep-593/",
       "date": "2026-07-03",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• La Présidente de la BCE, Lagarde, a défendu la hausse de taux du mois dernier, renforçant l'attention sur l'inflation malgré les signes de ralentissement des pressions sur les prix.\n• Le ministre des Finances japonais Katayama a réitéré la possibilité d'une « action appropriée » sur le marché des devises, maintenant les risques d'intervention sur le Yen.\n• Le pétrole s'est stabilisé près de ses plus bas récents alors que le trafic dans le détroit d'Ormuz augmentait, ajoutant à l'offre à court terme.\n• L'attention américaine est restée sur la Fed, Trump suggérant que le président Warsh pourrait avoir du mal à convaincre les décideurs de suivre sa voie.\n• Trump et ses alliés renouvellent leurs efforts pour remodeler la Fed après le blocage par la Cour suprême du retrait de la gouverneure Lisa Cook.\n• La banque centrale chinoise a réduit ses achats d'obligations d'État en juin à leur plus bas niveau en neuf mois, signalant une prudence face à la baisse des rendements."
+      "summary": "• La Présidente de la BCE, Lagarde, a défendu la hausse des taux du mois dernier, renforçant l'engagement contre l'inflation.\\n• Le Yen reste sous surveillance alors que le ministre japonais Katayama a réitéré la possibilité d'interventions.\\n• Le pétrole s'est stabilisé près de ses plus bas, le trafic dans le détroit d'Ormuz augmentant l'offre.\\n• Aux États-Unis, Trump a exprimé des doutes sur la capacité de Warsh à influencer la politique de la Fed.\\n• La Chine a réduit ses achats d'obligations d'État en juin, un plus bas en neuf mois, signalant une prudence sur les rendements."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/07/02/stocks-gain-as-softer-jobs-report-eases-fed-tightening-fears-us-market-wrap/",
       "date": "2026-07-02",
       "title": "Stocks Gain as Softer Jobs Report Eases Fed Tightening Fears – US Market Wrap",
-      "summary": "• La plupart des actions US ont progressé après un rapport sur l'emploi plus faible que prévu, réduisant les craintes de hausses de taux de la Fed.\n• Le S&P 500 a peu changé, les gains étant compensés par une forte baisse des valeurs de semi-conducteurs.\n• Le Dow Jones Industrial Average a atteint un nouveau record historique, signalant une amélioration générale du sentiment.\n• Les rendements des bons du Trésor à deux ans ont chuté de quatre points de base à 4,14%.\n• Le dollar s'est affaibli et les marchés des taux ont réduit les attentes de hausse de la Fed dans les prochains mois.\n• Les Nonfarm Payrolls de juin ont augmenté de 57 000, avec des révisions à la baisse des deux mois précédents."
+      "summary": "• La plupart des actions américaines ont progressé après un rapport sur l'emploi plus faible que prévu.\\n• Cela a atténué les inquiétudes concernant une hausse des taux d'intérêt de la Réserve fédérale.\\n• Le S&P 500 est resté stable, les gains étant compensés par une forte vente de semi-conducteurs.\\n• Le Dow Jones Industrial Average a atteint un nouveau record historique, reflétant un sentiment positif.\\n• Les rendements des bons du Trésor à deux ans ont baissé de 4 points de base à 4,14%.\\n• Le taux de chômage a légèrement diminué à 4,2%, malgré un ralentissement des créations d'emplois."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/07/03/morning-juice-us-session-prep-3rd-july-2/",
+      "date": "2026-07-03",
+      "title": "Morning Juice – US Session Prep (3rd July)",
+      "summary": "• Les actions ont rebondi, la volatilité liée à l'IA s'est estompée, les futures Nasdaq ont récupéré.\\n• Les actions européennes ont atteint de nouveaux sommets, soutenues par les services publics et la technologie.\\n• Le sentiment des investisseurs oscille rapidement concernant la durabilité du rallye de l'IA.\\n• L'attention se tourne vers la saison des résultats pour évaluer la rentabilité des dépenses en IA.\\n• Des attentes de taux plus bas ont fait monter l'or et baisser le dollar.\\n• Le Brent est resté sous les 72 $, entre flux d'Ormuz et incertitude des pourparlers US-Iran."
+    }
   },
   "dockets": [
     {
       "time_et": "04:30",
       "time_cet": "10:30",
-      "cur": "EUR",
+      "cur": "",
       "title": "ECB’s Lagarde speaks at economy conference in Aix-En-Provence",
       "forecast": "",
       "previous": ""
     }
   ],
-  "generated_at": "2026-07-03T11:42:17+02:00"
+  "generated_at": "2026-07-03T17:13:43+02:00"
 }
