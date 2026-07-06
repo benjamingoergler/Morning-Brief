@@ -1,0 +1,54 @@
+{
+  "date": "2026-07-06",
+  "date_fr": "Lundi 6 juillet 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/07/06/morning-juice-europe-session-prep-594/",
+      "date": "2026-07-06",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le pétrole s'est stabilisé après deux jours de gains, mais l'augmentation des approvisionnements de l'OPEC+ suscite des inquiétudes de surabondance.\n• L'Allemagne prévoit d'augmenter son nouvel endettement net pour 2027 à 118 milliards d'euros, soit 7% de plus que prévu.\n• Des économistes appellent à une refonte de l'économie britannique, proposant d'abolir la taxe foncière.\n• L'Italie pourrait augmenter ses dépenses militaires et de sécurité de 17 milliards d'euros sur deux ans pour atteindre l'objectif de l'OTAN.\n• Le won sud-coréen est stable face au dollar, marquant le début de 24 heures de négociation pour ouvrir ses marchés financiers."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/07/02/stocks-gain-as-softer-jobs-report-eases-fed-tightening-fears-us-market-wrap/",
+      "date": "2026-07-02",
+      "title": "Stocks Gain as Softer Jobs Report Eases Fed Tightening Fears – US Market Wrap",
+      "summary": "• La plupart des actions US ont avancé après un rapport sur l'emploi plus faible que prévu, réduisant les craintes de hausse des taux de la Fed.\n• Le S&P 500 est resté stable, les ventes de semi-conducteurs compensant les gains ailleurs; le Dow Jones a atteint un record.\n• Les rendements des bons du Trésor à deux ans ont chuté de 4 points de base à 4,14%; le dollar s'est affaibli.\n• Les marchés des taux d'intérêt ont réduit leurs attentes concernant une hausse des taux de la Fed dans les prochains mois.\n• Le rapport de juin a montré un ralentissement significatif des embauches, avec 57 000 Nonfarm payrolls.\n• Malgré la croissance plus lente de l'emploi, le taux de chômage a légèrement baissé à 4,2%, signalant un marché résilient."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Factory Orders MoM",
+      "forecast": "1.1%",
+      "previous": "-3.8%"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone Sentix Investor Confidence",
+      "forecast": "-10",
+      "previous": "-13.4"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone PPI YoY",
+      "forecast": "5.8%",
+      "previous": "4.9%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone Retail Sales YoY",
+      "forecast": "1.6%",
+      "previous": "1%"
+    }
+  ],
+  "generated_at": "2026-07-06T13:12:16+02:00"
+}
