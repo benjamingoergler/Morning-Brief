@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/07/06/morning-juice-europe-session-prep-594/",
       "date": "2026-07-06",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le pétrole s'est stabilisé après deux jours de gains, mais l'augmentation des approvisionnements de l'OPEC+ suscite des inquiétudes de surabondance.\n• L'Allemagne prévoit d'augmenter son nouvel endettement net pour 2027 à 118 milliards d'euros, soit 7% de plus que prévu.\n• Des économistes appellent à une refonte de l'économie britannique, proposant d'abolir la taxe foncière.\n• L'Italie pourrait augmenter ses dépenses militaires et de sécurité de 17 milliards d'euros sur deux ans pour atteindre l'objectif de l'OTAN.\n• Le won sud-coréen est stable face au dollar, marquant le début de 24 heures de négociation pour ouvrir ses marchés financiers."
+      "summary": "• Le pétrole s'est stabilisé après deux jours de gains, les approvisionnements de l'OPEC+ ravivant les craintes d'un excédent. • L'Allemagne prévoit d'augmenter son nouvel emprunt net pour 2027 à 118 milliards d'euros (135 milliards de dollars), soit 7% de plus. • Des économistes appellent à une refonte de l'économie britannique, proposant d'abolir le stamp duty et la council tax. • L'Italie pourrait augmenter ses dépenses militaires et de sécurité de 17 milliards d'euros (19,4 milliards de dollars) sur deux ans. • Le won sud-coréen est stable face au dollar, marquant le début de 24 heures de trading pour ouvrir ses marchés financiers."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/07/02/stocks-gain-as-softer-jobs-report-eases-fed-tightening-fears-us-market-wrap/",
       "date": "2026-07-02",
       "title": "Stocks Gain as Softer Jobs Report Eases Fed Tightening Fears – US Market Wrap",
-      "summary": "• La plupart des actions US ont avancé après un rapport sur l'emploi plus faible que prévu, réduisant les craintes de hausse des taux de la Fed.\n• Le S&P 500 est resté stable, les ventes de semi-conducteurs compensant les gains ailleurs; le Dow Jones a atteint un record.\n• Les rendements des bons du Trésor à deux ans ont chuté de 4 points de base à 4,14%; le dollar s'est affaibli.\n• Les marchés des taux d'intérêt ont réduit leurs attentes concernant une hausse des taux de la Fed dans les prochains mois.\n• Le rapport de juin a montré un ralentissement significatif des embauches, avec 57 000 Nonfarm payrolls.\n• Malgré la croissance plus lente de l'emploi, le taux de chômage a légèrement baissé à 4,2%, signalant un marché résilient."
+      "summary": "• La plupart des actions US ont progressé après un rapport sur l'emploi plus faible, réduisant les craintes de hausses de taux de la Fed. • Le S&P 500 est resté peu changé, les ventes de semi-conducteurs compensant les gains ailleurs. • Le Dow Jones Industrial Average a grimpé à un nouveau record historique, signalant une confiance continue. • Les rendements des bons du Trésor à deux ans ont chuté de quatre points de base à 4,14%, le dollar s'est affaibli. • Les marchés des taux d'intérêt ont réduit les attentes d'une hausse de taux de la Fed dans les prochains mois. • Les Nonfarm payrolls ont augmenté de 57 000 en juin, avec des révisions à la baisse, le chômage à 4,2%."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/07/06/morning-juice-us-session-prep-6th-july/",
+      "date": "2026-07-06",
+      "title": "Morning Juice – US Session Prep (6th July)",
+      "summary": "• Le dollar s'est renforcé et les Treasuries ont rallié, les traders attendant les données PMI dans une semaine économique légère. • Les données PMI Services de juin sont attendues, avec le S&P Services PMI à 51.3 et l'ISM Services PMI à 54. • Plusieurs membres de la Fed et de la BCE, dont Waller, Lagarde, Mann et Lane, prendront la parole aujourd'hui. • Waller de la Fed interviendra sur un panel de politique monétaire, tandis que Lagarde de la BCE participera à un événement. • Mann de la BoE discutera de l'avenir des données économiques du Royaume-Uni lors d'une conférence. • Lane de la BCE donnera un discours lors de la conférence de clôture du réseau de recherche ESCB."
+    }
   },
   "dockets": [
     {
@@ -50,5 +55,5 @@
       "previous": "1%"
     }
   ],
-  "generated_at": "2026-07-06T13:12:16+02:00"
+  "generated_at": "2026-07-06T18:23:26+02:00"
 }
