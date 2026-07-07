@@ -1,0 +1,46 @@
+{
+  "date": "2026-07-07",
+  "date_fr": "Mardi 7 juillet 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/07/07/morning-juice-europe-session-prep-595/",
+      "date": "2026-07-07",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le ministre japonais Minoru Kiuchi dément les rumeurs d'une tentative gouvernementale de faire baisser les taux d'intérêt.\n• Les salaires japonais ont augmenté en mai, dépassant l'inflation, renforçant la position de la BoJ sur les hausses de taux.\n• Les hedge funds sont les plus baissiers sur le JPY depuis 2007, la devise étant proche de son plus bas en quatre décennies.\n• Le pétrole a progressé suite à des attaques de navires dans le détroit d'Ormuz, soulignant les risques pour le trafic maritime.\n• Le bénéfice trimestriel de Samsung Electronics a bondi de 19 fois, mais n'a pas impressionné les investisseurs d'IA.\n• Un panel de législateurs britanniques recommande d'annuler le gel du seuil de revenus pour le remboursement des prêts étudiants.\n• La banque centrale chinoise étend les canaux d'investissement entre Hong Kong et le continent, renforçant l'usage du yuan."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/07/06/tech-giants-lead-market-higher-as-ai-optimism-returns-us-market-wrap/",
+      "date": "2026-07-06",
+      "title": "Tech Giants Lead Market Higher as AI Optimism Returns – US Market Wrap",
+      "summary": "• Les actions américaines ont rebondi, portées par les grandes entreprises technologiques, ravivant la confiance dans l'IA.\n• Le Nasdaq 100 a gagné 1,3%, mettant fin à deux séances de baisse pour les valeurs des semi-conducteurs.\n• Nvidia a rassuré sur sa feuille de route produit après des retards de serveurs ayant affecté les actions tech en Asie.\n• Broadcom a progressé suite à l'extension de son partenariat avec Apple jusqu'en 2031.\n• SK Hynix avance sur son projet de cotation aux États-Unis, tandis que les résultats de Samsung Electronics sont attendus.\n• La volatilité des actions technologiques a augmenté malgré un trimestre record pour les semi-conducteurs.\n• Les investisseurs évaluent la concurrence accrue, les risques de surcapacité et la rentabilité des investissements massifs."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "Gerrman Industrial Production YoY",
+      "forecast": "-0.6%",
+      "previous": "-0.5%"
+    },
+    {
+      "time_et": "05:30",
+      "time_cet": "11:30",
+      "cur": "GBP",
+      "title": "FPC Meeting Minutes",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "05:30",
+      "time_cet": "11:30",
+      "cur": "GBP",
+      "title": "BoE Financial Stability Report",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-07-07T12:06:22+02:00"
+}
