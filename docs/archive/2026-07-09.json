@@ -6,22 +6,27 @@
       "url": "https://features.financialjuice.com/2026/07/09/morning-juice-europe-session-prep-597/",
       "date": "2026-07-09",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le pétrole a bondi après de nouvelles frappes américaines en Iran, augmentant les risques pour l'approvisionnement énergétique du Moyen-Orient.\n• La production manufacturière néo-zélandaise a connu sa plus forte expansion en juin depuis près de cinq ans, la RBNZ ayant relevé ses taux.\n• La Banque du Japon pourrait accélérer ses hausses de taux fin 2024, potentiellement au-delà de 2%, pour maîtriser l'inflation.\n• La banque centrale chinoise a reconnu un déséquilibre économique croissant dû au boom de l'IA, réitérant sa politique actuelle.\n• L'inflation des prix à la consommation en Chine a ralenti plus que prévu; l'inflation manufacturière montre des signes de pic.\n• Certains responsables de la Fed ont envisagé une hausse des taux lors de la dernière réunion, mais ont finalement maintenu le statu quo."
+      "summary": "• Le pétrole a bondi suite aux frappes américaines en Iran, augmentant les risques pour l'approvisionnement énergétique du Moyen-Orient.\n• La fabrication néo-zélandaise a connu sa croissance la plus rapide en juin depuis près de cinq ans, la RBNZ ayant relevé ses taux.\n• La Banque du Japon pourrait accélérer les hausses de taux fin 2024, visant plus de 2% pour maîtriser l'inflation.\n• La banque centrale chinoise reconnaît un déséquilibre économique croissant, le boom de l'IA creusant les écarts de croissance.\n• L'inflation des prix à la consommation en Chine a ralenti, l'inflation des usines montrant des signes de pic après la baisse des matières premières.\n• Plusieurs officiels de la Fed ont envisagé une hausse des taux lors de la dernière réunion, mais ont finalement soutenu le maintien."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/07/08/stocks-drop-as-oil-rises-due-to-us-iranian-fears-us-market-wrap/",
       "date": "2026-07-08",
       "title": "Stocks Drop as Oil Rises Due to US-Iranian Fears – US Market Wrap",
-      "summary": "• Les risques géopolitiques ont fait baisser les marchés et les obligations; le pétrole a grimpé après les avertissements de Trump sur l'Iran.\n• Le S&P 500 a récupéré malgré les baisses initiales, les fabricants de puces ont progressé; Trump ne croit pas à une reprise de la guerre.\n• Le Brent a temporairement dépassé les $80 en raison des tensions dans le golfe Persique, ravivant les craintes d'inflation.\n• Les marchés monétaires anticipent une hausse des taux de la Fed d'ici octobre; le Bitcoin a chuté.\n• La Chine pourrait autoriser l'achat limité de processeurs Nvidia H200 par ses entreprises d'IA, assouplissant les restrictions.\n• Apple va dépenser plus de $30 milliards avec Broadcom Inc. pour des composants fabriqués aux États-Unis."
+      "summary": "• Les risques géopolitiques ont fait baisser les marchés actions et obligataires, mais le pétrole a augmenté.\n• Trump a averti que le cessez-le-feu avec l'Iran pourrait être terminé, menaçant de nouvelles frappes américaines.\n• Le Brent a temporairement dépassé 80 $, ravivant les craintes d'inflation et augmentant les paris sur une hausse des taux de la Fed.\n• La Chine assouplit les restrictions, permettant à ses entreprises d'IA d'acheter des processeurs Nvidia H200.\n• Apple étend son accord avec Broadcom Inc. pour plus de 30 milliards de dollars de composants fabriqués aux États-Unis.\n• Meta investira environ 10 milliards de dollars pour son premier centre de données au Canada, soutenant ses ambitions en IA."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/07/09/morning-juice-us-session-prep-9th-july-2/",
+      "date": "2026-07-09",
+      "title": "Morning Juice – US Session Prep (9th July)",
+      "summary": "• Les Treasuries ont progressé avec leurs homologues européens, le dollar est resté stable, le pétrole s'est stabilisé.\n• Les tensions au Moyen-Orient restent au centre de l'attention après les attaques renouvelées entre les États-Unis et l'Iran.\n• Les États-Unis publieront les demandes hebdomadaires d'allocations chômage (forecast 217k) et les ventes de logements existants (forecast 4.2M).\n• La Fed vendra 22 milliards de dollars d'obligations à 30 ans, avec un rendement précédent de 5.02%.\n• Plusieurs responsables de la Fed (Williams, Logan) et de la BoE (Breeden) prendront la parole lors d'ateliers sur les marchés.\n• Le président de la SNB, Martin, fera également des remarques lors d'un atelier sur la liquidité du marché."
+    }
   },
   "dockets": [
     {
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "EUR",
-      "title": "German Trade Balance",
+      "title": "Trade Balance",
       "forecast": "14.8B",
       "previous": "14.5BM"
     },
@@ -29,7 +34,7 @@
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "EUR",
-      "title": "German Imports",
+      "title": "Imports",
       "forecast": "-0.8%M",
       "previous": "1.2%"
     },
@@ -37,7 +42,7 @@
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "EUR",
-      "title": "German Exports",
+      "title": "Exports",
       "forecast": "-0.4%",
       "previous": "0.9%"
     },
@@ -50,5 +55,5 @@
       "previous": ""
     }
   ],
-  "generated_at": "2026-07-09T12:04:08+02:00"
+  "generated_at": "2026-07-09T17:59:42+02:00"
 }
