@@ -1,0 +1,54 @@
+{
+  "date": "2026-07-09",
+  "date_fr": "Jeudi 9 juillet 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/07/09/morning-juice-europe-session-prep-597/",
+      "date": "2026-07-09",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le pétrole a bondi après de nouvelles frappes américaines en Iran, augmentant les risques pour l'approvisionnement énergétique du Moyen-Orient.\n• La production manufacturière néo-zélandaise a connu sa plus forte expansion en juin depuis près de cinq ans, la RBNZ ayant relevé ses taux.\n• La Banque du Japon pourrait accélérer ses hausses de taux fin 2024, potentiellement au-delà de 2%, pour maîtriser l'inflation.\n• La banque centrale chinoise a reconnu un déséquilibre économique croissant dû au boom de l'IA, réitérant sa politique actuelle.\n• L'inflation des prix à la consommation en Chine a ralenti plus que prévu; l'inflation manufacturière montre des signes de pic.\n• Certains responsables de la Fed ont envisagé une hausse des taux lors de la dernière réunion, mais ont finalement maintenu le statu quo."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/07/08/stocks-drop-as-oil-rises-due-to-us-iranian-fears-us-market-wrap/",
+      "date": "2026-07-08",
+      "title": "Stocks Drop as Oil Rises Due to US-Iranian Fears – US Market Wrap",
+      "summary": "• Les risques géopolitiques ont fait baisser les marchés et les obligations; le pétrole a grimpé après les avertissements de Trump sur l'Iran.\n• Le S&P 500 a récupéré malgré les baisses initiales, les fabricants de puces ont progressé; Trump ne croit pas à une reprise de la guerre.\n• Le Brent a temporairement dépassé les $80 en raison des tensions dans le golfe Persique, ravivant les craintes d'inflation.\n• Les marchés monétaires anticipent une hausse des taux de la Fed d'ici octobre; le Bitcoin a chuté.\n• La Chine pourrait autoriser l'achat limité de processeurs Nvidia H200 par ses entreprises d'IA, assouplissant les restrictions.\n• Apple va dépenser plus de $30 milliards avec Broadcom Inc. pour des composants fabriqués aux États-Unis."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Trade Balance",
+      "forecast": "14.8B",
+      "previous": "14.5BM"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Imports",
+      "forecast": "-0.8%M",
+      "previous": "1.2%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Exports",
+      "forecast": "-0.4%",
+      "previous": "0.9%"
+    },
+    {
+      "time_et": "07:30",
+      "time_cet": "13:30",
+      "cur": "EUR",
+      "title": "ECB Meeting Minutes",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-07-09T12:04:08+02:00"
+}
