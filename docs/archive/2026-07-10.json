@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-10",
+  "date_fr": "Vendredi 10 juillet 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/07/10/morning-juice-europe-session-prep-598/",
+      "date": "2026-07-10",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le Japon a encouragé ses fonds de pension à investir dans les actifs nationaux, stimulant les obligations et le yen.\n• Le pétrole s'est stabilisé après une semaine agitée, malgré les tensions US-Iran et la perturbation du détroit d'Ormuz.\n• Les prix des biens des entreprises japonaises ont accéléré en juin, renforçant la perspective d'une hausse des taux par la BoJ.\n• La trêve entre le président Trump et l'Iran est incertaine suite à des frappes aériennes et de nouvelles sanctions pétroliennes.\n• La Banque de France a relevé son estimation de croissance, indiquant que l'économie évitera une récession.\n• Le yuan a progressé après que la banque centrale chinoise ait fixé le taux de référence sous 6.80 par dollar, une première depuis 2023."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/07/09/chipmakers-lead-rebound-as-oil-falls-us-market-wrap/",
+      "date": "2026-07-09",
+      "title": "Chipmakers Lead Rebound as Oil Falls – US Market Wrap",
+      "summary": "• Wall Street a rebondi, le Nasdaq 100 progressant de 1,6%, grâce à la résurgence des grands fabricants de puces.\n• L'indice des semi-conducteurs a grimpé de 3,1%, soutenu par la demande croissante liée à l'IA.\n• Micron Technology prévoit d'augmenter ses dépenses à 250 milliards de dollars pour de nouvelles usines américaines.\n• L'introduction en bourse de SK Hynix aux États-Unis a été sursouscrite plus de sept fois, signe d'une forte demande.\n• Des inquiétudes persistent concernant la concurrence, la surcapacité et la rentabilité des investissements massifs en semi-conducteurs.\n• Une adjudication de bons du Trésor à 30 ans a affiché le rendement le plus élevé en près de deux décennies."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German CPI YoY",
+      "forecast": "2.3%",
+      "previous": "2.3%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German HICP YoY",
+      "forecast": "2.4%",
+      "previous": "2.4%"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French CPI YoY",
+      "forecast": "1.8%",
+      "previous": "1.8%"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French HICP YoY",
+      "forecast": "2%",
+      "previous": "2%"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "",
+      "title": "IEA Monthly Report",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-07-10T12:00:52+02:00"
+}
