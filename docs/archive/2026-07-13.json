@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/07/13/morning-juice-europe-session-prep-599/",
       "date": "2026-07-13",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le pétrole a bondi suite aux frappes américaines et iraniennes, avec des déclarations contradictoires sur le détroit d'Ormuz.\n• Les rendements des bons du Trésor à deux ans ont atteint leur plus haut depuis début 2025, alimentant les spéculations de hausse des taux de la Fed.\n• La force du dollar américain n'est pas toujours favorable aux obligations américaines, mais les investisseurs s'adaptent.\n• Andy Burnham, futur PM britannique, envisage un budget renforcé, une taxe foncière et le contrôle public des services.\n• Marine Le Pen a accru son avance dans les sondages présidentiels français après avoir été autorisée à se présenter."
+      "summary": "• Le pétrole a bondi suite à de nouvelles frappes US-Iran, avec des déclarations contradictoires sur le détroit d'Ormuz.\n• Les rendements des bons du Trésor à deux ans ont atteint leur plus haut depuis début 2025, les tensions iraniennes alimentant l'inflation.\n• La Fed pourrait devoir augmenter les taux d'intérêt pour contrer l'inflation, suite à la hausse des prix du pétrole.\n• Andy Burnham, futur PM britannique, envisage un budget renforcé incluant taxe foncière et contrôle public des services.\n• Marine Le Pen a accru son avance dans les sondages présidentiels français, autorisée à se présenter pour la 4e fois."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/07/10/stocks-near-records-as-sk-hynix-jumps-oil-swings-us-market-wrap/",
       "date": "2026-07-10",
       "title": "Stocks Near Records as SK Hynix Jumps, Oil Swings – US Market Wrap",
-      "summary": "• Wall Street a progressé avant la saison des résultats, le S&P 500 se rapprochant de ses records.\n• Les ADR de SK Hynix ont bondi de 13% au-dessus de leur prix d'offre après une vente d'actions réussie.\n• Le pétrole a brièvement augmenté suite aux déclarations de Trump sur l'Iran, avant de baisser avec la poursuite des pourparlers.\n• Les principaux indices ont affiché de légères variations vendredi, malgré une semaine de gains pour les actions.\n• Le contexte des résultats est favorable, mais les attentes sont élevées, nécessitant confirmation pour une hausse durable."
+      "summary": "• Wall Street a clôturé en hausse, le S&P 500 se rapprochant de ses records, avant la saison des résultats.\n• SK Hynix a bondi de 13% lors de son introduction, suite à une vente d'actions réussie.\n• Le pétrole a brièvement monté après les déclarations de Trump sur l'Iran, puis est retombé avec l'annonce de pourparlers.\n• Les principaux indices n'ont enregistré que de légères variations vendredi, malgré la progression générale.\n• Le contexte des résultats est favorable, mais les attentes élevées pourraient freiner une hausse durable des marchés."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/07/13/morning-juice-us-session-prep-13th-july/",
+      "date": "2026-07-13",
+      "title": "Morning Juice – US Session Prep (13th July)",
+      "summary": "• Les rendements des bons du Trésor à deux ans ont atteint leur plus haut depuis début 2025, puis se sont modérés.\n• Les tensions au Moyen-Orient ont fait grimper les prix du pétrole, alimentant les craintes d'inflation.\n• Le dollar a effacé ses gains initiaux, les traders évaluant l'impact des tensions sur la politique de la Fed.\n• La Fed pourrait devoir augmenter les taux pour contenir l'inflation tirée par l'énergie.\n• Plusieurs responsables de banques centrales (Fed, BCE, BoE) prendront la parole aujourd'hui."
+    }
   },
   "dockets": [
     {
@@ -26,5 +31,5 @@
       "previous": ""
     }
   ],
-  "generated_at": "2026-07-13T11:54:28+02:00"
+  "generated_at": "2026-07-13T17:43:13+02:00"
 }
