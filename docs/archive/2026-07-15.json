@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-15",
+  "date_fr": "Mercredi 15 juillet 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/07/15/morning-juice-europe-session-prep-601/",
+      "date": "2026-07-15",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le pétrole a augmenté pour le troisième jour, suite aux menaces de Donald Trump de frappes supplémentaires contre l'Iran.\n• Les États-Unis ont rétabli le blocus maritime de l'Iran via le détroit d'Ormuz, intensifiant les sanctions économiques.\n• Un rapport d'inflation modéré a repoussé les attentes de hausse des taux de la Fed à plus tard cette année.\n• Le président de la Fed, Kevin Warsh, a évoqué une possible réponse de la banque centrale à l'inflation ralentie.\n• Le gouverneur de la BoE, Andrew Bailey, a exhorté le futur PM Andy Burnham à privilégier la croissance économique et la discipline budgétaire."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/07/14/stocks-and-bonds-rise-as-softer-inflation-eases-rate-hike-fears-us-market-wrap/",
+      "date": "2026-07-14",
+      "title": "Stocks and Bonds Rise as Softer Inflation Eases Rate-Hike Fears – US Market Wrap",
+      "summary": "• Un rapport d'inflation US plus faible que prévu a stimulé les actions et obligations, apaisant les craintes de hausse des taux de la Fed.\n• Le S&P 500 a prolongé ses gains; le Nasdaq 100 a progressé de 1,1% grâce aux semi-conducteurs.\n• Les financières ont bien démarré la saison des résultats; IBM a chuté de 25% après des revenus décevants.\n• Les Treasuries à court terme ont surperformé, les traders réduisant les attentes de hausse des taux en juillet.\n• Le dollar s'est affaibli; le pétrole brut US a clôturé sous 80$ malgré l'abandon des frais par Trump.\n• Les prix à la consommation ont baissé en juin pour la première fois en six ans; l'inflation sous-jacente peu modifiée."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone Industrial Production YoY",
+      "forecast": "-0.4%",
+      "previous": "0.3%"
+    }
+  ],
+  "generated_at": "2026-07-15T10:42:25+02:00"
+}
