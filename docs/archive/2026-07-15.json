@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/07/15/morning-juice-europe-session-prep-601/",
       "date": "2026-07-15",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le pétrole a augmenté pour le troisième jour, suite aux menaces de Donald Trump de frappes supplémentaires contre l'Iran.\n• Les États-Unis ont rétabli le blocus maritime de l'Iran via le détroit d'Ormuz, intensifiant les sanctions économiques.\n• Un rapport d'inflation modéré a repoussé les attentes de hausse des taux de la Fed à plus tard cette année.\n• Le président de la Fed, Kevin Warsh, a évoqué une possible réponse de la banque centrale à l'inflation ralentie.\n• Le gouverneur de la BoE, Andrew Bailey, a exhorté le futur PM Andy Burnham à privilégier la croissance économique et la discipline budgétaire."
+      "summary": "• Le pétrole a augmenté pour le troisième jour, suite aux menaces de Trump de frappes contre l'Iran et au blocus américain du détroit d'Ormuz.\n• Les États-Unis ont intensifié les sanctions économiques et le blocus militaire contre l'Iran après l'échec des négociations.\n• Les anticipations d'une hausse des taux de la Fed en juillet ont diminué après un rapport d'inflation plus faible que prévu.\n• Le président de la Fed, Kevin Warsh, a indiqué que l'inflation ralentie en juin pourrait nécessiter une réponse future de la banque centrale.\n• Le gouverneur de la BoE, Andrew Bailey, a averti le futur PM Andy Burnham sur la nécessité de croissance économique et de discipline fiscale."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/07/14/stocks-and-bonds-rise-as-softer-inflation-eases-rate-hike-fears-us-market-wrap/",
       "date": "2026-07-14",
       "title": "Stocks and Bonds Rise as Softer Inflation Eases Rate-Hike Fears – US Market Wrap",
-      "summary": "• Un rapport d'inflation US plus faible que prévu a stimulé les actions et obligations, apaisant les craintes de hausse des taux de la Fed.\n• Le S&P 500 a prolongé ses gains; le Nasdaq 100 a progressé de 1,1% grâce aux semi-conducteurs.\n• Les financières ont bien démarré la saison des résultats; IBM a chuté de 25% après des revenus décevants.\n• Les Treasuries à court terme ont surperformé, les traders réduisant les attentes de hausse des taux en juillet.\n• Le dollar s'est affaibli; le pétrole brut US a clôturé sous 80$ malgré l'abandon des frais par Trump.\n• Les prix à la consommation ont baissé en juin pour la première fois en six ans; l'inflation sous-jacente peu modifiée."
+      "summary": "• Un rapport d'inflation US plus faible que prévu a stimulé les actions et les obligations, apaisant les craintes de hausse des taux de la Fed.\n• Le S&P 500 a prolongé ses gains mensuels, et le Nasdaq 100 a augmenté de 1,1% grâce aux semi-conducteurs.\n• Les valeurs financières ont bien démarré la saison des résultats, mais IBM a chuté de 25% après des revenus décevants.\n• Les Treasuries à court terme ont surperformé, le dollar s'est affaibli, et le pétrole US a fini sous 80 $ le baril.\n• Les prix à la consommation ont baissé en juin pour la première fois en six ans, l'inflation sous-jacente étant stable.\n• La Fed devrait accueillir favorablement ce rapport, malgré les risques d'inflation liés aux tensions dans le Golfe."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/07/15/morning-juice-us-session-prep-15th-july-2/",
+      "date": "2026-07-15",
+      "title": "Morning Juice – US Session Prep (15th July)",
+      "summary": "• Les marchés monétaires n'anticipent plus qu'une probabilité de 20% d'une hausse des taux de la Fed en juillet.\n• Cette probabilité est en forte baisse par rapport à environ 50% observée lundi dernier.\n• La révision des anticipations fait suite à la publication de données d'inflation US plus faibles que prévu.\n• L'escalade des tensions au Moyen-Orient et la hausse des prix du pétrole avaient initialement renforcé les attentes de hausse.\n• Le rapport sur l'inflation a également contribué à la récupération des obligations d'État européennes après des pertes initiales."
+    }
   },
   "dockets": [
     {
@@ -26,5 +31,5 @@
       "previous": "0.3%"
     }
   ],
-  "generated_at": "2026-07-15T10:42:25+02:00"
+  "generated_at": "2026-07-15T16:54:29+02:00"
 }
