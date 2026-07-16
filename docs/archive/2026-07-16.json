@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/07/16/morning-juice-europe-session-prep-602/",
       "date": "2026-07-16",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Les États-Unis ont mené de nouvelles frappes aériennes contre l'Iran, Trump promettant d'intensifier l'action militaire dans le détroit d'Ormuz.\n• Le président de la Fed, Kevin Warsh, a minimisé l'impact de l'investissement en IA sur l'inflation, ne prévoyant pas de pressions persistantes.\n• La livre sterling a atteint un plus haut d'un an suite aux rumeurs sur la nomination de Shabana Mahmood comme Chancelier britannique.\n• La ministre japonaise des Finances encouragera le GPIF à investir davantage dans les actifs domestiques, sans ingérence directe.\n• La banque centrale sud-coréenne a relevé ses taux pour la première fois en trois ans, citant l'inflation et la croissance économique.\n• Le pétrole a progressé pour le quatrième jour consécutif, soutenu par les frappes américaines visant à sécuriser le détroit d'Ormuz."
+      "summary": "• Les États-Unis ont lancé de nouvelles frappes aériennes sur l'Iran, Trump promettant d'intensifier les bombardements jusqu'à la sécurisation du détroit d'Ormuz.\n• Kevin Warsh de la Fed a minimisé l'impact de l'IA sur l'inflation, affirmant que le boom ne mènera pas nécessairement à des pressions persistantes.\n• La livre sterling a atteint son plus haut niveau en un an suite aux rumeurs de nomination de Shabana Mahmood comme Chancelier par Andy Burnham.\n• La ministre japonaise Satsuki Katayama encourage le GPIF à investir davantage dans les actifs domestiques, sans interférer dans ses décisions.\n• La banque centrale sud-coréenne a relevé ses taux pour la première fois en trois ans, citant un boom des puces lié à l'IA et une inflation persistante.\n• Le pétrole a grimpé pour le quatrième jour consécutif, les attaques américaines en Iran visant à sécuriser le transport maritime dans le détroit d'Ormuz."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/07/15/stocks-rise-again-as-softer-producer-inflation-reduces-fed-tightening-pressure-us-market-wrap/",
       "date": "2026-07-15",
       "title": "Stocks Rise Again as Softer Producer Inflation Reduces Fed Tightening Pressure – US Market Wrap",
-      "summary": "• Un rapport d'inflation plus faible que prévu a stimulé les actions et obligations, réduisant les attentes de hausses de taux de la Fed.\n• L'impact modéré du conflit iranien sur l'inflation conforte la patience de la Fed avant tout resserrement monétaire.\n• Les marchés monétaires anticipent désormais une seule hausse de taux en décembre, et non plus tôt dans l'année.\n• Les Treasuries à court terme ont mené les gains, le S&P 500 a progressé, et le dollar s'est affaibli.\n• Les valeurs des semi-conducteurs ont sous-performé, l'indice clé des fabricants de puces chutant de 2.1%.\n• Les prix à la production core ont augmenté de 4.7% sur un an, sous les attentes, grâce à la baisse des coûts énergétiques."
+      "summary": "• Un rapport d'inflation plus faible que prévu a stimulé les actions et les obligations, renforçant la patience de la Fed sur les hausses de taux.\n• Les marchés monétaires intègrent désormais une seule hausse de taux de la Fed pour décembre, plutôt que plus tôt dans l'année.\n• Les Treasuries à court terme ont progressé, le S&P 500 a avancé pour la deuxième séance, tandis que le dollar s'est affaibli.\n• Les actions des semi-conducteurs ont sous-performé, l'indice clé des fabricants de puces chutant de 2.1%.\n• Les prix à la production \"core\" ont augmenté de 4.7% sur un an, sous les attentes, aidés par la baisse des coûts énergétiques.\n• Les risques géopolitiques restent élevés après de nouvelles frappes américaines sur l'Iran, Trump promettant une action militaire continue."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/07/16/morning-juice-us-session-prep-16th-july-2/",
+      "date": "2026-07-16",
+      "title": "Morning Juice – US Session Prep (16th July)",
+      "summary": "• Les actions ont progressé avec prudence, les futures S&P 500 et Nasdaq 100 baissant respectivement de 0.2% et 0.7%.\n• Un fort dépassement et des prévisions de ventes élevées de TSMC n'ont pas suffi à relancer le secteur des puces.\n• Le Brent s'est maintenu au-dessus de 84 $ le baril après la cinquième frappe américaine sur l'Iran, touchant un pétrolier.\n• Les Treasuries se sont légèrement affaiblis, le rendement à 10 ans atteignant 4.57%; le dollar stable, l'or en baisse.\n• Le Kospi de Séoul a été affecté par la volatilité des puces, les autorités suspendant les nouvelles cotations d'ETFs à effet de levier.\n• L'attention se porte sur les ventes au détail américaines pour évaluer la force du consommateur après des données d'inflation plus douces."
+    }
   },
   "dockets": [
     {
@@ -66,5 +71,5 @@
       "previous": ""
     }
   ],
-  "generated_at": "2026-07-16T10:41:19+02:00"
+  "generated_at": "2026-07-16T17:05:03+02:00"
 }
