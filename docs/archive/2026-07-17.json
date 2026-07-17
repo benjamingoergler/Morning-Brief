@@ -1,0 +1,38 @@
+{
+  "date": "2026-07-17",
+  "date_fr": "Vendredi 17 juillet 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/07/17/morning-juice-europe-session-prep-603/",
+      "date": "2026-07-17",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Les États-Unis ont lancé de nouvelles frappes contre l'Iran, intensifiant les hostilités au Moyen-Orient et réduisant le trafic maritime dans le détroit d'Ormuz.\n• La ministre des Finances japonaise a menacé d'intervenir sur le marché des devises, le yen restant proche de son plus bas niveau en quarante ans.\n• Le pétrole s'apprête à connaître sa plus forte hausse hebdomadaire depuis avril, les tensions US-Iran suscitant des craintes sur l'approvisionnement.\n• Donald Trump a accusé la Chine d'ingérence dans les élections américaines de 2020, menaçant les relations avant les midterms de novembre.\n• Un prévisionniste voit le dollar-yen atteindre 170 l'année prochaine, basé sur un modèle technique ignorant l'actualité.\n• Le vice-président de la Fed, Philip Jefferson, envisage des hausses de taux si l'inflation ne ralentit pas rapidement."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/07/16/chip-stocks-suffer-as-concern-over-ai-spending-grows-us-market-wrap/",
+      "date": "2026-07-16",
+      "title": "Chip Stocks Suffer as Concern Over AI Spending Grows – US Market Wrap",
+      "summary": "• Une liquidation des fabricants de puces a fait chuter les actions, soulevant des doutes sur les valorisations IA et l'impact géopolitique.\n• Le secteur des puces a chuté de 4,3%, le NDX de 1,6%, et Alphabet de 4,4% à cause des retards de Google sur son modèle IA.\n• Les membres de la Fed, Schmid et Logan, expriment de vives inquiétudes sur l'inflation et appellent à des taux plus élevés.\n• Les demandes d'allocations chômage ont baissé, mais les ventes au détail de juin ont peu augmenté, impactées par la baisse des recettes d'essence.\n• Les risques géopolitiques ont freiné l'appétit pour le risque; le pétrole a baissé mais reste en hausse hebdomadaire, alimentant les craintes inflationnistes.\n• Les rendements obligataires ont légèrement augmenté, anticipant de potentielles hausses de taux de la Fed avant la fin de l'année."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone CPI YoY",
+      "forecast": "2.8%",
+      "previous": "2.8%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone Core YoY",
+      "forecast": "2.4%",
+      "previous": "2.4%"
+    }
+  ],
+  "generated_at": "2026-07-17T10:35:00+02:00"
+}
