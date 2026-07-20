@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-20",
+  "date_fr": "Lundi 20 juillet 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/07/20/morning-juice-europe-session-prep-604/",
+      "date": "2026-07-20",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Les États-Unis et l'Iran ont intensifié leurs attaques réciproques suite aux décès de militaires américains, augmentant les tensions géopolitiques.\n• Le prix du Brent a bondi au-dessus de 90 $ le baril après l'escalade des hostilités US-Iran, incluant des attaques sur des navires et une installation pétrolière.\n• Andy Burnham devrait devenir le septième Premier ministre britannique, soulevant des questions sur la composition de son cabinet et l'orientation politique.\n• Les traders obligataires et le président de la Fed, Kevin Warsh, s'accordent sur le fait que la lutte de la banque centrale contre l'inflation est loin d'être terminée."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/07/17/chipmakers-enter-bear-market-as-ai-spending-fears-deepen-us-market-wrap/",
+      "date": "2026-07-17",
+      "title": "Chipmakers Enter Bear Market as AI Spending Fears Deepen – US Market Wrap",
+      "summary": "• Les actions des semi-conducteurs ont subi une forte liquidation, entrant en marché baissier, les investisseurs remettant en question les valorisations élevées.\n• L'indice clé des semi-conducteurs a chuté de 20% par rapport à son sommet, enregistrant sa pire baisse hebdomadaire depuis avril 2025.\n• Une avancée de la startup chinoise Moonshot a accru les inquiétudes sur la concurrence dans l'IA, affectant le sentiment du marché.\n• Les marchés boursiers plus larges, dont le Nasdaq 100 qui a baissé de 1.5%, ont été sous pression par les tensions géopolitiques.\n• Les prix du pétrole ont augmenté suite aux nouvelles attaques entre les États-Unis et l'Iran, pesant sur l'appétit pour le risque.\n• Les investisseurs réévaluent la durabilité du rallye de l'IA face aux préoccupations de concurrence accrue et de surcapacité."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German PPI YoY",
+      "forecast": "1.8%",
+      "previous": "2.2%"
+    }
+  ],
+  "generated_at": "2026-07-20T11:41:55+02:00"
+}
