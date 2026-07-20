@@ -6,25 +6,30 @@
       "url": "https://features.financialjuice.com/2026/07/20/morning-juice-europe-session-prep-604/",
       "date": "2026-07-20",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Les États-Unis et l'Iran ont intensifié leurs attaques réciproques suite aux décès de militaires américains, augmentant les tensions géopolitiques.\n• Le prix du Brent a bondi au-dessus de 90 $ le baril après l'escalade des hostilités US-Iran, incluant des attaques sur des navires et une installation pétrolière.\n• Andy Burnham devrait devenir le septième Premier ministre britannique, soulevant des questions sur la composition de son cabinet et l'orientation politique.\n• Les traders obligataires et le président de la Fed, Kevin Warsh, s'accordent sur le fait que la lutte de la banque centrale contre l'inflation est loin d'être terminée."
+      "summary": "• Les États-Unis et l'Iran ont intensifié leurs attaques réciproques, suite aux décès de personnel militaire américain.\n• Le Brent a bondi au-dessus de 90 $ le baril après l'escalade des hostilités US-Iran, ciblant navires et installation pétrolière.\n• Andy Burnham devrait devenir le septième Premier ministre britannique, avec des incertitudes sur son cabinet et sa direction politique.\n• Les traders obligataires et Kevin Warsh de la Fed s'accordent sur la persistance de la lutte contre l'inflation."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/07/17/chipmakers-enter-bear-market-as-ai-spending-fears-deepen-us-market-wrap/",
       "date": "2026-07-17",
       "title": "Chipmakers Enter Bear Market as AI Spending Fears Deepen – US Market Wrap",
-      "summary": "• Les actions des semi-conducteurs ont subi une forte liquidation, entrant en marché baissier, les investisseurs remettant en question les valorisations élevées.\n• L'indice clé des semi-conducteurs a chuté de 20% par rapport à son sommet, enregistrant sa pire baisse hebdomadaire depuis avril 2025.\n• Une avancée de la startup chinoise Moonshot a accru les inquiétudes sur la concurrence dans l'IA, affectant le sentiment du marché.\n• Les marchés boursiers plus larges, dont le Nasdaq 100 qui a baissé de 1.5%, ont été sous pression par les tensions géopolitiques.\n• Les prix du pétrole ont augmenté suite aux nouvelles attaques entre les États-Unis et l'Iran, pesant sur l'appétit pour le risque.\n• Les investisseurs réévaluent la durabilité du rallye de l'IA face aux préoccupations de concurrence accrue et de surcapacité."
+      "summary": "• Une forte liquidation des actions de semi-conducteurs a poussé le secteur en marché baissier, avec des valorisations élevées remises en question.\n• L'indice des semi-conducteurs a chuté de 20% par rapport à son record, subissant son pire déclin hebdomadaire depuis avril 2025.\n• La percée de la startup chinoise Moonshot a intensifié les préoccupations concernant la concurrence croissante dans l'IA.\n• Les tensions géopolitiques renouvelées ont pesé sur l'appétit pour le risque, entraînant une baisse de 1,5% du Nasdaq 100.\n• Les prix du pétrole ont grimpé après de nouveaux échanges d'attaques entre les États-Unis et l'Iran.\n• Les investisseurs réévaluent la durabilité du rallye de l'IA face à la concurrence accrue et aux retours sur investissement."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/07/20/morning-juice-us-session-prep-20th-july/",
+      "date": "2026-07-20",
+      "title": "Morning Juice – US Session Prep (20th July)",
+      "summary": "• Le dollar est resté stable, les investisseurs évaluant l'impact des attaques US-Iran et leurs implications sur les prix du pétrole.\n• Les Treasuries ont également peu bougé, reflétant l'incertitude autour des tensions géopolitiques et de l'inflation."
+    }
   },
   "dockets": [
     {
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "EUR",
-      "title": "German PPI YoY",
-      "forecast": "1.8%",
-      "previous": "2.2%"
+      "title": "German PPI",
+      "forecast": "YoY: 1.8% | MoM: -0.3%",
+      "previous": "YoY: 2.2% | MoM: 0.3%"
     }
   ],
-  "generated_at": "2026-07-20T11:41:55+02:00"
+  "generated_at": "2026-07-20T17:13:20+02:00"
 }
