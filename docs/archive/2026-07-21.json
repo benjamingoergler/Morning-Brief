@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-21",
+  "date_fr": "Mardi 21 juillet 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/07/21/morning-juice-europe-session-prep-605/",
+      "date": "2026-07-21",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le Brent a reculé après une hausse de près de 6%, pesant les hostilités US-Iran contre les efforts de cessez-le-feu.\\n• L'administration Trump a menacé d'imposer un tarif de 50% sur certains produits canadiens, exacerbant les tensions commerciales.\\n• L'inflation annuelle en Nouvelle-Zélande a atteint son rythme le plus rapide en deux ans, soutenue par la hausse des prix du carburant.\\n• Le nouveau PM britannique Andy Burnham a nommé John Healey Chancelier, alimentant les spéculations sur une hausse des dépenses militaires.\\n• Les Houthis ont promis un blocus maritime de l'Arabie saoudite, incitant à des mesures de protection des navires en mer Rouge."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/07/20/as-us-iranian-risks-whipsaw-oil-stocks-and-bonds-decline-us-market-wrap/",
+      "date": "2026-07-20",
+      "title": "As US-Iranian risks whipsaw oil, stocks and bonds decline – US Market Wrap",
+      "summary": "• La volatilité renouvelée du pétrole a fait baisser les actions, les craintes au Moyen-Orient l'emportant sur les efforts de paix.\\n• La majorité des actions du S&P 500 ont chuté, mais l'indice des fabricants de puces a rebondi après un marché baissier.\\n• Le brut US s'est établi à 83 $; les pertes obligataires ont été alimentées par les craintes d'inflation dues aux coûts énergétiques.\\n• Les Gilts ont plongé après que le nouveau PM britannique Burnham ait inquiété les investisseurs sur les finances du pays.\\n• Google d'Alphabet développe une puce serveur pour optimiser son modèle d'intelligence artificielle Gemini.\\n• Trump a promis que l'Iran paierait pour la mort de soldats US, alors que les tensions en mer Rouge s'intensifiaient."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "Employment Change SA",
+      "forecast": "-8K",
+      "previous": "2K"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "Unemployment Rate",
+      "forecast": "4.9%",
+      "previous": "4.9%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "Employment Change 3M/3M",
+      "forecast": "80K",
+      "previous": "100K"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "Average Weekly Earnings",
+      "forecast": "4.5%",
+      "previous": "4.4%"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "ECB Bank Lending Survey",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Economic Sentiment",
+      "forecast": "15.3",
+      "previous": "10.5"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Current Conditions",
+      "forecast": "-77.7",
+      "previous": "-81"
+    }
+  ],
+  "generated_at": "2026-07-21T11:09:37+02:00"
+}
