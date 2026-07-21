@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/07/21/morning-juice-europe-session-prep-605/",
       "date": "2026-07-21",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le Brent a reculé après une hausse de près de 6%, pesant les hostilités US-Iran contre les efforts de cessez-le-feu.\\n• L'administration Trump a menacé d'imposer un tarif de 50% sur certains produits canadiens, exacerbant les tensions commerciales.\\n• L'inflation annuelle en Nouvelle-Zélande a atteint son rythme le plus rapide en deux ans, soutenue par la hausse des prix du carburant.\\n• Le nouveau PM britannique Andy Burnham a nommé John Healey Chancelier, alimentant les spéculations sur une hausse des dépenses militaires.\\n• Les Houthis ont promis un blocus maritime de l'Arabie saoudite, incitant à des mesures de protection des navires en mer Rouge."
+      "summary": "• Le Brent a glissé après un gain de près de 6%, les traders pesant les tensions US-Iran et les efforts de cessez-le-feu.\n• L'administration Trump menace de nouvelles taxes de 50% sur des biens canadiens, exacerbant les tensions commerciales.\n• L'inflation annuelle en Nouvelle-Zélande a accéléré, la plus rapide en deux ans, soutenue par la hausse des prix du carburant.\n• La RBNZ est incitée à des hausses de taux consécutives suite à l'accélération de l'inflation.\n• Andy Burnham a nommé John Healey Chancelier de l'Échiquier, alimentant les spéculations sur une hausse des dépenses militaires.\n• Les Houthis menacent de bloquer l'Arabie Saoudite en mer Rouge, la coalition prenant des mesures pour protéger les navires."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/07/20/as-us-iranian-risks-whipsaw-oil-stocks-and-bonds-decline-us-market-wrap/",
       "date": "2026-07-20",
       "title": "As US-Iranian risks whipsaw oil, stocks and bonds decline – US Market Wrap",
-      "summary": "• La volatilité renouvelée du pétrole a fait baisser les actions, les craintes au Moyen-Orient l'emportant sur les efforts de paix.\\n• La majorité des actions du S&P 500 ont chuté, mais l'indice des fabricants de puces a rebondi après un marché baissier.\\n• Le brut US s'est établi à 83 $; les pertes obligataires ont été alimentées par les craintes d'inflation dues aux coûts énergétiques.\\n• Les Gilts ont plongé après que le nouveau PM britannique Burnham ait inquiété les investisseurs sur les finances du pays.\\n• Google d'Alphabet développe une puce serveur pour optimiser son modèle d'intelligence artificielle Gemini.\\n• Trump a promis que l'Iran paierait pour la mort de soldats US, alors que les tensions en mer Rouge s'intensifiaient."
+      "summary": "• La volatilité du pétrole a fait baisser les actions, les craintes d'escalade au Moyen-Orient l'emportant sur les efforts de paix.\n• La majorité des actions du S&P 500 ont chuté, mais l'indice des fabricants de puces a rebondi après un marché baissier.\n• Le brut américain s'est établi à 83 $ dans une séance turbulente, les pertes obligataires étant dues à l'inflation.\n• Les Gilts ont chuté après que le nouveau Premier ministre britannique Burnham ait inquiété les investisseurs sur les finances du pays.\n• Google d'Alphabet développe une puce serveur pour optimiser son modèle d'intelligence artificielle Gemini.\n• Trump a promis que l'Iran paierait pour la mort de trois soldats américains, malgré les propositions de trêve."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/07/21/morning-juice-us-session-prep-21st-july-2/",
+      "date": "2026-07-21",
+      "title": "Morning Juice – US Session Prep (21st July)",
+      "summary": "• Les actions ont progressé, les fabricants de puces prolongeant leur rebond après la forte liquidation de la semaine dernière.\n• Les futures du Nasdaq 100 ont augmenté de 1,3% et ceux du S&P 500 de 0,5%, un ETF semi-conducteurs a bondi de 4%.\n• Des données d'exportation solides de Corée du Sud et de Taïwan ont soutenu le sentiment, poussant Samsung et TSMC à la hausse.\n• La confiance dans le cycle d'investissement à long terme de l'IA reste intacte malgré la volatilité récente des valorisations.\n• Le Brent a dépassé 90 $ le baril alors que le conflit US-Iran se poursuit, maintenant le risque géopolitique.\n• Au Royaume-Uni, les rendements des Gilts ont légèrement baissé après des données plus faibles réduisant les attentes de hausses."
+    }
   },
   "dockets": [
     {
@@ -74,5 +79,5 @@
       "previous": "-81"
     }
   ],
-  "generated_at": "2026-07-21T11:09:37+02:00"
+  "generated_at": "2026-07-21T17:05:50+02:00"
 }
