@@ -1,0 +1,54 @@
+{
+  "date": "2026-07-22",
+  "date_fr": "Mercredi 22 juillet 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/07/22/morning-juice-europe-session-prep-606/",
+      "date": "2026-07-22",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Les autorités financières japonaises sont prêtes à agir sur le marché des devises, mais le yen a glissé au-delà de 163 pour un dollar, une première depuis 1986.\n• Le pétrole a prolongé ses gains après que Trump a minimisé les pourparlers avec l'Iran, menaçant des frappes plus larges.\n• Les risques d'approvisionnement mondial s'étendent au-delà du Moyen-Orient, avec les menaces des Houthis en mer Rouge.\n• Le déficit commercial du Japon s'est inopinément creusé en juin, le yen faible gonflant les importations et le pétrole étant plus cher.\n• Le chômage des jeunes en Chine pourrait atteindre des niveaux inédits depuis trois ans, face à un nombre record de diplômés et l'IA."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/07/21/stocks-rise-as-the-chipmakers-rebound-accelerates-us-market-wrap/",
+      "date": "2026-07-21",
+      "title": "Stocks Rise as the Chipmakers Rebound Accelerates – US Market Wrap",
+      "summary": "• Wall Street a rebondi grâce aux acheteurs à la baisse, stimulant les actions des fabricants de puces.\n• L'optimisme concernant le commerce de l'IA, qui a propulsé le marché haussier, persiste.\n• Apple se prépare à lancer « Apple Upgrade », un programme de leasing majeur pour les ventes d'appareils.\n• Les investisseurs ont afflué vers les semi-conducteurs, faisant grimper un indice clé du secteur de 5,2%.\n• Nvidia a annoncé la disponibilité de nouvelles puces; Intel a augmenté suite à des plans de réduction d'effectifs.\n• Le Nasdaq 100 a gagné 1,9%, malgré les menaces géopolitiques et la hausse des rendements obligataires."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK CPI YoY",
+      "forecast": "2.7%",
+      "previous": "2.8%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Core CPI YoY",
+      "forecast": "2.5%",
+      "previous": "2.6%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK PPI Output YoY",
+      "forecast": "3.5%",
+      "previous": "4%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK PPI Input YoY",
+      "forecast": "8.2%",
+      "previous": "8.7%"
+    }
+  ],
+  "generated_at": "2026-07-22T11:09:24+02:00"
+}
