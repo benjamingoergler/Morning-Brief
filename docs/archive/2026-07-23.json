@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-23",
+  "date_fr": "Jeudi 23 juillet 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/07/23/morning-juice-europe-session-prep-607/",
+      "date": "2026-07-23",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le pétrole a prolongé son rallye après l'attaque des Houthis contre des pétroliers saoudiens, intensifiant le conflit au Moyen-Orient.\n• L'emploi australien a fortement augmenté en juin, renforçant les attentes d'une nouvelle hausse des taux d'intérêt.\n• Les dépenses publiques chinoises ont chuté, signalant un resserrement budgétaire malgré les appels à un soutien accru.\n• Des fonds chinois se tournent vers les actions d'IA, délaissant les valeurs de consommation, augmentant la volatilité sectorielle.\n• L'économie sud-coréenne a dépassé les attentes au T2 grâce à l'IA et aux puces, soutenant des hausses de taux."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/07/22/as-oil-rises-stocks-fluctuate-and-tesla-falls-late-us-market-wrap/",
+      "date": "2026-07-22",
+      "title": "As oil rises, stocks fluctuate, and Tesla falls late – US Market Wrap",
+      "summary": "• Les actions de Wall Street ont chuté, les investisseurs anticipant la saison des résultats tech et craignant l'escalade en Iran.\n• Les pertes des Megacaps ont pesé sur le S&P 500, malgré la hausse de 2.3% de Nvidia; les logiciels ont souffert.\n• Tesla a chuté en fin de séance après des résultats T2 inférieurs aux attentes; Alphabet a connu une forte volatilité.\n• Trump a menacé de bombarder des infrastructures iraniennes si l'Iran attaque des navires dans le détroit d'Ormuz.\n• AMD investira jusqu'à 5 milliards de dollars dans Anthropic pour un déploiement massif de puces IA.\n• Le Brent a temporairement dépassé 95 $, entraînant une hausse des rendements obligataires sur fond de craintes inflationnistes."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French Business Climate Overall",
+      "forecast": "95",
+      "previous": "94"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French Business Climate Manufacturing",
+      "forecast": "101",
+      "previous": "100"
+    },
+    {
+      "time_et": "08:15",
+      "time_cet": "14:15",
+      "cur": "EUR",
+      "title": "ECB Interest Rate decision",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "08:15",
+      "time_cet": "14:15",
+      "cur": "EUR",
+      "title": "ECB Rate Statement",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "08:45",
+      "time_cet": "14:45",
+      "cur": "EUR",
+      "title": "ECB Press Conference",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-07-23T11:07:19+02:00"
+}
