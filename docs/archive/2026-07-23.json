@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/07/23/morning-juice-europe-session-prep-607/",
       "date": "2026-07-23",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le pétrole a prolongé son rallye après l'attaque des Houthis contre des pétroliers saoudiens, intensifiant le conflit au Moyen-Orient.\n• L'emploi australien a fortement augmenté en juin, renforçant les attentes d'une nouvelle hausse des taux d'intérêt.\n• Les dépenses publiques chinoises ont chuté, signalant un resserrement budgétaire malgré les appels à un soutien accru.\n• Des fonds chinois se tournent vers les actions d'IA, délaissant les valeurs de consommation, augmentant la volatilité sectorielle.\n• L'économie sud-coréenne a dépassé les attentes au T2 grâce à l'IA et aux puces, soutenant des hausses de taux."
+      "summary": "• Le pétrole a poursuivi sa hausse après l'attaque des Houthis contre des pétroliers saoudiens, intensifiant le conflit au Moyen-Orient et menaçant l'approvisionnement.\n• L'emploi australien a fortement augmenté en juin, renforçant le marché du travail et alimentant les spéculations sur une nouvelle hausse des taux.\n• Les dépenses publiques chinoises ont chuté le mois dernier, signalant un resserrement budgétaire malgré les appels à un soutien économique accru.\n• Des fonds chinois majeurs se tournent des valeurs de consommation vers les actions d'IA, cherchant des rendements mais acceptant plus de volatilité.\n• L'économie sud-coréenne a connu une croissance plus rapide que prévu au T2, portée par le boom des puces IA, soutenant les hausses de taux."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/07/22/as-oil-rises-stocks-fluctuate-and-tesla-falls-late-us-market-wrap/",
       "date": "2026-07-22",
       "title": "As oil rises, stocks fluctuate, and Tesla falls late – US Market Wrap",
-      "summary": "• Les actions de Wall Street ont chuté, les investisseurs anticipant la saison des résultats tech et craignant l'escalade en Iran.\n• Les pertes des Megacaps ont pesé sur le S&P 500, malgré la hausse de 2.3% de Nvidia; les logiciels ont souffert.\n• Tesla a chuté en fin de séance après des résultats T2 inférieurs aux attentes; Alphabet a connu une forte volatilité.\n• Trump a menacé de bombarder des infrastructures iraniennes si l'Iran attaque des navires dans le détroit d'Ormuz.\n• AMD investira jusqu'à 5 milliards de dollars dans Anthropic pour un déploiement massif de puces IA.\n• Le Brent a temporairement dépassé 95 $, entraînant une hausse des rendements obligataires sur fond de craintes inflationnistes."
+      "summary": "• Les actions de Wall Street ont chuté avant la saison des résultats des grandes technologies, les craintes de guerre en Iran ayant fait monter les prix du pétrole.\n• Les pertes des Megacaps ont pesé sur le S&P 500, malgré la hausse de 2,3% de Nvidia; les logiciels ont été particulièrement touchés.\n• Tesla a chuté après des résultats inférieurs aux attentes; Alphabet a connu une forte volatilité après la publication de ses conclusions.\n• Trump a menacé de bombarder des infrastructures iraniennes si l'Iran attaquait des navires dans le détroit d'Ormuz.\n• AMD investira jusqu'à 5 milliards de dollars dans Anthropic pour le déploiement de puces IA.\n• Le Brent a temporairement dépassé 95 $, augmentant les rendements obligataires sur fond de craintes inflationnistes."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/07/23/morning-juice-us-session-prep-23rd-july-2/",
+      "date": "2026-07-23",
+      "title": "Morning Juice – US Session Prep (23rd July)",
+      "summary": "• Les Treasuries ont reculé en raison des craintes d'inflation, le WTI dépassant 90 $ après l'attaque des Houthis en mer Rouge.\n• Le dollar est resté peu changé malgré les tensions géopolitiques et la hausse du pétrole.\n• Les demandes d'allocations chômage US (Initial 210K F, Continued 1.8095M F) et les ventes au détail canadiennes (MoM 1.0% F) sont attendues.\n• Une adjudication de TIPS américains à 10 ans est prévue à 13h00 ET.\n• La conférence de presse de la BCE avec Lagarde et des annonces de Trump sont au programme, ainsi que les résultats d'Intel et SAP."
+    }
   },
   "dockets": [
     {
@@ -58,5 +63,5 @@
       "previous": ""
     }
   ],
-  "generated_at": "2026-07-23T11:07:19+02:00"
+  "generated_at": "2026-07-23T17:11:04+02:00"
 }
