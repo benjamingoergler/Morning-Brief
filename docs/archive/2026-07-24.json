@@ -1,0 +1,142 @@
+{
+  "date": "2026-07-24",
+  "date_fr": "Vendredi 24 juillet 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/07/24/morning-juice-europe-session-prep-608/",
+      "date": "2026-07-24",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le Président Trump menace d'intensifier les frappes contre l'Iran, tenant le pays responsable des attaques des Houthis en mer Rouge.\n• Les États-Unis vont imposer des droits de douane de 10% à 12,5% sur les importations des principaux partenaires commerciaux.\n• Le yen est en passe de connaître sa plus forte perte hebdomadaire en plus de deux mois, malgré les avertissements d'intervention.\n• L'inflation japonaise a augmenté pour la première fois en trois mois, confortant la Banque du Japon pour une hausse de taux.\n• Le ministre des Finances japonais a déclaré que des mesures audacieuses seraient prises contre les mouvements excessifs du yen.\n• Un rapport du Trésor américain souligne une vision partagée sur l'indésirabilité des mouvements de devises excessifs."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/07/23/oil-spike-ai-spending-concerns-weigh-on-markets-us-market-wrap/",
+      "date": "2026-07-23",
+      "title": "Oil Spike, AI Spending Concerns Weigh on Markets – US Market Wrap",
+      "summary": "• La hausse du pétrole, due à l'intensification du conflit iranien, a pesé sur les marchés actions et obligataires.\n• Le Brent a dépassé 100 $ le baril, alimentant les craintes d'inflation et poussant les rendements du Trésor à des sommets annuels.\n• Le S&P 500 a chuté de 1,2%, sa plus forte baisse mensuelle, tandis qu'un indice megacap a connu sa pire séance.\n• Alphabet a baissé de 6,9% malgré de solides bénéfices, et Tesla a plongé de 15% malgré de fortes livraisons de véhicules électriques.\n• L'escalade du conflit US-Iran ne montre aucun signe d'apaisement, le Président Trump menaçant d'intensifier les attaques.\n• Les investisseurs cherchent des preuves que les dépenses massives en IA se traduisent par de la croissance et non par une érosion de la rentabilité."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Retail Sales YoY",
+      "forecast": "2.4%",
+      "previous": "3.2%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Retail Sales Core YoY",
+      "forecast": "3.2%",
+      "previous": "4.6%"
+    },
+    {
+      "time_et": "03:15",
+      "time_cet": "09:15",
+      "cur": "EUR",
+      "title": "French PMI’s Services",
+      "forecast": "47.5",
+      "previous": "46.8"
+    },
+    {
+      "time_et": "03:15",
+      "time_cet": "09:15",
+      "cur": "EUR",
+      "title": "French PMI’s Composite",
+      "forecast": "47.8",
+      "previous": "47.2"
+    },
+    {
+      "time_et": "03:15",
+      "time_cet": "09:15",
+      "cur": "EUR",
+      "title": "French PMI’s Manufacturing",
+      "forecast": "51",
+      "previous": "51.2"
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "EUR",
+      "title": "German PMI’s Services",
+      "forecast": "49",
+      "previous": "48.6"
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "EUR",
+      "title": "German PMI’s Composite",
+      "forecast": "49.5",
+      "previous": "49.7"
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "EUR",
+      "title": "German PMI’s Manufacturing",
+      "forecast": "50.5",
+      "previous": "50.3"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone PMI’s Services",
+      "forecast": "49.8",
+      "previous": "49.4"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone PMI’s Composite",
+      "forecast": "50.2",
+      "previous": "50"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone PMI’s Manufacturing",
+      "forecast": "51.5",
+      "previous": "51.4"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "ECB CPI Expectations",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK PMI’s Services",
+      "forecast": "49.4",
+      "previous": "48.8"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK PMI’s Composite",
+      "forecast": "49.8",
+      "previous": "49.3"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK PMI’s Manufacturing",
+      "forecast": "52",
+      "previous": "52.5"
+    }
+  ],
+  "generated_at": "2026-07-24T11:03:54+02:00"
+}
