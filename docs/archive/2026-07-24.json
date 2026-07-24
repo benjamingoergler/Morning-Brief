@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/07/24/morning-juice-europe-session-prep-608/",
       "date": "2026-07-24",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le Président Trump menace d'intensifier les frappes contre l'Iran, tenant le pays responsable des attaques des Houthis en mer Rouge.\n• Les États-Unis vont imposer des droits de douane de 10% à 12,5% sur les importations des principaux partenaires commerciaux.\n• Le yen est en passe de connaître sa plus forte perte hebdomadaire en plus de deux mois, malgré les avertissements d'intervention.\n• L'inflation japonaise a augmenté pour la première fois en trois mois, confortant la Banque du Japon pour une hausse de taux.\n• Le ministre des Finances japonais a déclaré que des mesures audacieuses seraient prises contre les mouvements excessifs du yen.\n• Un rapport du Trésor américain souligne une vision partagée sur l'indésirabilité des mouvements de devises excessifs."
+      "summary": "• Donald Trump menace d'intensifier les frappes contre l'Iran, tenant le pays responsable des attaques des Houthis en mer Rouge.\n• Les États-Unis vont imposer des droits de douane de 10% à 12,5% sur les importations de la plupart des partenaires commerciaux.\n• Le yen est en passe de subir sa plus forte perte hebdomadaire en deux mois, malgré les avertissements d'intervention.\n• L'inflation japonaise a augmenté pour la première fois en trois mois, confortant la BoJ dans sa hausse de taux.\n• Le ministre des Finances japonais Satsuki Katayama a déclaré que des mesures audacieuses seraient prises contre les mouvements excessifs du yen."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/07/23/oil-spike-ai-spending-concerns-weigh-on-markets-us-market-wrap/",
       "date": "2026-07-23",
       "title": "Oil Spike, AI Spending Concerns Weigh on Markets – US Market Wrap",
-      "summary": "• La hausse du pétrole, due à l'intensification du conflit iranien, a pesé sur les marchés actions et obligataires.\n• Le Brent a dépassé 100 $ le baril, alimentant les craintes d'inflation et poussant les rendements du Trésor à des sommets annuels.\n• Le S&P 500 a chuté de 1,2%, sa plus forte baisse mensuelle, tandis qu'un indice megacap a connu sa pire séance.\n• Alphabet a baissé de 6,9% malgré de solides bénéfices, et Tesla a plongé de 15% malgré de fortes livraisons de véhicules électriques.\n• L'escalade du conflit US-Iran ne montre aucun signe d'apaisement, le Président Trump menaçant d'intensifier les attaques.\n• Les investisseurs cherchent des preuves que les dépenses massives en IA se traduisent par de la croissance et non par une érosion de la rentabilité."
+      "summary": "• Le pétrole Brent a dépassé 100 $ le baril, alimentant les craintes d'inflation et poussant les rendements obligataires à des sommets annuels.\n• Le S&P 500 a chuté de 1,2%, sa plus forte baisse mensuelle, tandis qu'un indice megacap a connu sa pire séance.\n• Alphabet a reculé de 6,9% malgré des résultats solides, après avoir augmenté ses prévisions de dépenses d'investissement.\n• Tesla a plongé de 15% suite à une baisse des bénéfices, malgré de fortes livraisons de véhicules électriques.\n• L'escalade du conflit US-Iran, avec les menaces de Trump, pèse sur les marchés et les approvisionnements énergétiques mondiaux.\n• Les investisseurs recherchent des preuves claires que les investissements massifs en IA se traduisent par de la croissance et non par une érosion de la rentabilité."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/07/24/morning-juice-us-session-prep-24th-july-2/",
+      "date": "2026-07-24",
+      "title": "Morning Juice – US Session Prep (24th July)",
+      "summary": "• Les Treasuries ont légèrement progressé alors que les prix du pétrole sont repassés sous les 100 $.\n• Le dollar a glissé avant la publication des indices PMI américains plus tard dans la journée.\n• Les indices PMI préliminaires S&P de juillet sont attendus pour le secteur manufacturier et les services.\n• Le membre du directoire de la BCE, Lane, doit prendre la parole à la MacGill Summer School 2026.\n• Donald Trump fera une annonce concernant l'innovation nucléaire américaine."
+    }
   },
   "dockets": [
     {
@@ -138,5 +143,5 @@
       "previous": "52.5"
     }
   ],
-  "generated_at": "2026-07-24T11:03:54+02:00"
+  "generated_at": "2026-07-24T16:58:33+02:00"
 }
