@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-07",
+  "date_fr": "Vendredi 7 août 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/08/07/morning-juice-europe-session-prep-618/",
+      "date": "2026-08-07",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Iran veut interdire les navires US et israéliens du détroit d'Ormuz, exigeant compensation des pays hostiles.\n• Le Japon est intervenu trois fois sur le marché des devises pendant la Golden Week pour soutenir le yen.\n• Les exportations et importations chinoises ont maintenu une forte croissance en juillet, modérée par l'IA et les perturbations climatiques.\n• Le yen a perdu près de la moitié de ses gains post-intervention, alimentant les spéculations sur de nouvelles interventions.\n• La Chine a riposté aux mesures américaines avec un arsenal juridique élargi, avertissant Washington avant la visite de Xi Jinping."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/08/06/stocks-drop-as-oil-rises-due-to-us-iranian-concerns-us-market-wrap/",
+      "date": "2026-08-06",
+      "title": "Stocks Drop as Oil Rises Due to US-Iranian Concerns: – US Market Wrap",
+      "summary": "• Les menaces mondiales ont fait baisser les actions et les Treasuries, tandis que le pétrole a augmenté, ravivant les craintes d'inflation.\n• Le Brent a dépassé 82 $ en raison des tensions au Moyen-Orient et de l'incertitude sur le détroit d'Ormuz.\n• La hausse des coûts de l'énergie a soulevé des inquiétudes quant à de nouvelles hausses de taux par la Fed.\n• Le S&P 500 a reculé pour la deuxième journée consécutive; Sandisk et Western Digital ont chuté sur des prévisions décevantes.\n• L'Iran vise à interdire les navires US et israéliens du détroit d'Ormuz, exigeant compensation des pays hostiles.\n• Alphabet prévoit de lever 25 milliards de dollars via une vente d'obligations, capitalisant sur la forte demande pour la dette IA."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Industrial production",
+      "forecast": "YoY: 0.1% | MoM: 0.2%",
+      "previous": "YoY: 0% | MoM: 0.9%"
+    }
+  ],
+  "generated_at": "2026-08-07T09:52:15+02:00"
+}
