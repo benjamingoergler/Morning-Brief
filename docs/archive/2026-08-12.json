@@ -6,22 +6,35 @@
       "url": "https://features.financialjuice.com/2026/08/12/morning-juice-europe-session-prep-621/",
       "date": "2026-08-12",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le ministre de la Défense pakistanais a déclaré que les États-Unis et l'Iran sont proches d'un accord sur le détroit d'Ormuz. • Le pétrole a maintenu un gain de cinq jours alors que les traders surveillent les efforts pour restaurer les flux énergétiques. • Les traders du Yen augmentent leur activité sur le marché des options avant les données clés sur l'inflation américaine. • Le Premier ministre néo-zélandais Christopher Luxon a obtenu le soutien de son parti lors d'un vote de confiance. • Les données de l'IPC allemand sont attendues aujourd'hui : prévision YoY à 2,8% et MoM à 0,8%. • Les rapports mensuels de l'AIE et de l'OPEP sont également prévus pour aujourd'hui."
+      "summary": "• Le ministre de la Défense pakistanais indique que les États-Unis et l'Iran sont \"proches d'un accord\" sur le détroit d'Hormuz.\n• Le pétrole maintient ses gains sur cinq jours, les traders surveillant les efforts pour restaurer les flux énergétiques.\n• Les traders du Yen augmentent leur activité sur le marché des options avant les données d'inflation américaines clés.\n• Le Premier ministre néo-zélandais Christopher Luxon a obtenu un vote de confiance de son parti National.\n• L'IPC allemand (CPI) est attendu à 2,8% en glissement annuel et 0,8% en glissement mensuel.\n• Les rapports mensuels de l'AIE et de l'OPEP sont prévus aujourd'hui."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/08/11/stocks-retreat-as-hormuz-uncertainty-lifts-oil-ahead-of-inflation-data-us-market-wrap/",
       "date": "2026-08-11",
       "title": "Stocks Retreat as Hormuz Uncertainty Lifts Oil Ahead of Inflation Data – US Market Wrap",
-      "summary": "• Wall Street est restée prudente avant les données clés sur l'inflation, entraînant une baisse des actions. • L'absence d'accord sur le détroit d'Ormuz a poussé les prix du pétrole à la hausse. • Le brut américain s'est établi près de 83 $ le baril après la réitération de l'Iran sur la fermeture de la route. • Le S&P 500 a prolongé son repli depuis des sommets records. • Les Treasuries ont légèrement augmenté avant les données d'inflation attendues pour montrer une modération. • Trump a durci sa position, exigeant des réparations de Téhéran pour les décès liés aux attaques iraniennes."
+      "summary": "• Wall Street est restée prudente, les actions chutant avant les données clés sur l'inflation.\n• Le pétrole brut US s'est établi près de 83 $ le baril, l'Iran réitérant le blocage du détroit d'Hormuz.\n• L'absence d'accord sur les flux énergétiques via Hormuz a contribué à la hausse des prix du pétrole.\n• Le S&P 500 a reculé de ses sommets historiques, tandis que les Treasuries ont légèrement progressé.\n• Les données d'inflation à venir sont attendues pour montrer une modération des prix à la consommation.\n• Trump a durci sa position, exigeant des réparations de Téhéran pour les décès liés aux attaques."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/08/12/morning-juice-us-session-prep-12th-august-2/",
+      "date": "2026-08-12",
+      "title": "Morning Juice – US Session Prep (12th August)",
+      "summary": "• Le dollar est resté stable avant la publication des chiffres de l'inflation américaine.\n• Les traders estiment à 50% la probabilité d'une hausse de taux de 25 BPS par la Fed.\n• Le rapport CPI US de juillet est attendu avec un MoM de 0,1% et un YoY de 3,4%.\n• Le Core CPI YoY est prévu à 2,5% et le Core CPI MoM à 0,2%.\n• Les stocks de pétrole brut EIA devraient baisser de 1,8 million de barils.\n• Une adjudication de 42 milliards de dollars de bons du Trésor US à 10 ans est au programme."
+    }
   },
   "dockets": [
     {
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "EUR",
-      "title": "German CPI",
+      "title": "German CPI YoY",
+      "forecast": "2.8%",
+      "previous": "2.8%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "HICP YoY",
       "forecast": "2.8%",
       "previous": "2.8%"
     },
@@ -42,5 +55,5 @@
       "previous": ""
     }
   ],
-  "generated_at": "2026-08-12T09:59:18+02:00"
+  "generated_at": "2026-08-12T16:21:26+02:00"
 }
