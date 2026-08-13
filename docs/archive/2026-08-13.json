@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/08/13/morning-juice-europe-session-prep-622/",
       "date": "2026-08-13",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Une enchère de 42 milliards de dollars en bons du Trésor US à 10 ans a atteint le rendement le plus élevé depuis 2007. • Les actions US, notamment technologiques, ont progressé vers des sommets historiques, apaisant les craintes de hausse des taux. • La Maison Blanche envisage d'augmenter l'exemption de l'impôt sur les plus-values immobilières et de réduire les prélèvements sur les investissements. • Ces changements bénéficieraient principalement aux ménages américains les plus aisés avant les élections de mi-mandat. • L'Iran a réorganisé son armée pour une posture plus agressive, signalant une ère prolongée de conflit régional."
+      "summary": "• Les US Treasuries à 10 ans ont atteint leur rendement le plus élevé depuis 2007 lors d'une enchère de 42 milliards de dollars.\n• Les actions US, menées par la technologie, ont progressé vers des sommets historiques après des données d'inflation modérées.\n• La Maison Blanche envisage d'augmenter l'exemption fiscale sur les plus-values immobilières et de réduire les impôts sur les investissements.\n• Ces changements fiscaux bénéficieraient principalement aux ménages américains les plus riches avant les élections de mi-mandat.\n• L'Iran a réorganisé son armée pour une posture plus agressive à l'étranger, signalant un conflit régional prolongé."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/08/12/tame-sp-500-rises-to-record-level-us-market-wrap/",
       "date": "2026-08-12",
       "title": "Tame S&P 500 Rises to Record Level – US Market Wrap",
-      "summary": "• Les actions ont fortement progressé, l'inflation conforme aux attentes apaisant les craintes de hausses de taux de la Fed. • Le S&P 500 a étendu ses gains d'août, tandis que le NDX a atteint un plus haut d'un mois grâce aux semi-conducteurs. • Les marchés monétaires estiment à moins de 50% la probabilité d'une hausse de taux de la Fed en septembre. • Le pétrole brut US a clôturé autour de 83 $. • L'IPC hors alimentation et énergie a augmenté de 0,2% en juillet MoM et de 2,5% YoY. • La hausse annuelle de 2,5% de l'IPC core est la plus lente depuis mars 2021."
+      "summary": "• Les actions ont fortement progressé, le S&P 500 se rapprochant d'un record après le rapport sur l'inflation.\n• Le rapport a apaisé les craintes de hausses de taux de la Fed, correspondant aux attentes du marché.\n• Un rebond des grands fabricants de puces a propulsé le Nasdaq 100 à un plus haut d'un mois.\n• Les marchés monétaires évaluent à moins de 50% la probabilité d'une hausse des taux de la Fed en septembre.\n• Le pétrole brut américain a clôturé autour de 83 $ le baril, tandis que les Treasuries à court terme ont surperformé.\n• L'IPC core a augmenté de 0,2% MoM en juillet et de 2,5% YoY, le plus lent depuis mars 2021."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/08/13/morning-juice-us-session-prep-13th-august-2/",
+      "date": "2026-08-13",
+      "title": "Morning Juice – US Session Prep (13th August)",
+      "summary": "• Les Treasuries ont progressé et les actions sont restées près de records, avec une baisse des prix du pétrole.\n• Le rendement du Trésor à 10 ans a chuté à 4,67%; les futures S&P 500 ont légèrement augmenté.\n• Cisco a chuté après des résultats décevants; une enchère de 25 milliards de dollars de bons du Trésor à 30 ans est attendue.\n• Le Brent a glissé à environ 87 $ le baril, mais reste au-dessus des niveaux de la semaine dernière.\n• Le Kospi sud-coréen est entré en marché haussier technique, Samsung et SK Hynix ayant fortement progressé.\n• Le yen est resté proche de 159 par dollar, la BoJ envisageant une hausse de taux en septembre ou octobre."
+    }
   },
   "dockets": [
     {
@@ -42,5 +47,5 @@
       "previous": "-1.2%"
     }
   ],
-  "generated_at": "2026-08-13T10:01:20+02:00"
+  "generated_at": "2026-08-13T16:22:56+02:00"
 }
