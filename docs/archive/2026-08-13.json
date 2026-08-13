@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-13",
+  "date_fr": "Jeudi 13 août 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/08/13/morning-juice-europe-session-prep-622/",
+      "date": "2026-08-13",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Une enchère de 42 milliards de dollars en bons du Trésor US à 10 ans a atteint le rendement le plus élevé depuis 2007. • Les actions US, notamment technologiques, ont progressé vers des sommets historiques, apaisant les craintes de hausse des taux. • La Maison Blanche envisage d'augmenter l'exemption de l'impôt sur les plus-values immobilières et de réduire les prélèvements sur les investissements. • Ces changements bénéficieraient principalement aux ménages américains les plus aisés avant les élections de mi-mandat. • L'Iran a réorganisé son armée pour une posture plus agressive, signalant une ère prolongée de conflit régional."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/08/12/tame-sp-500-rises-to-record-level-us-market-wrap/",
+      "date": "2026-08-12",
+      "title": "Tame S&P 500 Rises to Record Level – US Market Wrap",
+      "summary": "• Les actions ont fortement progressé, l'inflation conforme aux attentes apaisant les craintes de hausses de taux de la Fed. • Le S&P 500 a étendu ses gains d'août, tandis que le NDX a atteint un plus haut d'un mois grâce aux semi-conducteurs. • Les marchés monétaires estiment à moins de 50% la probabilité d'une hausse de taux de la Fed en septembre. • Le pétrole brut US a clôturé autour de 83 $. • L'IPC hors alimentation et énergie a augmenté de 0,2% en juillet MoM et de 2,5% YoY. • La hausse annuelle de 2,5% de l'IPC core est la plus lente depuis mars 2021."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK GDP YoY",
+      "forecast": "1.1%",
+      "previous": "0.9%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Manufacturing Production YoY",
+      "forecast": "1.2%",
+      "previous": "2.3%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone Industrial Production YoY",
+      "forecast": "-0.6%",
+      "previous": "-1.2%"
+    }
+  ],
+  "generated_at": "2026-08-13T10:01:20+02:00"
+}
