@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-14",
+  "date_fr": "Vendredi 14 août 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/08/14/morning-juice-europe-session-prep-623/",
+      "date": "2026-08-14",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le gouvernement américain a vendu des obligations à 30 ans au taux d'intérêt le plus élevé en 25 ans, face à la demande des investisseurs.\n• Le pétrole a baissé alors que les traders surveillent les efforts pour rouvrir le détroit d'Ormuz, malgré de nouvelles attaques.\n• Les investisseurs japonais ont acheté le plus d'actifs étrangers en plus de deux ans après une intervention sur le yen.\n• L'Australie nomme Melinda Cilento au conseil de politique monétaire de la RBA, remplaçant Ian Harper.\n• La campagne militaire américaine contre l'Iran a échoué; l'administration Trump mise sur la pression économique.\n• Le yen reste proche d'un niveau crucial face au dollar, malgré le soutien du gouvernement Takaichi à une hausse de taux."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/08/13/as-inflation-cools-the-sp-500-reaches-an-all-time-high-us-market-wrap/",
+      "date": "2026-08-13",
+      "title": "As inflation cools, the S&P 500 reaches an all-time high – US Market Wrap",
+      "summary": "• Les traders de Wall Street ont tiré les actions à la hausse, les rendements obligataires ont baissé, renforçant les paris contre une hausse de la Fed.\n• Le S&P 500 a atteint un record, le Nasdaq 100 a gagné 1,1%, suite aux indications de baisse de l'inflation.\n• Les marchés monétaires estiment à moins de 40% la probabilité d'une hausse des taux de la Fed en septembre.\n• Les États-Unis ont vendu des obligations à 30 ans au taux le plus élevé en 25 ans, malgré la baisse des rendements.\n• Le pétrole a chuté à environ 81 $; l'inflation de gros américaine a baissé plus que prévu en juillet.\n• Le PPI a augmenté de 4,7% en glissement annuel en juillet, après 5,5% en juin, et est resté stable MoM."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French CPI YoY",
+      "forecast": "2.1%",
+      "previous": "2.1%"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French HICP YoY",
+      "forecast": "2.4%",
+      "previous": "2.4%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone GDP QoQ",
+      "forecast": "0.4%",
+      "previous": "0.4%"
+    }
+  ],
+  "generated_at": "2026-08-14T09:57:48+02:00"
+}
