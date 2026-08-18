@@ -1,0 +1,70 @@
+{
+  "date": "2026-08-18",
+  "date_fr": "Mardi 18 août 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/08/18/morning-juice-europe-session-prep-625/",
+      "date": "2026-08-18",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Les perspectives de paix au Moyen-Orient ont subi un revers, Trump ne voulant pas prolonger l'accord avec l'Iran.\n• Le pétrole a grimpé pour le troisième jour, les combats reprenant au Liban, réduisant les espoirs de résolution.\n• L'enchère d'obligations d'État japonaises à cinq ans a montré la plus forte demande depuis juin 2025, ratio bid-to-cover de 4.15.\n• La confiance des consommateurs australiens a progressé suite à la pause des hausses de taux de la RBA, malgré le pessimisme économique.\n• Les avoirs étrangers en bons du Trésor américain ont diminué en juin, principalement ceux détenus par le Japon et la Chine."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/08/17/as-brent-surpasses-90-due-to-middle-east-concerns-stocks-decline-us-market-wrap/",
+      "date": "2026-08-17",
+      "title": "As Brent surpasses $90 due to Middle East concerns, stocks decline – US Market Wrap",
+      "summary": "• Les actions et obligations ont chuté, craignant que la hausse des prix du pétrole n'alimente l'inflation.\n• Les perspectives de compromis au Moyen-Orient s'estompent, éloignant les actions des sommets historiques.\n• Le Brent a terminé autour de 91 $ le baril, alimentant les spéculations sur une hausse des taux de la Fed.\n• Les rendements des bons du Trésor à 30 ans ont atteint leur plus haut niveau depuis 2007.\n• Trump a déclaré ne pas vouloir renouveler l'accord avec l'Iran, les combats ayant repris au Liban.\n• Anthropic prévoit des revenus annuels de plus de 65 milliards $, Nvidia investit 105 milliards $ pour un datacenter OpenAI."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "Employment Change SA",
+      "forecast": "0K",
+      "previous": "-0.4K"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "Employment Change 3M/3M",
+      "forecast": "130K",
+      "previous": "148K"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "Unemployment Rate",
+      "forecast": "4.8%",
+      "previous": "4.9%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "Average Weekly Earnings YoY",
+      "forecast": "4%",
+      "previous": "4.3%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Economic Sentiment",
+      "forecast": "30",
+      "previous": "26.3"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Current Conditions",
+      "forecast": "-69.3",
+      "previous": "-77.6"
+    }
+  ],
+  "generated_at": "2026-08-18T09:19:55+02:00"
+}
