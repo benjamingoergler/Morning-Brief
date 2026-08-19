@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/08/19/morning-juice-europe-session-prep-626/",
       "date": "2026-08-19",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le pétrole a progressé pour la quatrième journée, le conflit US-Iran restant sans résolution et Trump niant toute discussion.\n• L'administration Trump a reporté de trois jours 50% des tarifs douaniers sur des milliards de dollars de produits canadiens.\n• La croissance des salaires en Australie est restée élevée, la RBA étant prête à resserrer davantage pour freiner l'inflation.\n• Les traders obligataires se couvrent contre un risque de baisse des taux de la Fed en 2027, après que les données aient écarté des hausses pour cette année.\n• La chute des rendements à long terme en Chine entraîne un aplatissement agressif de la courbe, contrastant avec les marchés mondiaux."
+      "summary": "• Le pétrole a augmenté pour le quatrième jour, le conflit US-Iran reste sans solution, Trump nie toute discussion.\n• L'administration Trump a retardé de trois jours les tarifs de 50% sur des milliards de dollars de produits canadiens.\n• La croissance des salaires en Australie est restée élevée, la RBA est prête à resserrer davantage pour freiner l'inflation.\n• Les traders obligataires couvrent le risque de baisses de taux de la Fed en 2027 après de nouvelles données.\n• La chute des rendements chinois à long terme entraîne un aplatissement agressif de la courbe, un fossé macro avec les marchés mondiaux."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/08/18/as-bond-anxiety-persists-the-chip-route-lowers-stocks-us-market-wrap/",
       "date": "2026-08-18",
       "title": "As bond anxiety persists, the chip route lowers stocks – US Market Wrap",
-      "summary": "• Une vente massive des fabricants de puces a entraîné une baisse des actions, l'indice des semi-conducteurs chutant de 5%.\n• Le Nasdaq 100 a reculé de 1,7%, tandis que les rendements des Treasuries à 10 ans sont restés proches de leurs plus hauts depuis début 2025.\n• Le pétrole s'est stabilisé à 85 $, le conflit entre les États-Unis et l'Iran sur le détroit d'Ormuz restant dans l'impasse.\n• Les inquiétudes croissantes concernant l'inflation et la dette publique ont maintenu les rendements obligataires à des niveaux élevés.\n• La ligne de crédit renouvelable d'Anthropic devrait dépasser son objectif de 10 milliards de dollars avant son IPO très attendue."
+      "summary": "• Une vente massive de fabricants de puces a entraîné une baisse des actions, le marché a chuté sur les craintes d'inflation.\n• Le secteur des semi-conducteurs, le plus performant de l'année, a été durement touché, chutant de 5%, le Nasdaq 100 a baissé de 1.7%.\n• Les rendements des bons du Trésor à 10 ans sont restés proches de leurs plus hauts niveaux depuis début 2025.\n• Le pétrole s'est établi à 85 $, les États-Unis et l'Iran étant dans l'impasse concernant le détroit d'Ormuz.\n• La ligne de crédit renouvelable d'Anthropic devrait dépasser son objectif de 10 milliards de dollars avant son IPO."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/08/19/morning-juice-us-session-prep-19th-august/",
+      "date": "2026-08-19",
+      "title": "Morning Juice – US Session Prep (19th August)",
+      "summary": "• Les bons du Trésor ont progressé, offrant un soulagement après une forte hausse des rendements depuis vendredi.\n• Le dollar a chuté de 0.3% alors que les traders réduisaient leurs paris sur une hausse des taux de la Fed.\n• Les minutes de la réunion du FOMC de juillet sont attendues à 14:00 ET, un événement clé pour les marchés.\n• Les stocks hebdomadaires de pétrole brut EIA US sont prévus à 10:30 ET, avec une prévision de 0.2M.\n• Les États-Unis vendront 16 milliards de dollars d'obligations à 20 ans à 13:00 ET.\n• Trump doit prononcer des remarques avec des leaders technologiques à 14:30 ET."
+    }
   },
   "dockets": [
     {
@@ -82,5 +87,5 @@
       "previous": "2.5%"
     }
   ],
-  "generated_at": "2026-08-19T09:20:51+02:00"
+  "generated_at": "2026-08-19T15:47:20+02:00"
 }
