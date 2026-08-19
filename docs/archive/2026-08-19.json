@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-19",
+  "date_fr": "Mercredi 19 août 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/08/19/morning-juice-europe-session-prep-626/",
+      "date": "2026-08-19",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le pétrole a progressé pour la quatrième journée, le conflit US-Iran restant sans résolution et Trump niant toute discussion.\n• L'administration Trump a reporté de trois jours 50% des tarifs douaniers sur des milliards de dollars de produits canadiens.\n• La croissance des salaires en Australie est restée élevée, la RBA étant prête à resserrer davantage pour freiner l'inflation.\n• Les traders obligataires se couvrent contre un risque de baisse des taux de la Fed en 2027, après que les données aient écarté des hausses pour cette année.\n• La chute des rendements à long terme en Chine entraîne un aplatissement agressif de la courbe, contrastant avec les marchés mondiaux."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/08/18/as-bond-anxiety-persists-the-chip-route-lowers-stocks-us-market-wrap/",
+      "date": "2026-08-18",
+      "title": "As bond anxiety persists, the chip route lowers stocks – US Market Wrap",
+      "summary": "• Une vente massive des fabricants de puces a entraîné une baisse des actions, l'indice des semi-conducteurs chutant de 5%.\n• Le Nasdaq 100 a reculé de 1,7%, tandis que les rendements des Treasuries à 10 ans sont restés proches de leurs plus hauts depuis début 2025.\n• Le pétrole s'est stabilisé à 85 $, le conflit entre les États-Unis et l'Iran sur le détroit d'Ormuz restant dans l'impasse.\n• Les inquiétudes croissantes concernant l'inflation et la dette publique ont maintenu les rendements obligataires à des niveaux élevés.\n• La ligne de crédit renouvelable d'Anthropic devrait dépasser son objectif de 10 milliards de dollars avant son IPO très attendue."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK CPI YoY",
+      "forecast": "2.9%",
+      "previous": "2.6%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK CPI Core YoY",
+      "forecast": "2.5%",
+      "previous": "2.6%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK CPI Services YoY",
+      "forecast": "3.4%",
+      "previous": "3.6%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK RPI MoM",
+      "forecast": "0.3%",
+      "previous": "0.8%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "PPI Output YoY",
+      "forecast": "3.2%",
+      "previous": "3.5%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "PPI Input YoY",
+      "forecast": "6.5%",
+      "previous": "7.3%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone CPI YoY",
+      "forecast": "2.9%",
+      "previous": "2.9%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone CPI Core YoY",
+      "forecast": "2.5%",
+      "previous": "2.5%"
+    }
+  ],
+  "generated_at": "2026-08-19T09:20:51+02:00"
+}
