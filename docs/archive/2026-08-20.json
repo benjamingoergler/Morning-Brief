@@ -6,22 +6,27 @@
       "url": "https://features.financialjuice.com/2026/08/20/morning-juice-europe-session-prep-627/",
       "date": "2026-08-20",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le taux de chômage australien a augmenté en juillet, confirmant la vision de la RBA d'un marché du travail plus lâche.\n• Les traders ont réduit leurs paris sur une nouvelle hausse des taux de la RBA après la hausse inattendue du chômage.\n• La Chine utilise de nouveaux pouvoirs légaux pour bloquer l'examen de l'UE sur les aides d'État, augmentant les tensions commerciales.\n• JPMorgan prévient que les efforts du Trésor américain pour réduire les coûts d'emprunt pourraient manquer de crédibilité, augmentant les rendements.\n• Le Président Trump a annoncé un \"ECONOMIC D-DAY\" contre l'Iran, frustré par son refus de céder à la pression américaine.\n• Un accord commercial US-Canada provisoire réduirait les tarifs sur l'acier/aluminium canadien à 25% et les exportations automobiles à 15%."
+      "summary": "• Le taux de chômage australien a augmenté en juillet, soutenant l'idée d'un assouplissement du marché du travail.\n• La Chine bloque l'examen de l'UE sur les aides d'État, ajoutant des frictions commerciales avant octobre.\n• JPMorgan avertit que l'effort du Trésor US pour réduire les coûts d'emprunt pourrait manquer de crédibilité.\n• Trump a annoncé un \"ECONOMIC D-DAY\" contre l'Iran, frustré par son refus de capituler.\n• Un accord US-Canada réduirait les tarifs sur l'acier/aluminium canadiens à 25% et l'automobile à 15%."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/08/19/as-the-treasury-intervenes-to-support-bonds-stocks-rise-us-market-wrap/",
       "date": "2026-08-19",
       "title": "As the Treasury intervenes to support bonds, stocks rise – US Market Wrap",
-      "summary": "• Wall Street a rebondi suite à l'annonce du Trésor d'augmenter les rachats d'obligations à long terme pour réduire les coûts d'emprunt.\n• Les rendements des obligations à 30 ans ont baissé de 10 points de base à 5,19% après cette annonce.\n• La majorité des actions du S&P 500 ont progressé, tandis que les fabricants de puces ont reculé.\n• Le dollar a atteint un plus bas de trois mois, et le Bitcoin a bondi à son plus haut depuis mars.\n• Trump a exhorté le Congrès à adopter une mesure clé sur les cryptomonnaies, recevant des dirigeants du secteur.\n• Le Trésor doublera au moins la taille des opérations de rachat pour les titres de 10 à 30 ans."
+      "summary": "• Wall Street a rebondi suite à l'annonce du Trésor US d'augmenter les rachats d'obligations à long terme.\n• Les rendements des obligations à 30 ans ont baissé de 10 points de base à 5,19%, le S&P 500 a progressé.\n• Le dollar a atteint un plus bas de trois mois; Bitcoin a bondi à son plus haut depuis mars.\n• Le Trésor US double la taille des opérations de rachat de liquidités pour les titres de 10 à 30 ans.\n• Marvell Technology a accepté que Google achète jusqu'à 12,2 milliards de dollars d'actions contre des puces."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/08/20/morning-juice-us-session-prep-20th-august-2/",
+      "date": "2026-08-20",
+      "title": "Morning Juice – US Session Prep (20th August)",
+      "summary": "• Les Treasuries à long terme ont baissé, le rallye post-rachat du Trésor perdant de son élan.\n• La courbe des rendements US a repris sa pentification baissière (\"bear-steepening\").\n• Les demandes initiales de chômage US sont prévues à 210k, les continues à 1,788M.\n• Les États-Unis vendent 8 milliards de dollars de TIPS à 30 ans.\n• Plusieurs discours de banquiers centraux sont prévus, dont Musalem de la Fed et Sleijpen de la BCE."
+    }
   },
   "dockets": [
     {
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "EUR",
-      "title": "German PPI YoY",
+      "title": "German PPI",
       "forecast": "2.5%",
       "previous": "1.8%"
     },
@@ -34,5 +39,5 @@
       "previous": "-45"
     }
   ],
-  "generated_at": "2026-08-20T09:23:33+02:00"
+  "generated_at": "2026-08-20T15:50:00+02:00"
 }
