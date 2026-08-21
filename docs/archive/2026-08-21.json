@@ -1,0 +1,158 @@
+{
+  "date": "2026-08-21",
+  "date_fr": "Vendredi 21 août 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/08/21/morning-juice-europe-session-prep-628/",
+      "date": "2026-08-21",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le secrétaire au Trésor Scott Bessent prévoit d'étendre les rachats de dette et de lancer une initiative fiscale pour les coûts d'emprunt élevés.\n• L'inflation au Japon s'accélère pour le deuxième mois, renforçant les attentes d'une hausse des taux de la BoJ dès septembre.\n• Le pétrole est en forte hausse hebdomadaire, la pression américaine sur l'Iran faisant craindre des perturbations du marché.\n• L'intervention de Scott Bessent pour maîtriser les coûts d'emprunt US pourrait, selon certains, affaiblir le dollar.\n• Bitcoin a bondi de plus de 4% en Asie après les plans du Trésor US pour maîtriser les rendements obligataires à long terme.\n• Samsung Electronics prévoit de restituer jusqu'à 110 trillions de wons (79 milliards $) aux actionnaires, suivant SK Hynix."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/08/20/bonds-and-stocks-drop-as-bessent-put-relief-diminishes-us-market-wrap/",
+      "date": "2026-08-20",
+      "title": "Bonds and Stocks Drop as Bessent Put Relief Diminishes  – US Market Wrap",
+      "summary": "• Le rallye obligataire s'est estompé et les actions ont chuté, les efforts du Trésor étant perçus comme une solution temporaire.\n• Les prix de l'énergie en hausse alimentent les craintes inflationnistes, malgré les indications de Scott Bessent sur des rachats accrus.\n• Le S&P 500 a reculé de 0,9%, Walmart Inc. enregistrant sa plus forte baisse depuis 2022 en raison de ventes faibles.\n• Le pétrole s'est stabilisé autour de 88 $ après la menace de Trump de paralyser l'économie iranienne, nuisant aux pourparlers de paix.\n• Bitcoin a dépassé les 72 000 $, montrant une forte dynamique.\n• Le secrétaire au Trésor a minimisé les mouvements du marché, qualifiant les événements sur 24 heures de \"bruit\".\n• Anthropic viserait à égaler ou dépasser l'introduction en bourse record de SpaceX, selon des sources."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Retail Sales YoY",
+      "forecast": "2.2%",
+      "previous": "4.2%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Retail Sales Core YoY",
+      "forecast": "3.3%",
+      "previous": "5.4%"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French Business Climate Overall",
+      "forecast": "98",
+      "previous": "97"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French Business Climate Manufacturing",
+      "forecast": "101",
+      "previous": "101"
+    },
+    {
+      "time_et": "03:15",
+      "time_cet": "09:15",
+      "cur": "EUR",
+      "title": "French PMI’s Services",
+      "forecast": "49.4",
+      "previous": "49.6"
+    },
+    {
+      "time_et": "03:15",
+      "time_cet": "09:15",
+      "cur": "EUR",
+      "title": "French PMI’s Composite",
+      "forecast": "49.5",
+      "previous": "49.4"
+    },
+    {
+      "time_et": "03:15",
+      "time_cet": "09:15",
+      "cur": "EUR",
+      "title": "French PMI’s Manufacturing",
+      "forecast": "50",
+      "previous": "49.8"
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "EUR",
+      "title": "German PMI’s Services",
+      "forecast": "50.1",
+      "previous": "49.8"
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "EUR",
+      "title": "German PMI’s Composite",
+      "forecast": "51.3",
+      "previous": "51.3"
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "EUR",
+      "title": "German PMI’s Manufacturing",
+      "forecast": "52.1",
+      "previous": "52.2"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone PMI’s Services",
+      "forecast": "51.5",
+      "previous": "51.7"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone PMI’s Composite",
+      "forecast": "51.7",
+      "previous": "52"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone PMI’s Manufacturing",
+      "forecast": "51.8",
+      "previous": "51.9"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK PMI’s Services",
+      "forecast": "51.8",
+      "previous": "52.1"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK PMI’s Composite",
+      "forecast": "51.6",
+      "previous": "52.2"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK PMI’s Manufacturing",
+      "forecast": "51.5",
+      "previous": "51.9"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "ECB Negotiated Wages",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-08-21T09:24:09+02:00"
+}
