@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/08/21/morning-juice-europe-session-prep-628/",
       "date": "2026-08-21",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le secrétaire au Trésor Scott Bessent prévoit d'étendre les rachats de dette et de lancer une initiative fiscale pour les coûts d'emprunt élevés.\n• L'inflation au Japon s'accélère pour le deuxième mois, renforçant les attentes d'une hausse des taux de la BoJ dès septembre.\n• Le pétrole est en forte hausse hebdomadaire, la pression américaine sur l'Iran faisant craindre des perturbations du marché.\n• L'intervention de Scott Bessent pour maîtriser les coûts d'emprunt US pourrait, selon certains, affaiblir le dollar.\n• Bitcoin a bondi de plus de 4% en Asie après les plans du Trésor US pour maîtriser les rendements obligataires à long terme.\n• Samsung Electronics prévoit de restituer jusqu'à 110 trillions de wons (79 milliards $) aux actionnaires, suivant SK Hynix."
+      "summary": "• Le secrétaire au Trésor Scott Bessent prévoit d'étendre les rachats de dette et de lancer une nouvelle initiative fiscale face aux coûts d'emprunt élevés.\n• L'indicateur de prix clé du Japon a accéléré, maintenant la Banque du Japon sur la voie d'une hausse de taux, potentiellement en septembre.\n• Le pétrole s'oriente vers un gain hebdomadaire substantiel, la pression américaine sur l'Iran faisant craindre des perturbations du marché.\n• L'intervention de Bessent pour freiner la hausse des coûts d'emprunt américains pourrait finalement affaiblir le dollar.\n• Bitcoin a augmenté de plus de 4% après les plans du Trésor américain pour maîtriser les rendements obligataires à long terme.\n• Samsung Electronics prévoit de restituer jusqu'à 110 trillions de wons (79 milliards de dollars) aux actionnaires, suivant SK Hynix grâce à l'IA."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/08/20/bonds-and-stocks-drop-as-bessent-put-relief-diminishes-us-market-wrap/",
       "date": "2026-08-20",
       "title": "Bonds and Stocks Drop as Bessent Put Relief Diminishes  – US Market Wrap",
-      "summary": "• Le rallye obligataire s'est estompé et les actions ont chuté, les efforts du Trésor étant perçus comme une solution temporaire.\n• Les prix de l'énergie en hausse alimentent les craintes inflationnistes, malgré les indications de Scott Bessent sur des rachats accrus.\n• Le S&P 500 a reculé de 0,9%, Walmart Inc. enregistrant sa plus forte baisse depuis 2022 en raison de ventes faibles.\n• Le pétrole s'est stabilisé autour de 88 $ après la menace de Trump de paralyser l'économie iranienne, nuisant aux pourparlers de paix.\n• Bitcoin a dépassé les 72 000 $, montrant une forte dynamique.\n• Le secrétaire au Trésor a minimisé les mouvements du marché, qualifiant les événements sur 24 heures de \"bruit\".\n• Anthropic viserait à égaler ou dépasser l'introduction en bourse record de SpaceX, selon des sources."
+      "summary": "• Le rallye obligataire s'est estompé et les actions ont chuté, les efforts du Trésor étant considérés comme une solution temporaire.\n• Les taux à 30 ans ont bondi malgré les indications de Scott Bessent sur des rachats accrus et un plan fiscal.\n• Le S&P 500 a reculé de 0.9%, avec Walmart enregistrant sa plus forte baisse depuis 2022 en raison de ventes faibles.\n• Le pétrole s'est stabilisé près de 88 $ après la menace de Trump de paralyser l'économie iranienne, nuisant aux pourparlers de paix.\n• Bitcoin a dépassé les 72,000 $.\n• Le secrétaire au Trésor a minimisé les mouvements de marché, qualifiant les événements de 24 heures de «bruit»."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/08/21/morning-juice-us-session-prep-21st-august-2/",
+      "date": "2026-08-21",
+      "title": "Morning Juice – US Session Prep (21st August)",
+      "summary": "• Le dollar se dirige vers sa pire semaine du mois avant la publication des données PMI manufacturières US.\n• Le secrétaire au Trésor Scott Bessent est prêt à intensifier les rachats de dette coûteuse et à lancer un nouveau programme fiscal.\n• Le marché perçoit l'annonce de rachat du Trésor comme purement négative pour le dollar.\n• Le discours de Kevin Warsh de la Fed à Jackson Hole la semaine prochaine pourrait provoquer un nouvel affaiblissement du dollar.\n• L'USD/JPY a chuté de 0.4% à 158.36; l'IPC japonais (hors frais) a augmenté de 1.8% en juillet."
+    }
   },
   "dockets": [
     {
@@ -154,5 +159,5 @@
       "previous": ""
     }
   ],
-  "generated_at": "2026-08-21T09:24:09+02:00"
+  "generated_at": "2026-08-21T15:48:50+02:00"
 }
