@@ -6,65 +6,38 @@
       "url": "https://features.financialjuice.com/2026/08/25/morning-juice-europe-session-prep-630/",
       "date": "2026-08-25",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• La banque centrale australienne maintient ses taux inchangés, citant une inflation modérée et un marché du travail assoupli.\n• Les négociations commerciales US-Canada ont échoué, entraînant de nouveaux tarifs américains de 50% sur 20 milliards de dollars d'exportations canadiennes.\n• Le Canada prévoit des mesures de protection pour ses entreprises et travailleurs en réponse aux tarifs douaniers américains.\n• Le pétrole a baissé alors que les États-Unis intensifient la pression économique sur l'Iran pour rouvrir le détroit d'Hormuz.\n• Le secrétaire au Commerce Howard Lutnick a exercé une pression de dernière minute sur les pourparlers US-Canada."
+      "summary": "• La RBA a maintenu ses taux inchangés, citant une inflation en baisse et un marché du travail se détendant, pour évaluer les données futures.\n• Les pourparlers commerciaux US-Canada ont échoué sous la pression US, menant à de nouveaux tarifs douaniers imposés par Trump.\n• Le Canada annoncera des mesures de protection pour ses entreprises et travailleurs face aux tarifs US de 50% sur 20 milliards $.\n• Le pétrole a baissé alors que les US intensifient la pression économique sur l'Iran et ses partenaires commerciaux.\n• Les données du PIB allemand (QoQ 0.2%, YoY NSA 0.9%) et les IFO’s (Expectations 87.5) sont attendues aujourd'hui."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/08/24/stocks-fall-as-chip-rout-overshadows-oil-drop-us-market-wrap/",
       "date": "2026-08-24",
       "title": "Stocks fall as chip rout overshadows oil drop – US Market Wrap",
-      "summary": "• Wall Street a débuté la semaine avec prudence, impactée par une vente massive de semi-conducteurs et une baisse du pétrole.\n• Les géants des semi-conducteurs ont chuté avant les résultats de Nvidia, dont les actions ont baissé pour la septième séance consécutive.\n• Des hausses de prix de plus de 15% liées à l'IA pour les clients de Nvidia ont secoué le secteur des puces.\n• Un ETF suivant les actions de mémoire a reculé de 5,9%, tandis que le Nasdaq 100 a perdu 1%.\n• Le pétrole s'est stabilisé autour de 85 $ après les menaces de sanctions américaines contre les partenaires commerciaux de l'Iran.\n• Elon Musk prévoit le lancement des premiers satellites IA de SpaceX au T4 de l'année prochaine, avec une mise à l'échelle d'ici 2028."
+      "summary": "• Wall Street a commencé la semaine prudemment, la chute des semi-conducteurs compensant la baisse du pétrole.\n• Les géants des semi-conducteurs ont plongé avant les résultats de Nvidia, dont les actions ont chuté pour la 7ème séance.\n• Le secteur a été secoué par des hausses de prix de plus de 15% pour l'IA, impactant les clients majeurs de Nvidia.\n• Un ETF suivant les actions de mémoire a chuté de 5,9%, et le Nasdaq 100 a reculé de 1%.\n• Le pétrole s'est stabilisé près de 85 $ suite aux menaces de sanctions US contre l'Iran.\n• Elon Musk prévoit le lancement des premiers satellites AI de SpaceX, propulsés par Nvidia, au T4 2025."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/08/25/morning-juice-us-session-prep-25th-august-2/",
+      "date": "2026-08-25",
+      "title": "Morning Juice – US Session Prep (25th August)",
+      "summary": "• Les marchés mondiaux ont progressé grâce à la reprise des fabricants de puces, Bitcoin dépassant 80 000 $.\n• Les prix du pétrole ont encore baissé lundi, suite à une proposition US de pression économique sur l'Iran.\n• La proposition US épargne temporairement les partenaires commerciaux de l'Iran de sanctions plus sévères.\n• L'avertissement du Secrétaire au Trésor Scott Bessent sur l'Iran met les US en conflit avec la Chine.\n• Le US CB Consumer Confidence pour août est attendu à 90.2, avec un précédent de 90.8.\n• Une enchère de bons du Trésor US à 2 ans est prévue à 13:00 ET, avec des discours de la Fed."
+    }
   },
   "dockets": [
     {
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "EUR",
-      "title": "German GDP QoQ",
-      "forecast": "0.2%",
-      "previous": "0.2%"
-    },
-    {
-      "time_et": "02:00",
-      "time_cet": "08:00",
-      "cur": "EUR",
-      "title": "German GDP YoY NSA",
-      "forecast": "0.9%",
-      "previous": "0.9%"
-    },
-    {
-      "time_et": "02:00",
-      "time_cet": "08:00",
-      "cur": "EUR",
-      "title": "German GDP YoY SA",
-      "forecast": "0.9%",
-      "previous": "0.9%"
+      "title": "German GDP",
+      "forecast": "QoQ: 0.2% | YoY NSA: 0.9% | YoY SA: 0.9%",
+      "previous": "QoQ: 0.2% | YoY NSA: 0.9% | YoY SA: 0.9%"
     },
     {
       "time_et": "04:00",
       "time_cet": "10:00",
       "cur": "EUR",
-      "title": "German IFO’s Expectations",
-      "forecast": "87.5",
-      "previous": "86.7"
-    },
-    {
-      "time_et": "04:00",
-      "time_cet": "10:00",
-      "cur": "EUR",
-      "title": "German IFO’s Business Climate",
-      "forecast": "87.2",
-      "previous": "86.6"
-    },
-    {
-      "time_et": "04:00",
-      "time_cet": "10:00",
-      "cur": "EUR",
-      "title": "German IFO’s Current Conditions",
-      "forecast": "87",
-      "previous": "86.5"
+      "title": "German IFO’s",
+      "forecast": "Expectations: 87.5 | Business Climate: 87.2 | Current Conditions: 87",
+      "previous": "Expectations: 86.7 | Business Climate: 86.6 | Current Conditions: 86.5"
     }
   ],
-  "generated_at": "2026-08-25T09:25:12+02:00"
+  "generated_at": "2026-08-25T15:52:58+02:00"
 }
