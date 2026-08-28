@@ -1,0 +1,75 @@
+{
+  "date": "2026-08-28",
+  "date_fr": "Vendredi 28 août 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/08/28/morning-juice-europe-session-prep-633/",
+      "date": "2026-08-28",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Des investisseurs pressent le président de la Fed, Kevin Warsh, d'agir contre l'inflation pour soutenir le marché obligataire long.\n• Le pétrole maintient ses gains alors qu'un accord US-Iran sur le détroit d'Ormuz semble s'éloigner, limitant les flux énergétiques.\n• L'inflation à Tokyo s'accélère pour le 3ème mois, renforçant les attentes d'une hausse de taux de la BoJ en septembre.\n• L'enchère d'obligations japonaises à 2 ans a montré une demande plus faible, avec un ratio bid-to-cover de 2.97 contre 3.63.\n• Les responsables de la Fed envoient des signaux mitigés sur l'inflation, certains plaidant pour des taux plus élevés, d'autres moins urgents.\n• Le secrétaire au Commerce US accuse le Canada de saboter les pourparlers commerciaux avec de nouvelles exigences de dernière minute."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/08/27/tech-stocks-rise-as-nvidia-increases-ai-trade-bets-us-market-wrap/",
+      "date": "2026-08-27",
+      "title": "Tech Stocks Rise as Nvidia Increases AI Trade Bets  – US Market Wrap",
+      "summary": "• Les prévisions impressionnantes de Nvidia ont propulsé les valeurs technologiques, renforçant la confiance dans l'IA.\n• Nvidia, la société la plus valorisée, a bondi de plus de 9% après avoir annoncé une croissance de 70% de ses revenus.\n• Les estimations de Salesforce et CrowdStrike ont porté un ETF logiciel à son plus haut depuis avril 2025; le NDX a gagné 1.4%.\n• Le S&P 500 a progressé grâce aux avancées technologiques, malgré un déclin de la majorité de ses actions.\n• Des membres de la Fed (Schmid, Collins, Hammack) ont des vues divergentes sur l'impact des taux et la nécessité d'agir contre l'inflation.\n• Les prix du pétrole ont augmenté suite aux blocages diplomatiques concernant le détroit d'Ormuz et l'Iran."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/08/28/morning-juice-us-session-prep-28th-august-2/",
+      "date": "2026-08-28",
+      "title": "Morning Juice – US Session Prep (28th August)",
+      "summary": "• Les Treasuries et le dollar sont stables, les investisseurs attendant les commentaires du président de la Fed, Kevin Warsh.\n• Le PIB canadien annualisé du T2 est prévu à 3.4%, après -0.1% précédemment.\n• Le PIB canadien mensuel de juillet est anticipé à 0.2%, en baisse par rapport à 0.3%.\n• Le sentiment de l'Université du Michigan pour août est attendu stable à 51.\n• Les attentes d'inflation à 1 an sont prévues à 4.4%, contre 4.3% précédemment.\n• Les attentes d'inflation à 5 ans devraient rester à 3.3% et la révision préliminaire des Payrolls est prévue à 183k.\n• Plusieurs responsables de banques centrales (BoE, Fed, BCE) et Trump interviendront aujourd'hui."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French GDP QoQ",
+      "forecast": "3.5%",
+      "previous": "3.3%"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French CPI YoY",
+      "forecast": "2.4%",
+      "previous": "2.1%"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French HICP YoY",
+      "forecast": "2.6%",
+      "previous": "2.4%"
+    },
+    {
+      "time_et": "03:00",
+      "time_cet": "09:00",
+      "cur": "CHF",
+      "title": "Swiss KOF Indicator",
+      "forecast": "103",
+      "previous": "103.5"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German Unemployment Rate",
+      "forecast": "6.4%",
+      "previous": "6.4%"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German Unemployment Change",
+      "forecast": "4.8K",
+      "previous": "6K"
+    }
+  ],
+  "generated_at": "2026-08-28T20:56:07+02:00"
+}
