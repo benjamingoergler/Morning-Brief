@@ -6,19 +6,19 @@
       "url": "https://features.financialjuice.com/2026/08/28/morning-juice-europe-session-prep-633/",
       "date": "2026-08-28",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Des investisseurs pressent le président de la Fed, Kevin Warsh, d'agir contre l'inflation pour soutenir le marché obligataire long.\n• Le pétrole maintient ses gains alors qu'un accord US-Iran sur le détroit d'Ormuz semble s'éloigner, limitant les flux énergétiques.\n• L'inflation à Tokyo s'accélère pour le 3ème mois, renforçant les attentes d'une hausse de taux de la BoJ en septembre.\n• L'enchère d'obligations japonaises à 2 ans a montré une demande plus faible, avec un ratio bid-to-cover de 2.97 contre 3.63.\n• Les responsables de la Fed envoient des signaux mitigés sur l'inflation, certains plaidant pour des taux plus élevés, d'autres moins urgents.\n• Le secrétaire au Commerce US accuse le Canada de saboter les pourparlers commerciaux avec de nouvelles exigences de dernière minute."
+      "summary": "• Les investisseurs exhortent le président de la Fed, Kevin Warsh, à réprimer l'inflation pour stimuler les obligations du Trésor à long terme.\n• Le pétrole a maintenu ses gains, la probabilité d'un accord US-Iran sur le détroit d'Ormuz s'étant estompée.\n• L'inflation clé de Tokyo a accéléré pour le troisième mois, renforçant l'argument d'une hausse de taux de la BoJ en septembre.\n• L'enchère d'obligations d'État japonaises à deux ans a montré une demande plus faible, le bid-to-cover tombant à 2,97.\n• Les responsables de la Fed envoient des signaux mitigés sur l'inflation, certains prônant des taux plus élevés, d'autres moins d'urgence.\n• Le secrétaire au Commerce américain a accusé le Canada de faire échouer les négociations commerciales avec des exigences de dernière minute."
     },
     "wrap": {
-      "url": "https://features.financialjuice.com/2026/08/27/tech-stocks-rise-as-nvidia-increases-ai-trade-bets-us-market-wrap/",
-      "date": "2026-08-27",
-      "title": "Tech Stocks Rise as Nvidia Increases AI Trade Bets  – US Market Wrap",
-      "summary": "• Les prévisions impressionnantes de Nvidia ont propulsé les valeurs technologiques, renforçant la confiance dans l'IA.\n• Nvidia, la société la plus valorisée, a bondi de plus de 9% après avoir annoncé une croissance de 70% de ses revenus.\n• Les estimations de Salesforce et CrowdStrike ont porté un ETF logiciel à son plus haut depuis avril 2025; le NDX a gagné 1.4%.\n• Le S&P 500 a progressé grâce aux avancées technologiques, malgré un déclin de la majorité de ses actions.\n• Des membres de la Fed (Schmid, Collins, Hammack) ont des vues divergentes sur l'impact des taux et la nécessité d'agir contre l'inflation.\n• Les prix du pétrole ont augmenté suite aux blocages diplomatiques concernant le détroit d'Ormuz et l'Iran."
+      "url": "https://features.financialjuice.com/2026/08/28/yield-increases-in-two-years-on-warshs-inflation-promise-us-market-wrap/",
+      "date": "2026-08-28",
+      "title": "Yield Increases in Two Years on Warsh’s Inflation Promise – US Market Wrap",
+      "summary": "• Le président de la Fed, Warsh, a promis de ramener l'inflation à la cible, poussant les rendements à court terme à la hausse.\n• Les attentes d'une hausse de taux ont augmenté, stabilisant les obligations à plus long terme après la volatilité des Treasuries.\n• Les taux à deux ans ont bondi de 12 points de base à 4,35%, tandis que les titres à 30 ans ont peu bougé.\n• Le dollar a grimpé et l'or a chuté; le S&P 500 a effacé ses gains suite à la baisse des fabricants de puces.\n• Warsh a souligné la nécessité d'une inflation sous-jacente clairement et rapidement proche de la cible de la Fed.\n• Les marchés monétaires prévoient plus de 50% de chance d'une hausse de taux à la réunion du 16 septembre."
     },
     "mj_us": {
       "url": "https://features.financialjuice.com/2026/08/28/morning-juice-us-session-prep-28th-august-2/",
       "date": "2026-08-28",
       "title": "Morning Juice – US Session Prep (28th August)",
-      "summary": "• Les Treasuries et le dollar sont stables, les investisseurs attendant les commentaires du président de la Fed, Kevin Warsh.\n• Le PIB canadien annualisé du T2 est prévu à 3.4%, après -0.1% précédemment.\n• Le PIB canadien mensuel de juillet est anticipé à 0.2%, en baisse par rapport à 0.3%.\n• Le sentiment de l'Université du Michigan pour août est attendu stable à 51.\n• Les attentes d'inflation à 1 an sont prévues à 4.4%, contre 4.3% précédemment.\n• Les attentes d'inflation à 5 ans devraient rester à 3.3% et la révision préliminaire des Payrolls est prévue à 183k.\n• Plusieurs responsables de banques centrales (BoE, Fed, BCE) et Trump interviendront aujourd'hui."
+      "summary": "• Les Treasuries et le dollar ont peu changé, les investisseurs attendant les commentaires du président de la Fed Warsh.\n• Les remarques de Warsh sont attendues pour des indices sur les perspectives de taux d'intérêt de la banque centrale.\n• Le Canada publiera son PIB T2 annualisé (prévu à 3,4%) et son PIB MoM de juillet (prévu à 0,2%).\n• L'enquête de l'Université du Michigan d'août est attendue, avec un sentiment à 51 et une inflation à 1 an à 4,4%.\n• Plusieurs intervenants de la BoE et de la Fed sont prévus, dont le président Warsh à Jackson Hole à 10h00 ET.\n• Le président Trump participera à des événements, dont la présentation de la Congressional Space Medal of Honor."
     }
   },
   "dockets": [
@@ -26,7 +26,7 @@
       "time_et": "02:45",
       "time_cet": "08:45",
       "cur": "EUR",
-      "title": "French GDP QoQ",
+      "title": "French GDP",
       "forecast": "3.5%",
       "previous": "3.3%"
     },
@@ -71,5 +71,5 @@
       "previous": "6K"
     }
   ],
-  "generated_at": "2026-08-28T20:56:07+02:00"
+  "generated_at": "2026-08-29T00:57:02+02:00"
 }
