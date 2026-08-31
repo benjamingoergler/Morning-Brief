@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-31",
+  "date_fr": "Lundi 31 août 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/08/31/morning-juice-europe-session-prep-634/",
+      "date": "2026-08-31",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le pétrole a augmenté suite à de nouveaux combats dans le détroit d'Ormuz, accentuant les risques pour les flux du Moyen-Orient.\\n• Les États-Unis ont frappé des lance-roquettes iraniens préparant des mines dans le détroit d'Ormuz, première action militaire en semaines.\\n• Le secrétaire au Trésor américain, Scott Bessent, attend du gouverneur de la BoJ, Kazuo Ueda, une politique monétaire adéquate.\\n• L'activité manufacturière chinoise s'est améliorée en août, bien que toujours en contraction, montrant des signes de reprise économique.\\n• Le président Donald Trump a intensifié sa campagne économique; Olivier Faure a rejoint la course à la présidentielle française."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/08/28/yield-increases-in-two-years-on-warshs-inflation-promise-us-market-wrap/",
+      "date": "2026-08-28",
+      "title": "Yield Increases in Two Years on Warsh’s Inflation Promise – US Market Wrap",
+      "summary": "• Les rendements à court terme ont fortement augmenté après l'engagement du président de la Fed, Warsh, à ramener l'inflation à la cible.\\n• Les attentes de hausse des taux ont grimpé, stabilisant les obligations à plus long terme; le dollar a progressé.\\n• Les taux à deux ans ont bondi de 12 points de base, atteignant 4,35%; les titres à 30 ans ont peu bougé.\\n• Warsh a souligné la nécessité d'une inflation sous-jacente \"clairement et rapidement\" proche de l'objectif de la Fed.\\n• Les marchés monétaires prévoient plus de 50% de chances d'une hausse des taux à la réunion du 16 septembre.\\n• L'or a chuté et le S&P 500 a effacé ses gains, notamment en raison de la baisse des fabricants de puces."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/08/31/morning-juice-us-session-prep-31st-august/",
+      "date": "2026-08-31",
+      "title": "Morning Juice – US Session Prep (31st August)",
+      "summary": "• Les États-Unis et l'Iran ont échangé des frappes, les forces américaines ayant touché une île dans le détroit d'Ormuz.\\n• L'Iran a lancé des missiles sur les Émirats arabes unis et la Jordanie, provoquant une flambée des prix du pétrole.\\n• Les actions mondiales devraient augmenter, portées par les résultats après la forte saison de Nvidia pour les entreprises US.\\n• Les rendements des obligations d'État devraient augmenter en raison des données économiques US et de l'absence de forward guidance de la Fed.\\n• Le JPY a franchi 160 contre le USD, soulignant sa vulnérabilité et le risque d'intervention des autorités japonaises."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "08:00",
+      "time_cet": "14:00",
+      "cur": "EUR",
+      "title": "German CPI YoY",
+      "forecast": "3%",
+      "previous": "2.8%"
+    },
+    {
+      "time_et": "08:00",
+      "time_cet": "14:00",
+      "cur": "EUR",
+      "title": "German HICP YoY",
+      "forecast": "3.1%",
+      "previous": "2.8%"
+    }
+  ],
+  "generated_at": "2026-08-31T21:26:47+02:00"
+}
