@@ -1,0 +1,78 @@
+{
+  "date": "2026-09-01",
+  "date_fr": "Mardi 1 septembre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/09/01/morning-juice-europe-session-prep-635/",
+      "date": "2026-09-01",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le secrétaire au Trésor américain Scott Bessent a exhorté le Japon à augmenter ses taux d'intérêt, selon NHK.; • Le rendement des obligations souveraines australiennes a atteint un sommet de 15 ans, signalant une possible hausse des taux.; • Kim Yong-beom, conseiller présidentiel sud-coréen, a démissionné suite à la baisse de popularité du gouvernement.; • Les rendements des Treasuries à longue échéance sont au plus haut depuis 2006, alimentés par le déficit budgétaire et la Fed.; • Le pétrole a connu sa plus forte hausse en trois semaines en raison des tensions accrues au Moyen-Orient.; • Les États-Unis et l'Iran ont échangé des frappes pour la première fois en un mois, ravivant le conflit."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/08/31/stocks-drop-as-oil-rises-due-to-us-iran-strikes-us-market-wrap/",
+      "date": "2026-08-31",
+      "title": "Stocks Drop as Oil Rises Due to US-Iran Strikes – US Market Wrap",
+      "summary": "• Les menaces géopolitiques ont fait baisser les actions et les Treasuries, tandis que les prix du pétrole ont augmenté.; • Les tensions au Moyen-Orient ont propulsé le brut américain au-dessus de 86 $, ravivant les craintes inflationnistes.; • Les coûts énergétiques accrus ont poussé les taux des Treasuries à 10 ans à leur plus haut depuis janvier 2025.; • Les États-Unis et l'Iran ont échangé des frappes pour la première fois en un mois, impactant la stabilité du détroit d'Ormuz.; • Les marchés monétaires prévoient une hausse des taux en septembre, malgré l'incertitude sur l'emploi et l'inflation.; • Nvidia investit 3,5 milliards de dollars dans MediaTek pour renforcer la collaboration et l'écosystème de ses centres de données."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Real Retail Sales",
+      "forecast": "YoY: 0.7%, MoM: 0.5%",
+      "previous": "YoY: 0%, MoM: -0.7%"
+    },
+    {
+      "time_et": "03:50",
+      "time_cet": "09:50",
+      "cur": "EUR",
+      "title": "French Manufacturing PMI",
+      "forecast": "51.5",
+      "previous": "51.5"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German Manufacturing PMI",
+      "forecast": "54.1",
+      "previous": "54.1"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone Manufacturing PMI",
+      "forecast": "52.8",
+      "previous": "52.8"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK Manufacturing PMI",
+      "forecast": "51.5",
+      "previous": "51.5"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone CPI",
+      "forecast": "YoY: 3.3%, MoM: 0.5%",
+      "previous": "YoY: 2.9%, MoM: 0.2%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone Unemployment Rate",
+      "forecast": "6.3%",
+      "previous": "6.3%"
+    }
+  ],
+  "generated_at": "2026-09-01T13:55:49+02:00"
+}
