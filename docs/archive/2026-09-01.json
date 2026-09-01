@@ -6,24 +6,29 @@
       "url": "https://features.financialjuice.com/2026/09/01/morning-juice-europe-session-prep-635/",
       "date": "2026-09-01",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le secrétaire au Trésor américain Scott Bessent a exhorté le Japon à augmenter ses taux d'intérêt, selon NHK.; • Le rendement des obligations souveraines australiennes a atteint un sommet de 15 ans, signalant une possible hausse des taux.; • Kim Yong-beom, conseiller présidentiel sud-coréen, a démissionné suite à la baisse de popularité du gouvernement.; • Les rendements des Treasuries à longue échéance sont au plus haut depuis 2006, alimentés par le déficit budgétaire et la Fed.; • Le pétrole a connu sa plus forte hausse en trois semaines en raison des tensions accrues au Moyen-Orient.; • Les États-Unis et l'Iran ont échangé des frappes pour la première fois en un mois, ravivant le conflit."
+      "summary": "• Le secrétaire au Trésor américain Scott Bessent a conseillé au Japon d'augmenter ses taux d'intérêt, selon NHK, citant un responsable américain.\n• Le rendement des obligations souveraines australiennes à 15 ans a atteint son plus haut niveau, les traders anticipant une hausse des taux de la RBA.\n• Les rendements des Treasuries à longue échéance sont à leur plus haut depuis 2006, alimentés par le déficit budgétaire et les émissions d'entreprises.\n• Les prix du pétrole ont fortement augmenté en raison des tensions accrues au Moyen-Orient, suite aux échanges de frappes US-Iran.\n• Le Président Donald Trump a minimisé les préoccupations concernant l'épuisement des ressources américaines malgré la reprise des affrontements.\n• Kim Yong-beom, conseiller présidentiel sud-coréen, a démissionné alors que le gouvernement tente de redresser ses faibles taux d'approbation."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/08/31/stocks-drop-as-oil-rises-due-to-us-iran-strikes-us-market-wrap/",
       "date": "2026-08-31",
       "title": "Stocks Drop as Oil Rises Due to US-Iran Strikes – US Market Wrap",
-      "summary": "• Les menaces géopolitiques ont fait baisser les actions et les Treasuries, tandis que les prix du pétrole ont augmenté.; • Les tensions au Moyen-Orient ont propulsé le brut américain au-dessus de 86 $, ravivant les craintes inflationnistes.; • Les coûts énergétiques accrus ont poussé les taux des Treasuries à 10 ans à leur plus haut depuis janvier 2025.; • Les États-Unis et l'Iran ont échangé des frappes pour la première fois en un mois, impactant la stabilité du détroit d'Ormuz.; • Les marchés monétaires prévoient une hausse des taux en septembre, malgré l'incertitude sur l'emploi et l'inflation.; • Nvidia investit 3,5 milliards de dollars dans MediaTek pour renforcer la collaboration et l'écosystème de ses centres de données."
+      "summary": "• Les menaces géopolitiques ont fait baisser les actions et les Treasuries, tandis que les prix du pétrole ont augmenté.\n• Les tensions au Moyen-Orient ont poussé le brut américain au-dessus de 86 $, augmentant les taux du Treasury à 10 ans.\n• Le S&P 500 a ralenti ses gains d'août, et les coûts énergétiques ont ravivé les craintes inflationnistes.\n• Les États-Unis et l'Iran ont échangé des frappes, anéantissant les espoirs de stabilisation du trafic à Hormuz.\n• Les marchés monétaires prévoient une hausse des taux en septembre, malgré l'incertitude sur l'emploi et l'inflation.\n• Nvidia investit 3,5 milliards de dollars dans MediaTek, renforçant sa collaboration pour les puces de data centers."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/09/01/morning-juice-us-session-prep-1st-september/",
+      "date": "2026-09-01",
+      "title": "Morning Juice – US Session Prep (1st September)",
+      "summary": "• Les taux obligataires mondiaux ont atteint leur plus haut niveau en près de deux décennies, alimentant les craintes d'inflation.\n• Les rendements des Treasuries à longue échéance sont à leur plus haut depuis 2006, en raison du déficit budgétaire et des émissions.\n• Les marchés boursiers ont mal débuté septembre, les rendements obligataires mondiaux continuant de grimper.\n• Les spéculateurs anticipent des hausses de taux des banques centrales dès ce mois-ci, augmentant la pression sur les marchés.\n• Le pétrole a augmenté pour la deuxième séance suite aux tensions US-Iran, menaçant les expéditions via Hormuz.\n• Trump a minimisé les inquiétudes concernant l'épuisement des ressources américaines malgré la reprise des hostilités."
+    }
   },
   "dockets": [
     {
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "EUR",
-      "title": "German Real Retail Sales",
-      "forecast": "YoY: 0.7%, MoM: 0.5%",
-      "previous": "YoY: 0%, MoM: -0.7%"
+      "title": "German Real Retail Sales YoY",
+      "forecast": "0.7%",
+      "previous": "0%"
     },
     {
       "time_et": "03:50",
@@ -61,9 +66,9 @@
       "time_et": "05:00",
       "time_cet": "11:00",
       "cur": "EUR",
-      "title": "Eurozone CPI",
-      "forecast": "YoY: 3.3%, MoM: 0.5%",
-      "previous": "YoY: 2.9%, MoM: 0.2%"
+      "title": "Eurozone CPI YoY",
+      "forecast": "3.3%",
+      "previous": "2.9%"
     },
     {
       "time_et": "05:00",
@@ -74,5 +79,5 @@
       "previous": "6.3%"
     }
   ],
-  "generated_at": "2026-09-01T13:55:49+02:00"
+  "generated_at": "2026-09-01T19:13:36+02:00"
 }
