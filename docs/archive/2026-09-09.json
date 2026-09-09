@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/09/09/morning-juice-europe-session-prep-641/",
       "date": "2026-09-09",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le secrétaire au Trésor Scott Bessent a défié les traders sur le renforcement du yen, suggérant des informations privilégiées.\n• Les forces américaines ont détruit cinq pétroliers iraniens transportant du brut, suite à des tentatives de missiles sur un navire US.\n• Le Brent a approché les $100 le baril après les frappes américaines sur des pétroliers iraniens, augmentant les craintes de perturbations.\n• Ces frappes près de Kharg Island et du golfe d'Oman ravivent les inquiétudes concernant le détroit d'Hormuz.\n• Le Premier ministre Mark Carney a riposté aux tarifs américains, malgré son opposition à l'escalade de la guerre commerciale.\n• La Chine permettra à son fonds de sécurité sociale de $568 milliards d'acheter des obligations offshore via Hong Kong."
+      "summary": "• Le Secrétaire au Trésor Scott Bessent a défié les traders sur le renforcement du JPY, suggérant une connaissance privilégiée.\\n• Les forces américaines ont détruit cinq pétroliers iraniens transportant du brut après des attaques de missiles sur un navire de l'US Navy.\\n• Le Brent a frôlé les 100 $ le baril suite aux frappes US sur des pétroliers iraniens, craignant des perturbations dans le détroit d'Ormuz.\\n• Le Premier ministre Mark Carney a riposté aux tarifs américains, tout en avertissant les Canadiens de temps turbulents à venir.\\n• La Chine prévoit d'autoriser son fonds de sécurité sociale de 568 milliards de dollars à acheter des obligations offshore via Hong Kong."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/09/08/bonds-and-stocks-drop-as-oil-soars-on-middle-east-fears-us-market-wrap/",
       "date": "2026-09-08",
       "title": "Bonds and Stocks Drop as Oil Soars on Middle East Fears – US Market Wrap",
-      "summary": "• La forte hausse des prix du pétrole a fait baisser les marchés, suscitant des craintes de hausse des taux d'intérêt.\n• Le Brent s'est établi autour de $98 le baril, continuant d'augmenter après des frappes sur des infrastructures énergétiques.\n• Le S&P 500 a chuté pour le deuxième jour consécutif; le Dow Jones a reculé de 1,2%.\n• Les rendements des bons du Trésor à court terme ont augmenté; le marché anticipe 50% de chance d'une hausse de taux de la Fed.\n• L'armée américaine a ciblé Kharg Island et Jask pour exercer une pression économique sur l'Iran.\n• Le secrétaire au Trésor Scott Bessent a élargi un programme de rachat d'actifs pour calmer le marché obligataire.\n• Qualcomm a signé Amazon comme client et investisseur pour ses puces de centres de données, profitant de l'IA."
+      "summary": "• La forte hausse des prix du pétrole a fait baisser les marchés, suscitant des inquiétudes sur les taux d'intérêt avant l'inflation.\\n• Le Brent a clôturé autour de 98 $ le baril et a monté après des frappes sur des infrastructures énergétiques au Moyen-Orient.\\n• Le S&P 500 a chuté pour le deuxième jour consécutif; le Dow Jones Industrial Average a reculé de 1,2%.\\n• Les rendements des bons du Trésor à court terme ont augmenté, avec plus de 50% de probabilité d'une hausse de taux de la Fed.\\n• Le Secrétaire au Trésor Bessent a élargi un programme de rachat d'actifs pour calmer la \"fièvre\" du marché obligataire.\\n• Qualcomm a signé Amazon comme client et investisseur pour ses puces de centre de données, profitant des dépenses en IA."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/09/09/morning-juice-us-session-prep-9th-september-2/",
+      "date": "2026-09-09",
+      "title": "Morning Juice – US Session Prep (9th September)",
+      "summary": "• Les hedge funds anticipent une hausse du JPY à 150 par dollar d'ici fin d'année, certains visant sous 140.\\n• Le Secrétaire au Trésor Scott Bessent a encouragé les traders à tester sa volonté de renforcer le JPY, citant des informations internes.\\n• Les États-Unis ont intensifié leur conflit commercial avec le Canada, bloquant des importations et imposant de nouvelles taxes.\\n• Les Marines américains ont détruit cinq pétroliers iraniens transportant du brut après des attaques de missiles sur un destroyer de l'US Navy.\\n• Le Brent a dépassé 100 $ le baril depuis juillet, poussé par les tensions US-Iran et la demande chinoise."
+    }
   },
   "dockets": [
     {
@@ -26,5 +31,5 @@
       "previous": "0.1%"
     }
   ],
-  "generated_at": "2026-09-09T13:43:53+02:00"
+  "generated_at": "2026-09-09T19:04:55+02:00"
 }
