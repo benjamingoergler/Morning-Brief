@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-09",
+  "date_fr": "Mercredi 9 septembre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/09/09/morning-juice-europe-session-prep-641/",
+      "date": "2026-09-09",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le secrétaire au Trésor Scott Bessent a défié les traders sur le renforcement du yen, suggérant des informations privilégiées.\n• Les forces américaines ont détruit cinq pétroliers iraniens transportant du brut, suite à des tentatives de missiles sur un navire US.\n• Le Brent a approché les $100 le baril après les frappes américaines sur des pétroliers iraniens, augmentant les craintes de perturbations.\n• Ces frappes près de Kharg Island et du golfe d'Oman ravivent les inquiétudes concernant le détroit d'Hormuz.\n• Le Premier ministre Mark Carney a riposté aux tarifs américains, malgré son opposition à l'escalade de la guerre commerciale.\n• La Chine permettra à son fonds de sécurité sociale de $568 milliards d'acheter des obligations offshore via Hong Kong."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/09/08/bonds-and-stocks-drop-as-oil-soars-on-middle-east-fears-us-market-wrap/",
+      "date": "2026-09-08",
+      "title": "Bonds and Stocks Drop as Oil Soars on Middle East Fears – US Market Wrap",
+      "summary": "• La forte hausse des prix du pétrole a fait baisser les marchés, suscitant des craintes de hausse des taux d'intérêt.\n• Le Brent s'est établi autour de $98 le baril, continuant d'augmenter après des frappes sur des infrastructures énergétiques.\n• Le S&P 500 a chuté pour le deuxième jour consécutif; le Dow Jones a reculé de 1,2%.\n• Les rendements des bons du Trésor à court terme ont augmenté; le marché anticipe 50% de chance d'une hausse de taux de la Fed.\n• L'armée américaine a ciblé Kharg Island et Jask pour exercer une pression économique sur l'Iran.\n• Le secrétaire au Trésor Scott Bessent a élargi un programme de rachat d'actifs pour calmer le marché obligataire.\n• Qualcomm a signé Amazon comme client et investisseur pour ses puces de centres de données, profitant de l'IA."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French Industrial Production MoM",
+      "forecast": "0.2%",
+      "previous": "0.1%"
+    }
+  ],
+  "generated_at": "2026-09-09T13:43:53+02:00"
+}
