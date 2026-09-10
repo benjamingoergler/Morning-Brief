@@ -1,0 +1,70 @@
+{
+  "date": "2026-09-10",
+  "date_fr": "Jeudi 10 septembre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/09/10/morning-juice-europe-session-prep-642/",
+      "date": "2026-09-10",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le Président Trump promet un dividende de 5 000 $ aux citoyens US si les Républicains conservent le Congrès, pour motiver les électeurs.\n• L'Iran se dit prêt pour une guerre plus intense et menace d'escalader les contre-attaques si les États-Unis continuent d'attaquer.\n• Le Brent se maintient près de 101 $ le baril, les tensions au Moyen-Orient ravivant les craintes de perturbations dans le détroit d'Ormuz.\n• La Banque du Japon continuera d'augmenter son taux directeur pour maintenir l'inflation sous 2%, anticipant une hausse la semaine prochaine.\n• Le programme de rachat de dette du Secrétaire au Trésor Scott Bessent a échoué à stopper les baisses du marché."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/09/09/as-oil-rises-and-treasury-plan-yields-rise-stocks-decline-us-market-wrap/",
+      "date": "2026-09-09",
+      "title": "As oil rises and Treasury plan yields rise, stocks decline  – US Market Wrap",
+      "summary": "• Les actions et obligations ont chuté, le pétrole rebondissant, après l'annonce d'un rachat de dette de 6 milliards $ par le Trésor.\n• Les rendements à 10 ans ont atteint leur plus haut depuis 2023, les investisseurs anticipant un rachat plus important.\n• Le Brent a dépassé 101 $ en raison des tensions au Moyen-Orient, alimentant les craintes d'inflation et de hausses de taux de la Fed.\n• Le S&P 500 a reculé pour le troisième jour consécutif; Apple a dévoilé un smartphone pliable.\n• Trump a minimisé les coûts énergétiques et la guerre, affirmant qu'elle finirait après les élections de mi-mandat.\n• Le dollar est resté proche d'un plus bas de sept mois malgré les risques mondiaux, tandis que le yen a progressé."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German CPI YoY",
+      "forecast": "2.9%",
+      "previous": "2.9%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German HICP YoY",
+      "forecast": "2.9%",
+      "previous": "2.9%"
+    },
+    {
+      "time_et": "08:00",
+      "time_cet": "14:00",
+      "cur": "",
+      "title": "OPEC Monthly Report",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "08:15",
+      "time_cet": "14:15",
+      "cur": "EUR",
+      "title": "ECB Rate decision",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "08:15",
+      "time_cet": "14:15",
+      "cur": "EUR",
+      "title": "ECB Rate Statement",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "08:45",
+      "time_cet": "14:45",
+      "cur": "EUR",
+      "title": "ECB Press Conference",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-09-10T13:41:49+02:00"
+}
