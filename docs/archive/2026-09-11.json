@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-11",
+  "date_fr": "Vendredi 11 septembre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/09/11/morning-juice-europe-session-prep-643/",
+      "date": "2026-09-11",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le secrétaire au Trésor Scott Bessent a minimisé les inquiétudes sur le marché obligataire américain malgré un rachat de dette plus faible.\n• Les obligations australiennes ont chuté, suivant les Treasuries, après la hausse des prix du pétrole et les craintes inflationnistes.\n• Le rendement des obligations australiennes à trois ans a bondi de 18 points de base à 5,03%, son plus haut depuis mai 2011.\n• Le Brent s'est maintenu au-dessus de 107 $ le baril suite à l'intensification des combats au Moyen-Orient.\n• Les tensions entre les Houthis et les forces saoudiennes ravivent les craintes de perturbations d'approvisionnement pétrolier."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/09/10/oil-rally-hits-stocks-bonds-as-fed-hike-bets-rise-us-market-wrap/",
+      "date": "2026-09-10",
+      "title": "Oil Rally Hits Stocks, Bonds as Fed Hike Bets Rise – US Market Wrap",
+      "summary": "• Une nouvelle hausse des prix du pétrole a fait baisser les actions et les obligations, renforçant les attentes de hausse des taux de la Fed.\n• La flambée du Brent au-dessus de 107 $ a poussé les rendements US à des sommets pluriannuels.\n• Les traders estiment à 70% la probabilité d'une hausse des taux de la Fed la semaine prochaine, et à 100% d'ici octobre.\n• Les marchés ont aussi été sous pression après un rachat de dette du Trésor inférieur aux prévisions (5,19 milliards $).\n• Le S&P 500 a chuté pour la quatrième séance consécutive, sa plus longue série de pertes depuis juin.\n• L'inflation des prix à la production a montré une pression renouvelée due à la hausse des coûts énergétiques le mois dernier."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK GDP MoM",
+      "forecast": "0%",
+      "previous": "0.3%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK GDP 3M/3M",
+      "forecast": "0.3%",
+      "previous": "0.4%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Manufacturing Production YoY",
+      "forecast": "2.1%",
+      "previous": "0.5%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Industrial production YoY",
+      "forecast": "0.2%",
+      "previous": "-0.2%"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "",
+      "title": "EIA Monthly Oil Report",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-09-11T13:41:49+02:00"
+}
