@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/09/11/morning-juice-europe-session-prep-643/",
       "date": "2026-09-11",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le secrétaire au Trésor Scott Bessent a minimisé les inquiétudes sur le marché obligataire américain malgré un rachat de dette plus faible.\n• Les obligations australiennes ont chuté, suivant les Treasuries, après la hausse des prix du pétrole et les craintes inflationnistes.\n• Le rendement des obligations australiennes à trois ans a bondi de 18 points de base à 5,03%, son plus haut depuis mai 2011.\n• Le Brent s'est maintenu au-dessus de 107 $ le baril suite à l'intensification des combats au Moyen-Orient.\n• Les tensions entre les Houthis et les forces saoudiennes ravivent les craintes de perturbations d'approvisionnement pétrolier."
+      "summary": "• Le Secrétaire au Trésor Scott Bessent a minimisé les inquiétudes sur le marché obligataire US après une opération de rachat de dette.\\n• Les rendements obligataires US ont atteint des sommets pluriannuels, entraînant une baisse des obligations australiennes.\\n• Le rendement des obligations australiennes à trois ans a bondi de 18 points de base à 5,03%, un plus haut depuis mai 2011.\\n• Le Brent s'est maintenu au-dessus de 107 $ le baril suite à l'intensification des combats au Moyen-Orient.\\n• Les tensions ont ravivé les craintes de perturbations d'approvisionnement pétrolier et d'inflation.\\n• Le marché surveille les données économiques du Royaume-Uni (PIB, production) et le rapport mensuel de l'EIA."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/09/10/oil-rally-hits-stocks-bonds-as-fed-hike-bets-rise-us-market-wrap/",
       "date": "2026-09-10",
       "title": "Oil Rally Hits Stocks, Bonds as Fed Hike Bets Rise – US Market Wrap",
-      "summary": "• Une nouvelle hausse des prix du pétrole a fait baisser les actions et les obligations, renforçant les attentes de hausse des taux de la Fed.\n• La flambée du Brent au-dessus de 107 $ a poussé les rendements US à des sommets pluriannuels.\n• Les traders estiment à 70% la probabilité d'une hausse des taux de la Fed la semaine prochaine, et à 100% d'ici octobre.\n• Les marchés ont aussi été sous pression après un rachat de dette du Trésor inférieur aux prévisions (5,19 milliards $).\n• Le S&P 500 a chuté pour la quatrième séance consécutive, sa plus longue série de pertes depuis juin.\n• L'inflation des prix à la production a montré une pression renouvelée due à la hausse des coûts énergétiques le mois dernier."
+      "summary": "• Une nouvelle hausse des prix du pétrole a fait baisser les actions et les obligations, renforçant les attentes de hausse des taux de la Fed.\\n• La flambée du Brent au-dessus de 107 $ a poussé les rendements US à des sommets pluriannuels.\\n• Les traders estiment à 70% la probabilité d'une hausse de taux de la Fed la semaine prochaine, et une hausse est intégrée d'ici octobre.\\n• Le marché a été sous pression après un rachat de dette du Trésor de 5,19 milliards $, inférieur aux prévisions.\\n• Le S&P 500 a chuté pour la quatrième séance consécutive, sa plus longue série de pertes depuis juin.\\n• L'inflation des producteurs a montré une pression renouvelée des coûts énergétiques, avant l'IPC attendu avec une inflation core modeste."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/09/11/morning-juice-us-session-prep-11th-september-2/",
+      "date": "2026-09-11",
+      "title": "Morning Juice – US Session Prep (11th September)",
+      "summary": "• Les traders attendent les données d'inflation US de vendredi pour anticiper une éventuelle hausse des taux de la Fed.\\n• Les Treasuries US ont légèrement progressé, réduisant une forte liquidation qui avait poussé le rendement à 10 ans vers 5%.\\n• L'IPC d'août est attendu avec un MoM de 0,4% et un YoY de 3,4%, tandis que le Core YoY est prévu à 2,4%.\\n• L'enquête préliminaire de l'Université du Michigan pour septembre est également attendue, avec un Sentiment à 51.\\n• Les attentes d'inflation à 1 an et 5 ans de l'enquête du Michigan sont respectivement de 4,2% et 3,3%.\\n• Trump doit s'exprimer lors d'une cérémonie du 11 septembre, et Lane de la BCE donnera une conférence."
+    }
   },
   "dockets": [
     {
@@ -58,5 +63,5 @@
       "previous": ""
     }
   ],
-  "generated_at": "2026-09-11T13:41:49+02:00"
+  "generated_at": "2026-09-11T18:57:10+02:00"
 }
