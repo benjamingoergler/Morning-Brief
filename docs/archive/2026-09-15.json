@@ -6,81 +6,46 @@
       "url": "https://features.financialjuice.com/2026/09/15/morning-juice-europe-session-prep-645/",
       "date": "2026-09-15",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le pétrole a augmenté pour le deuxième jour, les risques d'approvisionnement au Moyen-Orient et un pipeline saoudien hors service pesant sur les marchés.\n• Les dépenses de consommation et l'investissement en Chine ont stagné en août, malgré une amélioration inattendue de la production industrielle.\n• Le rendement du Trésor américain à 10 ans a dépassé 5% pour la première fois depuis 2023, en raison de l'inflation et des besoins d'emprunt.\n• Le plan quinquennal de Hong Kong devrait promouvoir l'utilisation offshore du yuan et de nouveaux produits financiers.\n• Trump et l'Ukraine ont donné des versions différentes d'un accord avec la Russie pour cesser les attaques sur les infrastructures énergétiques.\n• Les frappes sur les raffineries de pétrole contribuent à pousser les prix du diesel à des niveaux records."
+      "summary": "• Le pétrole a augmenté pour le deuxième jour, les traders évaluant les risques d'approvisionnement au Moyen-Orient suite à l'arrêt d'un pipeline saoudien.\n• Les dépenses de consommation et l'investissement en Chine ont stagné en août, malgré une amélioration inattendue de la production industrielle.\n• Le rendement du Trésor américain à 10 ans a dépassé 5% pour la première fois depuis 2023, alimenté par l'inflation et les besoins d'emprunt.\n• Hong Kong prévoit de promouvoir l'utilisation offshore du yuan et de nouveaux produits financiers, y compris des futures sur matières premières.\n• Trump et l'Ukraine ont des versions divergentes sur un accord avec la Russie concernant les infrastructures énergétiques, les frappes augmentant les prix du diesel."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/09/14/chipmakers-slide-as-ai-leaders-back-slower-development-us-market-wrap/",
       "date": "2026-09-14",
       "title": "Chipmakers Slide as AI Leaders Back Slower Development – US Market Wrap",
-      "summary": "• Une forte vente de titres de semi-conducteurs a pesé sur les actions américaines, suite aux appels de dirigeants IA à ralentir le développement des systèmes avancés.\n• Les prix élevés du pétrole ont ajouté de la pression sur le sentiment avant la décision de politique monétaire de la Fed.\n• Nvidia et Broadcom ont été les plus touchés, l'indice des semi-conducteurs chutant de 5,9%, le Nasdaq 100 de 0,8%.\n• Les actions financières ont également faibli, Bank of America ayant émis un avertissement sur les revenus de trading.\n• Le Brent a dépassé 105 $ le baril, intensifiant les craintes d'inflation; le rendement du Trésor à 10 ans a frôlé 5%.\n• Trump a rejeté les appels à des garanties plus strictes pour l'IA, affirmant qu'un ralentissement américain bénéficierait à la Chine."
+      "summary": "• Les actions des semi-conducteurs ont chuté, le Nasdaq 100 perdant 0,8%, après l'appel d'executifs IA à ralentir le développement des systèmes avancés.\n• Nvidia et Broadcom ont été fortement touchés, l'indice des semi-conducteurs baissant de 5,9%.\n• Les valeurs financières ont reculé, Bank of America en tête, suite à un avertissement sur les revenus de trading.\n• Le Brent a dépassé 105 $ le baril, ravivant les craintes d'inflation; le rendement du Trésor à 10 ans est proche de 5%.\n• Des dirigeants clés de l'IA, dont Sam Altman et Elon Musk, soutiennent l'idée de ralentir le développement de l'IA avancée.\n• Trump s'est opposé à des réglementations plus strictes sur l'IA, affirmant que cela avantagerait la Chine."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/09/15/morning-juice-us-session-prep-15th-september-2/",
+      "date": "2026-09-15",
+      "title": "Morning Juice – US Session Prep (15th September)",
+      "summary": "• Les actions américaines ont faibli, le S&P 500 futures glissant de 0,3%, alors que les prix du pétrole ont pesé sur les Treasuries.\n• Le rendement du Trésor à 10 ans a dépassé 5%, atteignant brièvement son plus haut niveau depuis 2007.\n• Le Brent a approché 107 $ le baril, prolongeant son gain de septembre à 18%.\n• Le dollar s'est renforcé pour la deuxième séance; l'or est tombé sous 4 300 $ en raison des rendements élevés et des attentes de hausse de la Fed.\n• Les marchés européens et asiatiques ont également fléchi, avec une faiblesse des obligations japonaises à long terme.\n• L'enthousiasme pour l'IA continue de soutenir les actions malgré la hausse des coûts énergétiques et des emprunts gouvernementaux."
+    }
   },
   "dockets": [
     {
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "GBP",
-      "title": "UK Employment Change",
-      "forecast": "-5K",
-      "previous": "-13K"
-    },
-    {
-      "time_et": "02:00",
-      "time_cet": "08:00",
-      "cur": "GBP",
-      "title": "UK Employment Change 3M/3M",
-      "forecast": "67K",
-      "previous": "94K"
-    },
-    {
-      "time_et": "02:00",
-      "time_cet": "08:00",
-      "cur": "GBP",
-      "title": "UK Unemployment Rate",
-      "forecast": "4.9%",
-      "previous": "4.9%"
-    },
-    {
-      "time_et": "02:00",
-      "time_cet": "08:00",
-      "cur": "GBP",
-      "title": "UK Average Weekly Earnings",
-      "forecast": "3.9%",
-      "previous": "4.1%"
+      "title": "UK Employment",
+      "forecast": "Change: -5K | Change 3M/3M: 67K | Unemployment Rate: 4.9% | Average Weekly Earnings: 3.9%",
+      "previous": "Change: -13K | Change 3M/3M: 94K | Unemployment Rate: 4.9% | Average Weekly Earnings: 4.1%"
     },
     {
       "time_et": "02:45",
       "time_cet": "08:45",
       "cur": "EUR",
-      "title": "French CPI YoY",
-      "forecast": "2.4%",
-      "previous": "2.4%"
-    },
-    {
-      "time_et": "02:45",
-      "time_cet": "08:45",
-      "cur": "EUR",
-      "title": "French Core CPI YoY",
-      "forecast": "2.4%",
-      "previous": "2.4%"
+      "title": "French CPI",
+      "forecast": "YoY: 2.4% | MoM: 0.7% | Core YoY: 2.4% | Core MoM: 0.8%",
+      "previous": "YoY: 2.4% | MoM: 0.7% | Core YoY: 2.4% | Core MoM: 0.8%"
     },
     {
       "time_et": "05:00",
       "time_cet": "11:00",
       "cur": "EUR",
-      "title": "German ZEW Current Conditions",
-      "forecast": "-61.1",
-      "previous": "-52.1"
-    },
-    {
-      "time_et": "05:00",
-      "time_cet": "11:00",
-      "cur": "EUR",
-      "title": "German ZEW Economic Sentiment",
-      "forecast": "40",
-      "previous": "34.2"
+      "title": "German ZEW",
+      "forecast": "Current Conditions: -61.1 | Economic Sentiment: 40",
+      "previous": "Current Conditions: -52.1 | Economic Sentiment: 34.2"
     }
   ],
-  "generated_at": "2026-09-15T13:59:33+02:00"
+  "generated_at": "2026-09-15T19:32:59+02:00"
 }
