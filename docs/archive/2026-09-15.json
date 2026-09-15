@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-15",
+  "date_fr": "Mardi 15 septembre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/09/15/morning-juice-europe-session-prep-645/",
+      "date": "2026-09-15",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le pétrole a augmenté pour le deuxième jour, les risques d'approvisionnement au Moyen-Orient et un pipeline saoudien hors service pesant sur les marchés.\n• Les dépenses de consommation et l'investissement en Chine ont stagné en août, malgré une amélioration inattendue de la production industrielle.\n• Le rendement du Trésor américain à 10 ans a dépassé 5% pour la première fois depuis 2023, en raison de l'inflation et des besoins d'emprunt.\n• Le plan quinquennal de Hong Kong devrait promouvoir l'utilisation offshore du yuan et de nouveaux produits financiers.\n• Trump et l'Ukraine ont donné des versions différentes d'un accord avec la Russie pour cesser les attaques sur les infrastructures énergétiques.\n• Les frappes sur les raffineries de pétrole contribuent à pousser les prix du diesel à des niveaux records."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/09/14/chipmakers-slide-as-ai-leaders-back-slower-development-us-market-wrap/",
+      "date": "2026-09-14",
+      "title": "Chipmakers Slide as AI Leaders Back Slower Development – US Market Wrap",
+      "summary": "• Une forte vente de titres de semi-conducteurs a pesé sur les actions américaines, suite aux appels de dirigeants IA à ralentir le développement des systèmes avancés.\n• Les prix élevés du pétrole ont ajouté de la pression sur le sentiment avant la décision de politique monétaire de la Fed.\n• Nvidia et Broadcom ont été les plus touchés, l'indice des semi-conducteurs chutant de 5,9%, le Nasdaq 100 de 0,8%.\n• Les actions financières ont également faibli, Bank of America ayant émis un avertissement sur les revenus de trading.\n• Le Brent a dépassé 105 $ le baril, intensifiant les craintes d'inflation; le rendement du Trésor à 10 ans a frôlé 5%.\n• Trump a rejeté les appels à des garanties plus strictes pour l'IA, affirmant qu'un ralentissement américain bénéficierait à la Chine."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Employment Change",
+      "forecast": "-5K",
+      "previous": "-13K"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Employment Change 3M/3M",
+      "forecast": "67K",
+      "previous": "94K"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Unemployment Rate",
+      "forecast": "4.9%",
+      "previous": "4.9%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Average Weekly Earnings",
+      "forecast": "3.9%",
+      "previous": "4.1%"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French CPI YoY",
+      "forecast": "2.4%",
+      "previous": "2.4%"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French Core CPI YoY",
+      "forecast": "2.4%",
+      "previous": "2.4%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "German ZEW Current Conditions",
+      "forecast": "-61.1",
+      "previous": "-52.1"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "German ZEW Economic Sentiment",
+      "forecast": "40",
+      "previous": "34.2"
+    }
+  ],
+  "generated_at": "2026-09-15T13:59:33+02:00"
+}
