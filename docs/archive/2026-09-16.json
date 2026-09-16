@@ -1,0 +1,78 @@
+{
+  "date": "2026-09-16",
+  "date_fr": "Mercredi 16 septembre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/09/16/morning-juice-europe-session-prep-646/",
+      "date": "2026-09-16",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le pétrole a chuté, la hausse due aux perturbations de l'offre semblant excessive, et un rapport US signalant une hausse des stocks.\n• Saudi Aramco retarde les livraisons de pétrole à des clients européens après des attaques, faisant grimper les prix régionaux du brut.\n• Le conflit US-Iran a coûté 38 milliards de dollars en 5 mois, et devrait augmenter l'inflation de 0,5% début 2025.\n• Les perspectives d'extension de la trêve commerciale US-Chine se solidifient avec des discussions sur la réduction des tarifs.\n• Le New Zealand Superannuation Fund a généré un rendement de 14,2% sur un an, malgré une sous-pondération des techs.\n• Le secrétaire au Trésor Scott Bessent a défendu l'intervention \"nominale\" des États-Unis pour soutenir le JPY."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/09/15/stocks-fall-as-treasury-yields-hit-multi-year-highs-ahead-of-fed-us-market-wrap/",
+      "date": "2026-09-15",
+      "title": "Stocks Fall as Treasury Yields Hit Multi-Year Highs Ahead of Fed – US Market Wrap",
+      "summary": "• Les actions US ont reculé, les investisseurs évitant les paris risqués avant la décision de politique monétaire de la Fed.\n• La hausse des prix du pétrole a intensifié les craintes d'inflation, poussant les rendements du Trésor à des sommets pluriannuels.\n• Près de 350 entreprises du S&P 500 ont baissé; le rendement du Trésor à 10 ans a atteint 5%, son plus haut en vingt ans.\n• Le Brent s'est établi autour de 109 $ le baril, ajoutant aux préoccupations concernant les pressions persistantes sur les prix.\n• Bitcoin a chuté après que le Sénat US a bloqué un projet de loi majeur sur la structure du marché crypto.\n• Les marchés se préparent à trois décisions de banques centrales (Fed, BoE, BoJ) qui pourraient remodeler la politique monétaire.\n• L'attention se porte sur la Fed après des données d'inflation core plus élevées, renforçant les attentes de hausse de taux."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK CPI YoY",
+      "forecast": "3.1%",
+      "previous": "2.9%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK CPI Core YoY",
+      "forecast": "2.6%",
+      "previous": "2.6%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK RPI MoM",
+      "forecast": "0.7%",
+      "previous": "0.6%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Services YoY",
+      "forecast": "3.5%",
+      "previous": "3.4%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK PPI Input YoY",
+      "forecast": "5.4%",
+      "previous": "4.9%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK PPI Output YoY",
+      "forecast": "3.3%",
+      "previous": "3.1%"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "ECB Wage Tracker",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-09-16T13:56:33+02:00"
+}
