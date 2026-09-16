@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/09/16/morning-juice-europe-session-prep-646/",
       "date": "2026-09-16",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le pétrole a chuté, la hausse due aux perturbations de l'offre semblant excessive, et un rapport US signalant une hausse des stocks.\n• Saudi Aramco retarde les livraisons de pétrole à des clients européens après des attaques, faisant grimper les prix régionaux du brut.\n• Le conflit US-Iran a coûté 38 milliards de dollars en 5 mois, et devrait augmenter l'inflation de 0,5% début 2025.\n• Les perspectives d'extension de la trêve commerciale US-Chine se solidifient avec des discussions sur la réduction des tarifs.\n• Le New Zealand Superannuation Fund a généré un rendement de 14,2% sur un an, malgré une sous-pondération des techs.\n• Le secrétaire au Trésor Scott Bessent a défendu l'intervention \"nominale\" des États-Unis pour soutenir le JPY."
+      "summary": "• Le pétrole a chuté, le rallye lié aux perturbations de l'offre semblant excessif, et un rapport US signalant une hausse des stocks.\n• Saudi Aramco retarde les livraisons de pétrole à des clients européens après des attaques, stimulant les prix régionaux du brut.\n• Les perspectives d'extension de la trêve commerciale US-Chine se renforcent avec des discussions sur les tarifs avant le sommet.\n• La guerre de Trump avec l'Iran a coûté 38 milliards $ aux contribuables US en 5 mois, augmentant l'inflation de 0.5%.\n• Le fonds de pension néo-zélandais a rapporté 14.2% jusqu'en juin, porté par le rallye des actions mondiales.\n• Le Secrétaire au Trésor Scott Bessent a défendu l'intervention \"nominale\" des US pour soutenir le JPY comme étant dans l'intérêt américain."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/09/15/stocks-fall-as-treasury-yields-hit-multi-year-highs-ahead-of-fed-us-market-wrap/",
       "date": "2026-09-15",
       "title": "Stocks Fall as Treasury Yields Hit Multi-Year Highs Ahead of Fed – US Market Wrap",
-      "summary": "• Les actions US ont reculé, les investisseurs évitant les paris risqués avant la décision de politique monétaire de la Fed.\n• La hausse des prix du pétrole a intensifié les craintes d'inflation, poussant les rendements du Trésor à des sommets pluriannuels.\n• Près de 350 entreprises du S&P 500 ont baissé; le rendement du Trésor à 10 ans a atteint 5%, son plus haut en vingt ans.\n• Le Brent s'est établi autour de 109 $ le baril, ajoutant aux préoccupations concernant les pressions persistantes sur les prix.\n• Bitcoin a chuté après que le Sénat US a bloqué un projet de loi majeur sur la structure du marché crypto.\n• Les marchés se préparent à trois décisions de banques centrales (Fed, BoE, BoJ) qui pourraient remodeler la politique monétaire.\n• L'attention se porte sur la Fed après des données d'inflation core plus élevées, renforçant les attentes de hausse de taux."
+      "summary": "• Les actions US ont baissé, les investisseurs évitant les paris risqués avant la décision de la Fed.\n• Les prix élevés du pétrole ont intensifié les craintes d'inflation, poussant les rendements du Trésor à des sommets pluriannuels.\n• Le rendement du Trésor à 10 ans a atteint 5%, son plus haut niveau en près de deux décennies.\n• Le Brent s'est établi autour de 109 $ le baril, ajoutant aux pressions persistantes sur les prix.\n• Le Bitcoin a chuté après le blocage d'un projet de loi majeur sur le marché crypto par le Sénat américain.\n• Les marchés se préparent aux décisions des banques centrales (Fed, BoE, BoJ) qui remodèleront la politique monétaire jusqu'en 2026."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/09/16/morning-juice-us-session-prep-16th-september/",
+      "date": "2026-09-16",
+      "title": "Morning Juice – US Session Prep (16th September)",
+      "summary": "• Les actions et Treasuries US se sont stabilisés après plusieurs jours de ventes, en attente de la décision de la Fed.\n• Les futures S&P 500 (+0.2%) et Nasdaq 100 (+0.4%) ont progressé; le rendement à 10 ans a légèrement baissé à 4.99%.\n• Le Brent a reculé sous 108 $ le baril; le dollar et le Bitcoin sont restés peu changés.\n• Les marchés anticipent à plus de 90% une hausse de 25pb de la Fed, la première depuis 2023.\n• L'inflation persistante, les prix de l'énergie et l'emploi résilient maintiennent l'accent sur une politique \"tighter-for-longer\".\n• Intel a gagné suite à des discussions avec SK Hynix pour produire des puces mémoire aux États-Unis."
+    }
   },
   "dockets": [
     {
@@ -45,7 +50,7 @@
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "GBP",
-      "title": "UK Services YoY",
+      "title": "UK CPI Services YoY",
       "forecast": "3.5%",
       "previous": "3.4%"
     },
@@ -74,5 +79,5 @@
       "previous": ""
     }
   ],
-  "generated_at": "2026-09-16T13:56:33+02:00"
+  "generated_at": "2026-09-16T19:33:04+02:00"
 }
