@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/09/17/morning-juice-europe-session-prep-647/",
       "date": "2026-09-17",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• La Fed a augmenté ses taux de 0,25% et prévoit une autre hausse cette année, testant la relation Warsh-Trump.\n• Le Président Trump maintient sa confiance en Warsh mais critique le conseil \"hostile\" de la Fed pour avoir défié ses appels à baisser les taux.\n• Le pétrole a fortement chuté suite aux signes d'apaisement des perturbations d'approvisionnement au Moyen-Orient, avec un pipeline restauré.\n• Trump envisage de nouvelles taxes ou des coupures commerciales avec l'UE si l'association potentielle du Canada nuit aux États-Unis.\n• La croissance économique de la Nouvelle-Zélande a dépassé les estimations au T2, malgré la hausse des prix du carburant."
+      "summary": "• La Fed a relevé ses taux de 0,25% et prévoit une hausse supplémentaire cette année, testant la relation Warsh-Trump.\n• Le Président Trump maintient sa confiance en Warsh mais critique le conseil \"hostile\" de la Fed.\n• Les prix du pétrole ont chuté suite à l'atténuation des perturbations d'approvisionnement au Moyen-Orient et la restauration d'un pipeline clé.\n• Trump envisage de nouvelles taxes ou restrictions commerciales sur l'UE si l'adhésion du Canada nuit aux États-Unis.\n• La croissance économique de la Nouvelle-Zélande a dépassé les estimations au T2, malgré la hausse des prix du carburant."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/09/16/stocks-sink-to-lowest-since-july-as-fed-signals-further-tightening-us-market-wrap/",
       "date": "2026-09-16",
       "title": "Stocks Sink to Lowest Since July as Fed Signals Further Tightening – US Market Wrap",
-      "summary": "• Les actions américaines ont chuté à leur plus bas depuis juillet après la première hausse de taux de la Fed en trois ans.\n• La plupart des secteurs du S&P 500 ont baissé, le Dow Jones Industrial Average reculant de 1,2%.\n• Les Treasuries à court terme ont mené les pertes, les rendements à deux ans atteignant leur plus haut depuis 2024.\n• Le dollar s'est renforcé ; les marchés monétaires estiment à 50% la probabilité d'une autre hausse de la Fed en octobre.\n• Le FOMC a voté à l'unanimité pour augmenter le taux directeur à une fourchette de 3,75% à 4%.\n• Les décideurs prévoient une hausse supplémentaire des taux cette année, avec une inflation toujours supérieure à 3%."
+      "summary": "• Les actions US ont chuté à leurs plus bas niveaux depuis juillet après la première hausse de taux de la Fed en trois ans.\n• La plupart des secteurs du S&P 500 ont baissé, le Dow Jones Industrial Average perdant 1,2%.\n• Les rendements des Treasuries à deux ans ont atteint leur plus haut depuis 2024, tandis que le dollar s'est renforcé.\n• Les marchés monétaires estiment à environ 50% la probabilité d'une autre hausse de taux de la Fed en octobre.\n• Le FOMC a relevé le taux directeur à 3,75%-4%, avec une projection d'une hausse supplémentaire cette année.\n• Le président de la Fed, Warsh, a maintenu une position ferme sur l'inflation, citant des hausses de prix annualisées supérieures à 3%."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/09/17/morning-juice-us-session-prep-17th-september-2/",
+      "date": "2026-09-17",
+      "title": "Morning Juice – US Session Prep (17th September)",
+      "summary": "• Les actions et Treasuries US ont progressé, la baisse du pétrole ayant apaisé les craintes d'inflation après la hausse de la Fed.\n• S&P 500 futures +0,9%, Nasdaq 100 futures +1,1%, Brent -2% vers 103 $ le baril, rendement 10 ans à 4,97%.\n• La Fed a relevé les taux, le dot plot indiquant une hausse supplémentaire cette année et trois sur 12 mois.\n• La BoE a maintenu ses taux, mais Bailey a averti d'un resserrement si le conflit au Moyen-Orient persiste.\n• Le pétrole est sous pression par l'atténuation des risques d'approvisionnement régionaux; Trump doit rencontrer des dirigeants du Golfe.\n• Le yen reste sous pression après la décision hawkish de la Fed, l'attention se tourne vers la réunion de la BoJ."
+    }
   },
   "dockets": [
     {
@@ -50,5 +55,5 @@
       "previous": ""
     }
   ],
-  "generated_at": "2026-09-17T13:58:43+02:00"
+  "generated_at": "2026-09-17T19:32:18+02:00"
 }
