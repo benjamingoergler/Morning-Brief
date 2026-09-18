@@ -6,32 +6,45 @@
       "url": "https://features.financialjuice.com/2026/09/18/morning-juice-europe-session-prep-648/",
       "date": "2026-09-18",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• La Banque du Japon a relevé son taux directeur à 1.25%, avec un vote de 7-2, malgré un ralentissement de l'inflation japonaise.\n• Le prix du pétrole a chuté pour la troisième journée consécutive, les préoccupations d'approvisionnement s'atténuant et l'attention se portant sur la diplomatie.\n• La banque centrale australienne décidera ce mois-ci si son taux directeur est suffisant pour maîtriser les pressions inflationnistes.\n• Les États-Unis devraient reporter l'annonce de nouveaux tarifs douaniers sur la surcapacité de production, potentiellement après la rencontre Xi-Trump.\n• Les ventes au détail britanniques en Année/Année sont prévues à 1.9%, contre 1.6% précédemment, et en Mois/Mois à -0.2%, contre -0.5%.\n• L'indice des prix à la production allemand (PPI) en Année/Année est prévu à 3.9%, contre 3% avant, et en Mois/Mois à 0.6%, contre 1.1%."
+      "summary": "• La Banque du Japon a relevé son taux directeur d'un quart de point à 1,25% vendredi, comme prévu par les économistes.\\n• Le vote de la BoJ a été de 7-2, avec deux membres du conseil en désaccord sur la décision.\\n• L'inflation japonaise a ralenti pour la première fois en quatre mois, principalement grâce aux subventions gouvernementales.\\n• Le pétrole a chuté pour le troisième jour consécutif, les craintes d'approvisionnement s'étant apaisées avant la diplomatie US-Iran.\\n• La banque centrale australienne évalue si son taux directeur actuel est suffisant pour maîtriser les pressions inflationnistes.\\n• Les États-Unis devraient reporter les nouveaux tarifs douaniers jusqu'après le sommet prévu entre Xi Jinping et Donald Trump."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/09/17/stocks-and-bonds-rally-as-falling-oil-eases-inflation-concerns-us-market-wrap/",
       "date": "2026-09-17",
       "title": "Stocks and Bonds Rally as Falling Oil Eases Inflation Concerns – US Market Wrap",
-      "summary": "• Les actions et obligations ont progressé, soutenues par la baisse des prix du pétrole qui a ravivé l'espoir d'une inflation maîtrisée après la hausse des taux de la Fed.\n• Les actions américaines ont connu leur plus forte hausse en six semaines, le S&P 500 gagnant 1.1% et le Nasdaq 100 ajoutant 1.7%.\n• Les valeurs technologiques, notamment les semi-conducteurs, ont surperformé, l'indice sectoriel clé grimpant de 3.1%.\n• Le rendement des bons du Trésor à 10 ans a reculé par rapport à son plus haut niveau depuis 2007, mettant fin à une série de huit jours d'augmentations.\n• Le dollar est resté stable, l'or a progressé et le baril de Brent a clôturé sous les 105 dollars.\n• La Banque d'Angleterre a allégé la pression sur le marché des gilts en modifiant son approche de vente d'obligations accumulées."
+      "summary": "• Les actions et obligations ont progressé, la baisse du pétrole soutenant l'espoir d'une inflation contenue, après la hausse des taux de la Fed.\\n• Les actions américaines ont enregistré leur plus forte hausse en six semaines, le S&P 500 +1,1% et le Nasdaq 100 +1,7%.\\n• Les valeurs des semi-conducteurs ont surperformé, avec un indice clé de l'industrie grimpant de 3,1%.\\n• Le rendement du Trésor à 10 ans a reculé de son plus haut niveau depuis 2007, mettant fin à huit séances de hausse.\\n• Le Brent s'est établi sous 105$ le baril; le dollar peu changé, l'or a progressé.\\n• La Banque d'Angleterre a soulagé le marché des gilts en révisant sa stratégie de vente d'obligations."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/09/18/morning-juice-us-session-prep-17th-september-3/",
+      "date": "2026-09-18",
+      "title": "Morning Juice – US Session Prep (18th September)",
+      "summary": "• Les valeurs technologiques ont tiré les gains aux États-Unis et en Asie, grâce à la baisse des prix du pétrole.\\n• Les futures S&P 500 +0,2%, Nasdaq 100 +0,5%; les semi-conducteurs et cryptos ont progressé.\\n• Le Kospi sud-coréen a bondi de 2,7%; l'Europe a sous-performé en raison de sa faible exposition à l'IA.\\n• Le sentiment s'est amélioré par la hausse des taux de la Fed, l'apaisement des craintes sur l'approvisionnement pétrolier et l'optimisme semi-conducteur.\\n• La BoJ a relevé ses taux, mais la décision divisée a fait baisser le yen, suggérant un resserrement plus graduel.\\n• Le Brent est tombé sous 103$ (troisième baisse); le dollar s'est raffermi, l'or vers 4400$, le rendement US 10 ans à 4,96%."
+    }
   },
   "dockets": [
     {
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "GBP",
-      "title": "UK Retail Sales",
-      "forecast": "YoY – Forecast: 1.9% | Prior: 1.6% | Range: 2.8% / 1.2%\nMoM – Forecast: -0.2% | Prior: -0.5% | Range: 0.6% / -1%\nCore YoY – Forecast: 1.9% | Prior: 2.3% | Range: 2.8% / 1.1%\nCore MoM – Forecast: -0.2% | Prior: -0.9% | Range: 0.6% / -0.6%",
-      "previous": "YoY – Forecast: 1.9% | Prior: 1.6% | Range: 2.8% / 1.2%\nMoM – Forecast: -0.2% | Prior: -0.5% | Range: 0.6% / -1%\nCore YoY – Forecast: 1.9% | Prior: 2.3% | Range: 2.8% / 1.1%\nCore MoM – Forecast: -0.2% | Prior: -0.9% | Range: 0.6% / -0.6%"
+      "title": "UK Retail Sales YoY",
+      "forecast": "1.9%",
+      "previous": "1.6%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Retail Sales Core YoY",
+      "forecast": "1.9%",
+      "previous": "2.3%"
     },
     {
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "EUR",
-      "title": "German PPI",
-      "forecast": "YoY – Forecast: 3.9% | Prior: 3% | Range: 4.4% / 3.8%\nMoM – Forecast: 0.6% | Prior: 1.1% | Range: 1% / 0.3%",
-      "previous": "YoY – Forecast: 3.9% | Prior: 3% | Range: 4.4% / 3.8%\nMoM – Forecast: 0.6% | Prior: 1.1% | Range: 1% / 0.3%"
+      "title": "German PPI YoY",
+      "forecast": "3.9%",
+      "previous": "3%"
     },
     {
       "time_et": "04:00",
@@ -42,5 +55,5 @@
       "previous": ""
     }
   ],
-  "generated_at": "2026-09-18T13:48:19+02:00"
+  "generated_at": "2026-09-18T18:59:18+02:00"
 }
