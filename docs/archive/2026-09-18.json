@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-18",
+  "date_fr": "Vendredi 18 septembre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/09/18/morning-juice-europe-session-prep-648/",
+      "date": "2026-09-18",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• La Banque du Japon a relevé son taux directeur à 1.25%, avec un vote de 7-2, malgré un ralentissement de l'inflation japonaise.\n• Le prix du pétrole a chuté pour la troisième journée consécutive, les préoccupations d'approvisionnement s'atténuant et l'attention se portant sur la diplomatie.\n• La banque centrale australienne décidera ce mois-ci si son taux directeur est suffisant pour maîtriser les pressions inflationnistes.\n• Les États-Unis devraient reporter l'annonce de nouveaux tarifs douaniers sur la surcapacité de production, potentiellement après la rencontre Xi-Trump.\n• Les ventes au détail britanniques en Année/Année sont prévues à 1.9%, contre 1.6% précédemment, et en Mois/Mois à -0.2%, contre -0.5%.\n• L'indice des prix à la production allemand (PPI) en Année/Année est prévu à 3.9%, contre 3% avant, et en Mois/Mois à 0.6%, contre 1.1%."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/09/17/stocks-and-bonds-rally-as-falling-oil-eases-inflation-concerns-us-market-wrap/",
+      "date": "2026-09-17",
+      "title": "Stocks and Bonds Rally as Falling Oil Eases Inflation Concerns – US Market Wrap",
+      "summary": "• Les actions et obligations ont progressé, soutenues par la baisse des prix du pétrole qui a ravivé l'espoir d'une inflation maîtrisée après la hausse des taux de la Fed.\n• Les actions américaines ont connu leur plus forte hausse en six semaines, le S&P 500 gagnant 1.1% et le Nasdaq 100 ajoutant 1.7%.\n• Les valeurs technologiques, notamment les semi-conducteurs, ont surperformé, l'indice sectoriel clé grimpant de 3.1%.\n• Le rendement des bons du Trésor à 10 ans a reculé par rapport à son plus haut niveau depuis 2007, mettant fin à une série de huit jours d'augmentations.\n• Le dollar est resté stable, l'or a progressé et le baril de Brent a clôturé sous les 105 dollars.\n• La Banque d'Angleterre a allégé la pression sur le marché des gilts en modifiant son approche de vente d'obligations accumulées."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "UK Retail Sales",
+      "forecast": "YoY – Forecast: 1.9% | Prior: 1.6% | Range: 2.8% / 1.2%\nMoM – Forecast: -0.2% | Prior: -0.5% | Range: 0.6% / -1%\nCore YoY – Forecast: 1.9% | Prior: 2.3% | Range: 2.8% / 1.1%\nCore MoM – Forecast: -0.2% | Prior: -0.9% | Range: 0.6% / -0.6%",
+      "previous": "YoY – Forecast: 1.9% | Prior: 1.6% | Range: 2.8% / 1.2%\nMoM – Forecast: -0.2% | Prior: -0.5% | Range: 0.6% / -1%\nCore YoY – Forecast: 1.9% | Prior: 2.3% | Range: 2.8% / 1.1%\nCore MoM – Forecast: -0.2% | Prior: -0.9% | Range: 0.6% / -0.6%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German PPI",
+      "forecast": "YoY – Forecast: 3.9% | Prior: 3% | Range: 4.4% / 3.8%\nMoM – Forecast: 0.6% | Prior: 1.1% | Range: 1% / 0.3%",
+      "previous": "YoY – Forecast: 3.9% | Prior: 3% | Range: 4.4% / 3.8%\nMoM – Forecast: 0.6% | Prior: 1.1% | Range: 1% / 0.3%"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "ECB CPI Expectations",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-09-18T13:48:19+02:00"
+}
