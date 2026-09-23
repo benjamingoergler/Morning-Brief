@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/09/23/morning-juice-europe-session-prep-651/",
       "date": "2026-09-23",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Donald Trump a eu des discussions \"très bonnes\" avec des envoyés iraniens, ravivant les espoirs diplomatiques.\n• Le pétrole s'est stabilisé après cinq jours de baisse, l'Arabie saoudite relançant un pipeline clé.\n• Les États-Unis signalent des progrès dans les pourparlers avec l'Iran pour mettre fin à la guerre au Moyen-Orient.\n• La Première ministre japonaise Sanae Takaichi a demandé à l'ONU de retirer les références aux \"États ennemis\" pour le Japon.\n• Le sommet Trump-Xi Jinping verra une forte délégation d'entreprises américaines, mais pas chinoises, soulevant des questions.\n• Trump et Takaichi ont convenu de coordonner étroitement sur les questions chinoises avant la visite de Xi Jinping."
+      "summary": "• Le Président Trump a eu des discussions \"très bonnes\" avec des envoyés iraniens, ravivant les espoirs diplomatiques malgré des menaces antérieures.\\n• Le pétrole s'est stabilisé après cinq jours de baisse, suite au redémarrage d'un pipeline saoudien et aux progrès des pourparlers US-Iran.\\n• La Première ministre japonaise Sanae Takaichi a demandé à l'ONU de retirer les références au Japon et à l'Allemagne comme \"États ennemis\".\\n• Le sommet Trump-Xi Jinping verra une forte délégation d'entreprises US, mais pas chinoises, soulevant des questions sur de nouveaux accords.\\n• Trump et Takaichi ont convenu de coordonner étroitement sur les questions chinoises avant la visite de Xi Jinping à Washington."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/09/22/chip-rally-drives-nasdaq-100-to-record-as-oil-falls-us-market-wrap/",
       "date": "2026-09-22",
       "title": "Chip Rally Drives Nasdaq 100 to Record as Oil Falls – US Market Wrap",
-      "summary": "• Le Nasdaq 100 a atteint un nouveau record, son premier depuis juin, grâce à un rallye des fabricants de puces.\n• Le sentiment a été soutenu par la baisse des prix du pétrole, espérant des efforts diplomatiques en Iran.\n• L'indice technologique a augmenté de 0,8%, les gains des fabricants de puces compensant la vente de titres bancaires.\n• Le Brent s'est stabilisé autour de 99 $ après les discussions \"très bonnes\" entre Trump et les envoyés iraniens.\n• Trump a qualifié la réunion de trois heures de \"très productive\", avec une autre rencontre prévue bientôt.\n• L'administration américaine vise à mettre fin au conflit au Moyen-Orient peu après les élections de mi-mandat de novembre."
+      "summary": "• Le Nasdaq 100 a atteint un nouveau record, porté par un rallye des fabricants de puces pour la première fois depuis juin.\\n• Le sentiment a été soutenu par la baisse des prix du pétrole, espoirs diplomatiques pour la fin de la guerre en Iran.\\n• Le Brent s'est stabilisé autour de 99 $ après des discussions \"très bonnes\" entre le Président Trump et les envoyés iraniens.\\n• Trump a qualifié la réunion de \"très productive\", avec une autre rencontre prévue et \"beaucoup de momentum\" vers un accord.\\n• Wall Street se prépare au sommet Trump-Xi Jinping cette semaine pour renforcer les liens et trouver un terrain d'entente."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/09/23/morning-juice-us-session-prep-23rd-september-2/",
+      "date": "2026-09-23",
+      "title": "Morning Juice – US Session Prep (23rd September)",
+      "summary": "• Les actions ont lutté pour une direction alors que le Brent se remettait de sa plus longue série de pertes cette année.\\n• Le pétrole est en voie de sa plus longue série de pertes en un an, avec l'Arabie Saoudite et les US signalant des progrès.\\n• Les actions japonaises devraient rattraper le rallye mondial de l'IA, malgré les risques d'intervention sur le JPY."
+    }
   },
   "dockets": [
     {
@@ -114,5 +119,5 @@
       "previous": "51.7"
     }
   ],
-  "generated_at": "2026-09-23T13:58:29+02:00"
+  "generated_at": "2026-09-23T19:45:54+02:00"
 }
