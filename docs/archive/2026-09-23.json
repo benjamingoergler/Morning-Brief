@@ -1,0 +1,118 @@
+{
+  "date": "2026-09-23",
+  "date_fr": "Mercredi 23 septembre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/09/23/morning-juice-europe-session-prep-651/",
+      "date": "2026-09-23",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Donald Trump a eu des discussions \"très bonnes\" avec des envoyés iraniens, ravivant les espoirs diplomatiques.\n• Le pétrole s'est stabilisé après cinq jours de baisse, l'Arabie saoudite relançant un pipeline clé.\n• Les États-Unis signalent des progrès dans les pourparlers avec l'Iran pour mettre fin à la guerre au Moyen-Orient.\n• La Première ministre japonaise Sanae Takaichi a demandé à l'ONU de retirer les références aux \"États ennemis\" pour le Japon.\n• Le sommet Trump-Xi Jinping verra une forte délégation d'entreprises américaines, mais pas chinoises, soulevant des questions.\n• Trump et Takaichi ont convenu de coordonner étroitement sur les questions chinoises avant la visite de Xi Jinping."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/09/22/chip-rally-drives-nasdaq-100-to-record-as-oil-falls-us-market-wrap/",
+      "date": "2026-09-22",
+      "title": "Chip Rally Drives Nasdaq 100 to Record as Oil Falls – US Market Wrap",
+      "summary": "• Le Nasdaq 100 a atteint un nouveau record, son premier depuis juin, grâce à un rallye des fabricants de puces.\n• Le sentiment a été soutenu par la baisse des prix du pétrole, espérant des efforts diplomatiques en Iran.\n• L'indice technologique a augmenté de 0,8%, les gains des fabricants de puces compensant la vente de titres bancaires.\n• Le Brent s'est stabilisé autour de 99 $ après les discussions \"très bonnes\" entre Trump et les envoyés iraniens.\n• Trump a qualifié la réunion de trois heures de \"très productive\", avec une autre rencontre prévue bientôt.\n• L'administration américaine vise à mettre fin au conflit au Moyen-Orient peu après les élections de mi-mandat de novembre."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "03:15",
+      "time_cet": "09:15",
+      "cur": "EUR",
+      "title": "French PMI’s Services",
+      "forecast": "48.3",
+      "previous": "48"
+    },
+    {
+      "time_et": "03:15",
+      "time_cet": "09:15",
+      "cur": "EUR",
+      "title": "French PMI’s Composite",
+      "forecast": "48.7",
+      "previous": "48.5"
+    },
+    {
+      "time_et": "03:15",
+      "time_cet": "09:15",
+      "cur": "EUR",
+      "title": "French PMI’s Manufacturing",
+      "forecast": "51",
+      "previous": "51"
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "EUR",
+      "title": "German PMI’s Services",
+      "forecast": "49.9",
+      "previous": "49.7"
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "EUR",
+      "title": "German PMI’s Composite",
+      "forecast": "51.8",
+      "previous": "51.8"
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "EUR",
+      "title": "German PMI’s Manufacturing",
+      "forecast": "54",
+      "previous": "54.3"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone PMI’s Services",
+      "forecast": "51.4",
+      "previous": "51.6"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone PMI’s Composite",
+      "forecast": "51.7",
+      "previous": "52"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone PMI’s Manufacturing",
+      "forecast": "52.6",
+      "previous": "52.7"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK PMI’s Services",
+      "forecast": "52",
+      "previous": "52.5"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK PMI’s Composite",
+      "forecast": "52",
+      "previous": "52.5"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK PMI’s Manufacturing",
+      "forecast": "51.5",
+      "previous": "51.7"
+    }
+  ],
+  "generated_at": "2026-09-23T13:58:29+02:00"
+}
