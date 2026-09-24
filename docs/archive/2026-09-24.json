@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-24",
+  "date_fr": "Jeudi 24 septembre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/09/24/morning-juice-europe-session-prep-652/",
+      "date": "2026-09-24",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le chômage australien a augmenté en août, malgré une hausse des embauches, avant la réunion de la RBA.\n• Le pétrole a chuté après un bond de près de 4%, les États-Unis évoquant un flux de brut dans le détroit d'Ormuz.\n• Le président iranien Pezeshkian a menacé la liberté de navigation dans le détroit d'Ormuz si les sanctions persistent.\n• Les États-Unis et la Chine ont prolongé leur trêve commerciale de deux mois; Xi Jinping est en visite d'État.\n• Les pertes sur les Treasuries US se sont intensifiées, les rendements atteignant des sommets en près de deux décennies.\n• La Maison Blanche a critiqué les décideurs de la Fed non nommés par Trump cherchant à resserrer la politique."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/09/23/stocks-bonds-fall-as-oil-rally-fuels-inflation-fears-us-market-wrap/",
+      "date": "2026-09-23",
+      "title": "Stocks, Bonds Fall as Oil Rally Fuels Inflation Fears – US Market Wrap",
+      "summary": "• Les actions et obligations ont baissé, la hausse du pétrole alimentant les craintes inflationnistes.\n• L'activité commerciale US a connu sa plus forte expansion depuis 2021, renforçant les pressions.\n• Le S&P 500 a reculé de ses niveaux quasi-record; le Brent s'est établi autour de 103 $.\n• La vente d'obligations du Trésor s'est accentuée après une faible adjudication de 70 milliards $ à 5 ans.\n• Le dollar a progressé contre toutes les devises majeures; la Fed a relevé ses taux de 25bps.\n• Le président iranien Pezeshkian a menacé la navigation dans le détroit d'Ormuz en cas de sanctions."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/09/24/morning-juice-us-session-prep-24th-september-2/",
+      "date": "2026-09-24",
+      "title": "Morning Juice – US Session Prep (24th September)",
+      "summary": "• Les actions US ont chuté, la hausse du pétrole intensifiant la vente d'obligations du Trésor.\n• Les rendements des bons du Trésor à 30 ans ont atteint environ 5,43%, leur plus haut depuis 2004.\n• Les futures S&P 500 ont baissé d'environ 0,6%, les futures NDX de 1%.\n• Le Brent a grimpé vers 104 $ le baril suite à des tensions géopolitiques avec l'Iran.\n• La SNB a relevé ses prévisions d'inflation, Norges Bank a augmenté ses taux.\n• Le dollar a prolongé sa série de victoires, les marchés anticipant des taux \"higher-for-longer\"."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French Business Climate Overall",
+      "forecast": "98",
+      "previous": "98"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French Business Climate Manufacturing",
+      "forecast": "102",
+      "previous": "103"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French Consumer Confidence",
+      "forecast": "85",
+      "previous": "86"
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "CHF",
+      "title": "SNB Rate Decision",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "CHF",
+      "title": "SNB Rate Statement",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "German IFO’s Expectations",
+      "forecast": "89.3",
+      "previous": "89.1"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "German IFO’s Business Climate",
+      "forecast": "89",
+      "previous": "88.8"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "German IFO’s Current Conditions",
+      "forecast": "89",
+      "previous": "88.5"
+    }
+  ],
+  "generated_at": "2026-09-24T14:05:23+02:00"
+}
