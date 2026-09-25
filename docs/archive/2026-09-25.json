@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-25",
+  "date_fr": "Vendredi 25 septembre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/09/25/morning-juice-europe-session-prep-653/",
+      "date": "2026-09-25",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le Président Trump a exprimé ses inquiétudes concernant le yen lors d'une rencontre avec le Premier ministre japonais Sanae Takaichi.\n• Les rendements des bons du Trésor américain continuent de grimper, suggérant un changement fondamental du marché obligataire.\n• Le pétrole a baissé suite aux discussions entre les États-Unis et l'Iran pour un accord sur le détroit d'Ormuz.\n• Le Président chinois Xi Jinping a rencontré Donald Trump, appelant à une coopération accrue pour éviter le \"piège de Thucydide\".\n• L'IA suscite des inquiétudes quant à la suppression d'emplois, notamment pour les postes d'entrée de gamme."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/09/24/stocks-bonds-fall-as-oil-rally-fuels-inflation-fears-us-market-wrap/",
+      "date": "2026-09-24",
+      "title": "Stocks, Bonds Fall as Oil Rally Fuels Inflation Fears – US Market Wrap",
+      "summary": "• La volatilité des marchés obligataires et les prix élevés du pétrole ont rendu les investisseurs prudents.\n• La vente de bons du Trésor s'est intensifiée, poussant les rendements à 30 ans à leur plus haut depuis 2004.\n• Le S&P 500 a clôturé quasiment inchangé, malgré le déclin de la plupart de ses composants.\n• Le Brent s'est stabilisé autour de 107 $ le baril, suite aux discussions US-Iran sur le détroit d'Ormuz.\n• Les investisseurs exigent une compensation accrue pour les obligations à long terme en raison de l'inflation et des dépenses.\n• Les marchés monétaires intègrent désormais trois hausses de taux supplémentaires de la Fed au cours de la prochaine année.\n• Trump et Xi Jinping ont discuté de l'IA; la trêve commerciale US-Chine a été prolongée jusqu'au 10 janvier."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone Money M3 Annual Growth",
+      "forecast": "3.5%",
+      "previous": "3.4%"
+    }
+  ],
+  "generated_at": "2026-09-25T14:04:57+02:00"
+}
