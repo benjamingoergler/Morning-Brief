@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-29",
+  "date_fr": "Mardi 29 septembre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/09/29/morning-juice-europe-session-prep-655/",
+      "date": "2026-09-29",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le pétrole a augmenté pour le deuxième jour, en raison de l'absence de progrès dans les pourparlers US-Iran et d'une forte demande.\n• La Chine signale des mesures urgentes pour contrer le ralentissement économique et stabiliser le marché immobilier.\n• L'enchère d'obligations d'État japonaises à 40 ans a enregistré la plus forte demande depuis 2020, avec un ratio bid-to-cover de 3.1.\n• Les dépenses des ménages australiens ont stagné en août, suggérant un affaiblissement de la demande avant les hausses de taux de la RBA.\n• La faiblesse du yen reste une préoccupation; le Japon et les États-Unis maintiendront un contact étroit pour un marché des devises ordonné.\n• La Chine rencontre des obstacles pour nettoyer les prêts à la consommation douteux, les autorités examinant les collecteurs de dettes."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/09/28/bond-yields-rise-as-the-us-iran-standoff-causes-stocks-to-decline-us-market-wrap/",
+      "date": "2026-09-28",
+      "title": "Bond yields rise as the US-Iran standoff causes stocks to decline – US Market Wrap",
+      "summary": "• Un différend entre les États-Unis et l'Iran a alimenté la volatilité du marché pétrolier, faisant chuter les actions et les obligations.\n• Le Brent a ralenti sa hausse mais est resté autour de 105 $ sur des espoirs réduits de percée politique au Moyen-Orient.\n• Le S&P 500 a effacé ses gains du mois, tandis que le Nasdaq 100 a chuté de 1.1%.\n• Les rendements des bons du Trésor à 10 ans ont atteint un sommet de près de deux décennies, alimentant les craintes d'inflation.\n• Les marchés monétaires ont augmenté leurs paris sur une hausse des taux de la Fed en octobre; le dollar a grimpé, l'or a baissé.\n• Nvidia a augmenté son plan de rachat d'actions de 150 milliards de dollars, soulignant la confiance de son PDG Jensen Huang."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/09/29/morning-juice-us-session-prep-29th-september-2/",
+      "date": "2026-09-29",
+      "title": "Morning Juice – US Session Prep (29th September)",
+      "summary": "• Les actions et bons du Trésor US ont manqué de direction, les traders étant prudents avant des événements IA et des statistiques d'emploi.\n• Le pétrole a poursuivi son ascension pour le deuxième jour, soutenu par l'absence de progrès dans les pourparlers US-Iran et une demande robuste.\n• L'enchère d'obligations d'État japonaises à 40 ans a enregistré la plus forte demande en six ans, attirant les investisseurs.\n• OpenAI retient une version de son modèle Astra pour implémenter des contrôles plus stricts suite à des incidents de piratage IA.\n• Anthropic PBC a averti des "
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "03:00",
+      "time_cet": "09:00",
+      "cur": "CHF",
+      "title": "Swiss KOF Indicator",
+      "forecast": "106",
+      "previous": "106.7"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "BoE Consumer Credit",
+      "forecast": "1.9B",
+      "previous": "2B"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK Mortgage Lending",
+      "forecast": "4.4B",
+      "previous": "4.3B"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK Mortgage Approvals",
+      "forecast": "56.1K",
+      "previous": "56.1K"
+    }
+  ],
+  "generated_at": "2026-09-29T15:13:15+02:00"
+}
