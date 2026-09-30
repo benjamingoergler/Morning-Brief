@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-30",
+  "date_fr": "Mercredi 30 septembre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/09/30/morning-juice-europe-session-prep-656/",
+      "date": "2026-09-30",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• L'inflation australienne a ralenti en août, réduisant les paris sur une hausse des taux de la RBA, tandis que la Fed pourrait encore relever ses taux fin 2023.\n• Les prix du pétrole se sont stabilisés après une forte baisse, suite à la reprise des flux du Moyen-Orient évitant le détroit d'Ormuz.\n• L'activité manufacturière chinoise a repris en septembre, signalant une fin de trimestre positive malgré des mesures de relance ciblées.\n• Le sentiment général indique une économie mondiale en transition, avec des indicateurs mitigés et des politiques monétaires divergentes.\n• Les marchés surveillent de près les données d'inflation et les déclarations des banques centrales pour anticiper les prochaines décisions sur les taux d'intérêt."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/09/29/stocks-and-bonds-fall-as-inflation-concerns-keep-yields-elevated-us-market-wrap/",
+      "date": "2026-09-29",
+      "title": "Stocks and Bonds Fall as Inflation Concerns Keep Yields Elevated – US Market Wrap",
+      "summary": "• Les actions et obligations ont chuté, les prix du pétrole n'ayant pas réussi à apaiser les craintes d'inflation persistante et de hausses de taux de la Fed.\n• Les rendements des bons du Trésor à 30 ans ont atteint leur plus haut niveau depuis 2002, pesant sur le marché actions.\n• Le dollar s'est renforcé, tandis que l'euro a atteint son plus bas niveau en 16 mois face aux inquiétudes économiques.\n• Le pétrole Brent a reculé sous les 103$ le baril suite à la libération de réserves stratégiques américaines.\n• Les marchés monétaires anticipent de nouvelles hausses de taux de la Fed, malgré les indications prudentes du président de la Fed de New York."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/09/30/morning-juice-us-session-prep-30th-september-2/",
+      "date": "2026-09-30",
+      "title": "Morning Juice – US Session Prep (30th September)",
+      "summary": "• Les actions et bons du Trésor américains ont progressé suite aux données d'inflation et aux résultats de Micron, influençant les taux et l'IA.\n• Le pétrole s'est stabilisé après une forte baisse, les signaux indiquant un retour des approvisionnements du Moyen-Orient à des niveaux pré-conflit.\n• Les traders augmentent leurs paris sur la hausse des rendements des bons du Trésor, malgré les risques d'un débouclage si l'économie ralentit.\n• Les indicateurs économiques clés comme l'ADP et le PCE sont attendus pour affiner les perspectives de politique monétaire de la Fed.\n• Plusieurs interventions de membres de la Fed et des annonces politiques sont prévues, incluant des discours de Barkin et Cook."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "UK",
+      "title": "UK GDP",
+      "forecast": "0.4% (QoQ), 1.2% (YoY)",
+      "previous": "0.4% (QoQ), 1.2% (YoY)"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French CPI",
+      "forecast": "2.8% (YoY), -0.5% (MoM), 3.2% (HICP YoY), -0.5% (HICP MoM)",
+      "previous": "2.4% (YoY), 0.7% (MoM), 2.6% (HICP YoY), 0.7% (HICP MoM)"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German Unemployment",
+      "forecast": "6.4% (Rate), -0.5K (Change)",
+      "previous": "6.4% (Rate), 4K (Change)"
+    }
+  ],
+  "generated_at": "2026-09-30T14:56:22+02:00"
+}
