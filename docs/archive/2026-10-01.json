@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-01",
+  "date_fr": "Jeudi 1 octobre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/10/01/morning-juice-europe-session-prep-657/",
+      "date": "2026-10-01",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le sentiment des fabricants japonais atteint un plus haut de 8 ans, permettant à la BoJ de poursuivre ses hausses de taux.\n• La BoJ se concentre sur la prévention d'un dépassement de l'inflation, avec des taux au plus haut depuis 1995.\n• Les prix du pétrole ont chuté, alternant gains et pertes, les traders cherchant des signaux sur les flux du Moyen-Orient.\n• Le Président Trump a tempéré son désir d'interdire les exportations de diesel américain, craignant des hausses de prix inattendues.\n• Trump a demandé la démission de Jerome Powell du conseil de la Fed suite à la mauvaise gestion de la rénovation du siège.\n• Neel Kashkari de la Fed doute du rétrécissement de l'économie américaine, citant le boom de la construction liée à l'IA."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/09/30/stocks-give-back-gains-in-final-stretch-of-september-us-market-wrap/",
+      "date": "2026-09-30",
+      "title": "Stocks Give Back Gains in Final Stretch of September – US Market Wrap",
+      "summary": "• Wall Street a connu une turbulence en fin de séance, effaçant les gains initiaux liés à l'inflation plus lente.\n• Le S&P 500 est resté inchangé; les rendements des obligations à 30 ans ont atteint leurs plus hauts depuis 2002.\n• Les marchés monétaires prévoient moins de 40% de chance d'une hausse des taux de la Fed en octobre.\n• Le dollar s'est affaibli après son meilleur mois depuis juin; le pétrole est resté proche de 100 $.\n• L'indice PCE core a augmenté de 0,2% en août, moins que prévu, avec une révision à la baisse du mois précédent.\n• Les dépenses de consommation américaines ont augmenté au rythme le plus rapide en plus d'un an en août, et les embauches ont progressé en septembre."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/10/01/morning-juice-us-session-prep-1st-october-2/",
+      "date": "2026-10-01",
+      "title": "Morning Juice – US Session Prep (1st October)",
+      "summary": "• Les actions US ont progressé, la force de l'IA compensant la pression des rendements obligataires et du pétrole.\n• Les futures S&P 500 ont augmenté de 0,4%; les fabricants de puces ont gagné après les perspectives optimistes de Micron.\n• Alphabet a grimpé de plus de 2% avec son nouveau modèle d'IA; Tencent a loué Oracle pour 7 milliards de dollars.\n• Les marchés obligataires sont restés volatils; le rendement US 10 ans a brièvement atteint son plus haut depuis 2002.\n• Le Gilt UK 30 ans a dépassé 6% pour la première fois depuis 1998; le Brent est revenu vers 100 $.\n• Les actions européennes ont sous-performé, le Stoxx 600 étant proche de son plus bas depuis juin, avec des obligations françaises sous pression."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "02:30",
+      "time_cet": "08:30",
+      "cur": "CHF",
+      "title": "Swiss CPI YoY",
+      "forecast": "1%",
+      "previous": "0.8%"
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "CHF",
+      "title": "Swiss Manufacturing PMI",
+      "forecast": "56.3",
+      "previous": "57.1"
+    },
+    {
+      "time_et": "03:50",
+      "time_cet": "09:50",
+      "cur": "EUR",
+      "title": "French Manufacturing PMI",
+      "forecast": "50.3",
+      "previous": "50.3"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German Manufacturing PMI",
+      "forecast": "53.8",
+      "previous": "53.8"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone Manufacturing PMI",
+      "forecast": "52.7",
+      "previous": "52.7"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK Manufacturing PMI",
+      "forecast": "52",
+      "previous": "52"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone Unemployment Rate",
+      "forecast": "1.2%",
+      "previous": "1.2%"
+    }
+  ],
+  "generated_at": "2026-10-01T15:45:50+02:00"
+}
