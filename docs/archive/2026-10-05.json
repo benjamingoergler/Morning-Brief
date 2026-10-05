@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-05",
+  "date_fr": "Lundi 5 octobre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/10/05/morning-juice-europe-session-prep-659/",
+      "date": "2026-10-05",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le gouvernement yéménite lance une campagne militaire pour reprendre le territoire Houthi, tandis que le prix du pétrole se stabilise.\n• Le parlement japonais ouvre ses sessions avec des projets de loi visant à atténuer l'impact de l'inflation sur les ménages.\n• Le Premier ministre Sanae Takaichi cherche à mettre en œuvre ses plans économiques et financiers pour le Japon.\n• Le Royaume-Uni envisage d'imposer des taxes à l'importation sur les VE chinois pour satisfaire une demande clé de l'UE.\n• Cette mesure pourrait affecter les ventes de VE chinois, qui représentent près d'un quart des voitures vendues au Royaume-Uni."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/10/02/stocks-rebound-as-treasury-rally-provides-relief-from-rate-fears-us-market-wrap/",
+      "date": "2026-10-02",
+      "title": "Stocks Rebound as Treasury Rally Provides Relief from Rate Fears – US Market Wrap",
+      "summary": "• Un ralentissement du marché du travail américain a stimulé les actions, réduisant les attentes de hausse des taux de la Fed.\n• Le S&P 500 a gagné 0,7% et le Nasdaq 100 a atteint un nouveau record historique.\n• Les marchés monétaires estiment à moins de 25% la probabilité d'une hausse des taux de la Fed en octobre.\n• Les employeurs américains ont ajouté 29 000 emplois en septembre, manquant les estimations; le chômage a augmenté à 4,2%.\n• Ce rapport sur l'emploi a apporté un certain soulagement après la vente massive des Treasuries.\n• Les rendements des bons du Trésor à 10 ans avaient atteint leur plus haut niveau depuis 2002 cette semaine."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/10/05/morning-juice-us-session-prep-5th-october/",
+      "date": "2026-10-05",
+      "title": "Morning Juice – US Session Prep (5th October)",
+      "summary": "• Le dollar a progressé, soutenu par son avance contre l'euro en raison des risques fiscaux et politiques européens.\n• Les Treasuries à court terme ont augmenté, les traders réduisant leurs paris sur de nouvelles hausses de taux de la Fed."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "03:00",
+      "time_cet": "09:00",
+      "cur": "EUR",
+      "title": "ECB’s Kocher & ECB’s Buch, ECB’s de Cos ECB’s speak at a conference in Vienna on financial stability.",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "03:45",
+      "time_cet": "09:45",
+      "cur": "EUR",
+      "title": "ECB’s Nagel gives speech ‘ How Geopolitics Is Reshaping Growth, Monetary Policy and the Role of Gold as a Reserve Asset,’ at Global Precious Metals Conference in Sorrento, Italy.",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-10-05T17:08:51+02:00"
+}
