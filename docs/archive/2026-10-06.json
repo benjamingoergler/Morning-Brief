@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-06",
+  "date_fr": "Mardi 6 octobre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/10/06/morning-juice-europe-session-prep-660/",
+      "date": "2026-10-06",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le Secrétaire au Trésor Scott Bessent prévoit une croissance américaine de 3% et une réduction rapide de l'emprunt public.\n• Le fonds de pension japonais GPIF n'a pas discuté d'allocation, tempérant les attentes d'achats d'actifs locaux.\n• Le gouverneur de la Banque de France, Emmanuel Moulin, alerte sur le risque d'être \"étranglé par les taux\" sans assainissement budgétaire.\n• Le pétrole s'est stabilisé après une baisse de 2%, les exportations du Golfe et la coupe saoudienne indiquant un marché plus lâche.\n• L'Allemagne et la France exhortent l'UE à adopter de nouveaux pouvoirs pour isoler des pays comme la Chine du marché unique."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/10/05/tech-rally-lifts-stocks-despite-elevated-oil-and-yields-us-market-wrap/",
+      "date": "2026-10-05",
+      "title": "Tech Rally Lifts Stocks Despite Elevated Oil and Yields – US Market Wrap",
+      "summary": "• Un rallye des géants technologiques a propulsé les actions à la hausse, masquant les inquiétudes sur le pétrole et les rendements obligataires.\n• Le S&P 500 a approché un record, tandis que le Nasdaq 100 a atteint un nouveau sommet historique.\n• Les rendements des bons du Trésor à long terme ont atteint des sommets pluridécennaux, reflétant des préoccupations fiscales.\n• Les troubles politiques européens et les préoccupations budgétaires ont poussé l'euro à son plus bas depuis mai 2025.\n• Le pétrole américain est tombé sous 90 $, alors que Trump prépare un assouplissement des restrictions sur le diesel."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/10/06/morning-juice-us-session-prep-6th-october-2/",
+      "date": "2026-10-06",
+      "title": "Morning Juice – US Session Prep (6th October)",
+      "summary": "• Les Treasuries ont légèrement progressé avec la baisse des prix mondiaux de l'énergie, le dollar étant peu changé.\n• Les investisseurs attendent les discours des décideurs de la Fed, notamment John Williams et Michelle Bowman, plus tard.\n• Le rapport d'août sur la balance commerciale américaine est attendu à -102.1B, contre -88.6B précédemment.\n• L'EIA STEO Report Winter Outlook est prévu à 12:00 ET, fournissant des perspectives énergétiques.\n• Une adjudication de bons du Trésor US à 3 ans de 58 milliards de dollars a eu lieu, avec un rendement de 4.474%."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Industrial Orders MoM",
+      "forecast": "-1%",
+      "previous": "2.5%"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French Industrial Production MoM",
+      "forecast": "0.2%",
+      "previous": "-0.4%"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK Construction PMI",
+      "forecast": "44.9",
+      "previous": "44.3"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone Retail Sales YoY",
+      "forecast": "1%",
+      "previous": "0.6%"
+    }
+  ],
+  "generated_at": "2026-10-06T15:31:02+02:00"
+}
