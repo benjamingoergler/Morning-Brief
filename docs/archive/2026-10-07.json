@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-07",
+  "date_fr": "Mercredi 7 octobre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/10/07/morning-juice-europe-session-prep-661/",
+      "date": "2026-10-07",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le gouvernement japonais envisage un second budget supplémentaire pour l'exercice 2026, axé sur la réponse aux catastrophes, potentiellement en novembre.\\n• Les prix du pétrole ont augmenté, les traders pesant les flux accrus via le détroit d'Ormuz contre les attaques iraniennes.\\n• L'administration Trump est réticente à s'impliquer davantage dans l'offensive saoudienne contre les Houthis au Yémen.\\n• Les salaires réels des travailleurs japonais ont augmenté pour le huitième mois consécutif, la plus longue série en près d'une décennie.\\n• L'ordonnance de Trump autorisant les camionneurs à utiliser du diesel agricole ne devrait pas réduire immédiatement les prix du carburant."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/10/05/tech-rally-lifts-stocks-despite-elevated-oil-and-yields-us-market-wrap/",
+      "date": "2026-10-05",
+      "title": "Tech Rally Lifts Stocks Despite Elevated Oil and Yields – US Market Wrap",
+      "summary": "• Un rallye des géants technologiques a propulsé les actions à la hausse, éclipsant les inquiétudes sur les prix du pétrole et les rendements obligataires.\\n• Le S&P 500 a presque atteint un record, tandis que le Nasdaq 100 a grimpé vers un nouveau sommet.\\n• Les troubles politiques en Europe et les préoccupations fiscales ont affaibli l'euro à son plus bas niveau depuis mai 2025.\\n• Les rendements des bons du Trésor à plus long terme ont atteint des sommets pluridécennaux, signalant des pressions inflationnistes persistantes.\\n• Le pétrole américain est tombé sous les 90 $; Trump prépare l'assouplissement des restrictions sur le diesel exempté de taxes."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/10/07/morning-juice-us-session-prep-7th-october-2/",
+      "date": "2026-10-07",
+      "title": "Morning Juice – US Session Prep (7th October)",
+      "summary": "• Les rendements du Trésor ont grimpé alors que le Brent se négociait au-dessus de 101 $ le baril, soulignant les risques d'inflation.\\n• Le dollar a également gagné du terrain avant la publication des minutes de la réunion de la Réserve fédérale du mois dernier."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Industrial Production",
+      "forecast": "YoY 0.7% | MoM 0.5%",
+      "previous": "YoY -1.6% | MoM -1.1%"
+    }
+  ],
+  "generated_at": "2026-10-07T15:44:06+02:00"
+}
