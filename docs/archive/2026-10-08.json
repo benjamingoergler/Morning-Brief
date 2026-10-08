@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-08",
+  "date_fr": "Jeudi 8 octobre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/10/08/morning-juice-europe-session-prep-662/",
+      "date": "2026-10-08",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le pétrole a gagné suite à des rapports sur des options de frappe contre l'Iran et une interruption de production américaine due à une tempête.\n• Les Houthis ont frappé deux aéroports en Arabie Saoudite, tuant trois personnes et blessant des dizaines, intensifiant les attaques.\n• Les 19 responsables de la Fed ont soutenu la hausse des taux de septembre pour se prémunir contre l'intensification des pressions inflationnistes.\n• La Fed a précisé que l'intervention conjointe avec le Japon pour soutenir le yen fin juillet était une initiative du Trésor.\n• La Reserve Bank of New Zealand recrute deux sous-gouverneurs et un chef de cabinet pour remanier ses rangs supérieurs."
+    },
+    "wrap": null,
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/10/08/morning-juice-us-session-prep-8th-october-2/",
+      "date": "2026-10-08",
+      "title": "Morning Juice – US Session Prep (8th October)",
+      "summary": "• La hausse des prix du pétrole a déclenché de nouvelles ventes sur les actions et les obligations, malgré les bénéfices records de Samsung.\n• Les investisseurs restent prudents face aux actifs risqués, le sentiment général étant à la prudence.\n• En France, 215 milliards d'euros d'obligations d'entreprises sont désormais perçues comme plus sûres que la dette souveraine.\n• Ce chiffre a été multiplié par 18 depuis début 2026, suite à une forte liquidation des obligations souveraines françaises.\n• Les traders d'options paient une prime pour se protéger contre une baisse de l'euro face à la livre, une première en plus de deux ans.\n• La Banque du Japon a relevé son évaluation de l'économie régionale pour la première fois depuis début 2025, renforçant l'argument d'une hausse de taux."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Trade Balance",
+      "forecast": "19B",
+      "previous": "21.3B"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Exports MoM",
+      "forecast": "0.9%",
+      "previous": "-0.8%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Imports MoM",
+      "forecast": "2.8%",
+      "previous": "-5.7%"
+    },
+    {
+      "time_et": "02:30",
+      "time_cet": "08:30",
+      "cur": "EUR",
+      "title": "ECB’s Moulin, ECB’s Sleijpen Speak in Istanbul.",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "USD",
+      "title": "Fed’s Waller speaks at TCMB Istanbul Economic Forum on the economic outlook.",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "04:40",
+      "time_cet": "10:40",
+      "cur": "EUR",
+      "title": "ECB’s Zigman gives speech ‘ Between good winds and new storms — which way will the economy go?’ at conference The Challenge of Change organized by Croatian stock exchange in Porec, Croatia.",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "GBP",
+      "title": "BoE’s Pill speaks at the London Stock Exchange Group 2026 GZERO Summit in London.",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-10-08T15:52:09+02:00"
+}
