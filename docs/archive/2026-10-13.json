@@ -6,19 +6,19 @@
       "url": "https://features.financialjuice.com/2026/10/13/morning-juice-europe-session-prep-665/",
       "date": "2026-10-13",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• La glissade mondiale des titres de semi-conducteurs s'est accentuée, entraînant une baisse de plus de 6% du marché sud-coréen.\\n• La RBA a relevé son taux directeur il y a deux semaines, citant des risques d'inflation à la hausse et le coût de l'attente.\\n• Le FMI prévoit une reprise de la croissance mondiale l'année prochaine grâce à l'IA, mais avertit des limites de résilience de l'économie.\\n• Le pétrole a légèrement baissé après trois jours de gains, préoccupations sur l'approvisionnement au Moyen-Orient.\\n• Meta a lancé un modèle d'IA très attendu, testant sa capacité à rivaliser avec les leaders du secteur.\\n• Les taux hypothécaires à 7% ont frappé le marché immobilier américain, faisant chuter les ventes à des plus bas de 12 ans."
+      "summary": "• La chute mondiale des semi-conducteurs s'est aggravée, le marché sud-coréen perdant plus de 6% face à la concurrence chinoise et aux valorisations IA.\\n• La RBA a relevé ses taux il y a deux semaines, anticipant des risques d'inflation à la hausse et les coûts d'une attente prolongée.\\n• Le FMI prévoit une croissance mondiale en hausse l'an prochain, portée par l'AI, mais avertit des limites de résilience économique.\\n• Le pétrole a reculé après trois jours de gains, la guerre au Moyen-Orient faisant craindre des perturbations sur l'approvisionnement.\\n• Meta a lancé un modèle d'AI majeur, évaluant si son investissement de plusieurs milliards de dollars améliore sa compétitivité technologique.\\n• Les taux hypothécaires à 7% ont impacté le marché immobilier américain, les ventes en attente tombant à des plus bas de 12 ans."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/10/12/sp-500-wavers-ahead-of-earnings-as-chip-stocks-slide-us-market-wrap/",
       "date": "2026-10-12",
       "title": "S&P 500 Wavers Ahead of Earnings as Chip Stocks Slide – US Market Wrap",
-      "summary": "• La vente continue des actions de semi-conducteurs a maintenu les marchés sous pression avant la saison des résultats.\\n• Les principaux fabricants de puces ont prolongé leurs baisses pour une cinquième séance consécutive, pesant sur le S&P 500.\\n• L'indice de référence S&P 500 est resté proche de ses records, soutenu par des attentes de bénéfices solides.\\n• Les contrats à terme sur les Treasuries ont peu changé, le marché obligataire au comptant étant fermé pour Columbus Day.\\n• Hammack de la Fed a suggéré des ajustements de politique monétaire plus petits et fréquents pour stabiliser les attentes d'inflation.\\n• Elle n'a pas explicitement soutenu une hausse des taux lors de la réunion de la Fed ce mois-ci."
+      "summary": "• La vente continue des actions de semi-conducteurs a maintenu les marchés sous pression avant la saison des résultats.\\n• Les principaux fabricants de puces ont prolongé leur déclin pour la cinquième session, pesant sur le S&P 500.\\n• Le S&P 500 est resté proche de ses records, soutenu par des attentes de bénéfices solides malgré la hausse du pétrole et des rendements.\\n• Les futures du Trésor ont peu changé, tandis que le marché obligataire cash était fermé pour Columbus Day.\\n• Hammack de la Fed a suggéré des ajustements de politique plus petits et fréquents pour stabiliser les anticipations d'inflation.\\n• Elle n'a cependant pas explicitement soutenu une hausse des taux lors de la réunion de la Fed ce mois-ci."
     },
     "mj_us": {
       "url": "https://features.financialjuice.com/2026/10/13/morning-juice-us-session-prep-13th-october-2/",
       "date": "2026-10-13",
       "title": "Morning Juice – US Session Prep (13th October)",
-      "summary": "• Une sixième journée consécutive de faiblesse des semi-conducteurs a pesé sur les actions américaines, le NDX en baisse de 0.6%.\\n• Certaines parties du secteur de l'AI restent sous pression, les investisseurs s'interrogeant sur la durabilité des investissements.\\n• JPMorgan a chuté de plus de 3% après une baisse inattendue des revenus de trading à revenu fixe.\\n• Les obligations mondiales ont rallié, la dette française surperformant et l'écart OAT-Bund se resserrant sous 140pb.\\n• Les prix du pétrole et les rendements obligataires plus bas ont soutenu les actions européennes, le Brent ayant mis fin à sa série de gains.\\n• Le gouverneur Waller de la Fed a noté que les rendements élevés des Treasuries à long terme freinent déjà l'économie."
+      "summary": "• Sixième jour de faiblesse des semi-conducteurs a pesé sur les actions US; Nasdaq 100 futures -0.6%, S&P 500 futures légèrement inférieurs.\\n• Une partie du secteur de l'AI reste sous pression, les investisseurs s'interrogeant sur la durabilité des investissements massifs.\\n• JPMorgan a chuté de plus de 3% après une baisse inattendue des revenus de trading obligataire; l'indice KBW Bank a perdu environ 12%.\\n• Les obligations mondiales ont rallié, la dette française surperformant et l'écart OAT-Bund se resserrant sous 140bp.\\n• La baisse du pétrole et des rendements obligataires a soutenu les actions européennes; le Brent a cassé sa série de trois jours.\\n• Le gouverneur Waller de la Fed a noté que les rendements du Trésor élevés freinent déjà l'économie, agissant comme un resserrement monétaire."
     }
   },
   "dockets": [
@@ -26,9 +26,17 @@
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "EUR",
-      "title": "German CPI",
-      "forecast": "YoY 3.3%, MoM 0.6%, HICP YoY 3.3%, HICP MoM 0.6%",
-      "previous": "YoY 3.3%, MoM 0.6%, HICP YoY 3.3%, HICP MoM 0.6%"
+      "title": "German CPI YoY",
+      "forecast": "3.3%",
+      "previous": "3.3%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German HICP YoY",
+      "forecast": "3.3%",
+      "previous": "3.3%"
     },
     {
       "time_et": "03:45",
@@ -39,5 +47,5 @@
       "previous": ""
     }
   ],
-  "generated_at": "2026-10-13T16:29:00+02:00"
+  "generated_at": "2026-10-13T21:47:34+02:00"
 }
