@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-13",
+  "date_fr": "Mardi 13 octobre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/10/13/morning-juice-europe-session-prep-665/",
+      "date": "2026-10-13",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• La glissade mondiale des titres de semi-conducteurs s'est accentuée, entraînant une baisse de plus de 6% du marché sud-coréen.\\n• La RBA a relevé son taux directeur il y a deux semaines, citant des risques d'inflation à la hausse et le coût de l'attente.\\n• Le FMI prévoit une reprise de la croissance mondiale l'année prochaine grâce à l'IA, mais avertit des limites de résilience de l'économie.\\n• Le pétrole a légèrement baissé après trois jours de gains, préoccupations sur l'approvisionnement au Moyen-Orient.\\n• Meta a lancé un modèle d'IA très attendu, testant sa capacité à rivaliser avec les leaders du secteur.\\n• Les taux hypothécaires à 7% ont frappé le marché immobilier américain, faisant chuter les ventes à des plus bas de 12 ans."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/10/12/sp-500-wavers-ahead-of-earnings-as-chip-stocks-slide-us-market-wrap/",
+      "date": "2026-10-12",
+      "title": "S&P 500 Wavers Ahead of Earnings as Chip Stocks Slide – US Market Wrap",
+      "summary": "• La vente continue des actions de semi-conducteurs a maintenu les marchés sous pression avant la saison des résultats.\\n• Les principaux fabricants de puces ont prolongé leurs baisses pour une cinquième séance consécutive, pesant sur le S&P 500.\\n• L'indice de référence S&P 500 est resté proche de ses records, soutenu par des attentes de bénéfices solides.\\n• Les contrats à terme sur les Treasuries ont peu changé, le marché obligataire au comptant étant fermé pour Columbus Day.\\n• Hammack de la Fed a suggéré des ajustements de politique monétaire plus petits et fréquents pour stabiliser les attentes d'inflation.\\n• Elle n'a pas explicitement soutenu une hausse des taux lors de la réunion de la Fed ce mois-ci."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/10/13/morning-juice-us-session-prep-13th-october-2/",
+      "date": "2026-10-13",
+      "title": "Morning Juice – US Session Prep (13th October)",
+      "summary": "• Une sixième journée consécutive de faiblesse des semi-conducteurs a pesé sur les actions américaines, le NDX en baisse de 0.6%.\\n• Certaines parties du secteur de l'AI restent sous pression, les investisseurs s'interrogeant sur la durabilité des investissements.\\n• JPMorgan a chuté de plus de 3% après une baisse inattendue des revenus de trading à revenu fixe.\\n• Les obligations mondiales ont rallié, la dette française surperformant et l'écart OAT-Bund se resserrant sous 140pb.\\n• Les prix du pétrole et les rendements obligataires plus bas ont soutenu les actions européennes, le Brent ayant mis fin à sa série de gains.\\n• Le gouverneur Waller de la Fed a noté que les rendements élevés des Treasuries à long terme freinent déjà l'économie."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German CPI",
+      "forecast": "YoY 3.3%, MoM 0.6%, HICP YoY 3.3%, HICP MoM 0.6%",
+      "previous": "YoY 3.3%, MoM 0.6%, HICP YoY 3.3%, HICP MoM 0.6%"
+    },
+    {
+      "time_et": "03:45",
+      "time_cet": "09:45",
+      "cur": "USD",
+      "title": "Fed Governor Christopher Waller speaks on economic policy in the age of AI BLoomberg New Economy Forum.",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-10-13T16:29:00+02:00"
+}
