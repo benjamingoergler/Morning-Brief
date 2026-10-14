@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-14",
+  "date_fr": "Mercredi 14 octobre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/10/14/morning-juice-europe-session-prep-666/",
+      "date": "2026-10-14",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• L'inflation élevée de la zone euro, due aux prix de l'énergie, n'a pas encore affecté l'économie globale, selon Christine Lagarde.\n• John Williams (NY Fed) estime qu'une hausse de taux supplémentaire est appropriée cette année, mais pas d'augmentation nécessaire en 2027.\n• L'excédent commercial chinois a atteint 938 milliards de dollars sur neuf mois, les exportations ayant augmenté plus vite que prévu.\n• L'inflation chinoise (consommation et production) a bondi, le pétrole dépassant 100 $ et les biens liés à l'IA devenant plus chers.\n• Donald Trump a déclaré que Taïwan achèterait 30% du gaz d'un projet énergétique en Alaska sur 20 ans.\n• Le pétrole a augmenté suite à des attaques au Moyen-Orient, augmentant l'incertitude sur les flux énergétiques du Golfe Persique.\n• Le siège de Saudi Aramco a été touché par une attaque de missiles des Houthis, provoquant un incendie partiel."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/10/13/stocks-recover-as-fed-commentary-eases-aggressive-rate-hike-fears-us-market-wrap/",
+      "date": "2026-10-13",
+      "title": "Stocks Recover as Fed Commentary Eases Aggressive Rate-Hike Fears – US Market Wrap",
+      "summary": "• Les actions US ont rebondi, les attentes d'une Fed moins agressive compensant les inquiétudes sur le pétrole et l'IA.\n• Le S&P 500 a peu changé, la plupart des composants progressant après les commentaires de Williams sur les taux.\n• John Williams (NY Fed) a indiqué qu'une hausse de taux supplémentaire pourrait être appropriée cette année, mais pas en 2027.\n• Les rendements du Trésor ont baissé; les actions de semi-conducteurs ont réduit leurs pertes, l'indice clé a terminé à -0,2%.\n• Microsoft a grimpé à un niveau record, reflétant la résilience de certains géants technologiques malgré les incertitudes du marché.\n• Christopher Waller (Fed) a noté que les coûts d'emprunt élevés pèsent sur les secteurs sensibles aux taux, réduisant le besoin de resserrement."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/10/14/morning-juice-us-session-prep-14th-october-2/",
+      "date": "2026-10-14",
+      "title": "Morning Juice – US Session Prep (14th October)",
+      "summary": "• Les actions US ont légèrement progressé avant le CPI de septembre; S&P 500 futures +0,2%, Treasuries et dollar stables.\n• Les marchés continuent de prévoir au moins trois hausses de taux de 25pb par la Fed sur l'année prochaine.\n• Williams (NY Fed) a suggéré qu'une hausse supplémentaire cette année pourrait suffire, sans resserrement additionnel nécessaire en 2027.\n• Les actions de puces sont restées sous pression pour la sixième séance, malgré le gain d'ASML et son avertissement sur l'offre.\n• Le pétrole Brent a repris son avance, maintenant les préoccupations inflationnistes au premier plan pour les investisseurs.\n• La réunion d'investisseurs d'Anthropic a attiré l'attention, avec un examen croissant de la durabilité et intensité de l'investissement IA."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "",
+      "title": "IEA Monthly Oil Report",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-10-14T14:14:38+02:00"
+}
