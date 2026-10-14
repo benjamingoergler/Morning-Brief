@@ -6,22 +6,30 @@
       "url": "https://features.financialjuice.com/2026/10/14/morning-juice-europe-session-prep-666/",
       "date": "2026-10-14",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• L'inflation élevée de la zone euro, due aux prix de l'énergie, n'a pas encore affecté l'économie globale, selon Christine Lagarde.\n• John Williams (NY Fed) estime qu'une hausse de taux supplémentaire est appropriée cette année, mais pas d'augmentation nécessaire en 2027.\n• L'excédent commercial chinois a atteint 938 milliards de dollars sur neuf mois, les exportations ayant augmenté plus vite que prévu.\n• L'inflation chinoise (consommation et production) a bondi, le pétrole dépassant 100 $ et les biens liés à l'IA devenant plus chers.\n• Donald Trump a déclaré que Taïwan achèterait 30% du gaz d'un projet énergétique en Alaska sur 20 ans.\n• Le pétrole a augmenté suite à des attaques au Moyen-Orient, augmentant l'incertitude sur les flux énergétiques du Golfe Persique.\n• Le siège de Saudi Aramco a été touché par une attaque de missiles des Houthis, provoquant un incendie partiel."
+      "summary": "• La Présidente de la BCE, Lagarde, note que l'inflation élevée de la zone euro, due à l'énergie, n'a pas encore affecté l'économie globale.\n• Le Président de la Fed de New York, Williams, estime qu'une hausse de taux supplémentaire cette année est appropriée, mais pas en 2027.\n• L'excédent commercial de la Chine a atteint 938 milliards de dollars sur neuf mois, avec une croissance des exportations supérieure aux attentes.\n• L'inflation chinoise (CPI et PPI) a augmenté, le pétrole dépassant 100 $ le baril en raison des tensions au Moyen-Orient.\n• Donald Trump a annoncé que Taiwan achèterait 30% du gaz d'un projet énergétique en Alaska sur les 20 prochaines années.\n• Les prix du pétrole ont grimpé suite aux attaques au Moyen-Orient, notamment le siège d'Aramco, augmentant l'incertitude sur l'approvisionnement."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/10/13/stocks-recover-as-fed-commentary-eases-aggressive-rate-hike-fears-us-market-wrap/",
       "date": "2026-10-13",
       "title": "Stocks Recover as Fed Commentary Eases Aggressive Rate-Hike Fears – US Market Wrap",
-      "summary": "• Les actions US ont rebondi, les attentes d'une Fed moins agressive compensant les inquiétudes sur le pétrole et l'IA.\n• Le S&P 500 a peu changé, la plupart des composants progressant après les commentaires de Williams sur les taux.\n• John Williams (NY Fed) a indiqué qu'une hausse de taux supplémentaire pourrait être appropriée cette année, mais pas en 2027.\n• Les rendements du Trésor ont baissé; les actions de semi-conducteurs ont réduit leurs pertes, l'indice clé a terminé à -0,2%.\n• Microsoft a grimpé à un niveau record, reflétant la résilience de certains géants technologiques malgré les incertitudes du marché.\n• Christopher Waller (Fed) a noté que les coûts d'emprunt élevés pèsent sur les secteurs sensibles aux taux, réduisant le besoin de resserrement."
+      "summary": "• Les actions américaines ont rebondi, les attentes d'un resserrement monétaire moins agressif de la Fed compensant les inquiétudes sur le pétrole et l'IA.\n• Le S&P 500 a peu varié, la plupart des composants ayant avancé après les commentaires de John Williams de la Fed de New York.\n• Williams a indiqué qu'une hausse de taux supplémentaire cette année pourrait suffire, rendant d'autres augmentations en 2027 improbables.\n• Les rendements du Trésor ont baissé, et les actions des semi-conducteurs ont réduit leurs pertes, l'indice sectoriel ne reculant que de 0,2%.\n• Microsoft a atteint un nouveau record historique, signalant une forte performance dans le secteur technologique.\n• Le gouverneur de la Fed, Waller, a noté que les rendements élevés du Trésor réduisent déjà le besoin de resserrement monétaire."
     },
     "mj_us": {
       "url": "https://features.financialjuice.com/2026/10/14/morning-juice-us-session-prep-14th-october-2/",
       "date": "2026-10-14",
       "title": "Morning Juice – US Session Prep (14th October)",
-      "summary": "• Les actions US ont légèrement progressé avant le CPI de septembre; S&P 500 futures +0,2%, Treasuries et dollar stables.\n• Les marchés continuent de prévoir au moins trois hausses de taux de 25pb par la Fed sur l'année prochaine.\n• Williams (NY Fed) a suggéré qu'une hausse supplémentaire cette année pourrait suffire, sans resserrement additionnel nécessaire en 2027.\n• Les actions de puces sont restées sous pression pour la sixième séance, malgré le gain d'ASML et son avertissement sur l'offre.\n• Le pétrole Brent a repris son avance, maintenant les préoccupations inflationnistes au premier plan pour les investisseurs.\n• La réunion d'investisseurs d'Anthropic a attiré l'attention, avec un examen croissant de la durabilité et intensité de l'investissement IA."
+      "summary": "• Les actions américaines ont légèrement progressé avant le CPI de septembre, les futures S&P 500 augmentant de 0,2%.\n• Les marchés anticipent toujours au moins trois hausses de taux de 25pb de la Fed sur la prochaine année.\n• Williams a indiqué qu'une hausse de taux supplémentaire cette année pourrait suffire, sans resserrement nécessaire en 2027.\n• Les actions des semi-conducteurs sont restées sous pression pour la sixième séance consécutive, malgré la hausse d'ASML.\n• Les actions européennes ont surperformé, tandis que BofA a chuté de plus de 3% suite à des résultats de trading décevants.\n• Le Brent a repris son avance, maintenant les préoccupations inflationnistes au centre de l'attention des marchés."
     }
   },
   "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "",
+      "title": "BoE’s Pill speaks at a Citi roundtable in Bangkok.",
+      "forecast": "",
+      "previous": ""
+    },
     {
       "time_et": "04:00",
       "time_cet": "10:00",
@@ -29,7 +37,31 @@
       "title": "IEA Monthly Oil Report",
       "forecast": "",
       "previous": ""
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "",
+      "title": "ECB’s Pereira Speaks at IMF Annual Meetings in Bangkok. Pathways to Resilience: Success Stories in Reform and Partnership.",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "",
+      "title": "ECB’s Pres. Lagarde Speaks on Europe’s Digital Future.",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "time_et": "05:20",
+      "time_cet": "11:20",
+      "cur": "",
+      "title": "ECB’s Escriva, Makhlouf Speak at IIF in Bangkok.",
+      "forecast": "",
+      "previous": ""
     }
   ],
-  "generated_at": "2026-10-14T14:14:38+02:00"
+  "generated_at": "2026-10-14T19:50:45+02:00"
 }
