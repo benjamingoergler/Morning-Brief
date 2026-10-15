@@ -6,15 +6,20 @@
       "url": "https://features.financialjuice.com/2026/10/15/morning-juice-europe-session-prep-667/",
       "date": "2026-10-15",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le chômage et les pertes d'emplois en Australie suggèrent un assouplissement du marché du travail, réduisant les paris sur des hausses de taux de la RBA.\n• La ministre des Finances japonaise a averti les spéculateurs d'une intervention potentielle après l'affaiblissement du yen face au dollar.\n• La décision sur les taux d'intérêt de la RBNZ fin octobre est « grande ouverte », malgré les pressions inflationnistes en Nouvelle-Zélande.\n• Un resserrement des conditions financières pourrait limiter la nécessité d'une action de politique monétaire de la BCE, selon Primoz Dolenc.\n• Le pétrole a maintenu ses gains, les attaques au Moyen-Orient et en Russie menaçant l'approvisionnement récemment rétabli.\n• Le président de la Fed de Chicago, Goolsbee, a jugé les pressions inflationnistes généralisées préoccupantes, craignant une surchauffe due à l'IA."
+      "summary": "• L'augmentation du chômage en Australie en septembre réduit les attentes de hausse des taux de la RBA.\n• La ministre des Finances japonaise Satsuki Katayama prête à intervenir sur le marché des devises si nécessaire.\n• La décision de taux de la RBNZ fin octobre est \"ouverte\", malgré les pressions inflationnistes.\n• Le resserrement des conditions financières pourrait limiter l'action de la BCE, selon Primoz Dolenc.\n• Le pétrole maintient ses gains, les attaques en Russie et au Moyen-Orient menaçant l'approvisionnement.\n• Austan Goolsbee de la Fed s'inquiète des pressions inflationnistes et du risque de surchauffe lié à l'IA."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/10/14/chip-selloff-deepens-as-inflation-revives-fed-rate-hike-fears-us-market-wrap/",
       "date": "2026-10-14",
       "title": "Chip Selloff Deepens as Inflation Revives Fed Rate-Hike Fears – US Market Wrap",
-      "summary": "• Les actions américaines ont chuté, les pertes des semi-conducteurs et l'inflation renforçant les attentes de hausses de taux de la Fed.\n• Le S&P 500 a mis fin à sa plus longue période sans baisse de 1% en plus de six ans.\n• Un indice clé des fabricants de puces, incluant Nvidia et Broadcom, a baissé de 20% depuis son pic de juin.\n• Les investisseurs s'inquiètent des taux d'intérêt croissants, des valorisations élevées et des coûts d'infrastructure de l'IA.\n• Les obligations de CoreWeave ont atteint des niveaux de détresse, le PDG qualifiant le sentiment de marché d'« irrationnel ».\n• Apple prépare le lancement de sa plateforme d'IA en Chine continentale après un long retard réglementaire."
+      "summary": "• Les actions américaines ont chuté, les pertes des semi-conducteurs et l'inflation renforçant les attentes de hausse des taux de la Fed.\n• Le S&P 500 a mis fin à sa plus longue période sans baisse de 1% en plus de six ans.\n• L'indice des fabricants de puces a baissé de 20% depuis juin, préoccupé par les taux et les coûts de l'IA.\n• Les obligations CoreWeave ont atteint des niveaux de détresse, le PDG qualifiant le sentiment de marché d'\"irrationnel\".\n• Apple se prépare à lancer sa plateforme d'IA en Chine continentale après un long délai réglementaire."
     },
-    "mj_us": null
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/10/15/morning-juice-us-session-prep-15th-october-2/",
+      "date": "2026-10-15",
+      "title": "Morning Juice – US Session Prep (15th October)",
+      "summary": "• Les actions mondiales ont encore baissé, la vente d'IA s'intensifiant, les futures NDX perdant 1.1%.\n• Les actions de semi-conducteurs se dirigent vers une sixième baisse consécutive, accentuant les inquiétudes.\n• Anthropic a montré une croissance ralentie, ajoutant aux préoccupations sur les valorisations et le financement de l'IA.\n• Le Kospi sud-coréen a chuté de 7.6%, Samsung et SK Hynix perdant plus de 9%.\n• Les Treasuries ont rallié, le rendement à 10 ans baissant de 11pb à 5.08%; le Brent a glissé vers 104$.\n• Les marchés restent concentrés sur l'inflation après un CPI US plus fort que prévu, anticipant le PPI."
+    }
   },
   "dockets": [
     {
@@ -58,5 +63,5 @@
       "previous": "3.4%"
     }
   ],
-  "generated_at": "2026-10-15T13:56:02+02:00"
+  "generated_at": "2026-10-15T19:40:20+02:00"
 }
