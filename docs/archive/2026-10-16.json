@@ -6,19 +6,19 @@
       "url": "https://features.financialjuice.com/2026/10/16/morning-juice-europe-session-prep-668/",
       "date": "2026-10-16",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Le président de la Fed, Kevin Warsh, tiendra une audience sur la productivité et l'emploi à San Francisco le mois prochain.\n• Donald Trump n'exclut pas l'utilisation de la \"Mother of all Bombs\" contre l'Iran après les élections de mi-mandat.\n• Le président ukrainien Zelenskyy a ordonné la reprise des attaques contre les raffineries russes, malgré les restrictions US.\n• Le pétrole est en passe de réaliser une deuxième semaine de hausse, les risques d'approvisionnement au Moyen-Orient pesant.\n• La Chine accélère la promotion mondiale du yuan, visant un écosystème financier complet au-delà du commerce.\n• Les investisseurs brésiliens se couvrent, de nouveaux sondages tempérant l'euphorie post-premier tour des élections."
+      "summary": "• Le président de la Fed, Kevin Warsh, tiendra une audience sur la productivité et l'emploi le mois prochain.\n• Donald Trump n'exclut pas l'utilisation de la \"Mother of all Bombs\" contre l'Iran après les élections américaines.\n• Le président Zelenskyy a ordonné la reprise des attaques contre les raffineries russes, en conflit avec Trump.\n• Le pétrole est en hausse pour la deuxième semaine, les risques d'approvisionnement au Moyen-Orient compensant les réserves.\n• La Chine accélère la promotion mondiale du yuan, cherchant un écosystème financier plus complet.\n• Les investisseurs se couvrent sur les actifs brésiliens, de nouveaux sondages tempérant l'euphorie post-élections."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/10/15/stocks-rebound-as-nvidia-backs-coreweave-amid-ai-investment-concerns-us-market-wrap/",
       "date": "2026-10-15",
       "title": "Stocks Rebound as Nvidia Backs CoreWeave Amid AI Investment Concerns – US Market Wrap",
-      "summary": "• Les actions américaines ont rebondi, les investisseurs réévaluant les préoccupations concernant la durabilité du boom de l'IA.\n• Le S&P 500 a mis fin à une série de trois jours de baisse; les actions des semi-conducteurs se sont stabilisées.\n• Le PDG de Nvidia a défendu la position financière de CoreWeave, un client et fournisseur majeur d'IA.\n• Des inquiétudes sont apparues concernant CoreWeave, son risque de crédit ayant atteint un niveau record.\n• Ces craintes ont contribué à la récente liquidation du marché, remettant en question les retours sur investissement en IA.\n• Meta a lancé de nouveaux modèles d'IA pour les développeurs, tout en protégeant sa technologie la plus avancée."
+      "summary": "• Les actions américaines ont rebondi, les investisseurs réévaluant les inquiétudes sur la durabilité du boom de l'IA.\n• Le S&P 500 a mis fin à trois jours de baisse ; les semi-conducteurs se sont stabilisés après les déclarations de Nvidia.\n• Les inquiétudes sur le risque de crédit de CoreWeave, à un niveau record, ont soulevé des questions sur la stabilité financière des entreprises d'IA.\n• Ces craintes ont contribué à la récente liquidation du marché, interrogeant la rentabilité des investissements en IA.\n• Meta a lancé de nouveaux modèles d'IA pour développeurs, protégeant sa technologie avancée pour générer des revenus."
     },
     "mj_us": {
       "url": "https://features.financialjuice.com/2026/10/16/morning-juice-us-session-prep-16th-october-2/",
       "date": "2026-10-16",
       "title": "Morning Juice – US Session Prep (16th October)",
-      "summary": "• Les futures US ont légèrement progressé après une semaine volatile, marquée par une vente d'IA et un rallye obligataire.\n• Les futures S&P 500 ont augmenté de 0,2%; les fabricants de puces sont restés sous pression.\n• Tesla a gagné après avoir dévoilé son nouveau Roadster; CoreWeave a poursuivi sa baisse.\n• Les actions européennes devraient surperformer le S&P 500 avec le plus grand écart hebdomadaire depuis août.\n• Les rendements du Trésor ont légèrement augmenté, mais le 10 ans est en baisse hebdomadaire la plus forte depuis février.\n• Le dollar s'est affaibli, le Brent a tenu autour de 106 $; le NDX a chuté d'environ 3% cette semaine.\n• Les prix élevés de l'énergie maintiennent l'inflation et les risques de resserrement en ligne de mire.\n• La probabilité implicite d'une hausse des taux en octobre est tombée à environ 15%."
+      "summary": "• Les futures US ont légèrement progressé après une semaine volatile marquée par la vente d'IA et la hausse des Treasuries.\n• Les futures S&P 500 ont augmenté de 0,2%, Tesla a gagné, tandis que CoreWeave a poursuivi sa baisse.\n• Les actions européennes devraient surperformer le S&P 500 avec la plus grande marge hebdomadaire depuis août.\n• Les rendements du Trésor ont légèrement augmenté, mais le 10 ans est en baisse hebdomadaire la plus forte depuis février.\n• Le dollar s'est affaibli et le Brent s'est maintenu autour de 106 $ le baril, alimentant les craintes d'inflation.\n• Les inquiétudes sur l'IA ont fait chuter le Nasdaq 100 d'environ 3% cette semaine; la probabilité d'une hausse des taux en octobre est à 15%."
     }
   },
   "dockets": [
@@ -34,10 +34,10 @@
       "time_et": "05:00",
       "time_cet": "11:00",
       "cur": "EUR",
-      "title": "Eurozone Core CPI YoY",
+      "title": "Eurozone CPI Core YoY",
       "forecast": "2.5%",
       "previous": "2.5%"
     }
   ],
-  "generated_at": "2026-10-16T13:46:43+02:00"
+  "generated_at": "2026-10-16T19:14:04+02:00"
 }
