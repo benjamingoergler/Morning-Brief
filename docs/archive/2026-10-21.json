@@ -6,19 +6,19 @@
       "url": "https://features.financialjuice.com/2026/10/21/morning-juice-europe-session-prep-671/",
       "date": "2026-10-21",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• La RBA a noté une hausse des prix de l'IA et de la technologie impactant le CPI, suggérant une potentielle hausse de taux.\n• Le boom de la construction de centres de données en Australie ajoute une pression haussière sur l'inflation.\n• Les prix du pétrole ont augmenté suite aux attaques près du détroit d'Hormuz et à la baisse des stocks US.\n• La banque centrale chinoise pourrait passer à un taux d'intérêt au jour le jour, nécessitant des opérations de liquidité fréquentes.\n• Le président Trump a déclaré que les États-Unis et l'Inde sont proches de finaliser un accord commercial."
+      "summary": "• RBA's Hauser a noté que les prix de l'IA et de la technologie alimentent le CPI, suggérant une hausse des taux en novembre.\n• Le pétrole a légèrement augmenté suite aux attaques près du détroit d'Ormuz et à une baisse des stocks US.\n• La banque centrale chinoise pourrait passer à un taux d'intérêt au jour le jour, nécessitant plus d'opérations de liquidité.\n• Le président Trump a déclaré que les États-Unis et l'Inde sont proches de finaliser un accord commercial.\n• Les données CPI du Royaume-Uni sont attendues à 02:00 ET, avec le CPI YoY prévu à 3.4% (précédent 3.1%).\n• Le PPI Input YoY du Royaume-Uni est prévu à 7.6% (précédent 6.1%) et le PPI Output YoY à 4.4% (précédent 3.7%)."
     },
     "wrap": {
       "url": "https://features.financialjuice.com/2026/10/20/stocks-rise-as-earnings-optimism-offsets-ai-volatility-and-oil-slips-us-market-wrap/",
       "date": "2026-10-20",
       "title": "Stocks Rise as Earnings Optimism Offsets AI Volatility and Oil Slips – US Market Wrap",
-      "summary": "• Les actions de Wall Street ont progressé, les investisseurs ignorant la volatilité technologique, soutenues par les bénéfices et la baisse du pétrole.\n• Plus de 400 entreprises du S&P 500 ont avancé, mais les semi-conducteurs ont baissé sur des doutes concernant l'IA.\n• Anthropic pourrait dépenser 750 milliards de dollars en capacité de calcul; SpaceX a annoncé des revenus supérieurs aux attentes.\n• Le Brent a clôturé sous 109 dollars le baril, les efforts diplomatiques US-Iran se poursuivant malgré de faux rapports.\n• Les obligations du Trésor US à long terme ont surperformé, en attente des résultats majeurs des entreprises technologiques.\n• Les actions CoreWeave ont rebondi, mais la société reste sous pression en raison de son endettement important."
+      "summary": "• Les actions de Wall Street ont progressé, les investisseurs ignorant la volatilité technologique, soutenus par les bénéfices et la baisse du pétrole.\n• Plus de 400 sociétés du S&P 500 ont avancé, malgré le déclin des semi-conducteurs face aux doutes sur l'IA.\n• Anthropic pourrait dépenser 750 milliards de dollars en capacité informatique, tandis que SpaceX a dépassé les attentes de revenus.\n• Le Brent a clôturé sous 109 dollars le baril, les efforts diplomatiques US-Iran se poursuivant malgré de fausses rumeurs d'accord.\n• Les Treasuries US à long terme ont surperformé, les investisseurs attendant les résultats technologiques majeurs pour évaluer l'IA.\n• Les actions CoreWeave ont rebondi après des turbulences, mais la société reste sous pression en raison de son endettement important."
     },
     "mj_us": {
       "url": "https://features.financialjuice.com/2026/10/21/morning-juice-us-session-prep-21st-october-2/",
       "date": "2026-10-21",
       "title": "Morning Juice – US Session Prep (21st October)",
-      "summary": "• Les prix du pétrole ont légèrement augmenté suite aux attaques près du détroit d'Hormuz et à la baisse des stocks de brut US.\n• Les futures US ont progressé après les solides résultats de SpaceX, apaisant les craintes sur la rentabilité de l'IA.\n• Elon Musk a soutenu une fusion potentielle entre SpaceX et Tesla, créant une vaste plateforme technologique intégrée.\n• Les obligations d'État françaises ont subi des pressions, les investisseurs exigeant des primes plus élevées sur la dette.\n• BlackRock a affirmé que les rendements actuels des obligations d'entreprise offrent une source de revenus plus résiliente."
+      "summary": "• Les prix du pétrole ont légèrement augmenté en raison des attaques près du détroit d'Ormuz et d'une baisse des stocks US.\n• Les futures sur actions US ont progressé après les solides résultats de SpaceX, apaisant les craintes sur la rentabilité de l'IA.\n• Elon Musk a soutenu une fusion potentielle entre SpaceX et Tesla, qui pourrait devenir la plus grande fusion d'entreprise jamais enregistrée.\n• Cette combinaison créerait une plateforme plus large pour les ambitions technologiques croissantes de Musk (VE, IA, fusées, satellites).\n• Les obligations d'État françaises ont subi des pressions, les investisseurs exigeant des primes plus élevées face aux perspectives budgétaires.\n• BlackRock a affirmé que les rendements obligataires d'entreprise actuels offrent une source de revenus plus résiliente."
     }
   },
   "dockets": [
@@ -34,7 +34,7 @@
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "GBP",
-      "title": "UK Core YoY",
+      "title": "UK Core CPI YoY",
       "forecast": "2.8%",
       "previous": "2.6%"
     },
@@ -50,7 +50,7 @@
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "GBP",
-      "title": "PPI Input YoY",
+      "title": "UK PPI Input YoY",
       "forecast": "7.6%",
       "previous": "6.1%"
     },
@@ -58,10 +58,10 @@
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "GBP",
-      "title": "PPI Output YoY",
+      "title": "UK PPI Output YoY",
       "forecast": "4.4%",
       "previous": "3.7%"
     }
   ],
-  "generated_at": "2026-10-21T14:12:53+02:00"
+  "generated_at": "2026-10-21T19:56:40+02:00"
 }
