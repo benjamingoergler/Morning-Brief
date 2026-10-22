@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-22",
+  "date_fr": "Jeudi 22 octobre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/10/22/morning-juice-europe-session-prep-672/",
+      "date": "2026-10-22",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• L'inflation annuelle de la Nouvelle-Zélande a ralenti plus que prévu au troisième trimestre, offrant un répit avant les élections.\n• Le département d'État américain a ordonné le départ du personnel non-essentiel d'Arabie saoudite en raison de la menace des Houthis.\n• Deux personnes ont été tuées et deux blessées lors d'une attaque de drone sur le champ pétrolier de Shaybah d'Aramco.\n• Le pétrole a progressé après ces attaques meurtrières en Arabie saoudite, augmentant les craintes sur l'approvisionnement.\n• L'escalade des hostilités au Moyen-Orient pourrait affecter l'approvisionnement, malgré l'accélération des exportations via Ormuz."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/10/21/spacex-earnings-spark-tech-rally-as-ai-concerns-ease-us-market-wrap/",
+      "date": "2026-10-21",
+      "title": "SpaceX Earnings Spark Tech Rally as AI Concerns Ease – US Market Wrap",
+      "summary": "• Un rapport de résultats exceptionnel de SpaceX a stimulé les valeurs technologiques, apaisant les craintes sur la durabilité de l'IA.\n• Les actions de SpaceX ont bondi de 7,8%, également soutenues par les propos de Musk sur une fusion avec Tesla.\n• Tesla a grimpé en fin de séance après des résultats meilleurs que prévu, Meta Platforms a aussi bondi.\n• L'anxiété des investisseurs concernant la durabilité du boom de l'IA s'était intensifiée ces dernières semaines.\n• Les préoccupations portaient sur le temps nécessaire pour que les investissements massifs en capital se traduisent en profits."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/10/22/morning-juice-us-session-prep-22nd-october-2/",
+      "date": "2026-10-22",
+      "title": "Morning Juice – US Session Prep (22nd October)",
+      "summary": "• Le yen japonais s'est renforcé, USD/JPY chutant de 0,3% à 157,72, les résultats tech n'ayant pas convaincu les investisseurs.\n• Les tensions croissantes au Moyen-Orient ont fait grimper les prix du pétrole, augmentant l'incertitude et affaiblissant l'appétit pour le risque.\n• Les Treasuries américains ont progressé avec le yen et le franc suisse, les investisseurs recherchant des actifs sûrs.\n• Les inquiétudes sur la rentabilité des investissements massifs en IA continuent de peser sur le sentiment des marchés.\n• Le gouvernement britannique envisage de supprimer les frais fixes sur les factures de gaz pour alléger les coûts énergétiques.\n• BNP Paribas AM a augmenté son exposition aux obligations d'État japonaises à long terme, attirée par la courbe des rendements."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "",
+      "title": "French Business Climate Overall",
+      "forecast": "96",
+      "previous": "96"
+    },
+    {
+      "time_et": "02:45",
+      "time_cet": "08:45",
+      "cur": "",
+      "title": "French Business Climate Manufacturing",
+      "forecast": "101",
+      "previous": "101"
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "",
+      "title": "SNB Meeting Minutes",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-10-22T14:15:20+02:00"
+}
