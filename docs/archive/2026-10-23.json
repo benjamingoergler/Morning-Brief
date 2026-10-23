@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-23",
+  "date_fr": "Vendredi 23 octobre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/10/23/morning-juice-europe-session-prep-673/",
+      "date": "2026-10-23",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• L'inflation japonaise a dépassé l'objectif de 2% de la BoJ cette année, renforçant les attentes d'une hausse des taux en décembre.\n• Le Brent se dirige vers un troisième gain hebdomadaire, au-dessus de 113 $, suite aux attaques en Arabie Saoudite, soulevant des craintes d'approvisionnement.\n• La Chine renforce le contrôle des scissions d'entreprises cotées, ce qui pourrait ralentir les nouvelles transactions et les investissements américains.\n• L'administration Trump cherche à restreindre les investissements américains dans les entreprises de biotechnologie chinoises, menaçant les liens financiers.\n• Un nouveau sondage montre Flávio Bolsonaro et Lula da Silva à égalité avant le second tour des élections brésiliennes.\n• La concentration des centres de données australiens menace les ambitions d'IA en raison des réseaux électriques tendus et de l'opposition locale."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/10/22/tech-selloff-and-middle-east-tensions-trigger-treasury-rally-as-oil-surges-us-market-wrap/",
+      "date": "2026-10-22",
+      "title": "Tech Selloff and Middle East Tensions Trigger Treasury Rally as Oil Surges – US Market Wrap",
+      "summary": "• Les actions mondiales ont chuté, les pertes technologiques et le conflit au Moyen-Orient poussant les investisseurs vers les obligations d'État.\n• Le Brent a dépassé 113 $ le baril après des attaques en Arabie Saoudite, ravivant les craintes de perturbations d'approvisionnement.\n• Le S&P 500 a baissé de 1,2%, le Nasdaq 100 de 2,9% et l'indice des semi-conducteurs a plongé de 6,7%.\n• Meta Platforms a mené la chute technologique, ses actions glissant de 7% sur des préoccupations de coûts d'investissement en IA.\n• Le risque de crédit de Meta a atteint un record, reflétant les craintes de dette accrue pour financer l'infrastructure d'IA.\n• Les rendements des bons du Trésor américain à 10 ans ont chuté de 15 points de base à 4,97%, leur plus fort rallye en un an."
+    },
+    "mj_us": null
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "YoY",
+      "forecast": "1%",
+      "previous": "2.4%"
+    },
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "GBP",
+      "title": "Core YoY",
+      "forecast": "1.4%",
+      "previous": "2.7%"
+    },
+    {
+      "time_et": "03:15",
+      "time_cet": "09:15",
+      "cur": "EUR",
+      "title": "Services",
+      "forecast": "50.7",
+      "previous": "51.2"
+    },
+    {
+      "time_et": "03:15",
+      "time_cet": "09:15",
+      "cur": "EUR",
+      "title": "Composite",
+      "forecast": "50.3",
+      "previous": "51.1"
+    },
+    {
+      "time_et": "03:15",
+      "time_cet": "09:15",
+      "cur": "EUR",
+      "title": "Manufacturing",
+      "forecast": "50.5",
+      "previous": "50.6"
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "EUR",
+      "title": "Services",
+      "forecast": "52.5",
+      "previous": "52.9"
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "EUR",
+      "title": "Composite",
+      "forecast": "53.4",
+      "previous": "53.8"
+    },
+    {
+      "time_et": "03:30",
+      "time_cet": "09:30",
+      "cur": "EUR",
+      "title": "Manufacturing",
+      "forecast": "53.5",
+      "previous": "53.9"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Services",
+      "forecast": "52.5",
+      "previous": "53"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Composite",
+      "forecast": "53.4",
+      "previous": "53.8"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Manufacturing",
+      "forecast": "52.8",
+      "previous": "52.9"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "Services",
+      "forecast": "51.8",
+      "previous": "52.1"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "Composite",
+      "forecast": "53.4",
+      "previous": "53.8"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "Manufacturing",
+      "forecast": "52.8",
+      "previous": "52.9"
+    }
+  ],
+  "generated_at": "2026-10-23T13:57:33+02:00"
+}
