@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-26",
+  "date_fr": "Lundi 26 octobre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/10/26/morning-juice-europe-session-prep-674/",
+      "date": "2026-10-26",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le pétrole a légèrement baissé suite à la rhétorique US-Iran et des conditions techniques de surachat. \n• La RBA pourrait relever ses taux le mois prochain, l'assistante gouverneure signalant que la lutte contre l'inflation n'est pas terminée. \n• Les négociations commerciales US-Canada s'intensifient après la modification des tarifs canadiens par l'administration Trump. \n• La banque centrale australienne alerte sur les défis du secteur des pensions (A$4.8T) face aux départs à la retraite. \n• Les fonds de pension australiens anticipent des sorties de capitaux importantes alors que les retraités puisent dans leurs épargnes."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/10/23/stocks-and-bonds-fall-as-oil-surge-revives-inflation-concerns-us-market-wrap/",
+      "date": "2026-10-23",
+      "title": "Stocks and Bonds Fall as Oil Surge Revives Inflation Concerns – US Market Wrap",
+      "summary": "• Les actions et obligations US ont reculé, la flambée des prix du pétrole intensifiant les craintes d'inflation. \n• Le Brent a clôturé près de 117 $ le baril, les tensions au Moyen-Orient menaçant l'approvisionnement énergétique mondial. \n• Ces pressions inflationnistes pourraient compliquer les perspectives de politique monétaire de la Fed. \n• La plupart des entreprises du S&P 500 ont reculé, mais la pression de vente sur les titres technologiques s'est légèrement apaisée. \n• Le Dow Jones Industrial Average a chuté de 1.2%, tandis que les Treasuries ont perdu une partie de leurs gains."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/10/26/morning-juice-us-session-prep-26th-october/",
+      "date": "2026-10-26",
+      "title": "Morning Juice – US Session Prep (26th October)",
+      "summary": "• Les actions mondiales ont progressé suite à la baisse du Brent de 2% sous 115 $ le baril, allégeant les pressions inflationnistes. \n• Les futures S&P 500 et Nasdaq 100 ont tous deux augmenté de 0.3%, les marchés européens ont également gagné du terrain. \n• Le pétrole a reculé alors que l'Iran s'apprêtait à accueillir des pourparlers de sécurité régionaux, malgré l'incertitude géopolitique. \n• L'attention se porte sur le secteur de l'IA avec les résultats d'Alphabet, Microsoft et Amazon attendus cette semaine. \n• Les investisseurs chercheront des preuves de croissance des revenus pour justifier les dépenses massives en infrastructure IA. \n• La Fed, la BCE et la BoJ se réunissent cette semaine, avec des prix énergétiques et des coûts d'emprunt toujours élevés. \n• Les actifs français ont été soutenus par le maintien de la note A3 de Moody's, les rendements à 10 ans chutant de 7pb."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "05:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "German IFO Expectations",
+      "forecast": "90",
+      "previous": "90.4"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "German IFO Business Climate",
+      "forecast": "89.9",
+      "previous": "89.9"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "German IFO Current Conditions",
+      "forecast": "89.8",
+      "previous": "89.5"
+    }
+  ],
+  "generated_at": "2026-10-26T14:26:51+01:00"
+}
