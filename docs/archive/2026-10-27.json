@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-27",
+  "date_fr": "Mardi 27 octobre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/10/27/morning-juice-europe-session-prep-675/",
+      "date": "2026-10-27",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Le RBNZ Shadow Board recommande une hausse de 0,25% du taux officiel à 3% cette semaine, selon le NZIER. • Le pétrole a baissé pour le deuxième jour, s'éloignant d'un sommet de six mois, suite aux efforts diplomatiques US-Iran. • L'économie sud-coréenne a connu une croissance plus rapide que prévu au T3 grâce aux exportations de puces IA. • La consommation sud-coréenne a diminué, compliquant la trajectoire des futures hausses de taux d'intérêt. • Le Chancelier John Healey devrait augmenter le salaire minimum national britannique d'environ 4%. • Le prix moyen de l'essence aux États-Unis sous Trump a dépassé celui de l'administration Biden, accentuant la pression."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/10/26/tech-stocks-rally-as-anthropic-moves-toward-ipo-us-market-wrap/",
+      "date": "2026-10-26",
+      "title": "Tech Stocks Rally as Anthropic Moves Toward IPO – US Market Wrap",
+      "summary": "• Le secteur de l'IA a relancé les gains boursiers avec l'IPO d'Anthropic, les investisseurs anticipant les résultats tech et la Fed. • Le S&P 500 a mis fin à deux jours de pertes, les fabricants de puces ont progressé de 2,8%. • Le Nasdaq 100 a gagné 1,1% dans une séance volatile, tandis que le Brent s'est établi autour de 116 $. • Les marchés brésiliens ont chuté après la réélection de Lula, soulevant des inquiétudes budgétaires. • L'IPO d'Anthropic, sous le symbole ANT sur le Nasdaq Global Select Market, testera le sentiment envers l'IA. • Meta Platforms cherche à lever jusqu'à 95 milliards de dollars pour financer son développement IA via une offre d'actions."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/10/27/morning-juice-us-session-prep-27th-october-2/",
+      "date": "2026-10-27",
+      "title": "Morning Juice – US Session Prep (27th October)",
+      "summary": "• Les futures US étaient peu changés après les gains tech de lundi, l'enthousiasme pour l'IPO d'Anthropic s'estompe. • L'attention se tourne vers les résultats d'entreprises, la décision de la Fed et les tensions au Moyen-Orient. • Meta cherche 97,5 milliards de dollars, Broadcom 63 milliards, et SpaceX 40 milliards pour des financements liés à l'IA. • L'IPO d'Anthropic sera un test crucial de l'appétit des investisseurs après des inquiétudes sur les valorisations IA. • Le Brent a inversé ses pertes pour dépasser 116 $ le baril malgré les efforts diplomatiques à Téhéran. • Les élections israéliennes ajoutent une incertitude géopolitique, l'attention se porte sur Alphabet, Microsoft, Amazon."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "03:45",
+      "time_cet": "08:45",
+      "cur": "EUR",
+      "title": "French Consumer Confidence",
+      "forecast": "85",
+      "previous": "86"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone M3 Annual Growth",
+      "forecast": "3.4%",
+      "previous": "3.5%"
+    }
+  ],
+  "generated_at": "2026-10-27T13:34:33+01:00"
+}
