@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-02",
+  "date_fr": "Lundi 2 novembre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/11/02/morning-juice-europe-session-prep-678/",
+      "date": "2026-11-02",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• Les États du Golfe craignent qu'une attaque américano-israélienne contre l'Iran n'intensifie la guerre régionale.\n• La banque centrale chinoise a lancé des opérations quotidiennes de rachat inversé, ancrant un nouveau cadre de liquidité.\n• Les régulateurs financiers chinois rencontreront les banques pour soutenir le marché des capitaux et enrayer la chute des actions.\n• Le pétrole a baissé après des rumeurs selon lesquelles Trump privilégie la diplomatie avant de frapper l'Iran post-élections.\n• Trump a déclaré qu'un accord commercial États-Unis-Canada est \"très proche\" après des discussions avec le Premier ministre Carney.\n• Wall Street se prépare à la plus grande refonte des directives d'émission de bons du Trésor américain depuis début 2024.\n• Les autorités japonaises sont prêtes à intervenir si les mouvements du marché des devises deviennent désordonnés."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/10/30/tech-rout-hits-stocks-as-ai-spending-concerns-intensify-us-market-wrap/",
+      "date": "2026-10-30",
+      "title": "Tech Rout Hits Stocks as AI Spending Concerns Intensify – US Market Wrap",
+      "summary": "• Wall Street a subi une correction, la vente massive de titres technologiques soulevant des inquiétudes sur la frénésie de l'IA.\n• Des résultats technologiques décevants ont provoqué la pire baisse boursière depuis juin, le NDX chutant de 3,5%.\n• Intel a connu sa plus forte baisse en quatre décennies; Amazon a reculé de 1,4% sur des plans de dépenses accrues.\n• Le S&P 500 a perdu 1,8%, tombant sous sa moyenne mobile 100 jours, signe d'une faiblesse technique.\n• Un piratage record de Binance a déclenché une vague de ventes sur les cryptos, ravivant les craintes de sécurité.\n• La hausse des prix du pétrole a accru l'anxiété des traders, craignant une reprise des frappes américaines contre l'Iran."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/11/02/morning-juice-us-session-prep-2nd-november/",
+      "date": "2026-11-02",
+      "title": "Morning Juice – US Session Prep (2nd November)",
+      "summary": "• Les bons du Trésor américain à long terme ont enregistré des gains modestes, tandis que les courtes échéances étaient stables.\n• Le sentiment de risque s'est amélioré sur les marchés, contribuant à la stabilité des obligations d'État.\n• Le Brent a reculé de son plus haut de la semaine dernière, s'échangeant autour de 109 $ le baril, soutenant les obligations."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Real Retail Sales",
+      "forecast": "-0.2%",
+      "previous": "-0.4%"
+    },
+    {
+      "time_et": "03:50",
+      "time_cet": "09:50",
+      "cur": "EUR",
+      "title": "French Manufacturing PMI",
+      "forecast": "49.3",
+      "previous": "49.3"
+    },
+    {
+      "time_et": "03:55",
+      "time_cet": "09:55",
+      "cur": "EUR",
+      "title": "German Manufacturing PMI",
+      "forecast": "54.2",
+      "previous": "54.2"
+    },
+    {
+      "time_et": "04:00",
+      "time_cet": "10:00",
+      "cur": "EUR",
+      "title": "Eurozone Manufacturing PMI",
+      "forecast": "52.4",
+      "previous": "52.4"
+    },
+    {
+      "time_et": "04:30",
+      "time_cet": "10:30",
+      "cur": "GBP",
+      "title": "UK Manufacturing PMI",
+      "forecast": "52.8",
+      "previous": "52.8"
+    }
+  ],
+  "generated_at": "2026-11-02T17:27:05+01:00"
+}
