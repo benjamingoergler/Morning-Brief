@@ -6,19 +6,19 @@
       "url": "https://features.financialjuice.com/2026/11/02/morning-juice-europe-session-prep-678/",
       "date": "2026-11-02",
       "title": "Morning Juice – Europe Session Prep",
-      "summary": "• Les États du Golfe craignent qu'une attaque américano-israélienne contre l'Iran n'intensifie la guerre régionale.\n• La banque centrale chinoise a lancé des opérations quotidiennes de rachat inversé, ancrant un nouveau cadre de liquidité.\n• Les régulateurs financiers chinois rencontreront les banques pour soutenir le marché des capitaux et enrayer la chute des actions.\n• Le pétrole a baissé après des rumeurs selon lesquelles Trump privilégie la diplomatie avant de frapper l'Iran post-élections.\n• Trump a déclaré qu'un accord commercial États-Unis-Canada est \"très proche\" après des discussions avec le Premier ministre Carney.\n• Wall Street se prépare à la plus grande refonte des directives d'émission de bons du Trésor américain depuis début 2024.\n• Les autorités japonaises sont prêtes à intervenir si les mouvements du marché des devises deviennent désordonnés."
+      "summary": "• Les États du Golfe craignent une guerre plus destructrice suite à une attaque US-Israël contre l'Iran, les laissant gérer les conséquences.\n• La banque centrale chinoise a lancé des opérations de repo inversé quotidiennes, ancrant un nouveau cadre de liquidité.\n• Les régulateurs financiers chinois rencontreront banques et firmes de titres pour soutenir le marché des capitaux et enrayer la chute des actions.\n• Le pétrole a baissé après que Trump ait privilégié la diplomatie avec l'Iran avant de décider de nouvelles frappes post-élections.\n• Trump a déclaré qu'un accord commercial US-Canada est \"très proche\", les deux parties travaillant à un résultat mutuellement bénéfique.\n• Wall Street se prépare à une refonte majeure des directives d'émission des US Treasuries depuis début 2024, après l'intervention de Scott Bessent."
     },
     "wrap": {
-      "url": "https://features.financialjuice.com/2026/10/30/tech-rout-hits-stocks-as-ai-spending-concerns-intensify-us-market-wrap/",
-      "date": "2026-10-30",
-      "title": "Tech Rout Hits Stocks as AI Spending Concerns Intensify – US Market Wrap",
-      "summary": "• Wall Street a subi une correction, la vente massive de titres technologiques soulevant des inquiétudes sur la frénésie de l'IA.\n• Des résultats technologiques décevants ont provoqué la pire baisse boursière depuis juin, le NDX chutant de 3,5%.\n• Intel a connu sa plus forte baisse en quatre décennies; Amazon a reculé de 1,4% sur des plans de dépenses accrues.\n• Le S&P 500 a perdu 1,8%, tombant sous sa moyenne mobile 100 jours, signe d'une faiblesse technique.\n• Un piratage record de Binance a déclenché une vague de ventes sur les cryptos, ravivant les craintes de sécurité.\n• La hausse des prix du pétrole a accru l'anxiété des traders, craignant une reprise des frappes américaines contre l'Iran."
+      "url": "https://features.financialjuice.com/2026/11/02/nasdaq-100-enters-correction-as-chipmaker-selloff-offsets-oil-slump-us-market-wrap/",
+      "date": "2026-11-02",
+      "title": "Nasdaq 100 Enters Correction as Chipmaker Selloff Offsets Oil Slump – US Market Wrap",
+      "summary": "• Les actions US ont subi une pression due à une nouvelle vente de semi-conducteurs, malgré la baisse des prix du pétrole.\n• Le WTI s'est établi près de 96,50 $ le baril; la plupart des entreprises du S&P 500 ont avancé.\n• Le Nasdaq 100 a chuté de 10% depuis son pic d'octobre, entrant en correction technique; l'indice des semi-conducteurs a baissé de 12%.\n• Apple a fléchi avant ses résultats; les Treasuries à long terme ont surperformé, signalant une prudence.\n• La baisse des prix de l'énergie a influencé les marchés avant les élections de mi-mandat US, espérant une détente géopolitique.\n• Le président iranien Pezeshkian a reçu plus d'autorité pour les négociations de paix, renforçant les espoirs diplomatiques."
     },
     "mj_us": {
       "url": "https://features.financialjuice.com/2026/11/02/morning-juice-us-session-prep-2nd-november/",
       "date": "2026-11-02",
       "title": "Morning Juice – US Session Prep (2nd November)",
-      "summary": "• Les bons du Trésor américain à long terme ont enregistré des gains modestes, tandis que les courtes échéances étaient stables.\n• Le sentiment de risque s'est amélioré sur les marchés, contribuant à la stabilité des obligations d'État.\n• Le Brent a reculé de son plus haut de la semaine dernière, s'échangeant autour de 109 $ le baril, soutenant les obligations."
+      "summary": "• Les Treasuries US à long terme ont enregistré des gains modestes, reflétant une amélioration du sentiment de risque général.\n• Les échéances plus courtes des Treasuries US sont restées relativement stables, contrastant avec les gains des obligations longues.\n• L'amélioration du sentiment de risque sur les marchés a influencé la performance différenciée des Treasuries US.\n• Le Brent a reculé de son plus haut de la semaine dernière, s'échangeant désormais autour de 109 $ le baril.\n• La baisse du prix du Brent à environ 109 $ le baril a apporté un soutien notable aux obligations d'État."
     }
   },
   "dockets": [
@@ -26,7 +26,7 @@
       "time_et": "02:00",
       "time_cet": "08:00",
       "cur": "EUR",
-      "title": "German Real Retail Sales",
+      "title": "German Real Retail Sales YoY",
       "forecast": "-0.2%",
       "previous": "-0.4%"
     },
@@ -63,5 +63,5 @@
       "previous": "52.8"
     }
   ],
-  "generated_at": "2026-11-02T17:27:05+01:00"
+  "generated_at": "2026-11-02T23:13:02+01:00"
 }
