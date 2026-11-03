@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-03",
+  "date_fr": "Mardi 3 novembre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/11/03/morning-juice-europe-session-prep-679/",
+      "date": "2026-11-03",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• La banque centrale australienne a relevé son taux directeur à un plus haut de 18 ans après un vote partagé. • Le président iranien Pezeshkian et Donald Trump ont fait allusion à des progrès dans les pourparlers de paix. • Le Brent s'est stabilisé après une chute de près de 8%, les pourparlers de paix apaisant les tensions. • Le yuan offshore a reculé après que la PBOC a augmenté le ratio de réserves de change dès le 15 novembre. • Palantir a publié des prévisions trimestrielles indiquant un ralentissement potentiel de la croissance des ventes."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/11/02/nasdaq-100-enters-correction-as-chipmaker-selloff-offsets-oil-slump-us-market-wrap/",
+      "date": "2026-11-02",
+      "title": "Nasdaq 100 Enters Correction as Chipmaker Selloff Offsets Oil Slump – US Market Wrap",
+      "summary": "• Les actions US sous pression, la vente de semi-conducteurs éclipsant la baisse des prix du pétrole. • Le Nasdaq 100 a chuté de 10% depuis son pic d'octobre, entrant en correction technique. • L'indice des semi-conducteurs a prolongé sa baisse sur trois jours à 12%. • Le brut West Texas Intermediate s'est établi près de 96,50 $ le baril. • Apple a faibli avant ses résultats; les Treasuries à long terme ont surperformé. • Les espoirs de progrès diplomatiques entre Washington et Téhéran ont soutenu le sentiment général."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/11/03/morning-juice-us-session-prep-3rd-november-2/",
+      "date": "2026-11-03",
+      "title": "Morning Juice – US Session Prep (3rd November)",
+      "summary": "• Les US Treasuries sont restés globalement inchangés, surperformant leurs homologues européens. • Les investisseurs attendent les résultats des élections de mi-mandat américaines de mardi. • L'incertitude demeure quant à la bascule démocrate de la Chambre et du Sénat. • La réaction de Donald Trump et des marchés aux résultats des élections reste incertaine."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "02:30",
+      "time_cet": "08:30",
+      "cur": "CHF",
+      "title": "Swiss CPI",
+      "forecast": "YoY: 1.2%, MoM: 0%",
+      "previous": "YoY: 1%, MoM: 0%"
+    }
+  ],
+  "generated_at": "2026-11-03T15:32:48+01:00"
+}
