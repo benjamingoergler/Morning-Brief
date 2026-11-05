@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-05",
+  "date_fr": "Jeudi 5 novembre 2026",
+  "articles": {
+    "mj_eu": {
+      "url": "https://features.financialjuice.com/2026/11/05/morning-juice-europe-session-prep-681/",
+      "date": "2026-11-05",
+      "title": "Morning Juice – Europe Session Prep",
+      "summary": "• L'effondrement du Parti Républicain aux élections de mi-mandat a provoqué des critiques, révélant de profondes fissures internes et ouvrant la voie aux espoirs de 2028.\n• Le Brent a baissé après une chute de plus de 8% la veille, les investisseurs pariant sur une accélération de la fin du conflit au Moyen-Orient.\n• Les stratèges de Wall Street révisent les prévisions d'emprunt US pour l'année prochaine suite aux signaux du Trésor sur les tailles d'enchères.\n• Le Trésor US a modifié ses directives de vente d'obligations, suggérant de plus grandes ventes de dette à court terme et des réductions sur le long terme.\n• La hausse des taux de la RBA pourrait marquer la fin de la campagne de resserrement la plus agressive du monde développé, des tensions au sein du conseil sont rapportées."
+    },
+    "wrap": {
+      "url": "https://features.financialjuice.com/2026/11/04/stocks-and-bonds-rally-after-us-election-as-oil-prices-slide-us-market-wrap/",
+      "date": "2026-11-04",
+      "title": "Stocks and Bonds Rally After US Election as Oil Prices Slide – US Market Wrap",
+      "summary": "• Le balayage Démocrate au Congrès, soulignant l'opposition au conflit iranien, a accentué la baisse des prix du pétrole, propulsant actions et obligations.\n• Le S&P 500 a gagné 1,6%, sa plus forte hausse depuis août, avec Microsoft, Amazon et Apple en tête des mégacaps à plus de 5%.\n• Les rendements du Trésor ont chuté sur toute la courbe, et le DXY dollar a connu sa plus forte baisse en deux mois.\n• Le Bitcoin a dépassé les 80 000 $, tandis que le Brent a chuté de plus de 10%, passant sous les 100 $.\n• Les investisseurs ont largement ignoré l'incertitude politique, confiants dans les moteurs de croissance US comme la consommation et l'IA.\n• L'impasse politique pourrait limiter les dépenses gouvernementales, réduisant la pression sur les marchés obligataires et soutenant les actions."
+    },
+    "mj_us": {
+      "url": "https://features.financialjuice.com/2026/11/05/morning-juice-us-session-prep-5th-november-2/",
+      "date": "2026-11-05",
+      "title": "Morning Juice – US Session Prep (5th November)",
+      "summary": "• Le DXY dollar se stabilise alors que les Treasuries enregistrent un deuxième jour de gains, les rendements de référence atteignant leur plus bas depuis le 10 septembre.\n• Les demandes d'allocations chômage US hebdomadaires sont prévues à 196k (Initial) et 1.71M (Continued), contre 194k et 1.701M précédemment.\n• Le Fed's Hammack s'exprimera sur les stablecoins et les devises refuges lors de la conférence « The SNB and Its Watchers 2026 ».\n• Le Fed's Barkin participera à une séance de questions-réponses modérée au sommet des CFO 2026, organisé par les Feds de Richmond et Atlanta.\n• Le gouverneur de la BoC, Macklem, et le sous-gouverneur Rogers comparaîtront devant le Comité sénatorial permanent sur les banques à Ottawa.\n• Plusieurs membres de la BCE (Lane, Lagarde, Nagel) sont prévus pour diverses interventions et panels tout au long de la journée."
+    }
+  },
+  "dockets": [
+    {
+      "time_et": "02:00",
+      "time_cet": "08:00",
+      "cur": "EUR",
+      "title": "German Industrial Orders MoM",
+      "forecast": "4.5%",
+      "previous": "-10.6%"
+    },
+    {
+      "time_et": "05:00",
+      "time_cet": "11:00",
+      "cur": "EUR",
+      "title": "Eurozone PPI YoY",
+      "forecast": "10.6%",
+      "previous": "8.2%"
+    },
+    {
+      "time_et": "07:00",
+      "time_cet": "13:00",
+      "cur": "GBP",
+      "title": "BoE Interest Rate Decision",
+      "forecast": "4%",
+      "previous": "3.75%"
+    },
+    {
+      "time_et": "07:00",
+      "time_cet": "13:00",
+      "cur": "GBP",
+      "title": "BoE Rate Statement",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "generated_at": "2026-11-05T15:52:14+01:00"
+}
